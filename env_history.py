@@ -62,8 +62,6 @@ class EnvironmentHistory:
 
 def _get_base_query(base_query: str, memory: List[str]) -> str:
     query = base_query
-
-    
     if len(memory) > 0:
         query += '\n\nYour memory for the task below:'
         for i, m in enumerate(memory):

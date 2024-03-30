@@ -36,9 +36,3 @@ def get_chat(prompt, model, seed, temperature=0.0, max_tokens=256, stop_strs=Non
     if debug:
         print(response.system_fingerprint)
     return response.choices[0].message.content
-
-
-if __name__ == "__main__":
-    print(client.api_key[-4:])
-    response = get_chat("You are a poetic assistant, skilled in explaining complex programming concepts with creative flair. Compose a poem that explains the concept of recursion in programming.", "gpt-3.5-turbo", 42, debug=True)
-    print(response)

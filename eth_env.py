@@ -19,9 +19,7 @@ GAS_PRICE = 70
 GAS_FEE = GAS_LIMITS * GAS_PRICE * 1e-9  
 EX_RATE = 4e-3  
 
-
 SMA_PERIODS = [5, 10, 15, 20, 30]
-
 
 class ETHTradingEnv:
     def __init__(self, args):
@@ -59,7 +57,6 @@ class ETHTradingEnv:
             parsed_time = parsed_time - timedelta(days=1)
         year, month, day = parsed_time.year, parsed_time.month, parsed_time.day
 
-        
         ma5 = next_day['SMA_5']
         ma10 = next_day['SMA_10']
         ma15 = next_day['SMA_15']
@@ -90,7 +87,6 @@ class ETHTradingEnv:
             macd_signal = 'buy'
         elif macd > macd_signal_line:
             macd_signal = 'sell'
-
         
         txn_stat = self.txn_stat[self.txn_stat['date'] == parsed_time]
         if txn_stat.empty:
@@ -108,7 +104,6 @@ class ETHTradingEnv:
             total_gas_used = txn_stat['total_gas_used'].values[0]
             successful_txns = txn_stat['successful_transactions'].values[0]
 
-        
         news_path = f"{DIR_NEWS}/{year}-{str(month).zfill(2)}-{str(day).zfill(2)}.json"
         if not os.path.exists(news_path):
             news = 'N/A'
@@ -123,9 +118,7 @@ class ETHTradingEnv:
             'roi': close_roi,
             'today_roi': today_roi,
             'technical': {
-                
                 'macd_signal': macd_signal,
-                
             },
             'txnstat': {
                 'num_transactions': num_txns,
@@ -211,23 +204,3 @@ class ETHTradingEnv:
     
     def close(self):
         pass
-
-
-if __name__ == "__main__":
-    
-    
-    args = Namespace(starting_date='2024-01-01', ending_date='2024-02-01')
-    env = ETHTradingEnv(args)
-    ACTIONS = np.arange(-1, 1.1, 0.2).tolist()
-    
-    state, reward, done, info = env.reset()
-    print(f"init state: {state}, info: {info}, step: {env.current_step} \n")
-    while not done:
-        action = random.choice(ACTIONS)
-        state, reward, done, info = env.step(action)
-        print(f"Action: {action}")
-        print_state = {k: v for k, v in state.items() if k != 'news'}
-        
-        print(f"State: {print_state}, reward: {reward}, done: {done}, info: {info} \n")
-    roi = state['roi']
-    print(f"ROI: {roi*100:.2f}%")
