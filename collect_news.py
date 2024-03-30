@@ -24,21 +24,17 @@ class NewsBase:
     def set_newslist(self, newslist):
         self.newslist = newslist
 
-    # Updated method to include start_date and end_date parameters
     def find_news(self, keyword, start_date, end_date, language='English', category='news'):
         if language == 'English':
             if category == 'news':
                 return self.find_news_english_news(keyword, start_date, end_date)
             else:
-                # Potential for expansion with additional conditions
                 return self.find_news_english_news(keyword, start_date, end_date)
 
-
-    # Updated to accept start_date and end_date
     def find_news_english_news(self, keyword, start_date, end_date):
         google_news = GNews()
         google_news.max_results = 1000
-        # google_news.country = 'United States'
+        
         google_news.language = 'english'
         google_news.start_date = start_date
         google_news.end_date = end_date
@@ -56,7 +52,7 @@ class NewsBase:
     def get_news_title(self, index, language='en'):
         try:
             title = self.newslist[index]['title']
-            # print(title)
+            
             return title
         except Exception as e:
             print(f"Error: {e}")
@@ -65,14 +61,14 @@ class NewsBase:
     def get_news_time(self, index, language='en'):
         try:
             time = self.newslist[index]['published date']
-            # print(time)
+            
             return time
         except Exception as e:
             print(f"Error: {e}")
             return None
 
     def get_news_content(self, url, language='en'):
-        # Top import failed since it's not installed
+        
         if 'newspaper' not in (sys.modules.keys() & globals()):
             print("\nget_full_article() requires the `newspaper` library.")
             print(
@@ -84,16 +80,16 @@ class NewsBase:
             article.parse()
         except Exception as error:
             logging.error(error)
-            # We can try other substitute methods here
+            
             return None
         return article.text
 
 
 def get_news_from_internet(keyword, date_range, language='English', category='news'):
-    start_date, end_date = date_range  # Unpack the date range tuple
+    start_date, end_date = date_range  
     newsbase = NewsBase()
     newsbase.set_keyword(keyword)
-    # Updated to include start_date and end_date in the call
+    
     newsbase.set_newslist(newsbase.find_news(keyword, start_date, end_date, language, category))
     news_list_len = len(newsbase.get_newslist())
     news_list = []

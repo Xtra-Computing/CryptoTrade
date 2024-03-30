@@ -6,8 +6,8 @@ api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key)
 from tenacity import (
     retry,
-    stop_after_attempt, # type: ignore
-    wait_random_exponential, # type: ignore
+    stop_after_attempt, 
+    wait_random_exponential, 
 )
 
 from typing import Optional, List
@@ -30,7 +30,7 @@ def get_chat(prompt, model, seed, temperature=0.0, max_tokens=256, stop_strs=Non
     response = client.chat.completions.create(model=model,
     messages=messages,
     max_tokens=max_tokens,
-    # stop=stop_strs,
+    
     seed=seed,
     temperature=temperature)
     if debug:
@@ -40,16 +40,5 @@ def get_chat(prompt, model, seed, temperature=0.0, max_tokens=256, stop_strs=Non
 
 if __name__ == "__main__":
     print(client.api_key[-4:])
-
-    # response = client.chat.completions.create(
-    # model="gpt-3.5-turbo",
-    # messages=[
-    #     {"role": "system", "content": "You are a poetic assistant, skilled in explaining complex programming concepts with creative flair."},
-    #     {"role": "user", "content": "Compose a poem that explains the concept of recursion in programming."}
-    # ]
-    # )
-
-    # print(response.choices[0].message.content)
-
-    response = get_chat("You are a poetic assistant, skilled in explaining complex programming concepts with creative flair. Compose a poem that explains the concept of recursion in programming.", "gpt-3.5-turbo", 6216, debug=True)
+    response = get_chat("You are a poetic assistant, skilled in explaining complex programming concepts with creative flair. Compose a poem that explains the concept of recursion in programming.", "gpt-3.5-turbo", 42, debug=True)
     print(response)
