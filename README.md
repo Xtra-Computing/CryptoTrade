@@ -1,7 +1,3 @@
-# Abstract
+# Files
 
-The utilization of Large Language Models (LLMs) in financial trading has primarily been concentrated within the stock market, aiding in economic and financial decisions. Yet, the unique opportunities presented by the cryptocurrency market, noted for its on-chain data's transparency and the critical influence of off-chain signals like news, remain largely untapped by LLMs. This work aims to bridge this gap through the development of an LLM trading agent, CryptoTrade, which uniquely combines the analysis of on-chain and off-chain data, thereby offering a comprehensive market overview to decide trading actions. CryptoTrade incorporates a reflective mechanism specifically engineered to refine its daily trading decisions by analyzing the outcomes of prior trading decisions. This reflective approach aims to capitalize on the insights gained from both data types for more informed and strategic investment decision-making in the volatile cryptocurrency market. This research makes two significant contributions. Firstly, it broadens the applicability of LLMs to the domain of cryptocurrency trading. Secondly, it presents an innovative approach to amalgamating on-chain and off-chain data sources to offer a more sophisticated insight into cryptocurrency market dynamics. And through extensive experiments, CryptoTrade has demonstrated superior performance in maximizing returns when compared to traditional trading strategies.
-
-# Acknowledgement
-
-Some parts of the code are adapted from [Reflexion](https://github.com/noahshinn/reflexion)
+`run_agent.sh` main experiments

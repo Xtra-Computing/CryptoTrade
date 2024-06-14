@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Ethereum (ETH) Regains $1,820 Fueled by These Triggers: Details - U.Today",
+        "summary": "  Ethereum (ETH) has surged 5.93% in the past 24 hours, reaching $1,821, driven by a combination of factors. The main reason is the growth of Bitcoin (BTC), which recently recaptured the $28,000 level after news of major Wall Street companies launching a crypto exchange. This has led to a wave of price pumps across the crypto market, with Ethereum and other cryptos following suit. Additionally, the entrance of Wall Street players into the crypto space, such as Fidelity and Charles Schwab, may be fueling the sudden spike in prices. However, the SEC's recent charges against Binance and Coinbase have raised concerns about regulatory scrutiny in the crypto industry."
+    },
+    {
+        "title": "AWS Nitro Enclaves for running Ethereum validators \u2013 Part 1 | Amazon Web Services - AWS Blog",
+        "summary": "  AWS Nitro Enclaves are used to securely run Ethereum validator nodes, ensuring that validators behave honestly and have 32 ETH per validator to deposit as collateral. The solution uses Nitro Enclaves to provide an isolated compute environment to protect and securely process highly sensitive data like personally identifiable information (PII) or private keys. Web3Signer runs in the Nitro Enclave and signs attestations and block proposals using the plaintext validator private keys that are loaded into the enclave. The validator private keys are encrypted using a KMS key, and DynamoDB is used to store the encrypted keys. The solution also provides high availability by deploying Web3Signer instances in an Auto Scaling group across multiple Availability Zones. Additionally, the solution covers the area in the architecture diagram marked in red, which depicts the components deployed inside the EC2 instances and the general communication flow with external AWS services like DynamoDB and AWS KMS."
+    },
+    {
+        "title": "Will Ethereum Be a Trillion-Dollar Cryptocurrency by 2024? - The Motley Fool",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum, the second-largest cryptocurrency, has a strong developer community and is leading in decentralized applications (dApps) and non-fungible tokens (NFTs). However, its slow transaction speed and high costs have been a concern. Ethereum is working on updates to improve these issues, such as switching to proof-of-stake and using layer 2 solutions like rollups. These upgrades could make Ethereum faster and cheaper, potentially quadrupling its market value to reach $1 trillion. While the economic backdrop may be uncertain, Ethereum's bright outlook and planned upgrades make it a promising investment."
+    },
+    {
+        "title": "Ordinals inspire a new type of Ethereum collectible called Ethscriptions - Forkast News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 New collectible type on Ethereum called Ethscriptions, inspired by Ordinals on Bitcoin.\n\n\ud83d\udcb0 Ethscriptions allow for storing images, files, or text under 96 kilobytes on-chain using any type of Ethereum transaction. Cheaper than using smart contracts' storage.\n\n\ud83d\udd25 Ethscriptions have gained popularity with the first collection called Ethereum Punks selling out quickly and being wrapped for trading on OpenSea. Over $260k in ETH traded for Ethscriptions so far.\n\n\ud83e\udd1d DeGods biggest whale, FreeLunchCapital, revealed to be behind millions of dollars worth of NFT purchases across various projects.\n\n\ud83c\udfa8 CryptoPunk #8611 was burned and minted as an Ordinal on Bitcoin after being purchased by 150 members of the Bitcoin Bandits.\n\n\ud83d\udcb0 Sotheby's Grails Part II auction sold 37 generative"
+    },
+    {
+        "title": "3 reasons why Ethereum's market cap dominance is on the rise - Cointelegraph",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum's market cap dominance is increasing due to its smart contract and decentralized application (DApp) network leadership.\n\nEther's market capitalization share has grown from 18% in July 2021 to 20% currently, with a 40.6% market share in comparison to its closest competitor, BNB.\n\nEthereum's TVL market share has declined from 70.5% in June 2021 to 49.5% in May 2022, but it quickly regained a 58% market share following the Terra ecosystem collapse.\n\nDespite the emergence of DApps on other blockchains, Ethereum's leadership has remained uncontested over the past 12 months.\n\nEthereum has the highest number of active developers, surpassing 1,870, and over 700,000 validators, with 99% of the balances locked in staking.\n\nEthereum's"
+    },
+    {
+        "title": "Bitcoin Custody Firm Casa Rolls out Ethereum Support - CoinDesk",
+        "summary": "  Casa, a Bitcoin custody firm, has rolled out support for Ethereum. The company aims to provide software that makes it easier for individuals to hold their own cryptocurrency keys, avoiding the risks associated with centralized custodians."
+    },
+    {
+        "title": "Ethereum Founder Vitalik Buterin Has Ties to SEC Darling Prometheum\u2014Here's How - Yahoo Finance",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has ties to SEC-darling Prometheum through his connection to Wanxiang Blockchain Labs. Buterin served as the non-profit's chief scientist and was involved in the formation of Prometheum through a strategic partnership and joint development agreement. Despite Prometheum's termination of the agreement with Shanghai Wanxiang Blockchain in 2021, the company remains committed to being an American-born and controlled entity. The connection between Buterin and Prometheum has raised eyebrows in the digital assets community, with some questioning the regulatory compliance of crypto firms."
+    },
+    {
+        "title": "Uncovering Ethereum's close ties to Chinese money - Protos",
+        "summary": "  Ethereum has close ties to China, with evidence of Chinese influence found through FOIA requests, court cases, and online archives. Vitalik Buterin personally ensured a Chinese language version of the Ethereum whitepaper was published, and he was interested in learning Chinese. The Ethereum Foundation hosted a conference in Shanghai, and Chinese miner Chandler Guo played an important role in the Ethereum community. Ethereum Foundation executive director Ming Chan was fired after clashing with board members, and the Bank of China chose Ethereum for tokenized structured notes. SEC director William Hinman's connection to Chinese and pro-Ethereum money was revealed through FOIA requests, and he met with parties related to mining hardware firm Canaan. Hinman returned to work for Simpson Thacher and collected more money after making a pro-Ethereum speech."
+    },
+    {
+        "title": "Ethereum Founder's Connection with Prometheum Uncovered - The Crypto Basic",
+        "summary": "  Ethereum founder Vitalik Buterin has been revealed to have close ties with Wanxiang Blockchain Labs, a non-profit research institute funded by Wanxiang Holdings, one of the owners of Prometheum. Buterin is listed as a co-founder of Wanxiang Blockchain Labs and is also the Chief Scientist at the organization. Additionally, Wanxiang Holdings is one of the owners of Prometheum, with a major stake in the company. This connection has raised speculation about potential collusion between the SEC and Ethereum, as the SEC has been protecting two crypto entities with close ties to Buterin: Ethereum and Prometheum. The recent discovery has fueled existing theories of a connection between the SEC and Ethereum, particularly as it has uncovered that the SEC appears to have been protecting two crypto entities with close ties to Buterin."
+    },
+    {
+        "title": "How Many ETH to Become a Millionaire by 2025 - Altcoin Buzz",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) has the potential to make investors rich, with the potential to reach $6,000 in the next bull run.\n\nHistorical performance shows ETH's price has been relatively stable, with a high of $4,815 in 2021.\n\nThe current price of $1,810 is considered a \"crucial support zone,\" with a potential drop to $1,478 if it fails to hold.\n\nTechnical analysis suggests ETH could reach $2,133 if it stays above $1,673.\n\nThe article argues that Ethereum has a developed ecosystem and is likely to surpass its all-time high in the next bull run.\n\nTo become a millionaire, an investor would need approximately 166.67 ETH tokens at a price of $6,000.\n\nThe article concludes that Ethereum has a promising future and could be a good investment opportunity for those looking to become millionaires"
+    },
+    {
+        "title": "Arpa Network Goes Live on Ethereum Mainnet - CoinDesk",
+        "summary": "  Arpa Network goes live on Ethereum mainnet, CoinDesk's Consensus 2024 event announced. Register now at consensus.coindesk.com."
+    },
+    {
+        "title": "AWS Nitro Enclaves for running Ethereum validators \u2013 Part 2 | Amazon Web Services - AWS Blog",
+        "summary": "  In this article, we will explore how to integrate Web3Signer with validator clients, securely bootstrapping the process, and exposing the Web3Signer HTTPS API over vsock. We will also discuss potential attack vectors and tools for tunneling TLS connections over vsock.\n\nIntegration with Web3Signer for Ethereum validation:\n\nTo integrate with Web3Signer, validator clients need to support connection to BLS remote signers (EIP-3030). Popular validator clients such as Lighthouse, Prysm, and Teku already support remote signing. Multiple validator clients can connect to the same Web3Signer instances behind a load balancer. It is crucial that the validator clients not be configured to use the same validator keys, which can result in the validator being slashed. Validator client slashing protection is not effective when multiple validator clients are running simultaneously.\n\nSecure bootstrapping of Web3Signer inside a Nitro Enclave:\n\nTo run a Web3Signer service inside a Nitro Enclave in a secure fashion, the following two config artifacts are required:\n\n1."
+    },
+    {
+        "title": "Ethereum Price Just Reversed and $1,920 is Imminent, Here\u2019s Why - NewsBTC",
+        "summary": "  Ethereum price is up 4% and trading above $1,770, with bullish momentum building. The price is consolidating gains above the $1,770 resistance level and is supported by a major bullish trend line. If Ethereum can clear the $1,820 resistance, it could rise further to $1,920 and potentially even reach $2,000. However, if it fails to clear $1,820, a downside correction could occur, with support at $1,770 and potentially lower to $1,740 or $1,700. Technical indicators, such as MACD and RSI, are losing momentum in the bullish zone, but the RSI is still in the overbought zone. Major support levels are at $1,740 and $1,700, while major resistance levels are at $1,820 and potentially higher at $2,000."
+    },
+    {
+        "title": "Vitalik Buterin Releases Fundamental New Text About Ethereum's Future - U.Today",
+        "summary": "  Vitalik Buterin has written a new article discussing the technical challenges of enhancing interoperability between Ethereum's Layer 1 (L1) and Layer 2 (L2) solutions. He proposes a novel architecture called \"asset/keystore separation\" to address two issues: users needing to switch between multiple accounts without many transactions, and handling counterfactual addresses (addresses not yet registered on-chain). Buterin suggests a light or heavy version of this system, with different proof schemes to optimize costs. In the long term, aggregating proofs through bundling operations can reduce costs, and Layer 2 solutions should minimize the latency of reading the Layer 1 state. Buterin believes Ethereum is moving towards better cross-chain interactions, asset/keystore separation, and a stronger focus on privacy."
+    },
+    {
+        "title": "Ethscriptions: Ethereum's Take on Bitcoin Inscriptions - Bybit Learn",
+        "summary": "  Ethscriptions: Ethereum's Take on Bitcoin Inscriptions - Bybit Learn\n\n* Grab up to 5,000 USDT in rewards\n* Instant 20 USDT coupon\n* Earn more bonuses when you sign up today"
+    },
+    {
+        "title": "ARPA Network\u2019s Mainnet Is Now Live on Ethereum - The Defiant - DeFi News",
+        "summary": "  ARPA Network, a decentralized secure computation network, has launched on Ethereum's mainnet. This follows two months of dedicated work since its TestNet launch and represents a major Q2 milestone. The MainNet launch marks the culmination of ARPA Network's commitment to fair, secure, and privacy-preserving blockchain ecosystems.\n\nKey features of ARPA Network include:\n\n* Random Number Generator for projects like lotteries, gaming, or token distributions\n* Multi-party computation tools\n* Decentralized voting systems\n* Decentralized access control tool for shared resources\n* Decentralized and privacy-preserving identity management systems\n* Signature middleware for secure atomic swaps\n\nARPA Network is also initiating a 6-month community pool staking program, with plans to allocate 1.5 million tokens as monthly rewards. This program aims to enhance community participation and foster a more prosperous ecosystem.\n\nDevelopers can now build decentralized applications using ARPA Network's power, and the network is actively pursuing integration with other EVM-compatible chains like"
+    },
+    {
+        "title": "Bitcoin Price Prediction: Tradecurve a safe haven as Ethereum sell off continues - Finbold - Finance in Bold",
+        "summary": "  Bitcoin (BTC) and Ethereum (ETH) are facing a selling spree, and investors are looking for a safe haven. Tradecurve, a new platform, is offering a solution by providing a secure alternative for investment. The platform aims to redefine online trading by combining centralized and decentralized exchanges. It offers a single account for access to various markets, including forex, stocks, commodities, and cryptocurrencies. The platform believes in simplicity and accessibility, with no intrusive Know Your Customer (KYC) procedures and ultra-competitive fees and spreads.\n\nTradecurve is also promoting its native token, TCRV, which has already seen a significant increase in price from $0.015 to $0.018. Experts predict that the token will skyrocket to $0.025, with a projected 100x growth in just a few months. Investors can buy TCRV tokens during the platform's 4th live presale.\n\nErich Garcia Cruz, a Bitcoin (BTC) enthus"
+    },
+    {
+        "title": "Here's Why Paradigm's New Ethereum Node Is Special - DailyCoin",
+        "summary": "  Paradigm, a research-based investment firm, has released Reth, a new Ethereum client written in Rust. Reth offers faster syncing times than other popular clients like Geth and Nethermind, syncing the chain from genesis to the latest block in 50 hours with a database size of around 1.92 TB. Reth also supports Ethereum-based chains such as Ethereum mainnet, Goerli, Sepolia, and the Ethereum Foundation's testnets. However, Geth still dominates the Ethereum client space, and Reth is currently unaudited software in its early stages. Despite this, Reth's contribution to Ethereum client diversity is important for ensuring the network's robustness."
+    },
+    {
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: BTC confirms the shifting sentiment in the crypto ecosystem - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin (BTC) price is up 12.29% this week and could reach $35,000 if it sustains its momentum. Ethereum (ETH) price is reaping the gains from BTC's rally and could reach $1,941 soon. Ripple (XRP) price is trading with a bullish bias but faces resistance from a supply zone between $0.528 and $0.520."
+    },
+    {
+        "title": "Ethereum Price Prediction as ETH BOOMS 6%...What happened to ETH? - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Ethereum price surged 6% amid market consolidation, with buying power accumulating at support levels. This bullish sentiment is driven by increased investor confidence in Ethereum's potential. The current price stands at $1,865, with a possible prediction of reaching $2,000 if Bitcoin continues its upward trend."
+    },
+    {
+        "title": "Zora Launches Layer-2 NFT Network to Battle Ethereum Gas Fees - Decrypt",
+        "summary": "  Zora, an NFT minting platform, launched its own layer-2 scaling network, Zora Network, to lower costs and improve the user experience for artists and creators. The network is secured by the Ethereum blockchain and already supported by over 35 platforms. Zora aims to challenge industry incumbents with new features and products, and has raised $50 million in funding. The company generates revenue through sales of development tools and has had around 130,000 users so far. Zora has been the base for high-profile NFT drops and has the long-term ambition to create a DAO."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin tops $28,500; Ethereum above $1,800; Cardano, Polygon rise up to 8% - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto prices are up today, with Bitcoin reaching $28,500 and Ethereum at $1,800. Other altcoins are also seeing gains, with Cardano up 8%, Polygon up 6%, and Litecoin up 4%. The global cryptocurrency market cap is at $1.13 trillion, with total trading volumes up 60%. The technical analysis suggests that Polkadot (DOT) may break out of its descending channel and reach $5.5 levels. However, traders are awaiting comments from US Fed chair Jerome Powell later today."
+    },
+    {
+        "title": "Nike teases 'Airphoria' NFT sneaker on Fortnite: Nifty Newsletter, June 14\u201320 - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nNike teased a new NFT sneaker collaboration with Fortnite, while Snoop Dogg is using NFTs to give fans access to behind-the-scenes content during his tour. An NFT artwork by Dmitri Cherniak sold for $6.2 million at an auction, and artist Kenny Schachter discussed the potential of blockchain art beyond the hype. Additionally, a new project called Ethscriptions is bringing a new way to mint NFTs to Ethereum."
+    },
+    {
+        "title": "Polygon to Transition PoS Chain to zkEVM Validium: Here's How It Works - DailyCoin",
+        "summary": "  Polygon, a popular Ethereum layer-2 scaling solution, is transitioning its Proof-of-Stake (PoS) chain to a zero-knowledge Ethereum Virtual Machine (zkEVM) validium. This upgrade aims to integrate zero-knowledge technology into the PoS chain, while preserving low fees and high scalability. The transition is expected to have little to no impact on users and developers, and the existing MATIC tokenomics will not change. The move represents another step towards greater adoption of crypto technology and scaling Ethereum."
+    },
+    {
+        "title": "News Explorer \u2014 Zora Launches Layer-2 NFT Network to Battle Ethereum Gas Fees - Decrypt",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nZora, an NFT platform, launches layer-2 scaling network to reduce gas fees on Ethereum. Network is secured by Ethereum, built on Optimism tech, and supported by 35+ platforms. Minting costs reduced by 25 times compared to Ethereum."
+    },
+    {
+        "title": "Vitalik Shares Views on Interoperability Between L-2 and L-1 - Crypto Times",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, shared a vision for the future of Ethereum, including interoperability between Layer 1 and Layer 2, wallet security, and privacy. He proposed the use of multisig wallets and cross-chain proofs, such as ZK-SNARKs or Verkle proofs, to enhance fund security and reduce latency. Buterin also emphasized the importance of placing keystores on either Layer 1 or high-security ZK-rollup Layer 2 solutions. He encouraged the Ethereum community to prioritize privacy preservation and move towards privacy-preserving solutions. These advancements have the potential to revolutionize various industries and solidify Ethereum's position as a leading blockchain platform."
+    },
+    {
+        "title": "5000x Profit Explosion! Ethereum Whale Awakens As Millionaire Game Coin (MG) Set to Mint Monthly Millionaires - Analytics Insight",
+        "summary": "  An 8-year-old Ethereum whale has awakened with an initial investment of $2,480 made in 2015, now worth over $14 million, representing a 5,000x increase. A new project, MillionaireGame Coin (MG), is creating a meme coin to mint a millionaire every month through a smart contract-operated game. The project is in stage two of its presale, with a 18% price increase in recent days. MG aims to become the next influential millionaire's club in the Ethereum network and offers early access to life-changing wealth. Join the project's WhatsApp and Telegram community for regular updates."
+    },
+    {
+        "title": "New Polygon Proposal Seeks To Make PoS Chain ZK Compatible - Ethereum World News",
+        "summary": "  Polygon co-founder Mihailo Bjelic proposed an upgrade to Polygon's proof of stake (PoS) chain to a zkEVM Validium, aiming to address security, gas spike, and reorg issues. The upgrade would make Polygon compatible with zk rollups and bring faster transactions, greater decentralization, and lower fees. MATIC would remain Polygon's native staking token. The proposal is currently undergoing governance process and is expected to be implemented between February-March 2024."
+    },
+    {
+        "title": "OKX Ventures Contributes to Ethereum MEV Solution Shutter Network - OKX",
+        "summary": "  OKX Ventures, the investment arm of OKX, is supporting Shutter Network, an open-source project aimed at preventing malicious miner-extractable value (MEV) and front running on Ethereum. Shutter Network allows users to send encrypted transactions that are opaque to front runners, and is decentralized and gas-efficient. OKX Ventures is committed to supporting projects that promote a secure and sound on-chain environment, and believes Shutter Network will contribute to network stabilization and add value amid the growth of MEV."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin Rises Above $28,000 As Top Coins Land In Greens - ABP Live",
+        "summary": "  Bitcoin rose above $28,000, driven by Deutsche Bank's plans to offer crypto custody services. Other top coins like Ethereum, Dogecoin, Litecoin, Ripple, and Solana also saw gains. The global crypto market cap stood at $1.13 trillion, with a 24-hour gain of 5.08%. Exchanges like Mudrex, CoinSwitch Ventures, WazirX, Unocoin, BuyUCoin, and CoinDCX Research Team shared their insights on the current market scenario."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (21-June): Urgent! ETH Just Broke Through This Key Level. What Now? - Bitcoinsensus",
+        "summary": "  Ethereum price broke through the $1,800 key resistance level, which is now supporting the price. The bulls need to hold this level to continue pushing the price higher. If the bears can defend this level, there is a high probability of a more aggressive push to the upside. The article provides a 4-hour timeframe price prediction and encourages readers to sign up for Bybit, a cryptocurrency exchange, to trade with leverage and participate in the bonus campaign."
+    },
+    {
+        "title": "How to Import Cryptocurrency Prices Into Google Sheets - groovyPost",
+        "summary": "  How to import cryptocurrency prices into Google Sheets:\n\n1. Use the GOOGLEFINANCE function to pull live information on a wide range of traditional currencies and some popular cryptocurrencies directly from Google.\n2. Use IMPORTXML to scrape data directly from a cryptocurrency website.\n3. Use IMPORTDATA to pull price information directly from a website specifically designed for this purpose.\n4. Use the CoinMarketCap API and an add-on called API Connector to poll the site directly and import a huge amount of cryptocurrency information into your Google Sheets document.\n5. Use API Connector to refresh your data at regular intervals from once an hour up to once a month.\n\nHow to update cryptocurrency prices:\n\n1. Use the Schedule tab in API Connector to create a trigger that runs your request at the frequency you selected.\n\nOther useful Google Sheets tricks:\n\n1. Learn how to use timestamps in Google Sheets.\n2. Learn how to remove dollar signs in Google Sheets if some of your scraped data has included them.\n3. Lear"
+    },
+    {
+        "title": "Ethscriptions: Bringing Digital Inscriptions To Ethereum Blockchain - Blockzeit",
+        "summary": "  Ethscriptions, a new protocol on the Ethereum blockchain, allows users to inscribe and share digital objects, including images and other file types. Introduced by Genius.com co-founder Tom Lehman, Ethscriptions utilize Ethereum \"calldata\" to provide a cheaper and more decentralized alternative to conventional contract storage methods. The protocol has gained significant buzz within the Ethereum community, with over 30,000 Ethscriptions created within 18 hours of its launch. The protocol's potential to revolutionize the way non-financial data is recorded and accessed on the blockchain is seen as a game-changer, with developers and users alike eager to explore its possibilities. However, the protocol faces challenges, including intermittent downtime and criticism that similar technologies have existed for years. The future of Ethscriptions will depend on the collective efforts of developers and users, as they continue to experiment and push the boundaries of blockchain technology."
+    }
+]

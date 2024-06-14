@@ -1,0 +1,134 @@
+[
+    {
+        "title": "So your layer-2 is 'secured by Ethereum' \u2014 what does that mean? - Blockworks",
+        "summary": "  Layer-2 blockchains built on Ethereum offer increased security, speed, and lower costs for transactions. However, the term \"secured by Ethereum\" can be interpreted in different ways, and there are various approaches to achieving this security.\n\nThe main selling point of layer-2s is their ability to increase throughput while maintaining the security of Ethereum. This means that users can transact faster and cheaper without sacrificing the security of their assets.\n\nThere are four main types of layer-2s, each with its own trade-offs:\n\n1. zkRollups: These use validity proofs with data on L1 Ethereum, providing a secure and efficient way to roll up transactions.\n2. Optimistic Rollups: These use fraud proofs with data on L1 Ethereum, allowing for faster and cheaper transactions while maintaining security.\n3. Validium: This type uses validity proofs with data kept off-chain, providing an alternative to zkRollups.\n4. Plasma: This type also uses fraud proofs with data kept off-chain, but with a different implementation than Optimistic Rollups."
+    },
+    {
+        "title": "Ethereum Name Service plans expansion to Layer 2 ecosystem - The Block",
+        "summary": "  Ethereum Name Service (ENS) plans to expand its domain name system to Layer 2 ecosystem, allowing for improved scalability and reduced costs. The team will implement Layer 2 interoperability with ENS domains through off-chain resolvers and partnerships with service providers such as Coinbase-operated project cb.id and OptiNames. Additionally, web-integrated domain name TLDs will be integrated with ENS for gasless registration, and DNS names will be tradable as NFTs on the Ethereum blockchain. These developments aim to make ENS names the standard for decentralized digital identity in Web3 and simplify onboarding for traditional internet users."
+    },
+    {
+        "title": "Why Ethereum, Shiba Inu, and Bitcoin Cash Are Rising Today - The Motley Fool",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCryptocurrencies are rising today due to increased interest from mainstream financial institutions. BlackRock's filing for a spot Bitcoin ETF has sparked a rally, with other players proposing similar ETFs. Bitcoin Cash is particularly popular due to expectations it will be classified as a commodity, not a security. Regulatory clarity is seen as crucial for crypto's growth, with a new law in the UK formally recognizing cryptocurrencies as a regulated financial instrument."
+    },
+    {
+        "title": "Ethereum founder says crypto is on the cusp of a \u2018broadband moment\u2019 - Fortune",
+        "summary": "  Ethereum founder Joe Lubin believes that the recent challenges faced by the crypto industry, including the collapse of FTX, are a necessary cleansing process that will pave the way for a new breakthrough. Lubin argues that the demise of centralized crypto services has helped true crypto companies focus and rebuild, setting the stage for a \"broadband moment\" similar to the widespread adoption of the internet. He suggests that wallets are the area to watch right now, with companies like Coinbase building \"wallet as a service\" tools to make it easier for firms to integrate crypto into their operations. Lubin's optimism is echoed by venture capitalist Chris Dixon, who believes that crypto is on the cusp of another big leap forward. However, some skeptics argue that the crypto industry needs to focus more on ensuring that people stop getting robbed, rather than pursuing utopian visions of Web3."
+    },
+    {
+        "title": "Celsius granted court approval to convert altcoins into Bitcoin and Ethereum - CryptoSlate",
+        "summary": "  Celsius Network, a bankrupt crypto lender, has been granted court approval to convert its altcoins into Bitcoin (BTC) and Ethereum (ETH) effective tomorrow, July 1. The court filing states that Celsius may sell or convert non-BTC and non-ETH cryptocurrencies to BTC or ETH starting from July 1. The firm has been instructed to use commercially reasonable efforts to maximize the value of the altcoins and submit a monthly budget and coin report showing the number of altcoins converted to BTC and ETH. Celsius holds a substantial amount of altcoins worth $187.04 million, including assets such as BNB, Celsius, MATIC, FTT, AVAX, and others. The lender also holds $409.03 million worth of BTC and ETH."
+    },
+    {
+        "title": "Ethereum Price Holds Strong at $1,800 \u2013 A Strong Case for Upside - NewsBTC",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum price is holding above $1,800, with a possible upside potential. If it clears $1,880 resistance, it could rise to $1,920 and beyond. However, if it fails to break $1,875 or $1,880, it could decline to $1,860 and potentially lower. Technical indicators are bullish, but a break below $1,820 could lead to further losses."
+    },
+    {
+        "title": "Cardano's Hoskinson Takes Jab at Ethereum Staking - U.Today",
+        "summary": "  Cardano's Hoskinson criticizes Ethereum's staking mechanism, claiming that all of Cardano's ADA is staked, implying a correctly designed proof-of-stake protocol. Hoskinson's comments come after Buterin admitted that staking Ether is complex and requires making associated keys public, raising safety concerns. This is the latest in a series of criticisms from Hoskinson, who has predicted that Ethereum could lose popularity and potentially migrate to Cardano."
+    },
+    {
+        "title": "Ethereum Founder Feels Sorry For Solana; Here's Why - CoinGape",
+        "summary": "  Ethereum co-founder Vitalik Buterin expressed sympathy for Solana after the US SEC categorized it as a security in a recent lawsuit. Buterin believes that Ethereum should not \"win\" by being the only crypto chain left on exchanges, as it would not be an honorable victory. He also stated that Ethereum's real competition is not with other blockchains in the crypto industry but rather with centralized systems expanding rapidly. Solana saw a huge price recovery after being labeled as a security, with its price spiking by 15% on Friday."
+    },
+    {
+        "title": "Whales Move Over $1,282,800,000 in Bitcoin, Ethereum and Dogecoin \u2013 Here\u2019s Where the Crypto Is Headed - The Daily Hodl",
+        "summary": "  Here's the summary in less than 256 tokens:\n\nWhale Alert reports over $1.2B in crypto transfers, mostly Bitcoin, Ethereum, and Dogecoin. Deep-pocketed traders are moving funds, with $1.178B in Bitcoin transactions. Other notable transfers include $120M in Dogecoin and $70M in Ethereum. Investors should do their own research and understand risks before investing in cryptocurrencies."
+    },
+    {
+        "title": "Ethereum Founder Vitalik Buterin Says He Feels 'Bad' for Solana - Decrypt",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, expressed concerns about the US regulatory crackdown on crypto projects, including Solana. He feels bad that Solana and other projects are being targeted, as they don't deserve it. Buterin believes that real competition isn't with other blockchains, but with the rapidly expanding centralized world that is imposing itself on the industry. The SEC has launched lawsuits against major exchanges, including Coinbase, Binance, and Kraken, over selling unregistered securities. Solana, along with other cryptocurrencies, has been labeled as unregistered securities in the SEC's complaint against Binance."
+    },
+    {
+        "title": "Layer 3 super public chain, creating a new paradigm of digital economy - Yahoo Finance",
+        "summary": "  Layer 3, a new public chain, aims to solve Ethereum's congestion problem by providing a cross-chain scaling solution. The Layer 3 super public chain will link every blockchain and build an open, transparent, inclusive, fast, and secure decentralized world. It combines cross-chain technology with Layer 1 and Layer 2 expansion solutions to enable faster transaction completion with lower gas fees. The Layer 3 public chain's original series of core technologies will create a cross-chain ecosystem that integrates public chains, wallets, decentralized transactions, decentralized applications, and other layers to serve various fields such as finance, artificial intelligence, and metaverse. The Layer 3 solution has been tested to be the most secure and widely used scaling solution for Ethereum."
+    },
+    {
+        "title": "Ethereum Cancun Upgrade: ETH price to Reach $3000 soon? - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is preparing for a significant upgrade called Cancun, which will enhance scalability, security, and usability. This upgrade could propel Ethereum's price to $3000. The upgrade includes Proto-Danksharding, which will reduce rollup gas fees, and other Ethereum Improvement Proposals (EIPs) such as EIP-4758, 6046, 6190, EIP-5920, and EIP-1153. The Cancun upgrade could attract more users and developers to the Ethereum ecosystem, increasing demand for ETH and potentially driving its price towards $3000. However, investors should consider the risks and volatility associated with cryptocurrency investments."
+    },
+    {
+        "title": "Ethereum transactions frozen for 12 seconds - Blockworks",
+        "summary": "  Ethereum transactions were frozen for 12 seconds as a group of researchers demonstrated a new way to exploit the proposer-builder separation (PBS) feature to censor transactions. The group, known as the Special Mechanisms Group (SMG), showed that by bidding on priority fees, they could force a block to include only one transaction, which was a URL to their research paper. Reactions to the experiment were mixed, with some noting that the gas fee market would make it difficult to delay transactions for long. The SMG group argues that censorship-resistance is not just about ensuring transactions get on-chain eventually, but also about making it fast. They suggest that layer-2 solutions may not be able to solve all problems and that enshrined PBS, or ePBS, could be a solution to make on-chain auctions and other mechanisms more censorship-resistant."
+    },
+    {
+        "title": "Vitalik Buterin stakes only a modest portion of Ethereum, here's why - CryptoSlate",
+        "summary": "  Vitalik Buterin stakes only a small portion of his Ethereum due to security concerns and the complexity of staking safely. He explained that staking requires multi-sig, which is still a tricky process, and rare, unpredictable events can also influence his decision. However, some experts argue that continued Ethereum innovation may make it possible to overcome these challenges and increase staking adoption."
+    },
+    {
+        "title": "Solana (SOL) Outshines Ethereum in This Key Metric: Details - U.Today",
+        "summary": "  Solana (SOL) has surpassed Ethereum in 24-hour NFT trading volume, with $25.5 million in volume compared to $24.5 million for Ethereum. This is the first time Solana has beaten Ethereum in this metric. Despite this, Ethereum still dominates in terms of total value locked ($26.7 billion vs. $265.57 million for Solana) and market capitalization ($231.17 billion vs. $7.38 billion). Both are PoS blockchains, but Solana was designed for this consensus model from the start, while Ethereum transitioned from PoW through the Merge."
+    },
+    {
+        "title": "Ethereum's Vitalik Buterin Feels Bad for Solana (SOL), Here's Why - U.Today",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, expressed empathy towards Solana (SOL) and other projects facing regulatory challenges. He believes that Ethereum's success should not come at the expense of other projects being pushed off exchanges due to security concerns. Buterin views the real competition as the centralized world imposing itself on the blockchain and crypto space, and suggests that the industry should stand together to face these threats."
+    },
+    {
+        "title": "CME Group to Launch Ethereum-to-Bitcoin Ratio Futures Next Month - Yahoo Finance",
+        "summary": "  CME Group to launch Ethereum-to-Bitcoin ratio futures contract on July 31, pending regulatory approval. The contract will allow investors to speculate on or hedge against the relative performance of Ethereum and Bitcoin. This is the second time CME is launching crypto futures, after the successful launch of Bitcoin futures in 2017. The move is seen as a way to provide institutional investors with a regulated platform to trade cryptocurrencies and potentially increase liquidity in the market."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Name Service Working to Support Layer-2 Networks - Decrypt",
+        "summary": "  Ethereum Name Service (ENS) is working to support layer-2 networks, aiming to improve scalability and reduce costs for domain name registrations and transactions. This upgrade will make domain name registrations more accessible to a wider user base."
+    },
+    {
+        "title": "Cardano vs. Ethereum: Hoskinson Lauds ADA's Staking Mechansim - Watcher Guru",
+        "summary": "  Cardano's co-founder, Charles Hoskinson, took a jab at Ethereum's staking mechanism, highlighting that all of Cardano's native token ADA is staked, implying that Cardano's proof-of-stake protocol is well-designed and functioning effectively. Meanwhile, the number of Ethereum staked in the deposit contract has reached a new high, with over $48 billion in value, following the implementation of the Shanghai upgrade. Despite this, Ethereum continues to struggle to reach $2,000, currently trading at $1,889.79 with a 2.66% daily surge."
+    },
+    {
+        "title": "Ethereum, Dogecoin Outpace Bitcoin Ahead Of July Fourth Holiday: A Look At The Cryptos Into The Weekend - Benzinga",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nBitcoin, Ethereum, and Dogecoin saw gains ahead of the July Fourth holiday, with Bitcoin popping up over 2% and then dropping before settling flat. Ethereum and Dogecoin rose about 4%. The crypto space has been consolidating sideways since June 21, with Bitcoin up 83% and Ethereum up 61% since the beginning of the year. Traders will watch how the apex cryptocurrencies trade over the weekend to gauge market performance after the holiday. Resistance levels for Bitcoin are at $31,418 and $35.593, with support at $30,050 and $28,690. For Ethereum, resistance is at $1,957 and $2,150, with support at $1,846 and $1,717. Dogecoin has a descending trend line holding it down since June 23, with resistance at $0.069 and"
+    },
+    {
+        "title": "All you need to know about LSD tokens, Ethereum protocol - AMBCrypto News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nLiquid Staking Tokens (LSTs) control 41% of staked ETH, raising concerns about dependency and leveraging risks. Lido and Rocket Pool dominate, with stETH and rETH tokens witnessing increased interest and adoption. The growth of LSTs is driven by both their own appeal and broader interest in Ethereum. Despite a decline in revenue for validators, the number of validators has increased by 7.65% in the last 30 days. Ethereum's price is trading at $1,855.10, with a slight decline of 0.2% in the last 24 hours."
+    },
+    {
+        "title": "Why Are People Burning CryptoPunks for Ordinals NFTs? - nft now",
+        "summary": "  People are burning their CryptoPunks and transferring them to the Bitcoin blockchain as Ordinals, a new NFT collection, in order to take advantage of their value and to make a statement about the potential of the Bitcoin ecosystem. The Ordinal Maxi Biz project, led by Bitcoin Bandits, is offering allowlist spots for CryptoPunk holders who burn their NFTs and inscribe them on the Bitcoin blockchain. The project aims to emphasize the potential of the Bitcoin ecosystem for innovation in the NFT space and to shake up cultural lines between the two ecosystems. The move has raised concerns among some members of the CryptoPunks community, who see it as a loss of cultural and historical significance."
+    },
+    {
+        "title": "SHIB, BTC, ETH Can Now Be Used to Book 600 Airlines via This Partnership - U.Today",
+        "summary": "  Binance Pay, a cryptocurrency payment technology by Binance, now accepts over 600 airlines for flight bookings through its partnership with Alternative Airlines. Users can pay with Shiba Inu, Bitcoin, Ethereum, and other cryptocurrencies to get a 3% discount on flights. This partnership expands Binance Pay's supported cryptocurrencies to over 70 options. Recently, Shiba Inu listed on SBI VC Trade, a cryptocurrency exchange subsidiary of SBI, a Tokyo-based financial holding company, and BITPoint, Japan's first top exchange, reaffirmed its support for Shiba Inu. As of now, SHIB is marginally down to $0.0000075, with 1,653,845,435 tokens burned in June and 3,894,189 tokens burned in the past 24 hours through three transactions."
+    },
+    {
+        "title": "Mastercard Working On Ethereum-Based Multi-token Network - CryptoDaily",
+        "summary": "  Mastercard is launching a blockchain-based marketplace for financial applications, called the Mastercard Multi Token Network (MTN). The platform will offer a range of tools and resources for developers to create regulated financial applications, including a private Ethereum-based blockchain and tokenized commercial bank deposits. Mastercard's goal is to provide a secure, scalable, and interoperable infrastructure for transactions within the digital asset and blockchain ecosystems, with the potential to transform the global economy. The company believes that the current trajectory of digital asset and blockchain technologies is similar to the internet's growth arc, and that they will become critical infrastructure for storing and moving value. The launch of the MTN represents a major shift towards the adoption of crypto technology in the financial industry, showcasing Mastercard's commitment to promoting a wider range of secure, accessible, and always-on payment solutions."
+    },
+    {
+        "title": "Market Activity Shows Whales Are Favouring InQuebta (QUBE) over Ethereum (ETH) and Polygon (MATIC) as Analysts ... - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nWhales are favoring InQubeta (QUBE) over Ethereum (ETH) and Polygon (MATIC) due to its unique features, such as fractionalized NFTs, a utility and governance token, and an experienced team. InQubeta's niche focus on AI, early-stage investment opportunities, and community-driven approach also appeal to whales. While Ethereum and Polygon have their own merits, InQubeta presents an enticing investment opportunity for those seeking exponential gains in 2023."
+    },
+    {
+        "title": "Coinbase layer-2 network Base closes in on mainnet launch - Cointelegraph",
+        "summary": "  Coinbase's layer-2 network, Base, is nearing mainnet launch after completing six months of rigorous security audits. The network, powered by Optimism, has fulfilled \u2158 of the criteria required for launch, including a successful infrastructure review and a public smart contract audit. Base has also developed an open-source monitoring tool, Pessimism, to notify builders of any anomalies in the protocol. The final criteria to be fulfilled is demonstrating testnet stability, and the team is reviewing submissions from 100 security researchers who participated in the public audit. Base aims to become a secure and developer-friendly network for building decentralized applications."
+    },
+    {
+        "title": "This AI Altcoin is Poised for a 10,000% Surge in 2023 and could join Ethereum (ETH) as a Top 50 crypto - Analytics Insight",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nInQubeta (QUBE) is an AI altcoin with potential for 10,000% growth in 2023, positioning it to join Ethereum (ETH) as a top 50 crypto. QUBE's unique features include utility token with fractional investment opportunities, deflationary token structure, built on established Ethereum blockchain, staking features and governance, and verified security and audit. The QUBE presale is accessible and inclusive, with a minimum entry fee of $50 and multiple payment systems and supported cryptocurrencies. Investors can participate in the presale to benefit from QUBE's potential surge and rise in the crypto market."
+    },
+    {
+        "title": "ETF winners and losers in 2023: Global X's 21 shares ethereum ETF, FANG+ ETF - The Australian Financial Review",
+        "summary": "  Global X's 21 shares ethereum ETF and FANG+ ETF were the top performers in 2023, with returns of 39.6% and 42%, respectively. In contrast, Global X's ultra-short Nasdaq 100 hedge fund, Betashares' crude oil, currency hedged synthetic ETF, and the Global X physical palladium ETF were the worst performers, with returns of -70.36%, -38.31%, and -27.34%, respectively. The performance of these ETFs in 2023 was opposite to their performance in 2022, when the losers were among the top performers. Investors are shifting their attention to potential revenue opportunities in AI, leading to a change in market sentiment for mega-cap tech stocks."
+    },
+    {
+        "title": "The resurgence of Bitcoin's dominance - The News Minute",
+        "summary": "  Bitcoin's dominance may reach 52-53% in the short term, with a target of 56-60% by year-end. Altcoins may lose 20-40% in value against BTC. Investors should stick to BTC and ETH for most of their crypto portfolio."
+    },
+    {
+        "title": "Ethereum Dencun upgrade coming; Can it send ETH to $5,000? - Finbold - Finance in Bold",
+        "summary": "  Ethereum is set to undergo a major upgrade called Dencun in late 2023, which could lead to increased scalability, storage, and gas efficiency. The upgrade includes two major components: Cancun (execution layer) and Deneb (consensus layer). The upgrade could potentially send ETH prices soaring to $5,000 by the end of the year, according to historical price chart patterns. However, the price could also remain in the $1,880 area if a more bearish pattern reoccurs."
+    },
+    {
+        "title": "Ethereum Network Fees Experience Significant Growth In 2023 Q2, Here\u2019s Why | Bitcoinist.com - Bitcoinist",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum network fees surged in Q2 2023, increasing by 83%, due to the rise of memecoins. The fees caused a shift in the top gas-burning altcoins, with meme tokens displacing popular assets like ETH and USDT. Bitcoin also saw increased network fees due to creating tokens via the BRC-20 standard. The Ethereum supply of Ether tanked, reaching an all-time low, while the ETH price gained 4.6% in the past 24 hours."
+    },
+    {
+        "title": "Ethereum is gaining investors' confidence as go-to asset for passive income - Finbold - Finance in Bold",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nEthereum is gaining investors' confidence as a go-to asset for passive income. The recent Shanghai upgrade enabled staked Ethereum withdrawals, leading to a sharp increase in the amount of Ethereum staked, which has reached a new all-time high of 25.8 million ETH worth over $48 billion. The Ethereum deposit contract balance has crossed the value of $40 billion, with a 0.80% monthly gain. Meanwhile, the richest Ethereum non-exchange addresses are growing their holdings, while top exchange addresses have reached near-genesis levels, suggesting fears of further lawsuits against crypto exchanges."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (30-June): ETH Bullish Prediction Playing Out Exactly! What Now? - Bitcoinsensus",
+        "summary": "  Ethereum price is rallying after a bullish prediction, but there are signs of weakness in the chart. The MACD indicator is showing a clear downtrend, indicating that bullish volume is dying down. The price has smashed through a $1,933 bullish target, but the Bearish Divergence could be a sign that the rally might not have much room to the upside. The final verdict is still bullish, but traders should be cautious as the price chart develops. Claim up to $30,030 in bonus and start trading with leverage on Bybit."
+    }
+]

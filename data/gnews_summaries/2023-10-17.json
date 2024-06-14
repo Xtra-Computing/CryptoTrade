@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Ethereum ETFs Are Here. Is Spot Bitcoin Next? - ThinkAdvisor",
+        "summary": "  The Securities and Exchange Commission (SEC) approved nine ETFs that invest in ethereum futures contracts, marking a significant move towards the mainstreaming of cryptocurrencies. However, there is no guarantee that the SEC will immediately approve the 10 pending spot bitcoin ETF applications. Despite the frustration among investors and advisors, SEC Chair Gary Gensler has not yet acted on the 10 applications, citing concerns about investor protection and fraud. The approval of ethereum ETFs has raised questions about the SEC's next steps, with some lawmakers calling for immediate approval of bitcoin ETFs."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum Price Faces Crucial Test: Will $1,570 Withstand the Pressure? - NewsBTC",
+        "summary": "  Ethereum price is facing a crucial test as it struggles to clear the $1,605 and $1,620 resistance levels. If it fails to clear these levels, it could start another decline towards $1,575 and potentially lower to $1,520. However, if it manages to close above $1,620, it could rise further towards $1,665 and possibly even $1,750. Technical indicators such as MACD and RSI are losing momentum in the bullish zone, but the hourly RSI is above 50, indicating potential for further gains. Major support levels are at $1,575, while major resistance levels are at $1,620."
+    },
+    {
+        "id": 7,
+        "title": "Here Are the Major Tailwinds for Ethereum Rival Solana, According to Crypto Analyst - The Daily Hodl",
+        "summary": "  Here are the major tailwinds for Ethereum rival Solana (SOL), according to a crypto analyst:\n\n1. Mainstream attention: Solana is receiving more attention from the mainstream media and institutions, such as Fidelity and Standard Chartered Bank.\n2. Integration with Shopify: Solana Pay has integrated with Shopify, allowing for seamless payments.\n3. Crypto-friendly smartphone: Solana's crypto-friendly smartphone, Saga, is set to launch.\n4. Decentralized app store: Solana has an decentralized app store, which will allow for more efficient and secure transactions.\n5. EVMs and SVMs: Solana has built its own Ethereum virtual machine (EVM) and Solana virtual machine (SVM), allowing for seamless bridging between the two platforms.\n6. Firedancer: Solana's Firedancer project aims to achieve one million transactions per second, bringing resilience, efficiency, decentralization, and security to the platform.\n7. Visa partnership: Solana has partnered with Visa, which"
+    },
+    {
+        "id": 8,
+        "title": "Ethereum or Bitcoin: Which one is a better investment in 2023? - Bitrates",
+        "summary": "  Bitcoin and Ethereum are both popular cryptocurrencies with unique characteristics and uses. While Bitcoin is the pioneer of cryptocurrencies and offers faster transaction speeds and greater liquidity, Ethereum has more utility and enables the development of decentralized applications and smart contracts. Both have their advantages and disadvantages, and it's hard to say which one is a better investment in 2023. Cryptocurrencies are volatile, so investments involve risks, and experts recommend diversifying a portfolio to minimize those risks. Ultimately, the choice between Bitcoin and Ethereum depends on individual goals and needs."
+    },
+    {
+        "id": 9,
+        "title": "Tokenized Real-World Asset Market to Hit $10 Trillion By 2030, 21.co Projects \u2013 Can RWAs Power Ethereum (ETH) to ... - Cryptonews",
+        "summary": "  Tokenized real-world assets (RWAs) could reach a market capitalization of $10 trillion by 2030, according to a report by 21.co. This growth is expected to be driven by the convergence of traditional asset classes and cryptocurrencies, with blockchains like Ethereum playing a dominant role in issuing tokenized RWAs. Currently, around 60% of tokenized RWAs are issued on Ethereum, and if this trend continues, it could significantly boost the demand for Ether (ETH), potentially even rivaling gold's market cap. However, Ether has been performing poorly recently, with weak on-chain activity and falling yields on staked ETH contributing to its decline."
+    },
+    {
+        "id": 13,
+        "title": "Ethereum Staking Is Losing Its Appeal\u2013Here's Why - Decrypt",
+        "summary": "  Ethereum staking, a process where validators are rewarded for contributing to the network, is losing appeal. The queue for new staking validators has dropped from a peak of over 96,000 to around 996, but remains low compared to previous levels. The reward for staking Ethereum has also decreased from 5.2% to 3.5%. Analysts attribute the slowdown to a dwindling appetite for staking, possibly due to bearish market conditions and lowering rewards. However, some predict that institutional money may lead the next wave of deposits in Ethereum staking contracts."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum L2 Scroll launches on mainnet - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's latest layer-2 network, Scroll, has launched on mainnet after a year of testing with over 55 million transactions. Scroll is a zkEVM roll-up that offers lower fees and latency, and it allows developers to deploy their projects directly onto the network. The team has audited the mainnet code and is working on a decentralized prover network and sequencer. The protocol will be upgradeable through a multi-signature wallet controlled by the core team, and there are plans to introduce a Security Council and delayed upgrade mechanism in the near future."
+    },
+    {
+        "id": 18,
+        "title": "Ethereum-Based Altcoin That\u2019s Up 700% in Two Months Primed To Grind All the Way Back Down, Says Crypto Analyst - The Daily Hodl",
+        "summary": "  An Ethereum-based altcoin, Tellor Tributes (TRB), has seen a massive 700% gain in the past two months, but a crypto analyst predicts it will grind back down to $32. The analyst, Altcoin Sherpa, believes the asset has exhausted its bullish momentum. Meanwhile, another altcoin, Avalanche (AVAX), may see a rally due to the reopening of the SocialFi protocol Stars Arena. The analyst predicts AVAX will reach $10.60."
+    },
+    {
+        "id": 19,
+        "title": "Ethereum and One XRP Rival Dominating Institutional Interest for Real-World Asset Tokenization: Bloomberg Analyst - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBloomberg analyst Jamie Coutts says Ethereum and one XRP rival are leading in institutional interest for real-world asset tokenization. Tokenization of US money market funds has reached $700 million in value, up from $100 million at the start of the year. Ethereum is the top network for tokenized money market instruments in the US, followed by Stellar and Polygon. RWA tokenization has potential to be a significant driver for blockchain adoption."
+    },
+    {
+        "id": 20,
+        "title": "Scroll's zkEVM Mainnet Launch Marks a Milestone in Ethereum Scalability and Efficiency - Business Wire",
+        "summary": "  Scroll, an open-source scaling solution for Ethereum, has launched its mainnet, marking a significant milestone in the platform's scaling capabilities. The launch follows two years of development and testing, during which zero-knowledge proofs were employed to enhance transaction throughput and reduce costs. Scroll's zkEVM offers a virtually identical experience to Ethereum, enabling developers to deploy their existing projects without changes to the codebase. The team has also emphasized security, maintaining a dedicated internal security team and fully auditing the codebase. The mainnet will initially focus on onboarding infrastructure providers, followed by rolling deployments to enable developers to build Web3 products and drive new users into the Ethereum community. Scroll has collaborated with the Ethereum Foundation's Privacy and Scaling Explorations group and has been open-source and community-focused since inception."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Layer 2 zkEVM Solution Goes Live on Mainnet - U.Today",
+        "summary": "  Scroll, an Ethereum layer 2 zkEVM solution, has launched its mainnet after two years of development. The platform utilizes zero-knowledge cryptography to enable faster and more efficient transactions while maintaining the security of the Ethereum blockchain. During testing, Scroll processed over 450,000 smart contract deployments, 90 million transactions, and generated over 280,000 ZK proofs. The team has also conducted rigorous security testing and audits to ensure the platform's security. The mainnet will initially focus on onboarding infrastructure providers, with future milestones including the development of a decentralized proof network and sequencer."
+    },
+    {
+        "id": 25,
+        "title": "Fantom Foundation Hacked for Over $7,000,000 Worth of Ethereum (ETH) and FTM: Report - The Daily Hodl",
+        "summary": "  The Fantom Foundation, which supports the Ethereum (ETH) rival Fantom (FTM), has been hacked for over $7 million worth of ETH and FTM. According to blockchain security experts, wallets belonging to the foundation have been drained of ETH and FTM. The hack is believed to be totaling up to nearly $6.7 million, with the stolen funds consolidated into an EOA address holding 4,501.48 ETH. This is the latest in a series of major hacks, with $889.26 million in crypto lost to hacks, scams, and rug pulls in Q3 2023 alone."
+    },
+    {
+        "id": 28,
+        "title": "Ethereum Gasless Metatransactions by Using EIP-712 - hackernoon.com",
+        "summary": "  Ethereum is set to introduce gasless metatransactions using EIP-712, a new standard that allows for faster and cheaper transactions. This development could significantly improve the user experience on the Ethereum network, making it more accessible and user-friendly."
+    },
+    {
+        "id": 29,
+        "title": "Ethereum validator queue empties for first time since merge - AMBCrypto News",
+        "summary": "  Ethereum's validator queue has reached a record low, indicating a decrease in demand for staking ETH. The queue tracks the count of validators waiting to be assigned to a shard or segment of the network, and the depletion of the queue means that new validators can now begin staking their coins immediately without waiting. This development signals weakened demand for Ether staking, as reflected in the decline of 22% in the daily amount of new ETH staked over the past three months, and a 62% drop in staking rewards since May. As of press time, the staking annual percentage yield (APY) is 3.3%."
+    },
+    {
+        "id": 36,
+        "title": "Ethereum Co-founder Vitalik Buterin Moves $15M of USDC to Gemini - CoinGape",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, transferred $15M worth of USDC to Gemini, a leading US crypto exchange. This follows a previous transfer of $1.64M in ETH to Bitstamp. Buterin has also been making ongoing deposits of ETH to popular exchanges, with transfers exceeding $3.9M in September alone. These movements have not significantly impacted the price of Ethereum."
+    },
+    {
+        "id": 39,
+        "title": "Ethereum Layer-2 Network Scroll Launches its Mainnet - The Crypto Basic",
+        "summary": "  Scroll, a layer-2 Ethereum network, has launched its mainnet, offering secure and compatible scalability for developers. The network uses zero-knowledge technology while maintaining EVM compatibility, allowing for a seamless transition for Ethereum-based applications. The team emphasizes security through open-source participation and rigorous security audits, and aims to maintain neutrality within the ecosystem. Since the mainnet launch, up to 55 million transactions have been tested and 752 ETH worth $1.18 million have been bridged from Ethereum to Scroll."
+    },
+    {
+        "id": 41,
+        "title": "Ethereum L2 Scroll Mainnet Launch Marks Milestone in Ethereum Scalability - CoinGape",
+        "summary": "  Scroll, a layer 2 scaling solution for Ethereum, has launched its mainnet after extensive testing and auditing on three testnets over 15 months. The network uses zero-knowledge proofs to enhance scalability, reduce fees, increase speed, and achieve unlimited scalability. The launch is a significant milestone for both Scroll and Ethereum, expanding the possibilities for decentralized applications and seamless value transfer. Scroll's goal is to enhance user and developer experiences while driving the adoption of layer 2 solutions on Ethereum. The team is developing an SGX-based second prover to enable a functioning multi-prover on Scroll and is working on an upgrade to the protocol to enable forced batches for uninterrupted operation even if the sequencer goes offline. Scroll is built on community empowerment, inclusivity, and openness, with global developer engagement activities, workshops, and ZK research education initiatives. The launch of the mainnet marks a groundbreaking milestone for Scroll and Ethereum, bringing in a new era of scalability and exciting progress."
+    },
+    {
+        "id": 45,
+        "title": "Scroll Confirms Mainnet Live, as Co-Founder Predicts Speed Gains Over Ethereum - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\n Scroll Confirms Mainnet Live, Speedups Expected.\nZero-knowledge tech, EVM compatibility attracts devs.\nPolygon, Matter Labs offer zkEVM.\nOther layers use optimistic rollups.\nSpeedups predicted over Ethereum."
+    },
+    {
+        "id": 46,
+        "title": "Ethereum Fees Drop To Lowest Level Since 2020 As Enthusiasts Rub Their Hands In Glee - ZyCrypto",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nEthereum gas fees have reached their lowest level since 2020, dropping to 7.941 Gwei. This has led to a small rally in ETH prices above $1,500. The decline in gas fees is attributed to several factors, including the decline of NFTs and DeFi activities, as well as the adoption of new layer 2 networks. The low fee regime has raised questions about ETH's inflationary nature and its claim to be \"ultrasound money.\" Despite this, bulls remain optimistic that ETH can reach the $1,700 mark."
+    },
+    {
+        "id": 48,
+        "title": "Vitalik Buterin-linked biotech charity Kanro transfers $15M to fund grant - Cointelegraph",
+        "summary": "  Vitalik Buterin-linked charity Kanro transferred $15M to fund grant, but clarification from Ethereum Foundation states that the transfer was not made directly by Buterin and the funds never left his wallet. Kanro is a biotech charity funded by Buterin aiming to address COVID-19 and other pandemic-related issues. This transfer is one of several recent crypto transfers from Buterin's wallets, totaling over $3.9M in September."
+    },
+    {
+        "id": 53,
+        "title": "Ethereum Price Prediction: Will $ETH Regain $1800 Mark this Week? - CoinGape",
+        "summary": "  Ethereum (ETH) price is showing signs of recovery, rebounding from a range support of $1530 on October 13th. The coin price has registered a 3.85% gain, currently trading at $1585. The bull cycle within a rectangle pattern suggests further recovery in the coming weeks. The intraday trading volume is $8.5 billion, indicating a 258% gain. The ETH price is forming a range pattern with two horizontal levels of 1,745 to 1,530, and until these boundaries are intact, the coin price will likely prolong its sideways trend. With renewed buying pressure around $1531 support, the coin price could trigger a new bull cycle within the range pattern. The ETH vs BTC performance shows decoupling between the two market leaders, with Bitcoin attempting to make new higher highs and lows, while Ethereum remains trapped in a downward direction. Additional buying pressure could occur with a flattish lower band of the Bollinger band indicator, and a potential bullish crossover between the MACD"
+    },
+    {
+        "id": 54,
+        "title": "Bitcoin, Ethereum, Dogecoin Trade Mixed After ETF Rumor-Fueled Rally Cools Down: Analyst Sees Apex Crypto ... - Nasdaq",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin, Ethereum, and Dogecoin experienced a mixed reaction after a false rumor of a Bitcoin ETF approval caused a rally. Bitcoin reached $28,500 before dropping, while Ethereum and Dogecoin also saw losses. Binance suspended new user registrations in the UK due to FCA regulations. The global crypto market cap increased by 0.89% to $1.06 trillion. An analyst expects further upside for Bitcoin, predicting it will break $28,700 and reach $30,000. Crypto Tony noted that the pump was executed during a low liquidity period. Santiment found that Ethereum's whale addresses now hold 32.3% of the available supply, the highest since 2016."
+    },
+    {
+        "id": 55,
+        "title": "Here's Why Ethereum Challenger ORBS Is up 60% Today - U.Today",
+        "summary": "  ORBS, an Ethereum challenger, is up 60% today after being listed on OKX. The coin's trading volume has increased by 289% to $648 million. The listing has brought new optimism to the ORBS ecosystem, which has been hit hard by the crypto winter. Other mid-cap and low-cap altcoins are also seeing significant growth, such as Bad Idea AI, Fantom, Chainlink, and Optimism. These assets are helping to broaden the acceptability of the digital currency and blockchain ecosystems."
+    },
+    {
+        "id": 58,
+        "title": "Crypto Price Today: Bitcoin tops $28,000; Ethereum nears $1,600; Solana rises 9% - Business Today",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin topped $28,000 and Ethereum neared $1,600, with gains trimmed after a false report of a spot ETF approval. Solana rose 9%. The global cryptocurrency market cap jumped to $1.09 trillion, with total trading volumes surging 220%. Tech View by WazirX Trade Desk suggests Solana has potential for growth, with the SOL/USDT chart breaking above a triangle pattern."
+    },
+    {
+        "id": 64,
+        "title": "Ethereum Founder Quietly Deposits Millions in Stablecoins: What's His Game Plan? - U.Today",
+        "summary": "  Vitalik Buterin, the founder of Ethereum, has made significant deposits of USDC stablecoins into major exchanges, sparking speculation about his strategic intentions. He recently deposited 14.93 million USDC into Gemini and an additional 500,000 USDC into Coinbase, after previously depositing his ETH holdings on various exchanges. This shift towards stablecoins has led to speculations about his newfound bullish sentiment, particularly as the crypto market has seen a recent surge. However, the veil of secrecy surrounding Buterin's intentions remains, as tracking further fund movements on his exchange accounts is impossible."
+    },
+    {
+        "id": 67,
+        "title": "Crypto Price Today: Bitcoin rises above $28,200; Ethereum holds above $1,550 - The Economic Times",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin rose above $28,200, while Ethereum held above $1,550. Other cryptos were mixed, with XRP, Cardano, and Dogecoin trading in the red. The global cryptocurrency market cap surged 0.64% to $1.09 trillion. Bitcoin's dominance is at 50.67%. Major market oscillators indicate a \"Neutral\" sentiment. The MACD Level is at 238, while the Stochastic RSI Fast is at 74 with a \"Neutral\" indicator."
+    },
+    {
+        "id": 71,
+        "title": "Unexpected Predictions From ChatGPT! Ethereum (ETH), Solana (SOL), Ripple (XRP), Cardano (ADA) Price Forecasts ... - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in 256 words or less:\n\nThe cryptocurrency market is experiencing significant volatility, with Ethereum, Solana, Ripple, and Cardano facing challenges. ScapesMania, a new entrant in the market, is gaining traction with its innovative approach and strong security measures. The project offers impressive discounts and a chance to win $150,000, attracting major interest from savvy traders. Despite its technical strength, Cardano still needs to solidify its market position, while Ethereum and Ripple face regulatory battles and market dynamics. The future of these cryptocurrencies remains uncertain, while ScapesMania shows promising potential."
+    },
+    {
+        "id": 72,
+        "title": "Crypto prices today: Bitcoin, Ethereum, altcoins - 20 Oct, 2023 - Latest Updates - SAMAA",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto prices are up today, with Bitcoin and Ethereum leading the gains. Bitcoin is up 3.73% to $28,228, while Ethereum is up 1.78% to $1,589. Other leading cryptocurrencies, such as Binance Coin and Ripple, are also seeing gains. Solana is the top gainer over the past week, surging 9.12%. Stablecoins are maintaining their stability, while DeFi and NFT tokens are also seeing gains. The global crypto market capitalization is at $1.1 trillion, a 3.42% increase over the last day."
+    }
+]

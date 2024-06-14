@@ -1,0 +1,86 @@
+[
+    {
+        "title": "What Is the Ethereum Blockchain's Shanghai Hard Fork, and Why Does It Matter? - CoinDesk",
+        "summary": "  The Shanghai hard fork is an upcoming upgrade to the Ethereum blockchain that will allow staked Ether (ETH) to be withdrawn. However, the process will be slow, with only 16 partial withdrawal requests being able to be processed every 12 seconds, and all validators are unlikely to exit the blockchain due to the benefits of staking."
+    },
+    {
+        "title": "CoinShares Reduces Management Fees to 0% on CoinShares Physical Ethereum ETP - CoinShares",
+        "summary": "  CoinShares, a leading digital asset manager, has announced that it will reduce the management fees on its CoinShares Physical Ethereum ETP to 0% starting from February 1st, 2023. This move is part of the company's commitment to provide an investor-centric experience and capitalize on the upcoming Shanghai Hard Fork, which will enable ETH stakers to unlock their staked ETH and receive staking rewards. The reduction in management fees positions CoinShares to provide both liquidity and staking rewards to its investors in the ETP."
+    },
+    {
+        "title": "\"Mergers in Winter\": Ethereum as eco-friendly blockchain - Lexology",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum transitioned to proof-of-stake (PoS) consensus mechanism, reducing energy consumption by ~99.95%. PoS is more energy-efficient than proof-of-work (PoW) and uses stake instead of energy to secure the network. The Merge, joining the original layer with a new layer, introduced PoS to Ethereum. Participants must deposit 32 Ether as collateral to become network validators and receive rewards. The Merge was a global event, but Ethereum's cryptocurrency ETH is still under pressure despite technical success."
+    },
+    {
+        "title": "CoinShares cuts fees to 0% on ethereum ETP ahead of Shanghai hard fork - ETF Stream",
+        "summary": "  CoinShares has announced a \"fee holiday\" for its ethereum exchange-traded product (ETP) ahead of the Shanghai hard fork in March. The total expense ratio (TER) will be cut from 1.25% to 0% effective February 1, allowing investors to unlock staking awards without incurring additional fees. This move is part of ethereum's transition from a proof-of-work (PoW) to a proof-of-stake (PoS) network and is expected to provide liquidity and staking rewards to investors. CoinShares has a similar strategy for its other staked ETPs, including polygon, tezos, polkadot, cardano, cosmos, matic, and algorand. The announcement comes as the \"crypto winter\" shows signs of thawing in 2023, with ethereum up 28.9% year-to-date and bitcoin up 36%. However, the industry is still feeling the effects of the FTX and terra fallout, with CoinShares and 21Shares closing their respective"
+    },
+    {
+        "title": "Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals - The Defiant - DeFi News",
+        "summary": "  Ethereum developers are launching a testnet on February 1st that supports staked ETH withdrawals. The testnet, called Zhejiang, will go live at 15:00 UTC and will be followed by a rehearsal of the network's upcoming Shanghai and Capella upgrades six days later. This is a significant milestone for Ethereum as it aims to enable staked ETH withdrawals sometime in March or April. The testnet will allow users to test partial and full withdrawals, as well as other Ethereum Improvement Proposals (EIPs) included in the upgrade. The news has boosted the performance of liquid staking derivative (LSD) providers, with many analysts expecting the next upgrade to further drive LSD adoption and eliminate the spread between ETH and LSD tokens."
+    },
+    {
+        "title": "OpenSea's Polygon NFT Sales Top Ethereum for Second Straight Month - Decrypt",
+        "summary": "  OpenSea's Polygon NFT sales have surpassed Ethereum for the second consecutive month, with over 1.5 million sales on Polygon compared to just over 1 million on Ethereum. While Ethereum still sees more overall value traded, Polygon is gaining traction as a destination for gaming NFTs and low-cost collectibles. The priciest and most desirable NFTs still live on Ethereum, but the sidechain network is seeing increased adoption for more affordable assets."
+    },
+    {
+        "title": "Ethereum's Shanghai fork is coming, but it doesn't mean investors should dump ETH - Cointelegraph",
+        "summary": "  Ethereum's upcoming Shanghai hard fork will enable ETH stakers and validators to withdraw their assets from the Beacon Chain, but it's unlikely that investors will dump their ETH en masse. The Shanghai upgrade will improve the Ethereum network and increase the staking yield, attracting more investors to stake their ETH. The liquid staking concept will also democratize Ethereum staking, allowing investors to stake smaller amounts of ETH. Despite the market downturn, Ethereum's developer activity has increased, and the network's success in switching from proof-of-work to proof-of-stake has set a precedent for faster upgrades in the future. Investors and stakers are advised to keep their ETH staked and generate passive income from staking rewards."
+    },
+    {
+        "title": "All Eyes on Liquid Staking Derivatives as Shanghai Upgrade Nears - Blockworks",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai hard fork is approaching, and liquid staking derivatives (LSD) are gaining momentum in the cryptocurrency market. LSD allows ether holders to participate in staking without locking up their tokens, making it more accessible to a wider range of users. The upgrade is expected to increase staking participation and drive liquidity in the Ethereum ecosystem. Other blockchains, such as Solana, are also exploring liquid staking derivatives to grow their total value locked (TVL). Alluvial, a liquid staking protocol, is partnering with Web3 teams to design a new liquid staking standard, dubbed 'Liquid Collective,' to attract enterprise-grade users to Web3."
+    },
+    {
+        "title": "Ethereum staking withdrawal testnet 'Zhejiang' set to launch Wednesday - CryptoSlate",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nEthereum staking withdrawal testnet 'Zhejiang' launches Wednesday, allowing validators to try out staking withdrawals in a practice environment without real funds. The testnet is a step towards introducing proper staking withdrawals on Ethereum, which are expected to be introduced on the mainnet in March. However, a definite date has not been set."
+    },
+    {
+        "title": "Market Maker B2C2 Teams With Blockdaemon, Stakewise to Provide Ethereum Staking Liquidity - CoinDesk",
+        "summary": "  Market Maker B2C2 partners with Blockdaemon and Stakewise to offer Ethereum staking liquidity. Users can earn derivative tokens in exchange for staked ETH, while the underlying assets remain locked in the proof-of-stake system. This comes as interest in liquid staking grows ahead of Ethereum's Shanghai upgrade, which allows stakers to withdraw their tokens."
+    },
+    {
+        "title": "Rocket Pool Community Voting Whether to Self-Limit Its Growth - CoinDesk",
+        "summary": "  Rocket Pool community votes on self-limiting growth to avoid becoming a single point of failure on the Ethereum network. Proposal suggests limiting the pool's size to reduce attack surface and ensure decentralization."
+    },
+    {
+        "title": "Polygon (MATIC) Killer? Top Analyst Says One Layer-2 May Have Legs To Become Dominant Ethereum Scaling Solution - The Daily Hodl",
+        "summary": "  Popular crypto analyst \"James\" predicts that Arbitrum, a layer-2 project, could become the dominant Ethereum scaling solution, potentially replacing Polygon (MATIC). Arbitrum has seen a significant increase in total value locked (TVL) from zero to approximately $1.22 billion in a short period, indicating strong adoption and growth. The analyst believes that Arbitrum's virtual machine architecture and potential to offer competitive solutions to Polygon make it a strong contender in the scaling market. However, it is important to note that investing in cryptocurrencies and digital assets is risky and should be done with caution."
+    },
+    {
+        "title": "ENS DAO's $16M ETH Sale Would Cover up to 2 Years Runway - Blockworks",
+        "summary": "  ENS DAO, which oversees Ethereum's decentralized naming system, is considering selling $16M worth of ETH to cover operational expenses for 2 years. The proposal would generate $13M in USDC, enough to cover salaries and other expenses. However, some community members are concerned about the risks of holding centralized tokens like USDC, and the potential for them to be blacklisted by the US government. The on-chain proposal vote is currently live and has received over 98% support."
+    },
+    {
+        "title": "Cathie Wood\u2019s Ark Invest Says Bitcoin Could Exceed $1 Million By 2030 - Ethereum World News",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCathie Wood's Ark Invest predicts Bitcoin could reach $1 million by 2030.\nPublic blockchains are seen as the future of money and contracts.\nArk Invest estimates BTC price could reach $1.48 million by end of decade (bull case).\nReport highlights strengthened network fundamentals and long-term focused holder base.\nBitcoin's value proposition as decentralized alternative is elevated due to crypto contagion."
+    },
+    {
+        "title": "New Bitcoin protocol may shake up the NFT market - Forkast News",
+        "summary": "  New Bitcoin protocol, Ordinals, allows for larger data insertion in transactions, enabling the creation of collectible images on the network, similar to NFTs. This capability was previously available but too small for practical use. The protocol has generated controversy, with some seeing it as a positive development for the network and others arguing it will increase demand and drive up fees. Despite this, the protocol has the potential to reshape the NFT market and dynamic between blockchains, and could prove to be the real innovation in the project. Some argue that using the network for frivolous purposes detracts from the original intention of Bitcoin's creator, while others see it as a necessary step in a decentralized world."
+    },
+    {
+        "title": "Is There a Long-Term Case for Crypto? With These 3 Coins, the Answer Is a Resounding Yes - The Motley Fool",
+        "summary": "  Title: Is There a Long-Term Case for Crypto? \ud83d\udcc8\n\nIn 2023, crypto is gaining recognition as a viable long-term investment option. \ud83d\udca1\n\n3 coins to consider for a long-term crypto portfolio: \ud83d\udcc8\n\n1. Bitcoin (BTC): \ud83d\udd25\n\t* \"The future of money\" \ud83d\udcb3\n\t* Survived multiple crashes, including one in 2011 where its price plummeted to $0.01 in days. \ud83d\udcb8\n\t* Could eventually supplant sovereign currencies. \ud83d\udcb0\n2. Ethereum (ETH): \ud83d\udcbb\n\t* Pioneered smart contracts in 2015 \ud83d\udd0d\n\t* Base for everything developers can build in the blockchain world \ud83c\udf1f\n\t* Now faster and more powerful than credit card networks \ud83d\udcb8\n3. Polygon (MATIC): \ud83d\ude80\n\t* Scaling solution for Ethereum "
+    },
+    {
+        "title": "Cool Cats Are Going Multi-Chain\u2014And Adding Customizable NFTs - Decrypt",
+        "summary": "  Cool Cats, a popular NFT project, is expanding beyond Ethereum with customizable, full-body avatars that can be used across multiple blockchain networks. The project is also introducing a new strategic direction and rebranding, with a focus on building for the future and removing friction for users. The announcements come after a tumultuous year for the project, marked by leadership departures and gripes from the community. The refreshed branding and new NFTs are aimed at reaffirming Cool Cats' status as a \"blue chip\" project in the Web3 space."
+    },
+    {
+        "title": "Top 5 Cryptos To Cop And HODL In 2023: Bitcoin, Ethereum, Big Eyes Coin\u2026 - Analytics Insight",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nTop 5 cryptocurrencies for 2023: Bitcoin, Ethereum, Axie Infinity, Decentraland, and Big Eyes Coin.\n\nBitcoin and Ethereum are the \"kings of crypto\" and must be included in any top 5 list.\n\nAxie Infinity and Decentraland are metaverse essentials, with Axie Infinity being a commerce and combat game and Decentraland being a decentralised virtual world platform.\n\nBig Eyes Coin is a new meme token that has raised over $20 million in presales and aims to become the biggest meme coin.\n\nThe article concludes by highlighting the diversity of the crypto portfolio and the potential for skyrocketing returns."
+    },
+    {
+        "title": "January Crypto Winners: Bitcoin had a great month but Ethereum rival Aptos led the January surge - Stockhead",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nJanuary was a good month for cryptocurrencies, with Bitcoin (BTC) posting a near 40% monthly gain, its best January performance since 2013. Other notable gainers include Aptos (APT), a new layer 1 protocol that has been pumping due to its Ethereum competitor narrative, and Render (RNDR), a metaverse/3D modeling project that saw a sudden surge without any major news. Other gainers include dYdX (DYDX), Fantom (FTM), Solana (SOL), and Frax Share (FXS), a liquid staking derivative protocol. On the losing side, the top 10 losers in the top 300 cryptos include dollar-pegged stablecoins, as well as Gala (GALA), a Web3 gaming protocol, and Artificial Liquid Intelligence (ALI), an AI-related project."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for February 28, 2023 - Finbold - Finance in Bold",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nMachine learning algorithm predicts Ethereum price for February 28, 2023.\n\nAlgorithm projects Ethereum price to be $1,555 on February 28, based on technical analysis indicators and developments in the Ethereum ecosystem.\n\nBullish factors for Ethereum include the launch of the Shanghai mainnet shadow fork in March and increasing on-chain activity.\n\nEthereum is currently trading at $1,575, with a market capitalization of $192.48 billion.\n\nDisclaimer: Investing is speculative and carries risk."
+    },
+    {
+        "title": "Top 5 Best Apps To Buy Ethereum In Nigeria 100% Trustworthy - Gadgetstripe News",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nTop 5 apps to buy Ethereum in Nigeria: Binance, Coinbase, Atomic Wallet, ZenGo Wallet, and Ethereum Wallet. These apps offer a convenient and secure way to buy Ethereum in Nigeria, with features such as P2P service, high security, and easy-to-use interfaces. Each app has its own advantages and is suitable for both beginners and experts."
+    }
+]

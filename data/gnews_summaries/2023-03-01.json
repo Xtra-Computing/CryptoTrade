@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Amazon Managed Blockchain (AMB) announces general availability of Ethereum Token-Based Access - AWS Blog",
+        "summary": "  Amazon Managed Blockchain (AMB) has announced the general availability of Ethereum token-based access, allowing customers to easily connect popular blockchain development tools with AMB Ethereum nodes. Customers can create an Accessor token through the AWS Console, CLI, or SDK, which provides interoperability with tools like ether.js, Hardhat, and Metamask. This simplifies the process of developing and deploying blockchain applications on AMB."
+    },
+    {
+        "title": "Upcoming Upgrades That Will Shape the Ethereum Ecosystem - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nUpcoming upgrades to the Ethereum ecosystem include rebranded and open-sourced ZK rollups, with Matter Labs' zkSync 2.0 and Scroll's zkEVM set to launch on the Goerli testnet. The updates aim to improve scalability and privacy on the Ethereum network."
+    },
+    {
+        "title": "Ethereum's ERC-4337 Account Abstraction Smart Contract is Live - Blockworks",
+        "summary": "  Ethereum's ERC-4337 Account Abstraction Smart Contract is Live\n\n* The Ethereum Foundation's ERC-4337 standard for account abstraction is now available on Ethereum mainnet.\n* The standard aims to change how users interact with wallet services by making accounts more flexible and secure.\n* Existing wallets, such as MetaMask and Ledger Nano, are externally owned accounts (EOA) that require users to remember a 12-word seed phrase to recover their account.\n* With account abstraction, users can use smart contract wallets with arbitrary verification logic and add more controls or features to their account.\n* The ERC-4337 standard is an opt-in standard that allows developers to create standardized wallets that can be used on any EVM chain.\n* The standard will introduce a new mempool for user operations, which will be serviced by \"bundlers\" similar to validators and miners.\n* The first protocol to comply with the ERC-4337 standard for bundlers is Stackup, which will allow developers to build customized Web3 transaction"
+    },
+    {
+        "title": "Do 'Ethereum killers' have a future? Here's what the crypto community says - Cointelegraph",
+        "summary": "  The crypto community is debating the future of \"Ethereum killers\" after several high-profile blockchain networks have faced outages and delays. Members of a Reddit forum discussed the likelihood of these networks succeeding in overtaking Ethereum, with some arguing that Ethereum's adoption and market capitalization make it difficult for any chain to dethrone it. Others pointed out that Ethereum is not invincible and that the space is still in its early stages, leaving room for competition. The debate comes after Solana, one of the most well-known Ethereum killers, suffered a network issue that led to transaction disruptions and criticism on social media."
+    },
+    {
+        "title": "How to Stake Ethereum With Liquid Staking - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nHow to stake Ethereum with liquid staking:\n\n1. Choose a liquid staking platform (Lido, Coinbase, Rocket Pool, Stakewise, Frax Finance)\n2. Set up an Ethereum wallet (recommend MetaMask)\n3. Use liquid staking to put your ETH to work\n4. Use your liquid tokens for DeFi applications or exchange them for ETH\n\nNote: Liquid staking allows you to earn rewards while supporting Ethereum's security, but there are complexities and risks to consider."
+    },
+    {
+        "title": "Vitalik Buterin Explains How Ethereum Could Improve User Experience - CryptoPotato",
+        "summary": "  Vitalik Buterin, the founder of Ethereum, has highlighted several issues with the network's user experience, including high transaction fees, payment delays, and complex interfaces. He believes that these issues need to be addressed to improve the adoption of decentralized solutions globally, particularly in Southern countries where centralized options are more popular due to outdated user experiences. Buterin has suggested that default gas limits should be improved, and wallet interfaces should be simplified to avoid confusion and losses. The EIP-1559 update has helped improve transaction processing times, but more work is needed to achieve global adoption."
+    },
+    {
+        "title": "Ethereum Says ERC-4337 Deployed, Tested, Beginning Era of Smart Accounts - CoinDesk",
+        "summary": "  Ethereum has deployed and tested ERC-4337, which enables the use of smart accounts to address issues with EOAs (Externally Owned Accounts). Smart accounts provide built-in mechanisms for users to keep access to their crypto assets even if they lose their private keys. This new feature aims to solve the problem of human error that leads to loss of access to crypto assets."
+    },
+    {
+        "title": "Ethereum price resistance at $1,750 could reflect traders' anxiety over the Shanghai upgrade - Cointelegraph",
+        "summary": "  Ethereum price faces resistance at $1,750, potentially due to traders' anxiety over the upcoming Shanghai upgrade. Despite a 9.8% price correction, the cryptocurrency's resilience is evident in its inability to break a six-week-long ascending channel. Ether derivatives metrics remain bullish, with increased demand for leverage longs and a relatively stable options market. The 25% delta skew indicator flirted with bearish levels but later improved. Fundamental analysts may be cautious about adding bullish positions ahead of the Shanghai upgrade, but options and futures markets suggest that professional traders are conservatively bullish."
+    },
+    {
+        "title": "'Account abstraction' supercharges Ethereum wallets: Dummies guide - Cointelegraph",
+        "summary": "  The article discusses the recent development in the cryptocurrency space, specifically the introduction of \"smart accounts\" which have the potential to revolutionize the way users interact with their crypto wallets. Smart accounts are an extension of the existing account abstraction technology, which allows users to access their crypto funds without the need for a seed phrase or complex technical knowledge.\n\nThe benefits of smart accounts include the ability to use a smartphone as a hardware wallet, the ability to set permissions for higher value transactions, and the ability to recover accounts in case of loss or theft. Additionally, smart accounts enable the use of decentralized applications and games, and allow for the creation of new use cases such as recurring payments.\n\nThe article highlights the work of various teams and projects, including Ethereum, StarkWare, and MetaMask, in developing and implementing smart accounts. It also provides a detailed explanation of how ERC-4337 works, including the role of bundlers in decentralizing the payment of transaction fees.\n\nOverall, the article presents smart accounts as a significant improvement in the cryptocurrency space, offering a more user-friendly and accessible way for users"
+    },
+    {
+        "title": "Ethereum ERC-4337 'smart accounts' launch at WalletCon: Account abstraction is here - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's new ERC-4337 standard, also known as \"smart accounts,\" is launching at WalletCon today. This standard enables account abstraction, which makes crypto user-friendly and accessible to the next billion users. Smart accounts use standard smartphone security modules as de facto hardware wallets, and users can set up accounts with monthly spending limits, use two-factor authentication, and recover accounts through time-locked social recovery. The technology has been in development for two years and is decentralized, meaning no centralized components are required to pay gas fees. This upgrade is expected to bring mainstream adoption to crypto."
+    },
+    {
+        "title": "Top-notch Ethereum coders bring BUIDLing vibe to Dubai - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nETHDubai, a top-notch Ethereum conference, will take place in Dubai on March 15-16, 2023. It aims to foster a strong developer community and provide in-depth Web3 and Ethereum content, with a focus on development skills enhancement and DeFi. The event features technical talks, workshops, a hackathon, and startup pitches, with a lineup of renowned speakers, including Luc Lamarche, Ansgar Dietrichs, and Sarang Parikh. ETHDubai is supported by leading organizations in the industry, such as the Ethereum Foundation, Arbitrum, and SushiSwap. The event is expected to attract over 1,000 developers and project creators, and will help grow the blockchain and crypto sector in the UAE."
+    },
+    {
+        "title": "Ethereum's moat reinforced in bear market; Solana has value | Insights - Bloomberg",
+        "summary": "  Ethereum's moat reinforced in bear market; Solana has value. L1 chains must show adoption metrics to sustain price appreciation. Active addresses are a valuable fundamental metric for most L1s, highlighting Solana's value. L1 sector has experienced a strong start to the year, but price momentum will need to be matched with strengthening fundamentals. Bloomberg analyst Jamie Douglas Coutts provides insights."
+    },
+    {
+        "title": "MakerDAO Lowers Fees as Ethereum (ETH) Shanghai Approaches - U.Today",
+        "summary": "  MakerDAO, a veteran DeFi protocol, has significantly lowered fees for its staking product based on RocketPool ETH (RETH) in preparation for the Shanghai upgrade on Ethereum's mainnet. The new fee structure has annual fees as low as 0.5%, making it the lowest among competitors. Additionally, the platform has introduced a more relaxed debt ceiling level, offering an attractive liquidation ratio for its RETH-A vault. This move is seen as a way to unlock new opportunities for potential stakers and take advantage of the upcoming \"unlock\" of ETH stakers' coins. As a result, Maker (MKR) is among the best performers today, with a 19% increase in the last 24 hours."
+    },
+    {
+        "title": "What We Need To Scale Blockchain Technology Into the Future - Blockworks",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nScalability is a major issue in the blockchain industry, as it cannot achieve decentralization, security, and scalability simultaneously.\n\nEthereum is the leading public blockchain in terms of development and has the largest DeFi ecosystem, making it an ideal foundation for building a scalable Web3.\n\nSKALE is a modular blockchain design native to Ethereum that provides infinite scalability for different types of blockchain applications.\n\nSKALE introduces interoperability and standardization of blockchain applications, allows developers to build with Solidity and full EVM-compatibility, and offers zero gas fees to users through a unique subscription fee model.\n\nSKALE has saved users over $700 million in gas fees and is already gaining traction within the EVM-developer community.\n\nThe upcoming release of SKALE ZK adds to SKALE's innovations and positions it as an innovator that's helping Web3 applications enjoy unprecedented scalability."
+    },
+    {
+        "title": "Polygon Launches Decentralized ID Service Powered By ZK Proofs - The Defiant - DeFi News",
+        "summary": "  Polygon, a popular Ethereum scaling solution, has launched a decentralized identity service powered by zero-knowledge proofs (ZKPs). The service allows users to verify their identity without publicly exposing sensitive information, and will be rolled out to an estimated 4 million users through partnerships with Collab.Land, The Sandbox, Fractal, and Kaleido. Polygon aims to provide a solution for Know-Your-Customer (KYC) checks, which are becoming increasingly common in the web3 ecosystem, and has allocated $1 billion towards ZK development. The service differs from rival identity solutions by using ZKPs to validate information without requiring sensitive data to be publicly uploaded on the blockchain."
+    },
+    {
+        "title": "Liquid staking TVL surpasses lending, becomes the second-largest among DeFi services - Forkast News",
+        "summary": "  Liquid staking TVL surpasses lending, becomes second-largest DeFi service. $14B locked in liquid staking, with 42% from Ethereum. Shanghai upgrade to allow withdrawals, Lido sees $240M inflow. Lido governance token up 200%, rivals up 100-140%."
+    },
+    {
+        "title": "Cryptocurrency price in India 1 March 2023: Bitcoin at $23,446, Ethereum up 0.32%, market traded mixed - India Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCryptocurrency prices in India on March 1, 2023:\n\n* Bitcoin decreased by 0.05% to $23,446\n* Ethereum increased by 0.32% to $1,635\n* Other cryptocurrencies saw mixed results, with some like Solana and Litecoin decreasing, while others like Stacks, ImmutableX, and Frax Share increased\n* Global crypto market cap decreased by 0.06% to $1.07 trillion\n* Total crypto market volume decreased by 0.47% to $45.06 billion\n* Meme coins like Shiba Inu and Dogecoin saw a decrease in value\n* Metaverse tokens like The Sandbox, Axie Infinity, and Decentraland saw a decrease in value."
+    },
+    {
+        "title": "Vitalik Buterin Shares His Experience on Crypto Payments - Crypto Times",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, shares his experiences with using crypto payments in various locations. He faced technical glitches and high transaction fees due to scaling issues, highlighting the need for better defaults and simple UIs. Buterin also notes that delays between transactions and confirmation timeframes are concerns, but the Merge and EIP-1559 have improved this. He concludes that good UX is about handling the worst-case scenarios and exposing more gritty details to users. Meanwhile, the Ethereum network is nearing another major upgrade, 'Shanghai'."
+    },
+    {
+        "title": "Everything you need know about Base, the newly launched layer-2 blockchain by Coinbase - CNBCTV18",
+        "summary": "  Coinbase, a leading cryptocurrency exchange, has launched a layer-2 blockchain network called Base, aiming to provide a secure, low-cost, and developer-friendly platform for building decentralized apps (DApps) on-chain. Base is built using Optimism's OP Stack and leverages Optimistic Rollups to reduce congestion on Ethereum and lower transaction fees. The network does not plan to launch a native token, but will use ETH as the native gas token. The launch of Base has positively impacted Coinbase's share price and other Optimism-based projects, such as Velodrome Finance. The launch of Base could help Coinbase achieve its goal of onboarding 1 billion users in the crypto economy and further develop the utility side of the exchange."
+    },
+    {
+        "title": "Crypto winter far from over, may once again be testing lower prices if not lower bottoms: Ajeet Khurana - The Economic Times",
+        "summary": "  Crypto market expert Ajeet Khurana predicts that the current winter may not be over yet, with prices potentially testing lower lows if not bottoms. Despite recent relief due to reduced interest rate hikes, the FTX and Luna crises have faded from memory, and new fraudulent activity has yet to emerge. Khurana highlights that the crypto market has only experienced four bull markets, with each preceding bear market featuring prolonged sideways movement. Currently, the market is awaiting new players and price increases, but the sentiment of crypto investors is decent, while non-crypto investors remain skeptical. Khurana advises investors to have buy orders at various prices and emphasizes the importance of research before entering the high-risk crypto market."
+    },
+    {
+        "title": "Crypto Prices Today March 1 Bitcoin, Ethereum Gain Over 1; Cardano, Shiba Inu Drop Almost 1 - Jagran English",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto prices were mixed today, with Bitcoin and Ethereum gaining over 1%, while Cardano and Shiba Inu dropped almost 1%. The global crypto market cap slightly increased by 0.99%. Major cryptocurrencies like Stacks, Maker, and BNB saw significant gains, while Cardano and Shiba Inu saw losses. Solana price rose 0.98%. US indices closed lower on Tuesday, as investors remain cautious about interest rates."
+    },
+    {
+        "title": "Ethereum Foundation Chooses Southeast Asia As Venue For Devcon 7 In 2024 - TronWeekly",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nEthereum Foundation selects Southeast Asia for Devcon 7 in 2024, choosing to grow the regional community and allow more time for it to mature. Four countries in the region rank high on the Global Crypto Adoption Index, providing a platform for their active and diverse community to showcase work. The decision to hold the event in 2024 allows for more time to plan and make the event top-notch, while also creating higher anticipation and making it more accessible for those who cannot travel to Devcon every year. The Foundation invites proposals from Southeast Asian communities and encourages attendance at other community-driven events to strengthen the builder ecosystem. The move is expected to have a significant impact on each attendee and the ETH community as a whole."
+    },
+    {
+        "title": "Shiba Inu Whale Moves 24 Trillion SHIB From Crypto Exchange To Cold Storage - Details - Bitcoinist",
+        "summary": "  A large transfer of Shiba Inu tokens, worth over $250 million, was moved from a top crypto exchange to a self-custody wallet. The transfer is the third largest Shiba Inu wallet in the world and the biggest that has not been identified as belonging to an exchange. The Shiba Inu community is also excited about the beta launch of Shibarium, the ecosystem's layer-2 protocol built on top of Ethereum. The recent transfer and launch reflect the community's sustained interest and growing importance in the cryptocurrency world."
+    }
+]

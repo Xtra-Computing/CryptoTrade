@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Ethereum, Arbitrum, and why L2 solutions are such a mess - Fortune",
+        "summary": "  Ethereum and other blockchains are facing scaling issues due to high demand, leading to the development of layer-2 (L2) solutions like Arbitrum and Optimism. These solutions aim to increase transaction capacity while keeping the chain orderly, but they often come with their own proprietary tokens, which can create friction and lead to inflated market capitalizations.\n\nThe main issue with L2 solutions is that they rely on venture capitalists for financing, which can lead to short-term thinking and a focus on token market capitalizations rather than long-term sustainability. This can result in half-baked solutions that are rushed to market without proper development and security measures.\n\nEthereum could scale more efficiently by incorporating scaling solutions directly into the main protocol, rather than relying on L2 tokens. However, Ethereum leadership has chosen to rely on L2 solutions due to the influence of Sand Hill Road, a hub for venture capitalists.\n\nThe L2 token model also creates issues for users, who face more costs and hoops to jump through. The author argues that Ethereum should evolve by disintermediating venture capitalists and embracing"
+    },
+    {
+        "title": "Ether is rallying ahead of major upgrade that will let holders more easily access their tokens - CNBC",
+        "summary": "  Ether (ETH) prices have surged to a nine-month high ahead of a major network upgrade, known as \"Shapella,\" which will allow holders to more easily access their tokens. The upgrade is expected to make ether a more profitable long-term investment, as it will allow holders to withdraw their assets without needing to use centralized exchanges or DeFi protocols. However, some analysts have expressed concerns that the release of a large amount of tokens could have a flooding effect on the market, leading to a potential price drop. The ratio of open interest in ether put and call options has reached its highest level since May, which could signal a buildup of bearish bets. Despite these concerns, many analysts are bullish on ether's long-term prospects, with some expecting a significant influx of capital onto the network once it proves that staked assets can be easily withdrawn."
+    },
+    {
+        "title": "Inventor of Ethereum\u2019s ERC-20 Token Standard Plans New Blockchain \u2018LUKSO\u2019 for Creative Types - CoinDesk",
+        "summary": "  The inventor of Ethereum's ERC-20 token standard, Gavin Wood, is launching a new blockchain called LUKSO for creative types. LUKSO will feature universal profiles with key managers, allowing users to add multiple keys to their on-chain accounts for different actions. The key manager will restrict specific activities of certain devices, and the multiple keys will provide a backup system in case a user loses access to a key."
+    },
+    {
+        "title": "Ethereum price turns bullish ahead of next week's Shanghai and Capella upgrades - Cointelegraph",
+        "summary": "  Ethereum price is surging ahead of the upcoming Shanghai and Capella upgrades, with the cryptocurrency reaching a seven-month high of $1,922. The price has momentum, driven by multiple positive price achievements, strong whale accumulation, and increased staking activity. The total value locked in the Ethereum network is also rising, with Lido's protocol comprising 22.4% of the TVL. Despite regulatory and macro headwinds, the decentralized finance market seems to be recovering. However, traders expect continued volatility in Ether price ahead of the upgrades."
+    },
+    {
+        "title": "What Is Ethereum\u2019s Shanghai/Shapella Upgrade? - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shapella upgrade is a hard fork that allows validators to withdraw staked ETH, which was previously locked up since December 2020. This upgrade has significant implications, as staked ETH accounts for about 16 million coins and a current value of over $26 billion. The most important development is EIP-4895, which enables validators to withdraw staked tokens. Other improvements include reducing gas costs for developers and addressing concerns related to developer gas costs. While Shapella is a relatively small upgrade compared to the Merge, it has the potential to impact those with staked ETH on the chain. Other upgrades to the Ethereum protocol are expected later in 2023, including improvements to the Ethereum Virtual Machine and a proposed split of the blockchain into multiple \"shards\" to enhance scalability."
+    },
+    {
+        "title": "Ethereum soars 8% \u2013 closes in on $2k ahead of Shanghai upgrade - Yahoo Finance",
+        "summary": "  Ethereum (ETH) has surged 8% in the past 24 hours, closing in on the $2,000 mark ahead of its upcoming Shanghai upgrade. The upgrade will transition Ethereum to a proof-of-stake (PoS) network, reducing energy consumption by 99.9% and enabling users to generate passive income through staking. This has boosted investor sentiment, with 30,188 traders being liquidated in the past 24 hours, mostly due to short positions being taken as the market gained value. However, dogecoin (DOGE) saw a 2.2% drop in the past 24 hours, likely due to day traders selling their positions after a 35% surge the previous day. Overall, the global cryptocurrency market cap has gained 2.5% in the past 24 hours, standing at $1.25tn."
+    },
+    {
+        "title": "As Ethereum Approaches $2,000, Watch These Resistance Levels - CoinGape",
+        "summary": "  Ethereum (ETH) has surged past $1,870 for the first time since August 2022, driven by steady accumulation of ETH sharks. The cryptocurrency has extended its 2023 gains to over 60% and is closing in on Bitcoin. However, liquidity remains a concern for both Ethereum and Bitcoin, with the Ethereum market depth on a downtrend since the FTX exchange collapse. The next critical resistance area for Ethereum is between $2,100 and $2,150, where over 200K addresses had previously purchased over 18M ETH."
+    },
+    {
+        "title": "Ethereum rises against Bitcoin as shappella upgrade nears - CryptoSlate",
+        "summary": "  Ethereum (ETH) has seen a 5% increase in value against Bitcoin (BTC) in the past week, with a 2.11% increase in the last 24 hours. The Shappella upgrade, scheduled for April 12, has contributed to the positive sentiment towards ETH. However, some analysts have expressed concerns about the potential selling pressure on the cryptocurrency due to unstaking. Despite this, ETH's supply on exchanges is currently at a low of 10.31%, indicating that investors are favoring self-custodial services. The asset has also seen an 8-month high in USD value and has risen 22% over the past month."
+    },
+    {
+        "title": "Ethereum Breaks $1900 Ahead of Shapella Upgrade, LSD Tokens Boom - DailyCoin",
+        "summary": "  Ethereum (ETH) has surged above $1900 for the first time since August 2022, driven by the upcoming Shapella upgrade and increasing demand for liquid staking derivatives (LSDs). LDO and RPL, two popular LSD tokens, have seen significant gains in value. However, the market remains uncertain due to weakening economic data and potential recession. As always, users should conduct thorough research before investing in the crypto market."
+    },
+    {
+        "title": "Ethereum's Shanghai Upgrade Could Bring $2.4B Selling Pressure to Ether: Observers - CoinDesk",
+        "summary": "  Ethereum's Shanghai upgrade may unlock $2.4B in selling pressure for ether, according to observers. Currently, 46.3% of staked ether is in profit, with 28.04% sitting on profits of over 20%."
+    },
+    {
+        "title": "3 key Ethereum price metrics cast doubt on the strength of ETH's recent rally - Cointelegraph",
+        "summary": "  Ethereum's recent price rally may be lacking in strength, according to three key metrics. The upcoming Shanghai hard fork could be a factor in the bullish momentum, but scalability and selfish validator risks remain a concern. Additionally, derivatives and on-chain DApp metrics suggest that Ether may fall below $1,850. The article cites a lack of confidence from traders and a failure to break above a neutral threshold in Ether futures premium, as well as a high 25% delta skew indicator, which indicates that market makers and arbitrage desks are overcharging for upside or downside protection. The article concludes that Ether faces serious problems due to scalability and transaction front-runs, and that the recent price rally may not be sustainable."
+    },
+    {
+        "title": "Ethereum\u2019s ERC-4337 Standard: A Game-Changing, User-Friendly Innovation - Decrypt",
+        "summary": "  Ethereum's ERC-4337 standard is a game-changing innovation that offers exclusive benefits to GG Membership Pass holders. It enables enhanced crypto transaction options, account abstraction, and privacy-preserving features on Ethereum and compatible networks. With ERC-4337, users can bundle and automate transactions, use biometric authentication, and store their wallet's private keys on a smartphone security module. The standard is designed to provide two benefits: making crypto wallets more user-friendly and preventing the loss of crypto or wallet access. ERC-4337 was implemented as a higher-abstraction layer to avoid compatibility issues and speed up the implementation of account abstraction on Ethereum. The update is expected to catalyze crypto adoption and keep Ethereum's market share, as other blockchains may need to incorporate their own versions of higher-level account abstraction to remain competitive."
+    },
+    {
+        "title": "Ethereum, LSD Tokens on the Rise Ahead of Next Week's Shanghai Upgrade - Yahoo Finance",
+        "summary": "  Ethereum's price surged 4.7% overnight ahead of its Shapella upgrade next week, which will enable withdrawals from staked Ethereum contracts and reduce risk for holders of liquid staking derivatives (LSDs). Governance tokens linked to liquid staking platforms like Lido DAO, Rocket Pool, and Frax Shares rose by double-digits in the past 24 hours, outperforming Ethereum's gains. Decentralized liquid staking platforms now account for 33.3% of total staked ETH, with Lido DAO leading the space. Shapella is the most significant Ethereum upgrade since its merge event last September."
+    },
+    {
+        "title": "CoinDesk\u2019s Ethereum Validator Enters Final Weeks, Sitting on More Than $30K of Gains - CoinDesk",
+        "summary": "  CoinDesk's Ethereum validator is in its final weeks, with over $30K in gains. On April 12, Ethereum will undergo a major upgrade, allowing validators to withdraw tokens in a process called \"unstaking.\" This is the biggest milestone for Ethereum since last September's \"Merge,\" when the proof-of-work blockchain was merged with the Beacon Chain. Watch parties are being planned for the event."
+    },
+    {
+        "title": "Ethereum, LSD Tokens on the Rise Ahead of Next Week's Shanghai Upgrade - Decrypt",
+        "summary": "  Ethereum is set to undergo a major upgrade next week, known as Shapella, which will enable withdrawals of staked Ether (stETH) from the network. This upgrade has led to a surge in the price of Ethereum and governance tokens linked to liquid staking platforms, such as Lido DAO, Rocket Pool, and Frax Shares. The price of Ethereum has jumped 4.7% overnight, outpacing Bitcoin's increase of 1.3%. LSD tokens have yielded higher percentage gains, with the top tokens recording up to 150% compared to Ethereum's near 65% gains year-to-date. Decentralized liquid staking platforms currently account for 33.3% of the total staked Ether."
+    },
+    {
+        "title": "Swiss Bank PostFinance to Roll Out Bitcoin, Ethereum Services for Clients - Yahoo Finance",
+        "summary": "  Swiss Bank PostFinance is partnering with digital assets bank Sygnum to offer regulated crypto services to its customers. The partnership allows PostFinance customers to buy, store, and sell cryptocurrencies such as Bitcoin and Ethereum through Sygnum's B2B banking platform. This integration is part of PostFinance's effort to meet customer demand for access to the crypto market while ensuring regulatory compliance. The partnership also enables PostFinance to provide revenue-generating services such as crypto staking. Sygnum's B2B offering currently includes 25 leading cryptocurrencies, 60+ trading pairs, and four leading fiat currencies."
+    },
+    {
+        "title": "Swiss Bank PostFinance to Roll Out Bitcoin, Ethereum Services for Clients - Decrypt",
+        "summary": "  Swiss bank PostFinance is partnering with digital assets bank Sygnum to offer regulated crypto services to its customers. The partnership will allow PostFinance customers to buy, store, and sell cryptocurrencies such as Bitcoin and Ethereum through Sygnum's B2B banking platform. This marks the fifth-largest financial services firm in Switzerland's entry into the crypto market, with a focus on security, regulatory compliance, and trust. PostFinance's CIO Chief Investment Philipp Merkt stated that the partnership is important for the bank's customers, who want access to the crypto market. Sygnum's chief B2B officer Fritz Jost added that the partnership represents an important step towards increased asset class adoption in Switzerland, with the country offering strategic advantages such as regulatory clarity and off-balance sheet segregation of crypto assets. Additionally, the partnership will enable PostFinance to provide revenue-generating services such as crypto staking, with Sygnum offering institutional-grade staking services for Ethereum, Cardano, Internet Computer, and Tezos."
+    },
+    {
+        "title": "Top Ethereum Teams Join Forces To Return MEV Profits To Users - The Defiant - DeFi News",
+        "summary": "  Top Ethereum teams have joined forces to combat Maximal Extractable Value (MEV) techniques that drain hundreds of millions of dollars from users' trades. MEV Blocker, a free RPC endpoint, redistributes 90% of MEV profits back to users, with searchers claiming the remaining 10%. The software was developed by CoW Swap in partnership with Agnostic Relay and Beaver Build, and launched with other partners including Balancer, Gnosis, 1inch, and Shapeshift. The move comes after an Ethereum validator stole $25M in a malicious attack on an MEV searcher, highlighting the need for better security measures."
+    },
+    {
+        "title": "Experts Expect Ethereum (ETH) To Break $2,000 Shortly, Here\u2019s Why - NewsBTC",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nExperts predict Ethereum (ETH) to break $2,000 soon due to its strong upswing and bullish technical indicators. ETH has broken out of its trading range and is getting tailwinds from a weak US Dollar Index (DXY). Analysts see the upcoming Shapella update as a potential bullish event, and the fact that holders can finally access their staked ETH could lead to increased liquidity and buying pressure. The chart pattern is forming a bullish flag, and the Cup & Handle pattern is a bullish signal that extends an uptrend, suggesting a buying opportunity. At press time, ETH is trading at $1,912, up 5% in the last 24 hours."
+    },
+    {
+        "title": "Grayscale investment funds outshine Bitcoin, Ethereum in 2023 - CryptoSlate",
+        "summary": "  Grayscale investment funds have outperformed Bitcoin and Ethereum in 2023, according to CryptoSlate. The company's Alpha membership provides cutting-edge insights and knowledge powered by Access Protocol, a web3 monetization paywall. Members must lock a minimum of 20,000 ACS tokens to access paywalled content, and CryptoSlate is not responsible for any losses associated with locking ACS tokens."
+    },
+    {
+        "title": "Top Trader Flips Bullish on XRP, Reveals Price Targets for Under-the-Radar Ethereum Altcoin Project - The Daily Hodl",
+        "summary": "  Top trader predicts XRP will reach $0.46, an Ethereum-based altcoin will surge, and DOGE will give up its gains. The trader, Altcoin Sherpa, uses the Fibonacci retracement tool to identify a potential support level for XRP and predicts a move to the upside. He also highlights the decentralized borrowing protocol Liquity (LQTY) as a potential swing trade, and notes that a bottom may have formed on the ETH/BTC chart, indicating an impending altcoin run. However, he also predicts a dip for ETH/BTC in the long term. Additionally, Sherpa believes Dogecoin will soon give up its recent gains."
+    },
+    {
+        "title": "Overseas crypto transfers cost 96.7% less - Forkast News",
+        "summary": "  Overseas crypto transfers cost significantly less than traditional methods, according to Coinbase research. Americans spend over $12B in remittance fees annually, but crypto transfers cost 96.7% less. This could lead to a major disruption in the traditional remittance industry. Related article: Ripple partners Novatti to use XRP for remittances in Asia Pacific. Fast facts: - Americans spend over $12B in remittance fees annually - Crypto transfers cost 96.7% less than traditional methods - Coinbase conducted the research - Ripple partners Novatti for remittances in Asia Pacific"
+    },
+    {
+        "title": "Ethereum Price surpassed $1.9K, Hype of Shanghai upgrade? - Crypto Times",
+        "summary": "  Ethereum price surged to $1,921, its highest in 2023, driven by the upcoming Shanghai upgrade and bullish momentum in the cryptocurrency market. The market capitalization increased by 1.44% to $1.21 trillion. The Shanghai upgrade, scheduled for April 12, will allow validators and stakeholders to withdraw staked ETH from the Beacon Chain. The rise in Bitcoin price also contributed to the ETH surge. The ETH/BTC pair increased by 1.76% to 0.6724 satoshis. The Ethereum price is currently at $1,912 with a 2.41% overnight gain, reaching $230.3 billion in market capitalization. The price climbed above the 400-day simple moving average on the daily price chart, with bulls attempting to push it further up the ascending parallel channel."
+    },
+    {
+        "title": "Bitcoin whales push 'choreographed' BTC price as Ether nears $2K - Cointelegraph",
+        "summary": "  Bitcoin (BTC) price is rising, driven by large whale orders on exchanges like Binance. The price is pushing towards $29,000, but some analysts are skeptical of the move, suggesting it could be a \"choreographed\" attempt to push the distribution range higher in the short term. Meanwhile, Ether (ETH) is approaching $2,000, with funding rates on exchanges hinting at further upside."
+    },
+    {
+        "title": "SubQuery launches Web3 data indexing on Ethereum to challenge The Graph - Finbold - Finance in Bold",
+        "summary": "  SubQuery, a Web3 data indexing toolkit, has launched beta support for Ethereum, allowing developers to quickly and easily organize and query on-chain data. SubQuery is faster than The Graph, with a 1.85x speed advantage, and offers more freedom and control for developers. The company is working towards making the protocol decentralized and tokenized, and plans to launch the SubQuery Network, which will index Ethereum projects and those from other supported networks."
+    },
+    {
+        "title": "What are sandwich attacks and how did an Ethereum validator execute one to steal $25 million in cryptocurrency - CNBCTV18",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCryptocurrency theft has increased due to network security issues. Recently, an Ethereum validator executed a $25 million sandwich attack on a Maximal Extractable Value (MEV) bot. Sandwich attacks are malicious blockchain attacks that exploit smart contract vulnerabilities. The attacker pretended to be an Ethereum validator and launched a sandwich assault, replacing automated trades to steal the funds. The stolen amount is stored in three addresses. Data security firm CertiK reported that $27 million worth of exploits have occurred via MEV bots since September 2022."
+    },
+    {
+        "title": "Ethereum Price Prediction - Will ETH Rally as Traders Back New Green Token Ecoterra? - Cision News",
+        "summary": "  Ethereum's price surged 4% on Tuesday, reaching $1,873, its highest level since mid-August. The cryptocurrency's weekly gains outpaced Bitcoin's, with ETH/BTC rising from 0.064 to 0.066. The network is set to undergo the Shapella upgrade on April 12, which will allow users to withdraw their staked assets for the first time since the Beacon Chain rolled out in November 2020. The upgrade could lead to a significant price runup, similar to the one seen after the Merge. Additionally, the launch of the eco-friendly token ecoterra may attract attention to Ethereum's ecosystem from environmentally conscious investors. The token has raised over $50,000 in its presale and features a max supply of 2,000,000,000 tokens."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum's Shapella Upgrade Drives Liquid Staking Token Gains Higher Than ETH - Decrypt",
+        "summary": "  Ethereum's Shapella upgrade has driven gains in liquid staking tokens higher than ETH itself, with some tokens recording up to 150% year-to-date gains. This is despite ETH's 4.7% overnight increase, outpacing Bitcoin's 1.3% increase. The upgrade will enable ETH withdrawals from staking contracts, which appears to have triggered the surge in liquid staking tokens."
+    },
+    {
+        "title": "Incore Bank Signs Maerki Baumann as First Client For SDX Ethereum Staking - Fintech Schweiz Digital Finance News ... - Fintechnews Switzerland",
+        "summary": "  Incore Bank, a Swiss private bank, has partnered with SDX Web3 to offer Ethereum staking services to their clients. This collaboration allows Incore Bank to provide fully compliant KYC and AML regulated staking capabilities to their clients. Maerki Baumann, a Zurich-based private bank, will be the first client to use this service. Staking is a way for individuals to participate in securing a blockchain network by pledging crypto-assets and earning rewards in exchange. This partnership strengthens the Swiss digital asset ecosystem and enables key market players to provide value-adding capabilities like staking to their clients."
+    },
+    {
+        "title": "Cryptocurrency Prices Today April 05: Bitcoin, Ethereum & Tether up - Moneycontrol",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCryptocurrency prices are mixed today, with Bitcoin up 0.61%, Ethereum up 3.2%, and Tether up 0.62%. The global crypto market cap is $1.20 trillion, with a 2.88% increase in the last day. Binance has lost 16% of its global market share amid regulatory crackdown. Donald Trump's NFT collection has seen a 133% sales spike. Crypto market volume is $45.04 billion, with a 6.88% decrease in the last 24 hours."
+    },
+    {
+        "title": "Bitcoin Swings Back-And-Forth After Fed's Interest Rate Hike \u2013 Ethereum Staring At Downward Correction, Big Eyes ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin and Ethereum are experiencing price volatility due to the US Federal Reserve's interest rate hike and regulatory uncertainty. Bitcoin has been trading between $27,000 and $30,000, while Ethereum has fallen below $1,700. Big Eyes Coin, a new meme token, has raised $32.5 million in its presale and launched its Initial Coin Offering (ICO). The project offers a 250% bonus for purchasing tokens or loot boxes, which can provide a maximum return of $1,000,000. The article highlights the challenges facing the cryptocurrency industry due to the SEC's crackdown and regulatory uncertainty."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Ethereum Scales 8-Month High, LDO Becomes Top Gainer - ABP Live",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) reached an 8-month high, scaling $1,900, while Bitcoin (BTC) remained stable within the $28,000 range. Other altcoins also saw gains, with Lido DAO (LDO) emerging as the top gainer. The global crypto market cap rose by 1.09% to $1.20 trillion. Mudrex co-founder Edul Patel and WazirX Vice President Rajagopal Menon provided insights on the current market scenario."
+    },
+    {
+        "title": "SubQuery Launches Web3 Data Indexing in Ethereum - Analytics Insight",
+        "summary": "  SubQuery, a web3 data indexing toolkit, has launched beta support for Ethereum, offering a faster and more flexible alternative to The Graph. SubQuery's indexing solution allows developers to easily organize and query on-chain data, with the ability to support enterprise-level projects and decentralize the protocol. The integration with Ethereum builds on SubQuery's existing support for other networks, including Avalanche, Flare, Cosmos, and Polkadot. The company is currently focused on decentralizing and tokenizing the protocol to build the SubQuery Network, which will index and service data from projects to the global community in an incentivized and verifiable way."
+    },
+    {
+        "title": "Top 10 Legit Sites to Earn Ethereum for Free - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nTop 10 legit sites to earn Ethereum for free:\n\n1. CoinApp: Geo-mining app for phone usage\n2. Rewards1: GPT site with surveys, offers, and more\n3. Latium: Freelancing network with various tasks\n4. PicoWorkers: Website visitation and member sign-ups\n5. Bituro: GPT software with semi-regular incentives\n6. Prediqt: GPT app with movie watching, surveys, and cashback\n7. Microwork: GPT platform for short tasks\n8. Peer2Profit: Passive income through idle internet bandwidth sharing\n9. Idle-Empire: GPT site with movie watching, surveys, and referrals\n10. Freecash: GPT site with offers, surveys, and referrals, with Ethereum as one of the payment options."
+    },
+    {
+        "title": "Top 5 Cryptocurrencies to watch in April 2023 if you want to make money - Nairametrics",
+        "summary": "  Top 5 cryptocurrencies to watch in April 2023:\n\n1. Bitcoin (BTC): Despite a 23% gain in March, Bitcoin faces resistance at $30,000. A breakthrough of this resistance could lead to further upward momentum.\n2. BNB Chain's BNB (Binance Coin): BNB faced a 5.5% drop after the US Commodity Futures Trading Commission sued Binance and its CEO, Changpeng Zhao. However, the coin stabilized on March 28 and could potentially fall further if regulatory actions continue.\n3. Ethereum's Ether (ETH): Ether's short-term and long-term trends are skewed towards the bulls, with increased accumulation by whale cohorts. The upcoming Shanghai and Capella upgrades could enable stakers to withdraw ETH, which could boost the coin's price.\n4. XRP (XRP): Ripple's chances of winning its court case against the Securities Exchange Commission (SEC) improved"
+    },
+    {
+        "title": "Shiba Inu: Shibarium To Become More Decentralized Than ETH - Bitcoinist",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nShiba Inu's layer-2 scaling solution, Shibarium, may become more decentralized than Ethereum according to development firm Unification. Unification aims to decentralize EVM node operations through its upcoming tool UNODE, which will use FUND as the gas. UNODE is scheduled to launch before the end of 2023 and will provide exclusive utilities to FUND token holders. Unification's technology also includes the Oracle of Oracles, a permission-free master oracle that combines data from centralized and decentralized exchanges. The OoO service will be integrated into the SHIB ecosystem, including ShibaSwap, Shiboshi NFTs, and Shibarium. The current development status of Shibarium is in an early beta stage with a focus on delegating/staking."
+    },
+    {
+        "title": "Ethereum Shanghai Upgrade / Shapella Hard Fork is here: Report - The Coin Republic",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum is set to launch the Shanghai upgrade and Shapella hard fork on April 12, which will allow for un-staking of ETH. However, there is uncertainty among investors and analysts about the potential effects on the market, with some fearing a negative influx and drop in value. The upgrade is expected to increase the capacity of the blockchain to handle transactions per second and reduce gas fees. Despite this, some analysts predict that the supposed selling pressure could be in billions of dollars. The article also highlights that not every staker will un-stake their assets all at once, and the distribution of selling pressure over a longer period could provide buying opportunities. The prices of ETH are currently rising, supported by upward-moving EMA, and could enter a supply zone if it breaks through immediate support."
+    },
+    {
+        "title": "Ethereum token ETH on its way to $2K outpacing Bitcoin \u2013 altseason ahead? - CoinChapter",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nEthereum token ETH has reached $1,900, with a potential target of $2,300 in Q2 2023. ETH/BTC chart shows a 7% weekly advantage for Ethereum against Bitcoin, with a possible path to $2,000. However, it's too early to call for an altseason, as the altseason index is only at 27 out of 100. The market is still in the early stages of moving towards an altseason, with Ethereum potentially outperforming Bitcoin in the future."
+    }
+]

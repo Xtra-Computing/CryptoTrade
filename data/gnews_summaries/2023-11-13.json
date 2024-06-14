@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "title": "Is Ethereum once again the victim of its own success? - Forkast News",
+        "summary": "  Ethereum is facing a potential liquidity crunch as the amount of ETH being staked continues to rise, potentially reaching 50% by May 2024 and even 100% by December 2024. This could limit the functionality of the blockchain ecosystem and decentralized apps built on top of it. To address this issue, Ethereum developers have approved a proposal to control the rate at which new validators can stake ETH, known as EIP-7514. However, this proposal does not address the underlying problem of staking incentivizing locking up funds over keeping them liquid.\n\nTo solve this issue, alternative services that offer yield-bearing accounts without the need for staking are needed. These accounts would allow users to generate returns on their Ethereum without having to lock up their assets for extended periods of time. They would also be more user-friendly and less reliant on the DeFi market, which has seen an 80% contraction over the past year.\n\nTo implement such services, it is essential to separate assets used for growth opportunities from those used for savings, and to ensure that users"
+    },
+    {
+        "id": 4,
+        "title": "Ethereum research explores zk-based privacy for mainnet - Blockworks",
+        "summary": "  Ethereum research explores zk-based privacy for mainnet using Solidity, the primary programming language on Ethereum. New study aims to enable private transactions and improve MEV resistance by leveraging zk-SNARKs. Technical barriers include single-threaded nature of Solidity and ensuring auditability. If successful, this could reduce gas fees on Ethereum and concentrate transaction activity on the mainnet. Open-source nature of the research allows for further development and contribution by the Solidity community."
+    },
+    {
+        "id": 9,
+        "title": "Solana Overtakes Ethereum By Active Users After 70% Spike - The Defiant - DeFi News",
+        "summary": "  Solana has surpassed Ethereum in terms of daily active users, with 356,300 unique users on November 11, compared to Ethereum's 330,000. This increase in activity is attributed to Solana's recovery from last year's bear market and the recent cryptocurrency rally. Despite this, Ethereum's Layer 2 networks still account for the majority of activity, with over 800,000 users active on the top seven Layer 2 networks in the past day, combined with the Ethereum mainnet."
+    },
+    {
+        "id": 10,
+        "title": "Solana Hits New Annual High At $58 \u2014 Analyst Predicts 'Ethereum Killer' Could Skyrocket To $1000 - Nasdaq",
+        "summary": "  Solana (SOL) has reached a new annual high of $58, with analyst Jacob Canfield predicting it could reach $1000. Canfield's analysis is based on several indicators, including the Solana Dominance (SOL.D) chart, which suggests that Solana could enter a parabolic rally phase. He believes that if Solana continues to trend against Bitcoin (BTC), it could easily reach $1000 per coin and claim the second spot behind Bitcoin. The gains for Solana have been fueled by the broader uptrend in the cryptocurrency market and an increasing appetite for risk among investors. Interestingly, Solana\u2019s upward trajectory coincides with the daily selling of 250,000 to 750,000 SOL tokens by the FTX bankruptcy estate over the past two weeks."
+    },
+    {
+        "id": 14,
+        "title": "The Rise of Zero-Knowledge Rollups in Ethereum Scaling - hackernoon.com",
+        "summary": "  Zero-knowledge rollups are gaining popularity as a scaling solution for Ethereum due to their ability to outsource computation while maintaining decentralization and security. They offer faster transaction finality times and better user privacy compared to optimistic rollups."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum Wallet Drainer Steals $60M in Six Months - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEthereum wallet drainer steals $60M in six months. CoinDesk's Consensus 2024 event brings together crypto, blockchain, and Web3 communities. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "id": 16,
+        "title": "Fidelity follows BlackRock - files for Ethereum ETF - Brave New Coin",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nFidelity has filed to create a spot Ethereum ETF that would be listed on an exchange owned by CBOE Global. This follows BlackRock's similar filing last week. The ETF would allow investors to gain exposure to Ethereum without having to purchase it directly. The filing states that U.S.-based crypto exchange Coinbase will be the custodian for the ETH held by the ETF, while an unnamed third party will hold its cash. The approval of multiple ETF applications is expected to lead to institutional adoption of crypto assets in 2024. However, the status of ETH in the eyes of the SEC is murky and could be a complication in the approval process."
+    },
+    {
+        "id": 17,
+        "title": "Tokenum Unveils Innovative Gasless Platform for the Ethereum Blockchain - A Game-Changer for the World of ... - Yahoo Finance",
+        "summary": "  Tokenum, a cryptocurrency platform, has introduced a revolutionary \"gasless technology\" that simplifies transactions and token offerings on the Ethereum blockchain. This innovation eliminates the need for users to pay gas fees in a different currency, making cryptocurrency more accessible to a broader audience. Tokenum's gasless technology has already been alpha tested and is scheduled for an accelerated beta release within a week. The platform's AI-powered CEO, Takeshi Tokenai, believes that Tokenum is poised to become a major player in the future of cryptocurrency. The company is offering giveaways and opportunities on popular crypto-community platforms and is inviting users to join the conversation on its X channel (formerly Twitter). For more information, please visit Tokenum's official website."
+    },
+    {
+        "id": 18,
+        "title": "Bitcoin, Ethereum catch the attention of these whales - AMBCrypto English",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 Bitcoin and Ethereum transactions valued at over $100,000 have increased by 80% and 170%, respectively.\n\ud83d\udcc8 Large investors and institutions are driving the growth, with a spike in transactions on both coins.\n\ud83d\udcca The Whale Transaction Counts for Bitcoin and Ethereum show consistent activity, with peaks in November.\n\ud83d\udcb0 Despite minor setbacks, Bitcoin and Ethereum maintain their new price ranges, with bullish trends continuing."
+    },
+    {
+        "id": 22,
+        "title": "Has The Ethereum Price Bull Market Train Left The Station? - CoinGape",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum (ETH) is showing signs of a potential bull market, with a recent upgrade and increased adoption driving growth. The Cancun upgrade, scheduled for Q1 2024, aims to improve scalability and security, while the recent filing for a spot Ethereum ETF has created buzz in the crypto sphere. The daily and weekly charts suggest a possible recovery, with resistance levels at $2440 and $2900, respectively. However, a breakthrough above these levels could signal an emerging bullish grip on the market."
+    },
+    {
+        "id": 23,
+        "title": "Ethereum feature abused to steal $60 million from 99K victims - BleepingComputer",
+        "summary": "  Ethereum's \"Create2\" function has been exploited by malicious actors to steal $60 million from 99,000 victims in the past six months. Create2 allows for advanced and flexible contract interactions, but also introduces new security risks. Attackers are using it to generate fresh contract addresses with no history of malicious transactions, bypassing wallet security alerts. They are also creating addresses that resemble legitimate ones owned by the recipient, tricking users into sending assets to the threat actors. Scam Sniffer, an anti-scam specialist, has recorded 11 victims losing nearly $3 million, with one of them transferring $1.6 million to an address resembling one they had sent money to recently. To avoid falling victim to these scams, it is recommended to thoroughly check the recipient's address before approving it, and not just the first and last three-four characters."
+    },
+    {
+        "id": 32,
+        "title": "Solana Rally Cools as Bitcoin and Ethereum Hold Steady and These Alts Surge - Decrypt",
+        "summary": "  Solana's rally has cooled down, with the token down 5% in the past day. Despite this, Solana is still up 40% in the past week. Bitcoin and Ethereum are down, with Bitcoin trading at $36,839 and Ethereum at $2,096. Other altcoins, such as Filecoin's native token FIL, are experiencing gains, with FIL up 10% in the past day and 23% in the past week. Polygon (MATIC) and Cosmos (ATOM) are also up significantly."
+    },
+    {
+        "id": 36,
+        "title": "Margined Bitcoin and Ethereum Futures Launching on Cboe in January - Decrypt",
+        "summary": "  Cboe Digital, the digital asset arm of the Chicago Board Options Exchange, will launch margined Bitcoin and Ethereum futures on January 11. This will allow traders to use leverage to make bets with the hope of bigger returns. The move will make Cboe Digital the first platform to offer both spot and leveraged derivatives trading in one place. Several trading firms will provide liquidity to support the launch. While the futures market is large, Ethereum futures exchange-traded funds (ETFs) have had a slow start in the US."
+    },
+    {
+        "id": 41,
+        "title": "SOL becomes institutional investors' choice over Ethereum as Solana price sustains above $50 - FXStreet",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nSolana (SOL) has become the most in-demand asset for institutional investors, surpassing Ethereum (ETH). According to CoinShares' weekly report, SOL saw inflows worth $12.4 million in the past week, bringing the year-to-date inflows to $121 million. This is a significant increase from ETH's $62 million inflows in the same period. The Grayscale Solana Trust (GSOL) has also seen a premium of 378% since October, indicating strong investor demand. However, Solana's price has reversed after a recent rally, trading at $52.41 with a 7% decline on the 3-day chart. The next few days may see gradual declines followed by a potential reversal in the token's price."
+    },
+    {
+        "id": 43,
+        "title": "Former Polygon Labs President Ryan Wyatt Joins Ethereum Layer-2 Optimism - Decrypt",
+        "summary": "  Former Polygon Labs President Ryan Wyatt has joined Ethereum layer-2 scaling network Optimism as Chief Growth Officer. Wyatt will build a team to support adoption and development on Optimism across various functions, including business development, marketing, partnerships, and more. He believes that Optimism has the potential to be a major player in the decentralized network space and is excited to be a part of its growth. Wyatt previously helped to court mainstream brands to build on Polygon, and he plans to use similar tactics to drive adoption for Optimism. He also sees gaming as a significant focus for Optimism, as he believes that digital item ownership will be important in the industry."
+    },
+    {
+        "id": 46,
+        "title": "Cryptos surge as BlackRock Ethereum ETF plan is confirmed - Nasdaq",
+        "summary": "  BlackRock has filed for an Ethereum exchange-traded fund (ETF), which could lead to greater institutional involvement and liquidity in the crypto market. This news has caused the price of Bitcoin and Ethereum to surge. Other crypto-related stocks to keep an eye on include Marathon Digital, MicroStrategy, Coinbase Global, and Riot Platforms. These stocks have seen significant gains this year, but some have failed to catch a bid off recent sector headlines. The SEC is still considering approval for a spot Bitcoin ETF, with speculation growing about an early January approval."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum (ETH) Price Surge Halted for Now: Here's When It Might Start Again - U.Today",
+        "summary": "  Ethereum's price has paused after a recent surge, with investors wondering when the rally will resume. Analyzing the chart and recent headlines provides insights into possible future scenarios. If Ethereum maintains its support level and avoids falling below the moving averages, the price may gear up for another rally. However, a break below the moving averages could signal a bearish reversal. Recent data on Ethereum's burn rate shows steady growth, which could influence the supply and demand economics and potentially affect the price. Meanwhile, Shiba Inu (SHIB) has been grabbing attention with its recent price actions and potential breach of the $0.00001 threshold. The technical setup for SHIB is promising, but investors should remain cautious due to the volatility and sensitivity to market sentiment."
+    },
+    {
+        "id": 49,
+        "title": "Forecast: Can Ethereum Price Reach $2,500 as Whales Add $210M to Overheated Market? - FX Empire",
+        "summary": "  According to FX Empire, the price of Ethereum may reach $2,500 as whales have added $210M to the overheated market. However, it's important to note that the content provided on the website is for educational and research purposes only and should not be taken as any recommendation or advice to make any investment or buy any product. It's recommended to perform your own due diligence checks and consult your competent advisors before making any financial decisions. Additionally, the website may include advertisements and other promotional contents, and FX Empire may receive compensation from third parties in connection with the content. It's important to understand the risks involved with cryptocurrencies and CFDs and to carefully consider whether you can afford to take the high risk of losing your money."
+    },
+    {
+        "id": 51,
+        "title": "Expert predicts Ethereum's last hurdle before surge to $3600 - Finbold - Finance in Bold",
+        "summary": "  Ethereum (ETH) expert Micha\u00ebl van de Poppe predicts that the cryptocurrency will surge to $3,600 after breaking above $2,150. The current price of $2,090 indicates a positive trend, with a 1.88% increase in the past 24 hours and a 34.89% gain in the past 30 days. ETH has outperformed 69% of the top 100 crypto assets in the past year, with a 69% increase in value. Van de Poppe suggests that breaking above $2,150 marks the end of the bear market for ETH, with a projected value above $3,000. However, it's important to note that investing in cryptocurrency is speculative and carries risk."
+    },
+    {
+        "id": 56,
+        "title": "Ethereum Price Prediction: Here\u2019s What\u2019s Coming Next If ETH Upholds $2k Support - CoinGape",
+        "summary": "  Ethereum price is struggling to hold a key support level of $2,000, which could determine the direction of the cryptocurrency's future price movements. If the support holds, Ethereum could potentially break out to $2,500 and $3,000. However, if the support is broken, the price could fall to lower levels.\n\nThe recent filing of a spot ETF by BlackRock has generated interest in Ethereum, causing other cryptocurrencies to rise as well. Ethereum's assets under management (AUM) have seen a significant inflow of $49 million, the highest since August. This bullish sentiment is likely related to the recent spot-based ETF listing request in the US.\n\nThe Ethereum price has started the new week in the green, up 8% in the last seven days and 32% in the last month. Although the price was rejected at the resistance level of $2,130, a minor dip could confirm the strength from the support at $2,000 and lead to a short consolidation period before another breakout.\n\nThe MACD indicator is showing"
+    },
+    {
+        "id": 60,
+        "title": "Tether Issued 4B USDT on Tron and Ethereum Networks: Report - Cryptonews",
+        "summary": "  Tether, a major stablecoin issuer, has increased its issuance of USDT tokens by $4 billion in the past month, with $1 billion each on the Tron and Ethereum networks. Tether's CTO, Paolo Ardoino, explained that the $1 billion on Tron is an inventory replenishment and not an issued transaction, meaning it will be used for future issuance requests and chain swaps. Tether aims to print 22.75 billion USDT in 2023, with 13 billion on Tron and 9.75 billion on Ethereum. The issuer has been actively minting new tokens and burning a preset amount to maintain the $1 peg. Tether is also working on new crypto-backed products scheduled for release in 2024."
+    },
+    {
+        "id": 61,
+        "title": "BlackRock's Ethereum Spot ETF: What Does It Mean for Investors? - Bybit Learn",
+        "summary": "  BlackRock's Ethereum Spot ETF launch means investors can now gain exposure to Ethereum through a traditional ETF. This could lead to increased mainstream adoption and higher prices. Sign up with Bybit today and earn up to 5,000 USDT in rewards, including a 20 USDT coupon instantly."
+    },
+    {
+        "id": 62,
+        "title": "Arthur Hayes Predicts Bitcoin to Reach $1 Million and Ethereum to Hit $100,000 - Coinspeaker",
+        "summary": "  Arthur Hayes, a prominent crypto figure, has predicted that Bitcoin (BTC) could reach $1 million and Ethereum (ETH) could hit $100,000. Hayes made this prediction after visiting Rapa Nui (Easter Island) and receiving guidance from his ancestors. He believes that the bull market is now and that the digital asset industry is set to take off after a prolonged crypto winter. Hayes has also previously predicted that BTC could reach $750,000 to $1 million by the end of the current decade, and introduced the concept of \"The Doom Loop\" to explain how countries will finance their deficits, leading to a bull market in crypto assets. Additionally, veteran crypto trader and analyst Peter Brandt has forecasted that BTC could reach $43,200 this year."
+    },
+    {
+        "id": 69,
+        "title": "Ethereum transaction fee climbs above 219% - Cryptopolitan",
+        "summary": "  Ethereum transaction fees have surged by 219% in the past three weeks, reaching an average of $6.64 per transaction. This increase is attributed to the shared factor of gas expenses and the growing demand for Ethereum's smart contract capabilities. The median fee for Ethereum transactions is $2.70, while complex operations like interacting with a smart contract incur fees ranging from $27.77 to $28.50. The rise in fees highlights the cost-effectiveness of different blockchain operations and the increasing complexity of transactions in the evolving digital financial ecosystem."
+    },
+    {
+        "id": 70,
+        "title": "Raoul Pal Predicts Ethereum's Superior Performance Over Bitcoin in Crypto Market - CryptoGlobe",
+        "summary": "  Raoul Pal, a well-known financial expert, predicts that Ethereum will outperform Bitcoin in the current market phase based on the Tom DeMark Sequential indicator. The indicator showed a specific pattern in the ETH/BTC cross, indicating that Ethereum is likely to outperform Bitcoin. Pal also highlighted the significance of Ethereum-based exchange-traded funds (ETFs), which he believes are a profitable venture for asset managers."
+    },
+    {
+        "id": 71,
+        "title": "What are the Rewards from the Top blockchain games on Ethereum? - Cryptopolitan",
+        "summary": "  Here are the top blockchain games on Ethereum that offer exciting rewards and incentives:\n\n1. Illuvium - a open-world RPG where players capture and battle deity-like creatures called Illuvials.\n2. Guild of Guardians - a multiplayer fantasy action RPG where players assemble their dream team of 'Guardians' and climb the ranks of their guild.\n3. CryptoKitties - a virtual pet game where players can purchase, breed, trade, and collect their favorite digital cats.\n4. The Sandbox - a unique gaming platform where players can create, own, and monetize their game experiences.\n5. Axie Infinity - a digital pet universe where players can collect and battle their favorite Axies.\n6. Decentraland - a virtual world powered by the Ethereum blockchain where users can create and explore 3D experiences.\n7. My Neighbor Alice - an exciting virtual world experience that combines collecting and building elements.\n8. League of Kingdoms - a free-to-play MMO war strategy game that runs on a blockchain"
+    },
+    {
+        "id": 72,
+        "title": "Weekly Highlights: Bitcoin & Ethereum Hold Strong, Altcoins Shines - TronWeekly",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 Altcoins shine as Bitcoin and Ethereum hold strong, with THORChain (RUNE) leading the pack with a 53% surge. Solana (SOL) and Avalanche (AVAX) follow closely, with Polygon (MATIC), Chainlink (LINK), and Cosmos (ATOM) also reporting gains.\n\n\ud83d\udcc8 Bitcoin and Ethereum see a slight decrease in price, but overall market is optimistic with funding rates hitting yearly highs. Santiment highlights Ethereum's on-chain health and chances of continued growth.\n\n\ud83d\udcb0 Market capitalization reaches $2 trillion, with altcoins making up a significant portion of the gains. Investors watch for SEC approval of Bitcoin ETFs and potential impact on the market."
+    }
+]

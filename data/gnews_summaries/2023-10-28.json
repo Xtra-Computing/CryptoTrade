@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "title": "Forecast: Ethereum Price Could Cross $2,500 in November If This Happens - FX Empire",
+        "summary": "  According to FX Empire, the price of Ethereum could reach $2,500 in November if certain conditions are met. The website provides general news and analysis, but notes that any financial decisions should be made with caution and due diligence. It is important to understand the risks involved with investing in cryptocurrencies and CFDs, and to perform thorough research before making any investment decisions."
+    },
+    {
+        "id": 1,
+        "title": "Ethereum L2s Surprisingly Set New ATH - U.Today",
+        "summary": "  Ethereum L2s (layer 2 solutions) have reached a new all-time high in terms of total value locked (TVL), with a brief peak at $12 billion and a subsequent stabilization near $11.87 billion. This represents a 32% increase in TVL over the past four months, despite a general market apathy. The largest L2s, including Arbitrum and OP Mainnet, account for over 90% of TVL in the ecosystem, with Base, the fastest-growing L2, holding the third position. Additionally, dYdX has announced its migration from L2 to a standalone Tendermint-based Layer 1."
+    },
+    {
+        "id": 3,
+        "title": "Solana Vs Ethereum: A Deep-Dive Analysis of Two Popular Coins - CoinGape",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nSolana and Ethereum are two popular cryptocurrencies with different features and use cases. Solana was created to improve upon Ethereum, with a faster and more energy-efficient proof-of-history consensus mechanism. However, Ethereum has a larger market cap and more active addresses. Solana is gaining ground after a setback with FTX, and it's possible that it could soon give Ethereum a tough competition."
+    },
+    {
+        "id": 4,
+        "title": "Top Analyst Says Solana on the Cusp of a Breakout, Will Outperform Bitcoin and Ethereum \u2013 Here\u2019s His Outlook - The Daily Hodl",
+        "summary": "  Top analyst Bluntz predicts Solana (SOL) will outperform Bitcoin and Ethereum (ETH) in the near future. He uses the Elliot Wave Theory to identify a five-wave impulse to the upside in SOL's USD pair, which could reach $47. Bluntz also believes BTC will make another impulse upward after consolidating within a bullish triangle pattern, and does not see a dip to $32,000 as likely. He notes that SOL is showing acceptance at higher levels after a strong breakout, indicating a potential breakout to new highs."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum Price Soars: Is $2,000 and Beyond Within Reach? - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nEthereum's price has surged, with predictions of reaching $2,000-$2,500 in the near future. The rise is attributed to overall market optimism and the anticipation of Bitcoin ETFs. However, there is a possibility of a market correction, leading to a 20% decrease in ETH's price. It might be a good time to buy Ethereum, with Bitget being recommended as a user-friendly exchange."
+    },
+    {
+        "id": 9,
+        "title": "Bitcoin Did Something, Ethereum Got High and 20 Crypto Jokes - Cryptonews",
+        "summary": "  Bitcoin reached a 2-month high, Ethereum prices surged, and crypto jokes abounded this week. Here are the top headlines:\n\n* Bitcoin did something, according to Robert Kiyosaki, who predicted a target of $135,000.\n* Ethereum reached a 2-month high, while JPM Coin handled $1 billion in daily transactions.\n* Worldcoin started paying Orb device operators in WLD tokens instead of USDC.\n* Aleo revealed a new decentralized digital identity solution, while Nocturne raised $6 million from prominent Ethereum figures.\n* Binance argued in a lawsuit that US law doesn't control the world, while Coinbase challenged the SEC's broad definition of securities.\n* The SEC charged BlackRock with failing to accurately describe investments, while lawyers predicted Ripple would emerge victorious in any future appeal.\n* Mexican Senator Indira Kempis' Bitcoin bill saw positive attention but faced opposition, while Europe may utilize blockchain to fix bureaucracy.\n* Binance"
+    },
+    {
+        "id": 10,
+        "title": "Ethereum Developers Separates ERC And EIP Repositories - Crypto Times",
+        "summary": "  Ethereum developers have separated the ERC and EIP repositories to better manage and evolve the network's application layer. The ERC repository now stores application-related changes that don't affect core network capabilities, while the EIP repository focuses on consensus layer improvements. This separation has been discussed for years but gained attention recently as the community decided to draft EIPs separately as the consensus layer began using the EIP process. An additional repository was created to store ERC requests."
+    },
+    {
+        "id": 11,
+        "title": "Ethereum Price Prediction As Chart Analysis Hints Last Pullback Before a Leap to $2000 - CoinGape",
+        "summary": "  Ethereum price is facing resistance around $1,800 after a 22% surge in the past two weeks. Despite the recovery, the asset is facing headwinds as Bitcoin struggles to break past $35,000. The current price behavior raises concerns about an impending correction, with a potential breakdown below $1,760 risking a 15% downside. However, if the ETH price can maintain a price above $1,750, there may be an opportunity for buyers to break out from the falling wedge pattern's upper trendline, potentially leading to a recovery towards $2,000. Technical indicators such as the exponential moving average and the vortex indicator suggest that the market mood is still bullish."
+    },
+    {
+        "id": 13,
+        "title": "Mike Novogratz's Galaxy Digital Going Long On Bitcoin And Ethereum - CoinGape",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMike Novogratz's Galaxy Digital is going long on Bitcoin and Ethereum through decentralized lending platforms Aave and Compound. The firm deposited $142 million in Bitcoin and $28.6 million in Ethereum and borrowed $71.6 million in USDT and $21.9 million in USDC. This move is seen as bullish for the DeFi industry. Galaxy Digital's CEO is confident that a spot Bitcoin ETF will be approved in 2023, which could attract $14.4 billion in inflows in the first year. Bitcoin and Ethereum prices are expected to rally, with potential increases of nearly 74% and 150% respectively in the first year after the ETF launch."
+    },
+    {
+        "id": 14,
+        "title": "Ethereum makes historic move to separate ERC and EIP \u2014 here is why It matters - Cryptopolitan",
+        "summary": "  Ethereum has made a significant move by separating its Ethereum Requests for Comments (ERC) and Ethereum Improvement Proposals (EIP) into different repositories. This separation allows for more effective governance and standards in both the application and consensus layers of Ethereum. The ERC will now focus on maintaining high-quality documentation related to the application layer, while the EIP will be dedicated to enhancing the underlying consensus mechanisms. This move is seen as a positive step towards focused and efficient governance over Ethereum, allowing for more precise and well-documented improvements in both layers."
+    }
+]

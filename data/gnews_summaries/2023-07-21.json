@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Ethereum (ETH): You Don't Want to Miss This Pattern - U.Today",
+        "summary": "  Ethereum (ETH) is showing an ascending price channel, which could lead to a bullish move in the near future. However, ETH recently broke down from the $2,000 level, which could apply downward pressure. The Relative Strength Index (RSI) is currently at 50, indicating that the prevailing uptrend could still have some steam. Additionally, Ethereum's volatility is lower than usual, which could lead to a significant price movement.\n\nOn the other hand, Shiba Inu (SHIB) is experiencing a rapid reduction in volatility, which could lead to an increase in selling pressure and a potential decrease in momentum. Pepe (PEPE) is showing signs of a potential upward price trajectory, with a 50 EMA support level and a support line on the token's local trend. However, any predictions are contingent on various factors, including market sentiment and overall performance of meme-based cryptocurrencies."
+    },
+    {
+        "title": "Polygon ID comes to Ethereum thanks to Rarimo integration, more chains to come - Blockworks",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nPolygon ID, a verifiable credential infrastructure, is now available across multiple blockchains thanks to Rarimo integration. Users can seamlessly use their credentials on the Ethereum network after the collaboration was announced on Thursday. Polygon ID was previously only available on the chain it was issued on. More chains will be added in the coming weeks, including BNB Chain and Avalanche. The solution uses zero-knowledge proofs for privacy and security during identity verification processes, which is a crucial component in the decentralized identity movement. The global market for decentralized identity is expected to grow to $6.8 billion by 2027. Polygon is just one player in the industry exploring decentralized identity solutions, along with other companies like Disco, SpruceID, Iden3, Ceramic, and the Ethereum Foundation."
+    },
+    {
+        "title": "Ethereum Daily Users Plunge Amid Declining Network Revenue - NewsBTC",
+        "summary": "  Ethereum's Q2 revenue plummeted 33% to $847M due to a decline in overall network activity, particularly in the DeFi market. Daily active addresses dropped 6% and Ethereum still leads in DeFi activity with over 50% of total value locked. Despite the decline, ETH is closely following Bitcoin's price performance."
+    },
+    {
+        "title": "Your Ultimate Guide To Ethereum RPC Nodes - Blockchain Magazine",
+        "summary": "  Ethereum RPC nodes are an essential tool for decentralized applications (dApps) to interact with the Ethereum blockchain. An RPC node is a computer with blockchain client software installed that can connect to the blockchain network and provide dApps with access to the network's data.\n\nThere are two main types of RPC endpoints: public and private. Public RPC endpoints are shared resources that can be accessed by anyone, while private RPC endpoints are used by a single dApp and are not accessible to other apps. Alternative RPC endpoints can help mitigate the risk of single point of failure by providing backup endpoints.\n\nTo use RPC nodes, developers can use private RPC endpoints provided by RPC node providers, run their own self-hosted nodes, or send traffic through public RPC endpoints. Each method has its pros and cons, and developers should consider these factors when deciding how to use RPC nodes in their dApps.\n\nThe JSON-RPC protocol is used by RPC nodes to define specific methods for requesting services from the node, and core methods such as gossip, history, and state methods are"
+    },
+    {
+        "title": "Bitcoin Price and Ethereum Prediction; BTC and ETH Slip Nearly 5%: Potential Weekend Bounce? - Cryptonews",
+        "summary": "  Bitcoin and Ethereum prices have slipped by nearly 5%, with BTC at $29,780 and ETH at $1,889. Technical analysis suggests a potential weekend bounce, but the likelihood of Bitcoin maintaining a bearish stance below $30,000 is significant. Ethereum is trading within a narrow range, with a breakthrough above $1,920 potentially leading to resistance at $1,945 or $1,975. The top 15 cryptocurrencies to watch in 2023 have been compiled by industry experts, and the best price to buy/sell cryptocurrency can be found using the Cryptocurrency Price Tracker."
+    },
+    {
+        "title": "Hackers Drain $3 Million in Ethereum From DeFi Protocol Conic Finance - Decrypt",
+        "summary": "  Hackers drained $3 million in Ethereum from DeFi protocol Conic Finance through a \"re-entrancy attack.\" The protocol has disabled deposits to the affected Ethereum omnipool and is investigating the incident. This is the latest in a series of exploits in the DeFi space, which saw a 63% increase in crypto losses in Q2 compared to the same period last year. Most of the losses originated from two specific incidents, with BNB Chain and Ethereum being the most targeted chains."
+    },
+    {
+        "title": "Bitrock Unveils Ethereum IBFT 2.0 Side Chain, Redefining Blockchain Transactions with Lightning Speed and Near-Zero Gas Fees - CoinTrust",
+        "summary": "  Bitrock, a new Ethereum side chain, has launched with impressive speed and low gas fees, revolutionizing blockchain transactions. Its multichain DEX swap feature allows for direct trading of cryptocurrencies on their respective native chains without intermediaries, making it an attractive investment opportunity for retail investors. Bitrock has a total token supply of 100,000,000 and a 4% tax distribution on buying and selling transactions, with 3% allocated to development and 1% for liquidity. The platform also offers appealing staking opportunities with an APY of 90% and a 7-day lock-up period. Bitrock's ecosystem is enhanced by a range of tools and services, including a Network Explorer, Swap/DEX, Token Builder dApp, and NFT Marketplace."
+    },
+    {
+        "title": "Africa-Focused DeFi Platform Mara Releases Ethereum-Compatible Testnet - CoinDesk",
+        "summary": "  Mara, an Africa-focused DeFi platform, has released a testnet compatible with the Ethereum blockchain. The platform aims to create a supportive ecosystem for blockchain applications by actively engaging with users and offering tangible rewards for contributions to the platform's development."
+    },
+    {
+        "title": "Cymbal Launches 'Human Readable' Ethereum Blockchain Explorer\u2014A Social Etherscan - Decrypt",
+        "summary": "  Cymbal, a new blockchain explorer, has launched in beta with a focus on making the complex world of blockchain data more accessible and understandable for the average user. The platform uses AI to generate conversational summaries of transactions and trends, and it also serves up dashboards with NFT artwork and relevant news stories. Cymbal aims to expand its data offerings to include cryptocurrency and token transactions, and it has raised $18.5 million in funding from notable investors. The platform sees revenue-generating opportunities through targeted advertising and API access to its curated data. Cymbal's goal is to create better tooling for the masses, rather than just catering to the small group of hardcore crypto enthusiasts who can already navigate complex blockchain data."
+    },
+    {
+        "title": "Whales Move Over $640,000,000 in Bitcoin, Ethereum, Solana, Shiba Inu and Chainlink \u2013 Here\u2019s the Destination - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nDeep-pocketed crypto investors are moving hundreds of millions of dollars worth of digital assets, including Bitcoin, Ethereum, Solana, Shiba Inu, and Chainlink. One whale transferred 14,000 Bitcoin worth $421 million from an unknown wallet to another, while another moved 27,000 Ethereum worth $51 million from Binance.US to an unknown wallet. Other notable transfers include 2 million Solana worth $10 million from an unknown wallet to Binance and 2.4 billion Shiba Inu worth $18.7 million from Binance.US to an unknown wallet."
+    },
+    {
+        "title": "Crypto Trader Warns It Could Get \u2018Really Ugly\u2019 for Binance Coin (BNB), Updates Outlook on Two Ethereum Rivals - The Daily Hodl",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCrypto trader Altcoin Sherpa warns of potential declines in Binance Coin (BNB), Avalanche (AVAX), and Cosmos (ATOM). BNB could drop by 20% if support levels fail, while Avalanche is hovering below a key EMA. Cosmos faces dim prospects in the short to medium term. The trader advises caution and suggests that investors do their due diligence before making any high-risk investments."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin remains below $30,000; Ethereum flirt with $1,900; Polkadot rises 8% - Business Today",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCrypto prices were mixed today, with Bitcoin and Ethereum trading flat. Polkadot rose 8%, while XRP fell 5%. The global cryptocurrency market cap is at $1.21 trillion, with Bitcoin's dominance near a 1-month low. Tech View by Giottus Crypto Platform suggests that Ethereum is in a descending trend and could face resistance at $2,000."
+    },
+    {
+        "title": "How Anoma and Namada Plan to Enable Intents on Ethereum: EthCC Highlights - FinanceFeeds",
+        "summary": "  At EthCC, the founders of Anoma and Namada shared updates on their projects, including a new way of swapping tokens anonymously on the Cosmos exchange Osmosis. Anoma aims to enable multi-chain interoperability and provide new primitives for developers, while Namada offers privacy-enhancing features for web3 applications. Anoma launched an incentivized RFC program to attract developers and researchers to review its architectural specifications, and Namada uses a unique incentivization mechanism called'shielded set rewards' to reward multi-chain users who help increase privacy for all other Namada users."
+    },
+    {
+        "title": "Unveiling Ethereum's Unstoppable March: Top Eight Revelations from EthCC 2023, Paris - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum's EthCC 2023 conference in Paris revealed eight game-changing advancements:\n\n1. Chainlink's Cross-Chain Interoperability Protocol (CCIP) enables communication between different blockchain networks.\n2. Starknet's Layer-2 scaling solution uses zero-knowledge proofs for high transaction throughput.\n3. Gnosis introduced Gnosis Pay and Gnosis Card, which merge web3 with traditional payment infrastructures.\n4. Mantle Network launched its mainnet alpha, offering a modular and versatile Layer-2 platform.\n5. Linea unveiled its zkEVM alpha, which combines zero-knowledge proofs with Ethereum Virtual Machine compatibility.\n6. Ethereum Virtual Machine (EVM) capabilities are being adopted by non-Ethereum projects like Tezos and Solana.\n7. Lens Protocol revealed V2 upgrades, including Open Actions and a Profile Manager system for decentralized social interactions.\n8. UniswapX, a"
+    },
+    {
+        "title": "Next Crypto to Explode in 2023 | Guide to High Growth Cryptocurrencies with ApeMax, Ethereum, Ripple, Cardano ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nNext Crypto to Explode in 2023: ApeMax, Ethereum, Ripple, Cardano, and Solana have high growth potential.\n\nApeMax: Innovative Boost-to-Earn Meme Coin with unique tokenomics.\n\nEthereum: Leading smart contract platform with a thriving DeFi ecosystem and upcoming upgrades.\n\nRipple: Established global payment protocol with potential resolution of legal challenges.\n\nCardano: Poised for scalability and sustainability.\n\nSolana: Fast and high-performance blockchain.\n\nPolkadot: Interoperable multi-chain ecosystem.\n\nAvalanche: High throughput and low latency.\n\nPolygon Matic: Scaling Ethereum with Layer 2.\n\nNext Best Crypto: ApeMax, Ethereum, and Ripple are top contenders.\n\nWhich Crypto Will Boom in 2023: ApeMax, Ethereum"
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin, Ethereum, Other Top Coins In Doldrums, Chainlink Becomes Top Gainer - ABP Live",
+        "summary": "  Bitcoin and other top cryptocurrencies are trading in the red today, with Bitcoin failing to break above $30,000. Chainlink is the top gainer, up over 18%, while Rocket Pool is the biggest loser, down over 6%. The global crypto market cap is at $1.21 trillion, up 0.01% from yesterday. Exchanges are optimistic about the current market scenario, with some predicting a possible rally towards $31,200 if demand increases. However, there are also concerns about the potential for a breakdown below $29,500."
+    },
+    {
+        "title": "Ethereum Gas Fee To Become 100x Cheaper With This New Plan | - cryptonewsbytes.com",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has proposed a new plan to significantly reduce transaction fees on the Ethereum blockchain. The current gas fees are high, and the progress made by Ethereum developers to reduce them has been slow. Buterin's plan involves changing how Ethereum wallets operate, integrating programmable smart contract wallets, and using \"paymasters\" to allow users to pay transaction fees using any token. This proposal aims to reduce gas fees by nearly 100%. The plan is straightforward and won't be disruptive, as it won't require changes to Ethereum's underlying protocol. The proposal features signature aggregators, which will provide more data compression and reduce costs. If successful, this plan will greatly benefit Ethereum users by reducing their gas fees."
+    },
+    {
+        "title": "TRON Dominates Ethereum with 5 Million Daily Transactions as TRX Stays Resilient and Prepares for Massive Upward Move - Crypto News Flash",
+        "summary": "  TRON has surpassed Ethereum in daily transactions, with over 5 million recorded transactions on TRON compared to Ethereum's 1 million. TRX's staking uptick and bullish market indicators suggest a potential for higher price growth in the near future. However, TRX's slow-moving price and reduced social volume may hinder its full potential. Despite this, TRON's total accounts and transactions have increased significantly, with over 173 million accounts and 6.18 million transactions in the last 24 hours."
+    }
+]

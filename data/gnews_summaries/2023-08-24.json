@@ -1,0 +1,150 @@
+[
+    {
+        "title": "The Next Ethereum? 3 Altcoins Poised to Dominate in 2024 - Yahoo Finance",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThree altcoins, Solana (SOL), Avalanche (AVAX), and Cardano (ADA), are poised to challenge Ethereum's dominance in 2024. Solana is positioned as a \"Visa for digital assets\" with institutional adoption and scalability advantages. Avalanche is a fast and scalable blockchain platform with a focus on DeFi and tokenization. Cardano is an eco-conscious crypto opportunity with a proof-of-stake technology and a focus on interoperability. The authors of the article believe that these altcoins have significant potential for growth and could potentially overtake Ethereum in the future."
+    },
+    {
+        "title": "Choose AWS Graviton and cloud storage for your Ethereum nodes infrastructure on AWS | Amazon Web Services - AWS Blog",
+        "summary": "  In this article, we investigate how to choose the best compute and storage options for Ethereum nodes on AWS. We tested various EC2 instance types, EBS volume types, and FSx for OpenZFS to determine their performance and cost-effectiveness. Our findings show that:\n\n* AWS Graviton-based instances, particularly C7g and M7g, offer good performance and cost-effectiveness for popular Ethereum clients like Geth and Erigon.\n* EBS gp3 volumes with sufficient IOPS are a cost-effective choice, while io2 volumes provide more consistent performance.\n* FSx for OpenZFS is a good option for fast volume provisioning, but it's not compatible with Erigon.\n* The recommended configurations vary based on the node's role, whether it's a sync node or an RPC node serving dApps.\n* Regular monitoring and evaluation of performance and cost-efficiency are necessary to ensure optimal node operation and maintain a reliable service for the Ethereum network and dApps.\n\nThe authors are Senior Solutions Architect at AWS, Nikolay Vlasov, and Solutions Arch"
+    },
+    {
+        "title": "PancakeSwap Version 3 Goes Live on Ethereum Layer 2 Linea Mainnet - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nPancakeSwap Version 3 goes live on Ethereum Layer 2 platform Linea Mainnet. Farm feature to be added in coming months, allowing users to stake LP tokens and earn CAKE tokens."
+    },
+    {
+        "title": "Ark Invest, 21Shares join the rush to launch ether futures ETFs - Blockworks",
+        "summary": "  Ark Invest and 21Shares are expanding their ETF offerings to include ether futures contracts, following their success in the bitcoin ETF race. The two firms are partnering with Empowered Funds to launch the ARK 21Shares Active Ethereum Futures ETF (ARKZ) and the ARK 21Shares Active Bitcoin Ethereum Strategy ETF (ARKY). The funds will invest at least 25% of their assets in cash-settled ether futures contracts and may also invest in US Treasury securities, money market instruments, and repurchase agreements. This move comes after the SEC recently signaled its willingness to consider approving ether futures ETFs, following previous delays and rejections. Ark Invest and 21Shares have previously tried to launch a spot bitcoin ETF, which is currently under review by the SEC."
+    },
+    {
+        "title": "PancakeSwap v3 launches on Ethereum layer 2 Linea - CryptoSlate",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPancakeSwap v3, a popular DeFi exchange, has launched on Ethereum layer 2 network Linea. The launch introduces two new features: improved capital efficiency and enhanced trading features. The exchange also announced a promotional campaign and said it will distribute rewards to stakeholders and community members if it receives Linea incentives. PancakeSwap is currently the 13th largest DeFi platform by TVL and has a market cap of $273 million."
+    },
+    {
+        "title": "Ethereum (ETH) Shows Rare Pattern That Might Lead to Massive Rally: Analyst - U.Today",
+        "summary": "  Ethereum (ETH) is showing a rare pattern that could lead to a massive rally, according to crypto expert Benjamin Cowen. The pattern involves short bursts of decline followed by an ascending trend, which has played out in previous summers and could happen again this summer. However, there are also bearish signals on the chart, including a head and shoulders pattern that could suggest further declines. Despite these mixed signals, Ethereum is gearing up for a major move as its Bollinger bandwidth is at its narrowest since 2018. Additionally, Ethereum will launch a new testnet called \"Holesky\" in September, which could pave the way for two upcoming upgrades. The direction of ETH's next move remains uncertain, but the potential for a rally is intriguing."
+    },
+    {
+        "title": "FTX Estate Wants to Hedge Bitcoin, Ethereum With Mike Novogratz's Galaxy Digital - Decrypt",
+        "summary": "  FTX, a bankrupt crypto exchange, is seeking to protect its remaining assets by hedging Bitcoin and Ethereum with Mike Novogratz's Galaxy Digital. The company aims to generate passive yield through staking and derivative trading, and has requested permission to sell certain digital assets it has recovered. The move comes as FTX seeks to recover $6.2 billion in assets for stakeholders, with $3.4 billion currently held in cryptocurrencies."
+    },
+    {
+        "title": "Bitstamp Ends Ethereum Staking in US as SEC Keeps Clamping Down - CCN.com",
+        "summary": "  Bitstamp, a cryptocurrency exchange, will stop offering Ethereum (ETH) staking services to users in the United States due to regulatory pressures. The SEC has been cracking down on websites providing staking services, and Bitstamp's decision was made in response to these moves. The exchange will terminate staking service in the US on September 25, and customers will no longer earn staking rewards after that date. Additionally, Bitstamp will delist 7 American tokens from trading in the US, including Solana, Decentraland, Polygon, Near, Axie Infinity, Chiliz (CHZ), and The Sandbox. The decision appears to be a response to recent SEC legal actions against Binance and Coinbase, which declared all seven tokens to be unregistered securities in June. Despite the regulatory challenges, the price of Ether (ETH) has been rising, with the total value staked for the asset increasing steadily. The classification of ETH as a security or commodity is a key concern in the current regulatory landscape in the US, with the SEC Chair, Gary Gensler,"
+    },
+    {
+        "title": "Similarities Between Bitcoin and Ethereum - Watcher Guru",
+        "summary": "  Bitcoin and Ethereum share similarities in decentralization, blockchain technology, digital currencies, limited supply, and cryptographic protocols. Both are decentralized, use blockchain technology, and have limited supplies. They also employ cryptographic protocols to secure their networks and ensure transactions' validity. However, they differ in their programming languages, transaction speeds, and creators' levels of visibility. Bitcoin has a maximum supply of 21 million coins, while Ethereum has a maximum limit of 18 million new tokens per year. The Ethereum community focuses on creating a decentralized platform for applications, while the Bitcoin community emphasizes financial privacy and independence from traditional financial systems."
+    },
+    {
+        "title": "Bitstamp to end Ethereum staking for U.S. customers in September - CryptoSlate",
+        "summary": "  Bitstamp will end Ethereum staking services for U.S. customers on September 25, 2023, due to regulatory developments. The company will credit staking rewards and principal to users' primary account balances, but this may take multiple days and be affected by network conditions. This decision follows the SEC's scrutiny of platforms offering staking services, including Coinbase and Binance, which have been sued by the SEC for offering staking services that are deemed securities. Bitstamp has also delisted seven U.S. tokens due to regulatory developments."
+    },
+    {
+        "title": "Ethereum Price Could See \u201cLiftoff\u201d if It\u2019s Able to Clear One Crucial Level - NewsBTC",
+        "summary": "  Ethereum price could see a \"liftoff\" if it breaks above $1,700 resistance. The cryptocurrency is recovering after forming a support base above $1,580 and $1,600. A clear move above $1,700 could lead to further gains, potentially reaching $1,780 and beyond. However, if Ethereum fails to clear $1,700, it could start another decline towards $1,640 and potentially lower levels. Technical indicators such as MACD and RSI are losing momentum in the bullish zone, but the RSI is above 50. Major support levels are at $1,640, while major resistance levels are at $1,700 and $1,720."
+    },
+    {
+        "title": "How to Buy Ethereum with PayPal in 2023? - CoinCodex",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nThree ways to buy Ethereum with PayPal in 2023:\n\n1. Buy directly on PayPal (US only) - fees vary based on amount purchased.\n2. Use PayPal on a cryptocurrency exchange (Coinbase or Bitstamp) - fees range from 3.99% to 4%.\n3. Buy on eToro - fees include 2% of value transferred to eToro Money wallet, plus blockchain network fees.\n\nPayPal's fees are higher compared to most cryptocurrency exchanges, but convenience may be worth it for some users."
+    },
+    {
+        "title": "Where to Store Ethereum Safely? (2023 Guide) - Watcher Guru",
+        "summary": "  To store Ethereum safely, consider using a combination of hot and cold wallets. Hot wallets, such as software wallets, provide convenience and accessibility but are more susceptible to security risks. Cold wallets, such as hardware wallets, offer superior security but may be less convenient for frequent transactions. Best practices include using a hardware wallet for long-term storage, enabling two-factor authentication, staying up-to-date with software updates, being wary of phishing attacks, keeping private keys offline, using strong passwords, and regularly backing up the wallet."
+    },
+    {
+        "title": "This is The Next Target for ETH If the Drop Continues (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum (ETH) price has been experiencing a sharp downturn, with a significant breakdown below the 100-day and 200-day moving averages. The short-term support at $1,650 has held the price so far, but the market structure has shifted to mostly bearish, increasing the likelihood of a retest of the $1,400 level in the upcoming weeks. On-chain analysis reveals a consistent downtrend in fund holdings and distributions for Ethereum since June 2022, which could lead to a gradual reduction in trading liquidity and investment interest."
+    },
+    {
+        "title": "Ethereum (ETH) Mobile Phone Preorder Campaign Goes Live - U.Today",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) enthusiasts can now preorder a special edition Google Pixel 7a phone with an Ethereum-native operating system called ethOS. The phone includes features such as a decentralized messenger, non-custodial crypto wallet, and Ethereum Name Service integration. The preorder campaign is NFT-based and costs $650. This is the first physical phone with ethOS pre-installed and is a step towards reducing Ethereum users' reliance on centralized infrastructure. Other smartphones with Ethereum-based features have also been released, such as the Saga phone from Solana (SOL)."
+    },
+    {
+        "title": "Ethereum Advocate Slams Cardano as \"Zombie Chain\" - U.Today",
+        "summary": "  Ethereum advocate Evan Van Ness criticized Cardano as a \"zombie chain\" due to its low TVL of $163.55 million compared to Base's $193.56 million. Base, a new L2 chain launched by Coinbase, has quickly gained popularity with $193.41 million in TVL. Cardano's dApps, such as Minswap, Indigo, and Liqwid, are not included in the criticism."
+    },
+    {
+        "title": "Ethereum (ETH) Price Analysis for August 24 - U.Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price is up 0.84% in the past 24 hours, with buyers maintaining power. Resistance levels at $1,650.9 and $1,660-1,670 are potential targets for short-term traders. However, the daily chart shows a different scenario, with bullish momentum unable to sustain yesterday's gains. If selling pressure persists, the price could drop to $1,450-1,500 range over a weekly timeframe. ETH is currently trading at $1,648."
+    },
+    {
+        "title": "Ethereum Phone Sells Out While Solana Slashes Saga Phone Price - Crypto Briefing",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum phone \"ethOS\" sold out in pre-sale in less than 24 hours, supporting EVM chains and layer 2s. Solana's Saga phone saw a 40% price cut this month, with only 2,120 units sold since launch. The ethOS phone comes with a built-in wallet and a secure enclave for private key storage. Solana is slashing the price of the Saga phone to boost sales. The competition in the mobile web3 space is set to intensify."
+    },
+    {
+        "title": "Ether Whales Scooped Up $94M in ETH as Price Plunged to $1.6K - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEther whales scooped up $94M in ETH as price plunged to $1.6K. CoinDesk's Consensus 2024 event is coming soon, register and buy passes now."
+    },
+    {
+        "title": "Whales dump Ethereum \u2013 should you be concerned? - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\udea8 Whales dump Ethereum, but retail investors remain engaged \ud83d\udea8\n\n* Whale liquidation totals $17.2M, with a loss of $2.9M\n* Only 4 trades were profitable, with a win rate of 22%\n* Retail engagement remains strong, with a record high of 104.8M non-zero addresses\n* Exchange inflows surge to 1-month peak, indicating potential selling pressures\n* Network activity slows down, with reduced gas usage and smart contract interactions\n* NFT sector maintains stable activity levels\n* Ethereum's price declines from $1820 to $1627 over the past week\n* Transaction velocity decreases, suggesting less frequent trading activities\n* MVRV ratio offers a mixed perspective, with negative ratio indicating losses for many holders."
+    },
+    {
+        "title": "Ethereum Going To $1,400 But This Is All You Need To Know - CoinGape",
+        "summary": "  Ethereum price surged to $1,700, driven by whale activity, but technical indicators suggest a weak uptrend. Despite the increase, the market structure remains battered, and gains may not be sustainable above $1,700. The MACD indicator has issued a sell signal since early July, and the Money Flow Index shows significant outflow volume. Large Ethereum holders have been reshuffling their portfolios since February, which could impact the token's performance. Support levels at $1,600 and $1,400 may absorb any selling pressure, but a decline to $1,400 cannot be ruled out."
+    },
+    {
+        "title": "Whales Scoop up $94 Million in ETH in Just One Week - U.Today",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\n\"Whales scoop up $94 million in ETH in one week, amid shifting dynamics among large Ethereum holders. Ethereum price stands at $1,671 with a market cap of $201 billion, but U.S. customers of Bitstamp will no longer have access to Ethereum staking due to regulatory dynamics. However, the U.S. Securities and Exchange Commission is on track to approve several Ethereum ETFs.\""
+    },
+    {
+        "title": "Ethereum (ETH) Whale Count Grows After Market Rout: Santiment - CoinGape",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nEthereum (ETH) whale count has grown after recent market volatility, with a surge in the number of whales holding 10-10,000 ETH and high-value transactions. This suggests increased confidence among larger holders and potential institutional interest. The growth in whales could impact price stability and adoption, as they can exert influence over prices through trading decisions. At time of writing, Ethereum is trading at $1,649, down 2.19% in the past 24 hours."
+    },
+    {
+        "title": "Ethereum phone, with preinstalled Ethereum OS, available for preorders - CoinJournal",
+        "summary": "  Ethereum is launching an Ethereum OS smartphone, available for preorder with NFT minting. The phone is based on Google Pixel 7a and features decentralized payments, noncustodial wallet, decentralized messenger, and ENS integration. Supporters must mint NFTs on the campaign's domain to reserve a phone, which costs 0.39 Ethers (about $650 refundable in a year). Shipping begins Fall 2023."
+    },
+    {
+        "title": "Dymension Launches Its Testnet, Bringing RollApps to Cosmos & Ethereum dApps - CoinCodex",
+        "summary": "  Dymension, a scaling startup focused on Cosmos and Ethereum, launched its incentivized testnet, allowing developers to experiment with RollApps, a unique scaling solution. RollApps are different from traditional monolithic blockchains, providing modularity and separating functions into three distinct chains for optimal performance. With the testnet, developers can deploy RollApps using a command-line interface and interact with them via a new portal. Dymension's vision of a network of modular blockchains could potentially accelerate Web3's transition away from Ethereum, providing unlimited scale and widespread interoperability for dApps."
+    },
+    {
+        "title": "Bitstamp Halts ETH Staking for US Customers Amid Regulatory Uncertainty - Cryptonews",
+        "summary": "  Bitstamp, a global cryptocurrency exchange, has halted Ethereum staking service for US customers due to regulatory uncertainty in the US. The exchange cited the SEC's crackdown on cryptocurrency exchanges and the lack of clear guidelines on the classification of Ether as a commodity or security. This move comes after Bitstamp delisted seven other cryptocurrencies, including Polygon and Solana, which were deemed as \"unregistered securities\" by the SEC. The decision highlights the need for clearer regulatory guidelines to ensure a balanced approach that fosters innovation while protecting investor interests."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin near $26,500; Ethereum regains $1,675; Solana surges 6% - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin near $26,500, Ethereum regains $1,675, Solana surges 6%. Crypto market cap up 2% to $1.06 trillion. Nvidia's earnings boost AI-related cryptos. Bitcoin consolidates around $26,000, altcoins see gains. SUI/USDT surges 13% in 24 hours. Tech View: Next resistance at 0.67 USDT, support at 0.56 USDT."
+    },
+    {
+        "title": "Cardano And Ethereum Take Development Steps As Everlodge Makes Market Bullish - Outlook Money",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCardano (ADA) and Ethereum (ETH) are taking development steps, with Cardano introducing a new scaling solution called Hydra v0.12.0, and Ethereum seeing a boost in price due to potential approval of Ethereum Futures Exchange-Traded Funds (ETFs) by the US Securities and Exchange Commission (SEC). Everlodge (ELDG) is a new platform that makes property investment easier and smarter by using blockchain technology and digital tokens. The platform allows for shared ownership of vacation homes, easy buying and selling, access for everyone, and smart contracts. The presale has kicked off with each token priced at $0.01, and experts are predicting a 280% increase in price."
+    },
+    {
+        "title": "Comparing Binance, Ethereum, and Bitgert: Features, Performance, and Investor Opportunities | Mint - Mint",
+        "summary": "  Binance, Ethereum, and Bitgert are three popular cryptocurrencies with different features and performance. Binance is the world's largest cryptocurrency exchange and has its own native token, Binance Coin (BNB), which is used for trading fees and access to various services. Ethereum is the second-largest cryptocurrency by market capitalization and enables developers to create decentralized applications. Bitgert is a newer cryptocurrency with a zero-fee blockchain network and a decentralized exchange, and plans to launch a peer-to-peer exchange soon. Bitgert (BRISE) can be bought through Binance or Coindesk, or using Trust Wallet. The article highlights the different features and prospects of each cryptocurrency, and advises investors to do their own research before investing."
+    },
+    {
+        "title": "Exploring zkEVM: Bridging ZKP Technology & Ethereum's Virtual Machine - CryptoTvplus",
+        "summary": "  Exploring zkEVM: Bridging ZKP Technology & Ethereum's Virtual Machine\n\n* zkEVM combines ZKP technology with Ethereum's virtual machine to enhance security and privacy in smart contract execution.\n* zkEVM aims to maintain state continuity while providing proof of correctness, ensuring security and privacy.\n* EVM compatibility enables developers to port Ethereum DApps and smart contracts to zkEVMs without ZKP development work.\n* zkEVM offers different types, each with trade-offs between ZKP performance and EVM compatibility.\n* The goal of zkEVM is to integrate ZKP technology with EVM-compatible protocols, expanding DApp reach and potential Web3 applications."
+    },
+    {
+        "title": "OnlyFans owner collects $485 million in dividends as firm invests cash into Ethereum - Evening Standard",
+        "summary": "  OnlyFans owner collects $485 million in dividends.\nCompany invests cash into Ethereum.\nOnlyFans collects \u00a31 for every \u00a34 made by content creators.\nSome creators have made millions on the platform.\nOne creator invested some proceeds in a competitor."
+    },
+    {
+        "title": "Google Bard predicts Ethereum price in the next crypto bull market - Finbold - Finance in Bold",
+        "summary": "  Sure! Here is a summary of the article in less than 256 tokens:\n\nGoogle Bard predicts Ethereum price could reach $3,000-$10,000 in next crypto bull market. Bard analyzed historical performance, DeFi growth, and metaverse development. However, regulatory uncertainty, security vulnerabilities, and Dogecoin's performance could hinder Ethereum's growth. Investing is speculative, and your capital is at risk."
+    },
+    {
+        "title": "Analysts Tip Anarchy (ANA) Launch To Surpass Ethereum (ETH) Profit Margins This Year - Crypto News Flash",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nAnarchy (ANA) is a new meme coin that is expected to surpass Ethereum's (ETH) profit margins this year. ANA is launching with a presale that is currently ongoing, and the token is expected to deliver over 100x profits. The project aims to change the corrupt system around us through sarcastic jokes and cartoons, and it will run as a Decentralized Autonomous Organization (DAO) where ANA token holders are actual stakeholders. The DAO members will vote monthly on suggestions for crypto projects to include in the Anarchy network, and they will share returned profits according to their token holdings. The project also has a creative team that will develop memes for entertainment."
+    },
+    {
+        "title": "The September launch of Ethereum\u2019s new Holesky Testnet - CryptoNewsZ",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum is launching a new testnet called Holesky in September, which will add 1.6 billion ethers to the network. Holesky aims to improve scalability, security, and developer tools through innovative consensus mechanisms, adaptive sharding, and verifiable computing. Key features include improved consensus, smart contract optimization, cutting-edge decentralized applications, robust developer tools, and realistic network conditions. The launch of Holesky is expected to revolutionize blockchain technology and propel Ethereum to new heights of success."
+    },
+    {
+        "title": "Crypto news: Ripple (XRP) surpasses Ethereum in South Korea - The Cryptonomist",
+        "summary": "  Ripple (XRP) has surpassed Ethereum as the most popular altcoin in South Korea, according to a tweet from Whale. The cryptocurrency has gained the top spot among altcoins in the country, with over 20% of young people preferring it. The growth of Ripple can be attributed to its practical uses, technological advancements, and strategic alliances. Additionally, Ripple's victory in a legal battle against the US SEC has further solidified its position. However, there is a decline in the magnitude of daily trading volumes for XRP. The ongoing conflict between Ripple and the SEC continues to move forward, with renowned attorneys participating in the litigation."
+    },
+    {
+        "title": "Shibarium Blockchain Bridge: How To Bridge Coins From Ethereum To Shibarium - Captain Altcoin",
+        "summary": "  Shibarium Blockchain Bridge: How to Bridge Coins from Ethereum to Shibarium\n\n* Bridge assets from Ethereum (ETH) to Shibarium using the Shibarium Bridge\n* Acquire $BONE or $SHIB tokens on Uniswap\n* Swap tokens at ShibaSwap for other cryptocurrencies\n* Track transactions using Shibarium Explorer\n* Add Shibarium Network to wallet for easier access\n* Caution: ETH assets may get stuck in contract, use official Shibarium Bridge to retrieve\n* Simplified and more efficient bridging with recent updates"
+    },
+    {
+        "title": "Ethereum Co-founder Vitalik Buterin Moves $1M of ETH To Coinbase - Blockzeit",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, transferred $1 million worth of ETH to Coinbase, sparking speculation of an intent to sell. This is not the first time Buterin has moved assets to an exchange, with previous instances in March and April. Large transactions from influential holders like Buterin can significantly impact the market. In April, Ethereum's price declined by 13% after Vitalik made a significant outflow. Historical data shows a similar pattern in 2021, with Vitalik moving $415 million worth of ETH before Ethereum lost its all-time high. As of today, Ethereum's price is $1,663 with a 24-hour trading volume of $5.7 billion."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Ethereum had two technical issues in 24 hours - crypto.news",
+        "summary": "  Ethereum experienced two technical issues in 24 hours, with a stoppage of finalizing blocks for over an hour on May 12 and a previous issue on May 11 that lasted for about 25 minutes. The Ethereum Beacon Chain failed to finalize transactions due to unclear reasons, raising security concerns. The Ethereum Foundation stated that unfinalized blocks could lead to the re-ordering or dropping of pending transactions from the network. A production incident where all four sets of CL+EL were simultaneously rebooted and doubled their memory usage was identified as the cause of the issue. Some services built on Ethereum may need to modify operations due to finality issues. The incident has raised questions about Ethereum's stability and credibility, highlighting the importance of network reliability for attracting capital and growing users."
+    },
+    {
+        "title": "Best Cryptocurrency Investments to Buy Right Now: Solano, Ethereum and Bitcoin - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in 256 words or less:\n\nBest Cryptocurrency Investments to Buy Right Now: Solano, Ethereum and Bitcoin - Analytics Insight\n\nGlobal investors seek fast-growing, high-yielding cryptocurrencies. 2023 provides investors with opportunities for growth, while the market cap of $1 trillion maintains cryptocurrency volatility. The article highlights three of the best cryptocurrency investments to buy right now:\n\n1. Bitcoin: The leading cryptocurrency with a market cap of over $500 million and limited supply, making it resistant to inflation. Bitcoin has a history of halving, which could lead to a price increase in 2024.\n2. Tradecurve: A presale opportunity with a total of 40% of $TCRV sold during phase one. Tradecurve offers access to trading academies, automated trading, and staking with high leverage options and lowered subscription and trading fees.\n3. Ethereum: A flexible block"
+    },
+    {
+        "title": "What caused Ethereum [ETH] to decouple from Bitcoin [BTC]? Details here - AMBCrypto News",
+        "summary": "  Ethereum (ETH) decoupled from Bitcoin (BTC) due to the Shapella Upgrade in April, which improved Ethereum's proof-of-stake (PoS) blockchain and positioned it as a full-fledged PoS network. This upgrade closed the loop on key aspects of Ethereum's transition that couldn't make it to the Merge last year, which failed to bring about a considerable decoupling between the two assets. The correlation between the two coins has been falling since mid-to-late March, with Ethereum's TVL at $27 billion and Bitcoin's at $183 million. The decoupling could impact institutional investors' trading strategies like cross-hedging, and lower correlation makes a case for portfolio diversification."
+    },
+    {
+        "title": "Ethereum Developers Resolve Beacon Chain Finality Issues - NewsBTC",
+        "summary": "  Ethereum developers have resolved finality issues on the Beacon chain, which occurred twice in the past week, with patches released to prevent future occurrences. The issues lasted for 25 minutes and over an hour, but had no impact on on-chain activity. The Ethereum Foundation speculates that high load from some Consensus Layer clients may have caused the glitch. Despite the unknown cause, the upgrades implemented by Teku and Prysm will help prevent future occurrences via optimizations that prevent beacon nodes from high resource usage during such situations. Additionally, Ethereum's total supply has decreased since The Merge, with over 653,000 ETH burned and a net negative change of about -227,000 ETH. The deflationary trend is expected to be good news for long-term ETH investors. ETH is currently trading at $1,805.77 with a total supply of 122.89 million."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (14-May): ETH Ranging Market Continues! Watch This Key Level - Bitcoinsensus",
+        "summary": "  Ethereum (ETH) price is ranging in the 15-minute timeframe, with a key resistance level to watch. The bearish flag pattern is still forming, which could lead to a sell-off if completed. The pattern involves a pullback from a recent high, followed by a rapid drop, and a test of the resistance level. If the resistance holds, it could invalidate the pattern and lead to a possible bounce. The overall outlook is bearish, with a high probability of a sell-off in the coming days. To trade Bitcoin (BTC), check out our How To Trade Bitcoin Guide, and for hassle-free trading, sign-up on PrimeXBT with our promo code \"bitcoinsensus50\"."
+    },
+    {
+        "title": "Top 5 Ethereum Wallet in 2023 - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nTop 5 Ethereum wallets for secure storage in 2023:\n\n1. MyEtherWallet (open source, secure)\n2. Ledger Nano S (hardware wallet, offline storage)\n3. Trezor (hardware wallet, physical and virtual security)\n4. Exodus (desktop wallet, user-friendly, multiple cryptocurrencies)\n5. Trust Wallet (mobile wallet, convenient, dApp browser)\n\nChoose the best wallet for your needs and manage your Ethereum with peace of mind. Join our community for regular tech updates."
+    },
+    {
+        "title": "Ethereum Gas Fee is on the High End - Tekedia",
+        "summary": "  Ethereum gas fees are high due to the popularity of decentralized applications (dApps) and smart contracts on the platform. These applications require a lot of computation and storage, leading to increased gas consumption and higher fees. To reduce gas fees, users can adjust their gas price and gas limit, or use layer 2 solutions or sidechains. However, the transition to a proof-of-work (PoW) consensus mechanism has limited the scalability of Ethereum, which can only process around 15 transactions per second. PoS has helped reduce gas fees significantly, but Ethereum remains valuable despite its high gas fees. (256 tokens)"
+    }
+]

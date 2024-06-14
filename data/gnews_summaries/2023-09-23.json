@@ -1,0 +1,77 @@
+[
+    {
+        "id": 2,
+        "title": "Ethereum's 'Dencun' upgrade likely delayed into 2024 - CryptoSlate",
+        "summary": "  Ethereum's next major upgrade, Dencun, is likely to be delayed into 2024 due to ongoing development and testing. Despite being mostly complete, Dencun still needs to be deployed to a testnet before it can be launched on the mainnet. The Ethereum Foundation member, Tim Beiko, stated that if they don't deploy to a testnet before Devconnect in November, it's unlikely that mainnet launch will occur before the Christmas holidays. Developers are considering testing Dencun on an older testnet, Goerli, before moving to the new Holesky testnet for the second and third forks. Dencun combines two upgrades, Deneb and Cancun, and brings new features, including proto-danksharding, which will improve Ethereum's scalability when it's finally launched on mainnet."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum co-founder Vitalik Buterin calls for privacy and decentralization - crypto.news",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, is advocating for greater privacy and decentralization in the blockchain network. He believes that centralized entities, such as custodial exchanges, are vulnerable to corruption and that users should be able to transact directly on the Ethereum blockchain. Buterin also emphasizes the importance of privacy technology, such as zero-knowledge proof implementations, to ensure that users can maintain their privacy and security. He notes that even mainstream countries are growing more concerned about privacy technology and warns that crypto developers should have the right to build privacy-focused products without fear of prosecution."
+    },
+    {
+        "id": 6,
+        "title": "Is Ethereum Bottom In? Top Analyst Reveals the \u2018No Questions Asked\u2019 Level He Will Start Reaccumulating ETH - The Daily Hodl",
+        "summary": "  Top analyst Bluntz predicts Ethereum (ETH) will bottom out and rally to new highs. ETH is in the final stage of a corrective move within an ascending triangle pattern. If ETH drops to $1,430-$1,440, Bluntz will buy for longer-term gains. The analyst expects sideways movement followed by a breakdown to a new low before a potential rally to new highs. ETH trades at $1,595."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum (ETH) Fees Hit Yearly Lows, Here's Where This Might Lead - U.Today",
+        "summary": "  Ethereum (ETH) fees have reached their lowest level since 2023, averaging $1.15 per transaction. This decrease in fees could lead to increased utility and potentially recovering market cap levels. ETH is currently trading near $1,594 and may attempt an upside move towards $1,692 and $1,804 levels next. However, the crypto asset is also seeing a decrease in supply, which could put pressure on its price. Total fees on Ethereum have dropped to a nine-month low of $22.1 million, while exchange netflows have seen a negative $130 million inflow."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum Network Fees Hit 2023 Low: What It Could Mean For ETH Price - NewsBTC",
+        "summary": "  Ethereum network fees have hit their lowest level in 2023, averaging around $1.15 per transaction. This decrease is a positive sign for Ethereum's utility and adoption, as lower fees make it more affordable to use the network. However, the impact on ETH price has been limited, with the token continuing to trade below the $1,600 mark. There are also concerns about dwindling whale holdings, which could make the price more susceptible to downward pressure. Despite this, the on-chain analytics platform Santiment notes that rising utility is often the case due to Ether tokens becoming more affordable to circulate."
+    },
+    {
+        "id": 14,
+        "title": "XRP Lawyer: Accessed Records On Alleged Ethereum ICO Scam - CoinGape",
+        "summary": "  Attorney John Deaton revealed that he has seen evidence provided by Steven Nerayoff, an early advisor in the Ethereum network project, regarding alleged wrongdoings during the Ethereum initial coin offering (ICO) in 2014. Nerayoff claimed to have receipts to back up his claims, which Deaton could not exclusively name due to attorney-client privilege. Deaton believes that the insiders of the Ethereum ICO are not telling the truth based on the records he saw. This announcement could potentially impact the ongoing XRP lawsuit against Ripple, as the cross-examination of Bill Hinman records may be difficult for the US Securities and Exchange Commission (SEC). Deaton stated that the truth will come out and the community is getting closer in the fight against regulators."
+    },
+    {
+        "id": 15,
+        "title": "Bitcoin Price and Ethereum Prediction: Minimal 1% Fluctuations Offer Trading Insights for BTC and ETH - Cryptonews",
+        "summary": "  Bitcoin and Ethereum are trading with minimal fluctuations, around 1%, near $26,500 and $1,600, respectively. The Fear & Greed Index remains neutral, suggesting indecision among investors. Technical analysis suggests that Bitcoin may be positioning itself for a potential breakout or descent, while Ethereum is encountering resistance at $1,600 and support near $1,575. The top 15 cryptocurrencies to watch in 2023 are also listed, and investors are advised to monitor the $1,575 juncture for Ethereum. The Crypto Price Tracker provides real-time pricing information for various cryptocurrencies."
+    },
+    {
+        "id": 16,
+        "title": "ETH Price Struggles Continue Despite Record Low Network Fees - DailyCoin",
+        "summary": "  Ethereum's network fees have hit a new low in 2023, averaging around $1.15 per transaction. This is a significant decrease from the high fees witnessed in 2021 and 2022, which were driven by increased demand for processing power. The lower fees make the network more economically viable for users and could contribute to increased adoption and utility. However, despite this development, Ethereum's price has struggled to break free from ongoing selling pressure, with a modest 2.6% decline over the past week. The drop in fees may be driven by decreased network activity rather than increased efficiency, which could challenge Ethereum's ability to retain its user base and attract new users."
+    },
+    {
+        "id": 19,
+        "title": "XRP Lawyer John Deaton Representing Ex-Ethereum Advisor? - CoinGape",
+        "summary": "  Attorney John Deaton representing ex-Ethereum advisor Steven Nerayoff in potential lawsuit against Ethereum Foundation for alleged wrongdoings related to Ethereum's 2014 ICO. Deaton has seen documents related to the issue, but is bound by attorney-client privilege. Potential implications could lead to Nerayoff suing the Ethereum Foundation over fraud charges. Deaton is known for his views on SEC favoring Ethereum in XRP lawsuit."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Gas Fees At 2023-Lows Providing Boost to ETH Price - CoinGape",
+        "summary": "  Ethereum gas fees have reached their lowest point in 2023, with transaction costs now at $1.15. This decrease in fees historically corresponds to an increase in Ethereum's utility and could contribute to the recovery of market capitalization levels. However, the Ethereum price continues to be under selling pressure, with the possibility of an additional 4% decline targeting the $1460 support level. There are also concerns around Ethereum staking, with a major drop in staking inflows and a concentration of ETH staking in the hands of a few liquid staking protocols."
+    },
+    {
+        "id": 23,
+        "title": "Ex-ETH Advisor: Vitalik Buterin Coordinated Fraud Charges On Me - CoinGape",
+        "summary": "  Ex-Ethereum advisor Steven Nerayoff has accused Vitalik Buterin of orchestrating a coordinated attack against him, including falsely accusing him of fraud. Nerayoff claims to have evidence of corruption within the SEC and Ethereum Foundation. He also alleges that Vitalik abandoned a colleague after he was arrested for helping North Korea evade sanctions."
+    },
+    {
+        "id": 26,
+        "title": "Cryptocurrency Price Today: Bitcoin Remains Above $26,000 Mark As ThetaNetwork Becomes Top Gainer - ABP Live",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nBitcoin and Ethereum prices remained above $26,000 and $16,000 marks, respectively, but saw minor losses. ThetaNetwork was the top gainer with a 24-hour jump of over 8%. Immutable was the biggest loser. Global crypto market cap saw a 24-hour loss of 0.43%."
+    },
+    {
+        "id": 27,
+        "title": "Vitalik Buterin Discusses Ethereum's Future and Regulatory Hurdles - CryptoGlobe",
+        "summary": "  Vitalik Buterin discussed Ethereum's future and regulatory hurdles in an interview with CNBC. He emphasized the need for Ethereum to offer genuine value to users, focusing on building practical applications. He also discussed the utility of cryptocurrencies in emerging economies and the reliance on centralized platforms like Binance. Buterin expressed concerns about centralized platforms' vulnerability to external pressures and corruption. He also mentioned that Ethereum is focusing on enhancing privacy and scalability through technologies like zero-knowledge rollups. Additionally, he stated that Ethereum's shift to a proof-of-stake model is more likely to withstand government intervention due to its anonymity and decentralization."
+    },
+    {
+        "id": 32,
+        "title": "Ripple: Overall transactions exceed those of Ethereum - The Cryptonomist",
+        "summary": "  Ripple's XRP Ledger has exceeded Ethereum in terms of overall transactions, with over 2.6 billion transactions facilitated on the platform. RippleX is working on growth and innovation, with a focus on community development and grants programs. The XRP Ledger is set to introduce a native AMM amendment that will bring new features and liquidity to the network. Tokenization is seen as a key area of development, with the potential to remove frictions in traditional financial markets and bring efficiency. Ripple is working with the community to accelerate the development of XRP Ledger infrastructure, with programs such as the one billion XRP fund and the XRP accelerator program. The scalability and interoperability limits of XRP Ledger are seen as strong, with the platform able to handle over a million transactions per day and 3-5 second transaction times. Credefi.Finance 2.0 has just gone live on XRPL, offering innovative lending solutions to stablecoin holders."
+    },
+    {
+        "id": 35,
+        "title": "Much-Awaited Dencun Upgrade of Ethereum Maybe Behind Schedule - The Coin Republic",
+        "summary": "  Ethereum's much-anticipated Dencun upgrade may be delayed due to a lack of exposure to public testnets. The upgrade, which aims to improve scalability, was scheduled to be launched before Devconnect, an Ethereum-focused developer conference in November. However, the consensus-layer team has expressed concerns about the delay, stating that the upgrade needs more time to be tested on public testnets like Holesky, Goerli, and Sepolia. The team is now focusing on a localized developer network called \"Devnet 9\" to assess the functionality of Dencun before it goes to the public testnet phase. While the delay may be frustrating for users, it's better to wait for a flawless upgrade than to use subpar functionalities."
+    }
+]

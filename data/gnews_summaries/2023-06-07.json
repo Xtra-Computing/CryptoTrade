@@ -1,0 +1,74 @@
+[
+    {
+        "title": "How to create a smart contract using Ethereum - TechTarget",
+        "summary": "  How to create a smart contract using Ethereum:\n\n* Solidity is the programming language used for smart contracts on the Ethereum network\n* It's a powerful and complex language that takes time to master\n* Ethereum Virtual Machine (EVM) is the mechanism for running smart contracts on the Ethereum blockchain\n* The Solidity software development lifecycle involves writing, compiling, and deploying smart contracts\n* Inheritance, encapsulation, and polymorphism are supported in Solidity as in OOP languages\n* Interfaces are supported in Solidity, allowing developers to define methods and data members that an implementing contract will provide\n* To create a smart contract, first import the ILocation interface and then implement it in a contract named Location\n* The Location contract declares data members for latitude and longitude and has a constructor that takes those values\n* The getLongitude and getLatitude functions are external view functions that return the latitude and longitude values\n* Another smart contract, LocationFactory, imports the Location contract and has a function that creates a new Location contract and returns an ILocation interface\n* Tools available for writing smart contracts include IDEs such as VS Code and"
+    },
+    {
+        "title": "Security or not, Ether looks poised to hold the $1.8K level based on 3 key metrics - Cointelegraph",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nEther (ETH) price may be poised to hold above $1,800 despite recent SEC lawsuits against exchanges Binance and Coinbase, as three key metrics suggest resilience in the Ethereum network. TVL in decentralized applications (DApps) has bounced back after a bottom in June, and active addresses interacting with DApps have increased slightly. Additionally, Ether futures contracts trade at a slight premium, and options markets indicate a neutral sentiment despite a brief bounce to $1,880. These indicators suggest that professional traders are not overly bearish on Ether's price despite the retest of the $1,800 level."
+    },
+    {
+        "title": "Will Ethereum Price Break $10k? VanEck Predicts $ETH Price To Reach $11.8k By 2030 - CoinGape",
+        "summary": "  VanEck predicts that Ethereum's price will reach $11.8k by 2030, driven by increased adoption and revenue growth. The company's valuation model takes into account cash flow projections, validator fees, and taxes, and uses a free cash flow multiple of 33x. Ethereum's dominance in key sectors such as transactions, finance, and infrastructure is also highlighted. According to CoinMarketCap data, the current live Ethereum price is $1,875.79, with a 24-hour trading volume of $9.3 billion."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for June 30, 2023 - Finbold - Finance in Bold",
+        "summary": "  Ethereum price is predicted to rise to $1,956.92 by June 30, 2023, according to a machine learning algorithm. The algorithm uses indicators such as Bollinger Bands, average true range, moving average convergence divergence, and relative strength index to predict the price. Currently, Ethereum is trading at $1,863.69, with a gain of 3.48% in the last 24 hours and a decline of 0.24% in the previous week. The 1-day technical analysis gauges are generally bullish on Ethereum, suggesting a 'buy' at 14. Additionally, there has been massive whale activity on the Ethereum network, with some of the largest investors selling or distributing over 1.6 million ETH over the past 48 hours."
+    },
+    {
+        "title": "SEC Tells Coinbase: 'You Simply Can't Ignore the Rules Because You Don't Like Them.' But Coinbase Still Isn't Binance - The Motley Fool",
+        "summary": "  The Securities and Exchange Commission (SEC) has charged Coinbase, a popular cryptocurrency exchange, with operating as an unregistered national securities exchange, broker, and clearing agency. The SEC alleges that Coinbase failed to register its crypto staking program and operated without required oversight. The charges come after the SEC accused Binance, another major crypto exchange, of operating unregistered exchanges and selling unregistered securities. The SEC's Director of Enforcement, Gurbir S. Grewal, stated that \"you simply can't ignore the rules because you don't like them or because you'd prefer different ones.\" Coinbase CEO Brian Armstrong responded by tweeting that the exchange has tried to register with the SEC and that the agency's review of its business allowed it to become a public company in 2021. The SEC's charges against Binance are more severe, with allegations of lying about risk controls, corrupting trading volumes, and carrying out wash trading. The developments highlight the ongoing debate over how to categorize and regulate"
+    },
+    {
+        "title": "$59,470,000,000 in ETH Held by Massive Ethereum Whales, Shattering All-Time High: Santiment - The Daily Hodl",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 $59.47B ETH held by massive Ethereum whales, shattering all-time high.\n\ud83d\udd25 Santiment: Whales absorbed 31.8M ETH, worth $59.6B, as more coins moved into self-custody and DeFi.\n\ud83d\udcb8 Prices crashed on Monday, down 3% in past 24 hours, after SEC sued Binance and Coinbase.\n\ud83d\udcc9 ETH trading at $1,876, up 3.5% in past day.\n\ud83d\udc40 Follow us on Twitter, Facebook, and Telegram for the latest crypto news and updates.\n\ud83d\udca1 Disclaimer: Opinions expressed are not investment advice, and losses are your responsibility."
+    },
+    {
+        "title": "Aave Lending Protocol Moves Closer to Launching GHO Stablecoin on Ethereum Mainnet - CoinDesk",
+        "summary": "  Aave Lending Protocol to Launch GHO Stablecoin on Ethereum Mainnet, Generating Revenue for DAO. 100% of interest payments on GHO borrowed will be sent to the DAO, per proposal. Initially on Ethereum, with potential for other blockchains based on community demand and voting."
+    },
+    {
+        "title": "9 programming languages for smart contract development - TechTarget",
+        "summary": "  Nine programming languages for smart contract development are:\n\n1. C++\n2. Clarity\n3. Java\n4. JavaScript\n5. Python\n6. Rust\n7. Solidity\n8. Vyper\n\nThese languages are popular for developing special programs that transfer digital assets based on specific conditions, and they run on top of blockchain platforms such as Ethereum, Hyperledger Fabric, and Stacks. Developers should consider their programming experience and the target platform when choosing a language, as well as security features, execution performance, community support, and ease of learning."
+    },
+    {
+        "title": "The Polygon (MATIC) SWOT Analysis: Evaluating the General-purpose Ethereum Scaling Solution - hackernoon.com",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPolygon (MATIC) SWOT Analysis:\n\nStrengths:\n\n* General-purpose Ethereum scaling solution\n* Ecosystem for decentralized applications\n* High scalability and security\n\nWeaknesses:\n\n* Limited adoption and usage\n* Dependence on Ethereum network\n\nOpportunities:\n\n* Growing demand for decentralized solutions\n* Partnerships and collaborations\n\nThreats:\n\n* Competition from other scaling solutions\n* Regulatory challenges\""
+    },
+    {
+        "title": "Crypto Market Defies US SEC; Bitcoin, Ethereum, And Coinbase (COIN) Rally - CoinGape",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto market defies US SEC's actions, with Bitcoin and Ethereum prices rebounding after a brief dip. SEC charged Binance and its CEO with commingling funds and manipulative trading, while charging Coinbase with operating an unregistered exchange and offering securities. Coinbase CEO was not named in the lawsuit, while Binance CEO was. The SEC also listed several cryptocurrencies as securities in both lawsuits. Despite the lawsuits, the crypto market remains united in seeking clarity on crypto rules and guidelines. Coinbase shares rebounded after Ark Invest purchased $21 million worth of Coinbase (COIN) shares."
+    },
+    {
+        "title": "The Future of Tokenization: Exploring HedgeUp (HDUP), Ripple (XRP), and Ethereum (ETH) - NewsBTC",
+        "summary": "  Tokenization, the process of creating blockchain tokens using real-world assets (RWAs), is set to play a significant role in the future of cryptocurrencies. HedgeUp (HDUP) is a new project that is exploring this trend by tokenizing RWAs and making them available to investors. Here's a comparison of HedgeUp (HDUP) with Ripple (XRP) and Ethereum (ETH):\n\n* Ripple (XRP) is focused on international remittances and has partnered with many banks and financial institutions. However, it has faced legal issues.\n* Ethereum (ETH) is known for its smart contracts and decentralized applications (dApps), and has become the center of decentralized finance (DeFi).\n* HedgeUp (HDUP) is tokenizing RWAs like precious metals, rare artwork, and valuable jewelry, and making them available to investors through NFTs.\n\nHedgeUp (HDUP) is currently in its presale stage, with the token available for $0.036. Investors who buy during"
+    },
+    {
+        "title": "Major Trader Snaps up Shiba Inu (SHIB) and Ethereum (ETH) Dips With Millions of Dollars - U.Today",
+        "summary": "  Major trader Cumberland, subsidiary of DRW, has been aggressively buying up cryptocurrencies such as Shiba Inu (SHIB) and Ethereum (ETH) despite the SEC's legal action against Binance and Coinbase. Lookonchain reports that Cumberland withdrew a total of $56 million from Coinbase and $37 million from Binance, as well as various other tokens. This strategic move by a reputable trading firm may indicate confidence in the market and potential value in purchasing digital assets at a discounted price."
+    },
+    {
+        "title": "Arbitrum just came to a sudden halt \u2014 it ran out of money for gas - DLNews",
+        "summary": "  Arbitrum, a layer 2 blockchain, experienced a sudden halt in transactions for an hour due to a software bug that depleted the Sequencer's funds for gas. The Sequencer, which bundles and sends transactions to the Ethereum network for confirmation, ran out of Ether after a bug caused its batches to revert on-chain. The issue was resolved after manual replenishment of Ether, but the incident highlights Arbitrum's single point of failure and reliance on centralized control."
+    },
+    {
+        "title": "Bullish Reversal in Ethereum (ETH) Despite SEC War on Cryptos - FX Leaders",
+        "summary": "  Despite SEC's war on cryptos, Ethereum (ETH) has seen a bullish reversal. The SEC has been cracking down on cryptocurrencies, but ETH has managed to defy this trend. This could be a sign of a potential turnaround in the market. Learn more about troubleshooting WordPress errors for more information."
+    },
+    {
+        "title": "InQubeta (QUBE) Presale is Rapidly Gaining Popularity in the Crypto Market Among Bitcoin (BTC) and Ethereum (ETH ... - BSC NEWS",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nInQubeta (QUBE) presale is gaining popularity in the crypto market, attracting both Bitcoin (BTC) and Ethereum (ETH) holders. The AI-linked cryptocurrency is expected to 4x investors' portfolio during its ten-stage presale, with prices starting at $0.0007 and rising to $0.028. The success of the presale mirrors the growing investments in the AI industry, which is expected to reach $1.5 trillion by 2030. InQubeta's platform allows for fractionalized ERC-20 tokens representing equity and other bonuses on its blockchain, with a 2% tax added to marketplace transactions and sent to burn wallets to lower the supply of tokens. Bitcoin and Ethereum's growth has stalled, with investors dumping them in favor of InQubeta which has more room for growth."
+    },
+    {
+        "title": "Bitcoin and Ethereum claw back losses in wake of SEC action over Binance and Coinbase - CityAM - City A.M.",
+        "summary": "  Bitcoin and Ethereum have rebounded from recent losses after the US Securities and Exchange Commission (SEC) took action against Binance and Coinbase. Bitcoin is up 4% and Ethereum is up 3%, while on-chain analytics firm Glassnode reports strong support for Bitcoin in the $25.3k and $26.3k range. The total crypto market cap is $1.122 billion, and Bitcoin's market dominance is 47.92%. The Fear and Greed Index is 53 and neutral, and the Relative Strength Index (RSI) is 48, indicating that Bitcoin may be primed for a trend reversal or correction."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (7-June): Urgent! Watch This ETH Bearish Target For This Key Pattern. - Bitcoinsensus",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price is predicted to drop by -15% if a bearish flag pattern plays out in the 4-hour timeframe. The pattern is still forming, and the key support of $1,755 must be broken for the sell-off to begin. The article provides a detailed analysis of the pattern and offers trading opportunities with leverage on Bybit. It also includes a side note on the importance of breaking the $1,755 key support. The final verdict is that the author is still bearish on Ethereum and expects a potential dump in the coming days."
+    },
+    {
+        "title": "Rabby Wallet Review [2024]: How to Use this Ethereum-compatible Wallet? - Captain Altcoin",
+        "summary": "  Rabby Wallet is a user-friendly and secure Ethereum-compatible wallet that offers advanced features such as automatic chain-switching, transparent transactions, and pre-transaction risk scanning. It supports a wide range of digital assets and integrates with popular cryptocurrency exchanges, providing users with full control over their private keys. Rabby Wallet also offers advanced security features such as two-factor authentication and biometric authentication. The wallet is easy to set up and use, with a user-friendly interface for managing cryptocurrencies. However, it has limited customer support for non-technical users and no support for fiat currencies. Overall, Rabby Wallet scores 7.4 out of 10."
+    }
+]

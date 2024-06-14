@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Layer 2 Network Optimism to Use Ethereum Attestation Service to Promote User Trust - CoinDesk",
+        "summary": "  Layer 2 network Optimism is partnering with Ethereum's attestation service to promote user trust. The Optimism Collective is experimenting with attestations to identify positive contributors to the space and give them tokens. This move aims to increase trust within the community."
+    },
+    {
+        "title": "How to Unwrap Ethereum? - Watcher Guru",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has completed its switch to proof-of-stake mining and introduced major changes to its blockchain. The Shapella upgrade allows stakers to withdraw their staked ETH. Wrapped Ether (wETH) was created to provide a standardized approach to interacting with Ether on Ethereum-based dApps. To wrap Ether, users can swap it for wETH through a cryptocurrency exchange or use a smart contract. To unwrap Ether, users can follow similar steps as wrapping it."
+    },
+    {
+        "title": "Curve Deploys Stablecoin Smart Contract on Ethereum - Blockworks",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCurve Finance has deployed its stablecoin smart contract on Ethereum, using a unique Lending-Liquidating Automated Market Maker Algorithm (LLAMMA) that combines traditional AMM and lending markets. The smart contract was initially deployed with a minor issue, but was resolved after redeployment this morning. Although 20 million crvUSD were minted during deployment, these tokens did not leave the system and only become circulating after borrowed by end users. Curve Finance is well positioned for success when liquidity and volume return, as it now controls multiple parts of the DeFi stack with a DEX, lending market, and stablecoin."
+    },
+    {
+        "title": "Ethereum [ETH]: Decoding the possibility of a price correction as failed transactions surge - AMBCrypto News",
+        "summary": "  Ethereum (ETH) transactions have exceeded 500,000, signaling a possible price correction. Historical data shows that when the number of failed transactions reaches 200,000, it often leads to a price correction. Network activity has declined since April 14th, with a 41% drop in daily active addresses and a 86% drop in new addresses created. Funding rates have also fallen to a one-month low of -0.013, indicating bearish sentiment. Holders of 1000-100,000 ETH coins have been distributing their holdings, contributing to the decline in value. However, bigger whales holding between 100,000-10,000,000 ETH coins have increased their holdings, but this has not resulted in a significant price rally. At press time, ETH's RSI and MFI are positioned beneath their respective neutral spots, indicating waning buying pressure and a need for new demand to drive up the alt's value."
+    },
+    {
+        "title": "Ethereum Virtual Machine (EVM) - LCX",
+        "summary": "  The Ethereum Virtual Machine (EVM) is a crucial component of the Ethereum network, serving as the runtime environment for smart contracts. It functions like a decentralized computer with millions of executable projects and is responsible for executing and deploying smart contracts. The EVM is Turing-complete, allowing developers to write smart contracts and decentralized applications (DApps) for the emerging Web3 area with ease. It supports various programming languages, including Vyper and Solidity, and converts smart contract code into bytecode that can be executed by the EVM. The EVM's immutable actions define the state of each block in the Ethereum blockchain and govern what nodes can or cannot do to the distributed ledger. It is a stack-based virtual machine with a depth of 1024 items, each of which is a 256-bit word, making native hashing and elliptic curve operations possible."
+    },
+    {
+        "title": "Beyond Ethereum: Bitcoin Ordinals Break $3m Inscriptions Taking the Crypto Industry by Storm - NFT Culture",
+        "summary": "  Bitcoin Ordinals NFTs have surged in popularity, with over 3.4 million registrations on the Bitcoin blockchain, reaching an all-time high. This growth is exciting for the crypto industry and suggests a growing demand for NFTs on the Bitcoin network. Despite high fees, the surge in interest in Bitcoin Ordinals NFT may be evidence of its acceptance among BTC maximalists. The protocol allows users to embed data into the Bitcoin blockchain by inscribing references to digital art into small transactions, and it is compliant with the BRC-20 standard. The explosion in numbers and daily enrollments is expected to lead to more innovation and growth in the NFT market."
+    },
+    {
+        "title": "Goracle enhances cross-chain compatibility on Algorand: Importing data from Ethereum and more - Cointelegraph",
+        "summary": "  Goracle, a decentralized blockchain oracle solution built on Algorand, has enhanced its compatibility to import data from Ethereum and other blockchains. This feature enables developers to build cross-chain applications that can interact with multiple blockchains, increasing the overall utility of Algorand. Use cases include DeFi, supply chain management, gaming, and asset management. Adam Kinley, Director of Strategic Partnerships at Goracle, stated that the new feature will drive adoption of the Algorand blockchain and pave the way for new innovations and greater adoption. Goracle is currently in Testnet and plans to launch to Mainnet in June."
+    },
+    {
+        "title": "How crypto traders can utilize MEV in blockchain transactions - Protos",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMaximum extractable value (MEV) refers to the money that can be extracted from blockchain transactions through various means. The majority of MEV occurs on decentralized exchanges (DEXs) like Uniswap. There are four types of MEV: sovereign MEV, internal MEV, CeFi-DeFi MEV, and interchain MEV. Sovereign MEV allows blockchain communities to set rules for MEV extraction, while internal MEV generates MEV directly on an application-specific blockchain. CeFi-DeFi MEV exploits differences between centralized exchanges and decentralized finance apps, and interchain MEV takes advantage of cross-blockchain data to profit from swapping assets across blockchains. MEV is unavoidable, even on Ethereum, as validators can always select transactions with higher fees. Developers can build ways to keep MEV under control by adding rules on who can get the rewards and how users can extract MEV from their blockchains through sovereign MEV practices."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin rises above $29k; Ethereum, Polygon surge up to 3% - The Economic Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin rose 2.44% to $29,152, while Ethereum surged 2.14% to $1,900. Cryptocurrency markets are trading higher after the US Fed raised interest rates by 25 basis points. Bitcoin is approaching resistance levels of $29,420 and $30,000. The global cryptocurrency market cap is trading higher at $1.20 trillion, with a 2% increase in the last 24 hours. Stablecoins make up 90.76% of the total crypto market 24-hour volume. Experts say Bitcoin may continue to rally due to concerns about the US banking crisis, but candlestick patterns indicate bearish sentiment. Immediate support lies near $27,600, with a possible downtrend indicated by RSI and MACD indicators."
+    },
+    {
+        "title": "Aave Goes Live on Scroll Alpha Testnet: A Game-Changer for Ethereum Scaling? - BSC NEWS",
+        "summary": "  Aave, a decentralized finance (DeFi) platform, has launched on the Scroll Alpha testnet, a game-changer for Ethereum scaling. The platform aims to provide a scalable solution for DeFi applications, allowing for faster and cheaper transactions. However, it is important to proceed with caution when purchasing newly listed tokens, as there are potential risks involved. BSC News recommends referencing their articles on safety in the BSC ecosystem to ensure a safe and secure investment. Additionally, the platform has purchased an advertisement article for $1500, and readers are advised to do their own research before taking any actions related to the company."
+    },
+    {
+        "title": "Cryptocurrency Prices on May 4: Bitcoin holds above $28,500; Ethereum rises up to 2% - Moneycontrol",
+        "summary": "  Bitcoin rose 2% to $28,526 and Ethereum gained 2% to $1,850, as the global cryptocurrency market cap increased 1% to $1.17 trillion. Stablecoin volume reached $38.50 billion, accounting for 91.35% of total crypto market 24-hour volume. The banking crisis in the US may continue to impact short-term price movements, with PacWest Bancorp's shares falling 50% after hours following a Bloomberg report of potential strategic options."
+    },
+    {
+        "title": "Big Eyes Coin Prevails Over Bear Market as Ethereum and Ripple Slump - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto market is down, with Ripple and Ethereum seeing losses. Big Eyes Coin, a meme coin in presale, is outperforming the market. It has raised over $34.5 million in investment and has a community-focused development roadmap. The project is committed to acting on climate change and has set aside 5% of its liquidity for charity. Despite the market downturn, Big Eyes Coin is emerging as a bright spot and investors are confident in its potential."
+    }
+]

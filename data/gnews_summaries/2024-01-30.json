@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "SEC is Likely to Approve Ethereum ETF in May, Standard Chartered Predicts (ETH) - Bloomberg",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nSEC is expected to approve Ethereum ETF in May, per Standard Chartered. VanEck and Ark 21Shares have ETF applications due by May 23."
+    },
+    {
+        "id": 3,
+        "title": "3 Cryptos to Buy Before the Coming Ethereum Upgrade - Yahoo Finance",
+        "summary": "  Three cryptocurrencies to buy before the upcoming Ethereum upgrade: Ethereum (ETH), Optimism (OP), and 0xGasless (0XGAS). The upgrade, Deneb/Cancun, aims to improve Ethereum's scalability and efficiency, which could benefit these cryptos. However, it's important to note that investing in cryptocurrencies is risky and subject to market volatility."
+    },
+    {
+        "id": 4,
+        "title": "SEC likely to approve spot Ethereum ETFs on May 23: Standard Chartered - The Block",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe Securities and Exchange Commission (SEC) is likely to approve spot Ethereum exchange-traded funds (ETFs) on May 23, according to Standard Chartered Bank. The bank's head of forex and digital assets research, Geoffrey Kendrick, expects the SEC to follow a similar approach to the one taken with spot bitcoin ETFs, starting with rejections and ultimately granting approval on the final deadline. Kendrick believes that the SEC's lack of classification of ether as a security in legal actions against crypto companies and the listing of ETH as a regulated futures contract on the Chicago Mercantile Exchange support the approval of spot Ethereum ETFs. He also notes that Grayscale's Ethereum trust could be turned into an ETF, and the SEC has not provided any fundamental reason to view ETH differently than the CME does. Kendrick predicts that the approval of spot Ethereum ETFs could lead to ETH prices reaching $4,000 by May"
+    },
+    {
+        "id": 7,
+        "title": "Standard Chartered Predicts Ethereum (ETH) Price Will Hit $4,000 Following ETF Approval - U.Today",
+        "summary": "  Standard Chartered predicts Ethereum price will reach $4,000 after ETF approval, but analysts are divided on the outcome. The SEC is expected to approve ETFs in May, but legal experts are skeptical due to regulatory hurdles. The current price of Ethereum is $2,372.37 with a market cap nearing $285 billion, and the Fear and Greed Index indicates a neutral market sentiment."
+    },
+    {
+        "id": 8,
+        "title": "Big Geth users are diversifying their clients following Nethermind bug - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBig Geth users are diversifying their clients following a recent Nethermind bug on Ethereum's blockchain. The bug caused validators to go offline for four hours, raising concerns about client centralization. Geth is the most popular execution client, but it was estimated that 84% of validators used it last week. To address client diversification risks, Coinbase Cloud is looking into alternative execution clients, while other teams like Allnodes and P2P have already transitioned to using Besu. As of today, there are still 78% of validators using Geth, but around 6% of node operators have switched to other clients in just a week."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum ETF Approval Expected in May, Standard Chartered Says - Bloomberg Law",
+        "summary": "  Sure! Here is a summary of the financial news in less than 256 tokens:\n\nThe US Securities and Exchange Commission is expected to approve Ethereum exchange-traded funds (ETFs) in May, according to Standard Chartered Plc. The agency has until May 23 to consider applications from VanEck and Ark 21Shares, and the bank expects a ruling on the final date, similar to its previous approval of Bitcoin ETFs on January 10."
+    },
+    {
+        "id": 10,
+        "title": "Ethereum Price Analysis: ETH Could Regain Strength Above $2,350 - Live Bitcoin News",
+        "summary": "  Ethereum (ETH) price is eyeing an upside break above $2,350, with bullish momentum gaining steam. The price is trading above $2,280 and the 55 simple moving average (4 hours), with a break above a key bearish trend line and the 23.6% Fib retracement level of the last downward move. Technical indicators, such as the MACD and RSI, are gaining momentum in the bullish zone. Key support levels are at $2,240 and $2,165, while key resistance levels are at $2,350 and $2,450."
+    },
+    {
+        "id": 14,
+        "title": "StanChart believes SEC will approve Ethereum ETFs in May - CryptoSlate",
+        "summary": "  StanChart predicts SEC will approve Ethereum ETFs in May, following similar timeline to Bitcoin ETFs. Ethereum's classification as a non-security and its presence on the Chicago Mercantile Exchange increase chances of approval. ETFs will likely start with simple tracking of Ethereum's price, with more complex offerings emerging later. StanChart's predictions also see a positive outlook for the broader cryptocurrency market, including a potential surge in Bitcoin's price to $100,000 by year-end and $200,000 by 2025."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum\u2019s Dencun upgrade goes live on Sepolia testnet - The Block",
+        "summary": "  Ethereum's Dencun upgrade went live on the Sepolia testnet, marking the final testnet deployment before its anticipated \"proto-danksharding\" feature. Dencun aims to lower gas fees and improve scalability by introducing a new data storage mechanism called \"blobs.\" The upgrade is expected to establish a mainnet launch date after successful testnet deployments on Goerli and Holesky."
+    },
+    {
+        "id": 19,
+        "title": "Standard Chartered: Ethereum Spot ETFs Likely To Be Approved by May 2024 - Yahoo Finance",
+        "summary": "  Standard Chartered predicts that Ethereum (ETH) spot ETFs will be approved by the SEC by May 2024, potentially doubling the current price of ETH. The bank cites the SEC's lack of classification of ETH as a security, contrasting with the regulator's crackdown on unregistered securities in the crypto space. Standard Chartered expects the approval to lead to a surge in ETH value, potentially reaching $4,000. The bank maintains a bullish outlook on Bitcoin, predicting it could reach $100,000 by the end of 2024."
+    },
+    {
+        "id": 23,
+        "title": "It's now free to connect a real domain to Ethereum Name Service - Domain Name Wire",
+        "summary": "  Ethereum Name Service (ENS) now offers free domain name connectivity with the implementation of \"Gasless DNSSEC.\" This enables users to use real domain names instead of.eth addresses, eliminating costly Ethereum gas fees. A new smart contract allows DNS records to be verified off-chain, making it possible to use real domain names for free in the ENS ecosystem. Domain owners only need to enable DNSSEC and add a TXT record to their domain."
+    },
+    {
+        "id": 24,
+        "title": "Ether Could Hit $4,000 With Likely Spot ETH ETF Approval in May: Standard Chartered - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEther could reach $4,000 with likely SEC approval of a spot ETH ETF in May, per Standard Chartered. Bank sees no fundamental reason for SEC to treat ETH differently than Bitcoin, citing listed futures on CME."
+    },
+    {
+        "id": 25,
+        "title": "TD Cowen expects spot Ethereum ETF no earlier than 2025 or 2026 - CryptoSlate",
+        "summary": "  TD Cowen expects spot Ethereum ETF approval no earlier than 2025 or 2026 due to political factors. The SEC must decide on proposed rule changes by May 23, but approval is unlikely based on partisan attitudes towards cryptocurrency. Democrats broadly opposed the earlier approval of spot Bitcoin ETFs, and SEC Chair Gary Gensler, a Democrat, may not want to approve a spot ETF to avoid a \"needless fight.\" Approval is predicted to be 47%-60% likely, depending on the source."
+    },
+    {
+        "id": 28,
+        "title": "How to Bridge Ethereum (ETH) to Solana? - Watcher Guru",
+        "summary": "  Title: How to Bridge Ethereum (ETH) to Solana?\n\nSummary: Bridging Ethereum (ETH) to Solana involves using a bridge to transfer assets between different networks. The process involves selecting the right bridge, connecting a supported wallet, selecting the source and destination chains, and specifying the amount to transfer. Fees will apply, but the cost will vary depending on factors. Portal Bridge is one example of a bridge used for this purpose."
+    },
+    {
+        "id": 29,
+        "title": "SEC to Approve Spot Ethereum ETFs in May: Standard Chartered - Watcher Guru",
+        "summary": "  The US Securities and Exchange Commission (SEC) is expected to approve Spot Ethereum ETFs in May, according to Standard Chartered Bank. The bank predicts that Ethereum could reach a value of $4,000 if approval is granted, following a similar trajectory to Bitcoin's pre-approval price surge. The SEC has not classified Ethereum as a security in legal actions against digital asset firms, and its listing on the Chicago Mercantile Exchange increases the potential for approval. Grayscale is seeking to convert its Ethereum trust into an ETF, and a denial of the application could lead to another appeal."
+    },
+    {
+        "id": 32,
+        "title": "Ethereum Could Nearly Double in Price on ETF Approval in May: Standard Chartered - Decrypt",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nStandard Chartered predicts that Ethereum's value could nearly double to $4,000 by May due to upcoming ETF approval. The bank expects the SEC to give spot ETH ETFs the green light by May 23, which would allow investors to gain exposure to ETH without storing it themselves. This could lead to increased demand and higher prices. Standard Chartered also previously predicted that Bitcoin would reach $100,000 by 2024, and still sees this price range as achievable."
+    },
+    {
+        "id": 36,
+        "title": "TD Cowen Predicts Approval for Spot Ethereum ETF by 2025-2026 - Coinpedia Fintech News",
+        "summary": "  TD Cowen predicts that the SEC will approve a spot Ethereum ETF in late 2025 or early 2026, not in 2024 as previously thought. The delay is due to political considerations and SEC Chair Gary Gensler's cautious approach to crypto regulation. Gensler is hesitant to approve an Ethereum ETF due to potential criticism from progressive Democrats and a desire for more experience with recently approved Bitcoin ETFs. The SEC can delay or dismiss ETF applications using standard administrative procedures, which could further prolong the approval process."
+    },
+    {
+        "id": 37,
+        "title": "Why Solana Beats Ethereum In This Bull Cycle: Crypto Expert - NewsBTC",
+        "summary": "  In a recent analysis, Andrew Kang, co-founder and partner of Mechanism Capital, compared the strengths of Solana (SOL) and Ethereum (ETH) in the current bull cycle. Kang argued that Solana is the superior trade due to its resilience and appeal to conservative investors, as well as its lack of complexities introduced by recent technological advancements. He noted that Ethereum's stability has become a double-edged sword, as it faces more rotational pressure from investors looking to move beyond the asset. At the time of writing, SOL was 30% short of a new all-time high against ETH."
+    },
+    {
+        "id": 39,
+        "title": "Ethereum's Vitalik Buterin Makes Surprising Visit to Binance, SHIB Rep Shares Shibarium's Plans to Onboard Thousands of Projects: Crypto News Digest by U.Today - U.Today",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, visited Binance's office, sparking speculation about a potential collaboration between the two giants of the crypto market. However, neither Buterin nor Binance CEO Richard Teng made any statements about possible cooperation. Meanwhile, Shibarium, a layer-2 solution, aims to onboard 1,000 projects with numerous partnerships, but some members of the SHIB army are skeptical about the project's ability to deliver on its promises. Finally, JPMorgan reports that the hype around Bitcoin ETFs is cooling off."
+    },
+    {
+        "id": 40,
+        "title": "Ethereum to Surge 70% If ETF Launches in May, Standard Chartered Says - Markets Insider",
+        "summary": "  Ethereum could surge 70% to $4,000 if an ETF is launched in May, according to Standard Chartered. The SEC is likely to approve the ETFs similarly to the bitcoin spot ETF, but ethereum is less at risk of price downside after the launch. The approval will likely happen on May 23, the final deadline for the first ETF under consideration. Ethereum has already risen 19% since Blackrock filed for an ETF on November 16, but to reach the $4,000 price target, conditions will have to be met, including low expectations for the approval and no significant market-side implications. Finally, multiple ETFs must be approved at the May deadline for ethereum to enjoy a boost."
+    },
+    {
+        "id": 46,
+        "title": "Vitalik Buterin Says Developers Should 'Tread Carefully' Mixing Crypto and AI - CoinDesk",
+        "summary": "  Vitalik Buterin warns developers to be cautious when combining crypto and AI, citing potential challenges in balancing transparency and security. While he is more optimistic than before about the intersection of AI and crypto, he notes that open-source AI systems can be vulnerable to adversarial machine learning attacks."
+    },
+    {
+        "id": 47,
+        "title": "Spot Ethereum ETFs Likely to Be Approved on May 23: Standard Chartered Bank - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nStandard Chartered Bank predicts SEC will approve spot Ethereum ETFs on May 23, following a similar pattern to Bitcoin ETF approval. Ether could reach $4,000 by late May if historical patterns repeat. However, market sentiment is mixed on the approval likelihood, with some analysts expecting low approval rates."
+    },
+    {
+        "id": 54,
+        "title": "Bitcoin and Ethereum Price Prediction as BTC Spikes Up 10% and ETH Approaches $2,500 \u2013 Time to Buy? - Cryptonews",
+        "summary": "  Bitcoin and Ethereum prices are surging, with Bitcoin up 10% and Ethereum approaching $2,500. This rally is fueled by increased confidence among investors, driven by the launch of US spot Bitcoin ETFs and Google's approval of ads for Bitcoin ETFs. However, there are risks associated with this growth, including the potential for a downturn if Bitcoin experiences a drop below its current price. Technical analysis suggests that Bitcoin is approaching overbought territory, but the RSI indicator is still neutral. Ethereum's price action is cautiously ascending, with resistance levels at $2,359.5 and $2,423.1. The 50-day EMA provides additional support, but a drop below the current price could quickly shift the trend."
+    },
+    {
+        "id": 55,
+        "title": "Ethereum Price Loses Steam \u2013 This Resistance Could Spark Another Decline - NewsBTC",
+        "summary": "  Ethereum price has been increasing but could face resistance at $2,330. If it fails to clear this level, it could lead to another decline. Support levels are at $2,300 and $2,280. Technical indicators, such as MACD and RSI, are losing momentum in the bullish zone."
+    },
+    {
+        "id": 58,
+        "title": "Analyst Anticipates Spot Ethereum ETF Approval by Late May as SEC Delays Decision on Fidelity\u2019s - ZyCrypto",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe SEC has delayed its decision on Fidelity's proposal for a spot Ethereum ETF until March 5. Analysts expect a decision in late May, with some predicting approval and others anticipating a longer wait. Ethereum co-founder Joseph Lubin highlighted the significance of a spot Ether ETF, and BlackRock's CEO endorsed the idea. The approval of a spot ETH ETF could potentially pave the way for approvals of other cryptocurrencies."
+    },
+    {
+        "id": 59,
+        "title": "Ethereum Price Prediction \u2013 ETH Price Estimated to Reach $2,509.48 By Feb 04, 2024 - CoinCodex",
+        "summary": "  Ethereum price is expected to reach $2,509.48 by February 4, 2024, with a predicted 8.16% increase in the next 5 days. The coin has been displaying a positive trend recently, with a 3.22% gain in the last 30 days and a 51.67% price change in the last year. However, the market is currently experiencing Greed, with a Fear & Greed index of 61, indicating that investors are optimistic about the cryptocurrency market. The sentiment for Ethereum is currently Bullish, with 25 indicators signaling a bullish prediction and 3 indicators signaling a bearish forecast. The moving averages and oscillators are also signaling a bullish trend, with the Relative Strength Index (RSI) at 47.84, suggesting that ETH is neutral."
+    },
+    {
+        "id": 65,
+        "title": "Maker generates $14m in revenue, Ethereum's earnings surge - crypto.news",
+        "summary": "  Maker Protocol generated $14.22 million in revenue and fees in the past 30 days, with a 6.3% decline in Total Value Locked (TVL) to $7.98 billion. Other leading defi protocols include Lido Finance, MetaMask, and Aave, with Ethereum topping the chart for revenue at $171.52 million. The global defi TVL has been increasing over the past week, driven by the crypto market's momentum."
+    },
+    {
+        "id": 81,
+        "title": "Gas-Free Ethereum Games? Animoca Brands and Layer-2 LightLink Team Up - Decrypt",
+        "summary": "  Animoca Brands, a leading game publisher and metaverse investor, has partnered with LightLink, an Ethereum scaling protocol, to integrate gasless transactions into their games. This collaboration aims to improve mainstream adoption of blockchain technology and provide a more user-friendly experience for players. LightLink's technology allows for instant transactions without gas fees, and Animoca will look to implement this technology into selected games while providing guidance on tokenomics and marketing strategy. The partnership is seen as a significant step towards a frictionless Web3 world."
+    },
+    {
+        "id": 82,
+        "title": "Proto-Danksharding Ahoy! Ethereum Upgrade Clears Another Hurdle - Decrypt",
+        "summary": "  Ethereum upgrade \"Dencun\" activated on Sepolia testnet, paving the way for \"proto-danksharding\" and reduced transaction costs. Dencun will allow Ethereum to handle over 100,000 transactions per second and introduces \"blobs\" for efficient data handling. Full \"danksharding\" will take cost reductions and performance gains even further. Activation on mainnet expected after final testnet deployment on February 7."
+    },
+    {
+        "id": 83,
+        "title": "Dogecoin (DOGE) Breakout Occurs, What's Next? Solana (SOL) Stays Dominant, Will Ethereum (ETH) Survive Unseen Stalemate? - U.Today",
+        "summary": "  Dogecoin (DOGE) has experienced a significant breakout, with a break above a critical resistance level at $0.088. If DOGE can maintain this level, it could lead to further gains towards $0.10. Solana (SOL) has also shown strength, with a stable and scalable performance that has made it a leader in the DeFi ecosystem. Solana is currently testing a resistance level at $100, which could lead to further gains if broken. However, Ethereum (ETH) is struggling with scalability issues and diminishing traction from meme coins, which could lead to a bearish development if it breaks below the $2,150 support level."
+    },
+    {
+        "id": 86,
+        "title": "Ethereum\u2019s Dencun Upgrade Goes Live On Sepolia Without A Hitch - The Defiant - DeFi News",
+        "summary": "  Ethereum's Dencun upgrade has gone live on the Sepolia testnet without any issues, marking the second of three testnet deployments for the highly anticipated upgrade. The upgrade, which includes the EIP-4844 upgrade, will significantly improve data availability and reduce fees associated with transacting on Layer 2. The upgrade positions Ethereum's Layer 2 ecosystem to compete with transaction fees offered by alternative Layer 1s while inheriting the benefits of Ethereum's mainnet robust security layer."
+    },
+    {
+        "id": 87,
+        "title": "Forget Ethereum, this rival token Priced at $0.09 will reach $16 in 2024 - Cryptonews",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nRetik Finance, a new challenger to Ethereum, has raised $14 million in its presale stages, with 86% of tokens sold. It offers a comprehensive suite of DeFi services, including a non-custodial wallet, swap aggregator, debit cards, payment gateway, and options trading. Retik's success suggests growing recognition of its unique value proposition, and its real-world applications and user-centric design make it a practical and empowering financial tool. While competing with Ethereum is a tall order, Retik's ambitious vision and robust ecosystem position it to not just rival but also redefine the DeFi landscape. Click the links below for more information."
+    },
+    {
+        "id": 93,
+        "title": "One Crucial Factor for Ethereum ETF Approval: Bitfinex\u2019s Head of Derivatives - CryptoPotato",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitfinex's Head of Derivatives, Jag Kooner, believes that the approval of a Bitcoin ETF could pave the way for an Ethereum ETF. Kooner notes that Ethereum ETFs have emerged in other regions following the launch of the first Bitcoin ETF, and that the entry of prominent financial entities like BlackRock into the Bitcoin ETF space is a positive trajectory for crypto ETFs. However, initial attempts by Grayscale and BlackRock to convert their Ethereum trusts into ETFs faced SEC pushback, highlighting the importance of Ether's categorization as a commodity. TD Cowen's Washington Research Group has outlined a clearer timeline for the potential approval of a spot Ethereum ETF in the United States, targeting late 2025 or early 2026."
+    },
+    {
+        "id": 96,
+        "title": "TD Cowen: Spot Ethereum ETF Approval Unlikely to Happen in 2024 - Coinspeaker",
+        "summary": "  TD Cowen predicts that the approval of a spot Ethereum ETF (ETF) by the US Securities and Exchange Commission (SEC) is unlikely to happen in 2024 due to SEC Chair Gary Gensler's \"go-slow approach.\" Gensler is taking his time to wade through court cases and more enforcement action, rather than supporting legislation, according to TD Cowen. The investment bank cites Gensler's possible interest in other roles, such as Treasury Secretary, and the need for him to monitor the performance of spot Bitcoin ETFs before approving ETH products. Despite multiple applications submitted by various parties, the SEC has delayed decisions on some of these applications, including those from Grayscale and BlackRock, and has instituted public comments on one of the applications."
+    },
+    {
+        "id": 97,
+        "title": "Ethereum and Polkadot wallet launches a multisig workflow solution - Finbold - Finance in Bold",
+        "summary": "  Talisman Wallet, which supports Ethereum (ETH) and Polkadot (DOT), has launched Signet, a multisig workflow solution in private beta. Signet aims to improve organization workflow and enable signers to execute multisig transactions more efficiently. It also prioritizes data privacy and will connect with thousands of decentralized applications (dApps) in the Polkadot ecosystem. The Talisman Wallet has staked 5 million DOT using Talisman, worth $33.35 million. Technical Lead of Infrastructure & Data at Parity Technologies, Erin Grasmick, praised Signet as a much-needed addition to the Polkadot ecosystem, highlighting its streamlined multisig signing process and user-friendly design."
+    },
+    {
+        "id": 98,
+        "title": "Palantir Co-Founder Says One Type of Buyer Could Be Very Important for Bitcoin, Ethereum and Solana - The Daily Hodl",
+        "summary": "  Palantir co-founder Joe Lonsdale predicts that artificial intelligence (AI) agents will rely on crypto as they expand across society, particularly Bitcoin (BTC), Ethereum (ETH), and Solana (SOL). He believes these three crypto assets are correlated and could see a surge in value if US government spending and inflation increase in 2025 or 2026. David Marcus, former PayPal and Facebook executive, echoes Lonsdale's view, suggesting that Bitcoin could become the default neutral, native value exchange asset for AI agents."
+    }
+]

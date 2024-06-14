@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Avail, Spun Out of Polygon, Launches Data Attestation Bridge to Ethereum - CoinDesk",
+        "summary": "  Avail, spun out of Polygon, launches data attestation bridge to Ethereum. New tech on testnet allows secondary networks to store and verify data alternatives to main blockchain. Speeds up processing for Ethereum ecosystem."
+    },
+    {
+        "title": "Ethereum, Bitcoin Choose Different Tradeoffs But Both Are Valuable -- Vitalik Buterin - CCN.com",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, discussed the differences between Bitcoin and Ethereum during a Twitter Space, highlighting their core commitments to values and the trade-offs made in their design. Buterin noted that both protocols have made different choices in terms of functionality, which have resulted in unique value propositions. He believes that both protocols are valuable and should continue to coexist, as they provide different benefits to users. However, Buterin also acknowledged that both protocols have limitations, particularly in terms of scalability, and emphasized the need for blockchain to evolve beyond its current limitations."
+    },
+    {
+        "title": "'SEC investigation' leads Ethereum DeFi protocol BarnBridge to order halt - Blockworks",
+        "summary": "  BarnBridge, an Ethereum-based DeFi protocol, has halted its operations after drawing attention from the US Securities and Exchange Commission (SEC). The SEC investigation is ongoing and non-public, according to elected legal counsel Douglas Park. As a result, BarnBridge has stopped creating new liquidity pools and ceased all work on its products. The move has affected about $1.2 million in existing pools and individuals are no longer being compensated for work related to the project until further notice. The development comes amid a string of actions taken against crypto firms, including within the DeFi sector."
+    },
+    {
+        "title": "Ether price charts reflect weakness, but inflow to LSDFi could prevent an ETH sell-off - Cointelegraph",
+        "summary": "  Ether (ETH) price has been trending downward, with a resistance level at $2,000. However, there is growing demand for liquid staking derivatives (LSDs) like Lido\u2019s stETH, which could limit the downside. LSD activity is on the rise, with more ETH being moved toward staking than selling on exchanges. The total ETH deposited in staking contracts is 19.7% compared to the centralized exchange balance of around 12.8%. LSD platforms captured most of the inflow, followed by independent validators and staking-as-a-service clients. Despite the downward trend, the LSD sector appears to be the current hotspot for DeFi players looking to maximize their yield. Technically, the ETH price can take two paths from here: find support at the base of the ascending triangle around $1,790 before making a break for the $1,900 resistance level again, or a continued drop toward the long-term resistance and support level of $1,700."
+    },
+    {
+        "title": "Avail offers to bridge the data availability gap for Ethereum rollups - Blockworks",
+        "summary": "  Avail, a spin-off of Polygon, has launched a data attestation bridge to Ethereum to address the data availability gap for Ethereum rollups. The bridge aims to provide a more efficient and cost-effective solution for layer-3 scaling by using data availability sampling (DAS) instead of data availability committees (DACs). Avail's solution is designed to be more inclusive and efficient, reducing costs and paving the way for a more diverse and secure layer-2 and layer-3 ecosystem. The company has opted to become an independent entity outside of the Polygon product suite to service all kinds of rollups, and it is built using Polkadot's Substrate technology. Avail's new staking token, AVAIL, will facilitate a permissionless validator set of up to 1,000 validators, and the company is exploring the possibility of helping Polkadot build zk rollups on a Polkadot parachain using Avail."
+    },
+    {
+        "title": "Bitcoin BRC-20 Tokens Are Now Moving Over to Ethereum - Decrypt",
+        "summary": "  Bitcoin-based BRC-20 tokens are expanding to the Ethereum ecosystem, with two of the largest tokens partnering with Emblem to release BRC-20 Curated Collections. This allows users to store their BRC-20 tokens across blockchains without needing a bridge, and mint new ERC-721 NFTs on Ethereum. The innovation of Emblem's solution is to create specialized vaults that hold the private keys and store the BRC-20 tokens, allowing users to mint new NFTs on Ethereum using a single ERC-721 token. The partnership is seen as a test of what type of asset BRC-20s are most closely related to, and how the community will view and trade them. The creator of BRC-20s and ORDI, Domo, did not reply to a request for comment, but the Emblem team is excited to showcase their creation to the Ethereum marketplace."
+    },
+    {
+        "title": "Multichain MPC bridge sees $100M+ outflows, sparking fears of exploit - Cointelegraph",
+        "summary": "  Multichain MPC bridge sees $100M+ outflows, sparking fears of exploit. Abnormally large withdrawals from Multichain's Fantom, Dogechain, and Moonriver bridges on Ethereum totaling over $100M. Users advised to revoke approvals and suspend use of Multichain services. Multichain team investigating, but no confirmation of exploit or large withdrawal."
+    },
+    {
+        "title": "Analyst Benjamin Cowen Shares Mysterious Ethereum Chart - U.Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nAnalyst Benjamin Cowen shared a mysterious Ethereum chart on Twitter, sparking debate among followers. The chart shows a reverse representation of the ETH/BTC pair, leaving people to ponder its significance. A bullish chart implies Ethereum's value will appreciate against Bitcoin, while a bearish chart suggests Bitcoin will outperform Ethereum. The chart has shown a downward trend, but this may be flattening out, indicating a changing dynamic between the two cryptocurrencies. The post has generated discussion and speculation among crypto enthusiasts, with a potential surge of volatility on the market if the chart breaks through."
+    },
+    {
+        "title": "Analyst Predicts Rallies for Bitcoin Cash, Litecoin, Pepe and One Ethereum Rival - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nA crypto analyst predicts rallies for Bitcoin Cash (BCH), Litecoin (LTC), meme asset Pepe (PEPE), and one Ethereum (ETH) competitor. The analyst believes BCH will continue its recent rally and reach $321.89, while LTC could reach $110 due to hype around its upcoming halving date. The analyst also predicts that the LTC/BTC pair will skyrocket above $0.0040, and that Pepe could go back up to the $0.0000036 range. Finally, the analyst says that smart contract platform Solana (SOL) is ready to burst over the $20 price tag."
+    },
+    {
+        "title": "Vitalik Buterin says Ordinals have revived 'builder culture' on Bitcoin - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nVitalik Buterin praises Bitcoin's Ordinals, saying they're reviving the \"builder culture\" on the network. He believes they're a rejection of stagnant politics and a way to bring back innovation. However, the project has faced criticism from some Bitcoiners who claim it dilutes the network's primary function as a peer-to-peer cash system. Buterin and others argue that Bitcoin can be used as a \"proof system\" for zero-knowledge proofs, allowing for more expressive functions without congesting the network. The discussion has sparked fresh controversy in the Bitcoin community."
+    },
+    {
+        "title": "How Bitcoin, Ethereum Price Move As US Unemployment Rate and Nonfarm Payroll Fall? - CoinGape",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe US released June jobs data, with 209K nonfarm payrolls and an unemployment rate of 3.6%. While the numbers were below market forecasts, the labor market remains resilient. Bitcoin and Ethereum prices rose due to US dollar weakness. The CME FedWatch tool indicates a 90% probability of a 25 bps rate hike during the July FOMC meeting. Despite the positive jobs data, the macro outlook for Bitcoin remains challenging due to rising treasury yields and volatility in the crypto and stock markets."
+    },
+    {
+        "title": "OpenSea Now Supports NFTs on Zora's Ethereum Layer-2 Network - Decrypt",
+        "summary": "  OpenSea, a leading NFT marketplace, has announced support for NFTs on Zora's Ethereum layer-2 scaling network. This means that art pieces minted on Zora's network can now be bought and sold on OpenSea, and OpenSea's tools can mint assets on Zora's network. Zora's network is built on Optimism's scaling technology and has seen significant adoption since its launch two weeks ago, with over 70,000 mints and 50,000 collectors onboarded. This partnership is a significant boost for both platforms and the NFT industry as a whole, as it provides more options for creators and collectors to buy, sell, and trade NFTs."
+    },
+    {
+        "title": "Starknet takes baby steps to emerge as a robust Ethereum scaling solution - AMBCrypto News",
+        "summary": "  Starknet, an Ethereum layer-2 (L2) scaling solution, has seen significant activity with over $65 million in assets deposited on the platform. The majority of these deposits are from newer market participants, with 75% of wallets created in the last year. However, Starknet still lags behind established L2 solutions in terms of deposits and transaction throughput, with only one transaction processed per second on average. The upcoming version 0.12.0 is expected to improve throughput and latency by reducing block execution time."
+    },
+    {
+        "title": "ETH DeFi 'circuit breaker' could cut hack losses by 70% \u2014 Developer - Cointelegraph",
+        "summary": "  A new proposal called \"ERC-7265: Circuit Breaker\" aims to prevent billions of dollars worth of crypto from being stolen from DeFi protocols. The proposal, developed by a team of developers, would set a standard for a smart contract that can halt suspiciously large token outflows from a DeFi protocol. According to the lead developer, the circuit breaker could have prevented at least 70% of the losses from last year's DeFi hacks. However, the proposal has faced some controversy, with some critics arguing that it could be used for nefarious purposes. The developers are working to finalize the standard and integrate it into protocols within the next few months."
+    },
+    {
+        "title": "Polygon spinoff launches testnet bridge to allow for low-cost layer 2s - Cointelegraph",
+        "summary": "  Avail, a blockchain network spun off from Polygon Labs, has launched a testnet bridge to allow for low-cost layer 2s through data availability solutions. The bridge enables developers to create custom validiums quickly and easily by storing transaction data on the Avail network, reducing the need for a separate data availability network. This allows for faster and cheaper layer 2 transactions, with the potential to become a major scalability solution for the Web3 space."
+    },
+    {
+        "title": "FBI Reportedly Raided Kraken CEO Jesse Powell\u2019s Home Over Hacking Accusation - Ethereum World News",
+        "summary": "  The FBI raided the home of Kraken CEO Jesse Powell in March over accusations of hacking and cyberstalking a non-profit organization. The investigation began in September 2022 and has not led to any formal charges yet. Powell's lawyer has confirmed the search but denied any wrongdoing. The investigation is not related to Powell's crypto business, according to a spokesperson for Kraken."
+    },
+    {
+        "title": "Who Owns the Most ETH? Meet the Key Players in Ethereum's Ecosystem - Cryptopolitan",
+        "summary": "  The article discusses the distribution of Ether (ETH) across various entities and individuals within the Ethereum ecosystem. Key takeaways include:\n\n1. The top 10 Ethereum whale addresses belong to non-individual entities, while only one belongs to an individual.\n2. Binance, a leading cryptocurrency exchange, holds a substantial amount of ETH across multiple wallets. Other notable exchanges include Bitfinex, Kraken, and Gemini.\n3. Vitalik Buterin, the co-founder of Ethereum, holds 55.58 ETH and has moved a significant portion to a new contract.\n4. Joseph Lubin, another co-founder of Ethereum, is speculated to hold 1.49 million ETH, although his exact holdings are unknown.\n5. The Eth2 Deposit Contract, a smart contract for Ethereum's Proof of Stake protocol, holds 25.97 million ETH, representing 21.6% of the total ETH supply.\n6. Wrapped Ether (WETH), an ERC-2"
+    },
+    {
+        "title": "Crypto Analysis: Tradecurve, QNT Vs. ETC - The Cryptonomist",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCrypto assets Tradecurve (TCRV), Quant (QNT), and Ethereum Classic (ETC) are gaining traction among investors. Quant (QNT) has seen a 13% increase in the past two weeks, with predictions of a high of $120-$125 by the end of Q3. Ethereum Classic (ETC) has gained 50% in the past two weeks, with predictions of a price rise to $29.19-$43.79 by the end of the year. Tradecurve (TCRV) jumped 80% last month and could see a 40% price rise this week. The bullish sentiment for Tradecurve (TCRV) comes from its unique platform that could revolutionize the DeFi sector."
+    },
+    {
+        "title": "Ethereum Network Experiences Quiet Surge In Growth Signals Potential Market Cap Boom - TronWeekly",
+        "summary": "  Ethereum's network growth has been steadily increasing, with a surge in the creation of new addresses, signaling potential market cap growth. This bullish divergence has piqued the interest of market observers, who are monitoring Ethereum's progress as it hovers just below $1,900. Recent notable transactions, including a $48 million transfer from an undisclosed wallet to Coinbase, have added intrigue to the unfolding Ethereum landscape. Despite a decline in daily and weekly charts, ETH's price rally was halted after reaching $1,970 due to factors such as interest rate hikes and stricter regulations. The Ethereum network's total value locked has decreased, and professional traders have increased their leveraged long positions in Ether futures, but other indicators suggest a balanced demand for call-and-put options."
+    },
+    {
+        "title": "MetaMask: Ethereum wallet changes its look - The Cryptonomist",
+        "summary": "  MetaMask, a popular Ethereum software wallet, has updated its user interface to improve the user experience. The new version includes a cleaner layout, easier account selection, and better network and token association. The update aims to address common issues with the previous version, such as confusion about account selection and network matching. However, the update does not address the security concerns of software wallets, which are vulnerable to hacking and security breaches. Hardware wallets, on the other hand, offer a more secure solution but are more complex to use and require proper custody and security measures."
+    },
+    {
+        "title": "Ethereum Co-founder Vitalik Buterin Applauds Bitcoin Ordinals - The Coin Republic",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, praised Bitcoin Ordinals during a Twitter Space conversation with Bitcoin proponents Eric Wall and Udi Wertheimer. Buterin noted that the builder culture responsible for innovations and developments on the Bitcoin network has returned since the introduction of Ordinals, and he praised the new BRC-20 token standard. However, some fundamental Bitcoinists have criticized the inclusion of Non-Fungible Tokens (NFTs) and smart contracts on the network, arguing that it deviates from its primary function as a peer-to-peer (P2P) cash network. Wall and Wertheimer, who are key figures behind the Taproot Wizards and Ordinal projects, have been advocating for increased functionality on top of the Bitcoin network. Samson Mow, CEO of Jan3, believes that Ordinals waste block space in the blockchain, which could be used for Bitcoin payments. Wall argued that the Bitcoin community has always tried to do things similar to a decentralized finance ecosystem, but most members want the Bitco"
+    },
+    {
+        "title": "Uniswap (UNI) V4 Launch Dependent on Ethereum\u2019s (ETH) Cancun Upgrade - CoinChapter",
+        "summary": "  Uniswap (UNI) V4 launch dependent on Ethereum's (ETH) Cancun upgrade. Uniswap V4 aims to enhance user experience, provide advanced features, and address existing limitations. The Cancun upgrade on the Ethereum blockchain is due at the end of September, and Uniswap will not rush through a security audit to ensure the integrity and security of its ecosystem. The upgrade may impact the Ethereum (ETH) price, as it aims to improve scalability, security, and usability, potentially attracting a larger user and developer base to the Ethereum ecosystem."
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "id": 5,
+        "title": "Hello Holesky, Ethereum\u2019s Newest Testnet - CoinDesk",
+        "summary": "  Ethereum is launching a new testnet called \"Hello Holesky\" to address scaling issues. The testnet has a smaller number of validators compared to the main Ethereum chain, which some developers worry could lead to scaling issues. The Ethereum Foundation aims to catch these issues on the testnet before they occur on the main chain."
+    },
+    {
+        "id": 7,
+        "title": "Visa Says This Ethereum Rival Has \u2018Unique Technological Advantages\u2019 Over Other Chains - The Daily Hodl",
+        "summary": "  Visa has identified Solana as a promising Ethereum rival for payments due to its unique technological advantages. Solana has low and predictable transfer fees, high throughput rates, and significant node support, making it a more attractive network for payment companies. Visa has decided to expand its stablecoin settlement program to include Solana, as it has the potential to meet the demands of modern corporate treasury operations. At the time of writing, Solana is trading at $18.39, a 2.19% increase in the last 24 hours."
+    },
+    {
+        "id": 11,
+        "title": "Why Ethereum\u2019s 6-month low may not be the end - AMBCrypto News",
+        "summary": "  Ethereum (ETH) has reached a 6-month low, with a large number of old coins moving out of wallets. This could signal a potential drop to $1,500, according to on-chain analytics platform Santiment. However, the platform also notes that the altcoin's burn mechanism could rescue it in the long term. The Mean Coin Age (MCA) has decreased, indicating a massive movement of UTXOs that have been immobile for a long period. Despite this, the funding rate for ETH perpetual futures contracts is negative, indicating bearish sentiment among traders. To recover, Ethereum may need to rely on other metrics, such as its burned supply, which has increased to 4.25 million."
+    },
+    {
+        "id": 12,
+        "title": "Vitalik Buterin previews a future built on Ethereum - Blockworks",
+        "summary": "  Vitalik Buterin envisions a future built on Ethereum where new ideas and approaches are constantly being explored to address old problems. He is excited about decentralized social platforms like Farcaster, which are using crypto tools to compete with centralized platforms. Buterin believes that crypto-based solutions have the potential to be more decentralized, privacy-preserving, and secure than the current Web2 landscape. He also sees the potential for a gradual on-ramping process for new Web3 users to transition to a more decentralized stack, starting with familiar services like Gmail and gradually giving users more control as they become more comfortable with crypto-native approaches."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum's Vitalik Buterin Sees Growing Presence of Asia Developers in Blockchain Tech - CoinDesk",
+        "summary": "  Ethereum co-founder Vitalik Buterin believes Asia is making a significant impact in blockchain technology, with a growing presence of developers and a deeper level of community involvement. He notes that while some may view Asia's involvement as mere speculation in token purchases, there is a more substantial technical involvement in the space."
+    },
+    {
+        "id": 16,
+        "title": "Top Analyst Warns of Imminent Ethereum Collapse, Says ETH Flashing Failed Bullish Pattern - The Daily Hodl",
+        "summary": "  Top analyst Nicholas Merten warns of an imminent collapse of Ethereum (ETH) due to its inability to break out from an ascending triangle pattern. Merten predicts ETH could reach $1,100 or lower, potentially as low as $300-500. Other analysts, such as Benjamin Cowen, share similar concerns, suggesting a possible drop to $400 or lower. However, it is important to note that these predictions are not investment advice and should be taken with caution."
+    },
+    {
+        "id": 17,
+        "title": "Scaling Ethereum's virtual machine is a 'solvable problem,' says Monad Labs' Galler - Blockworks",
+        "summary": "  Monad Labs developer relations engineer Kevin Galler believes that scaling issues with the Ethereum virtual machine (EVM) are solvable, despite limitations in the current implementation. Galler suggests that parallelism and performance can be improved by design, rather than being inherent to the execution layer. Offchain Labs senior software engineer Raul Jordan agrees that the EVM is \"fairly slow for many reasons,\" but notes that developers are already capable of building DeFi primitives and other applications with the current EVM. Jordan suggests that empowering developers with faster or new constructs could lead to even more innovative applications. Somani expresses concerns about the potential for an excess of layer-2 protocols, which could lead to liquidity fragmentation and poor end-user experience. However, Galler notes that sufficient local fee markets in virtual machines can mitigate this issue. Jordan concludes that the EVM is not the ceiling for scaling, but rather the floor, and that there is still much room for improvement in the execution layer."
+    },
+    {
+        "id": 18,
+        "title": "The Protocol: The CFTC Is Cracking Down on Crypto - CoinDesk",
+        "summary": "  The Commodity Futures Trading Commission (CFTC) has charged three decentralized finance (DeFi) platforms with operating illegal derivatives trading services. The platforms, Opyn, ZeroEx, and Deridex, have been accused of supporting tokens issued by third-parties without proper oversight. This move by the CFTC has raised questions about the agency's jurisdiction and the broader U.S. regulatory landscape for the crypto industry. While some have argued for oversight by the CFTC, which is seen as less strict, the agency's recent actions have drawn scrutiny. CFTC Commissioner Caroline Pham has proposed a \"time-limited\" program to establish regulated crypto markets and tokenization, offering a more crypto-friendly approach."
+    },
+    {
+        "id": 20,
+        "title": "Nasdaq's Hashdex mixed Ether ETF filing joins crypto ETF race - Cointelegraph",
+        "summary": "  Nasdaq has filed an application with the SEC to list an Ethereum ETF offered by Hashdex, an asset management company. This ETF will combine spot ether holdings and futures contracts in its portfolio, pioneering a new approach to cryptocurrency investment within the regulatory framework. The primary investment goal of the fund is to mirror the daily fluctuations in the Nasdaq Ether Reference Price, and it will allocate assets to investments in ether, ether futures contracts traded on the CME, and cash and cash equivalents. Hashdex's approach differs from recent filings as it won't depend on the Coinbase surveillance sharing agreement, opting to acquire spot Bitcoin from physical exchanges within the CME market. The SEC has yet to approve any spot cryptocurrency funds, including Hashdex's Ethereum ETF."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum: With churn limit on the rise, will ETH ditch the bears? - AMBCrypto News",
+        "summary": "  Ethereum increased its Churn Limit to 12, aiming to enhance network scalability and security. Despite this improvement, the price of ETH declined along with its volume. The Churn Limit regulates the number of validators allowed to join or exit the network within a specific timeframe. However, the number of pending validators could return to zero by the end of September if no new validators join the network. Validator Attestations, critical for confirming transactions and maintaining Ethereum's blockchain integrity, witnessed a decline in the past month. Daily validator income showed limited growth, and the price of ETH remains below $1,623. Ethereum also experienced a setback when Vitalik Buterin's Twitter account was compromised in a security breach."
+    },
+    {
+        "id": 25,
+        "title": "Nasdaq Seeks SEC Approval for Mixed Ethereum ETF - CryptoPotato",
+        "summary": "  Nasdaq has filed with the SEC to list an Ethereum ETF in partnership with Hashdex, a Brazilian asset manager. The fund, called the Hashdex Nasdaq Ethereum ETF, will invest in both spot Ether and futures contracts listed on the CME. This strategic move aims to mitigate potential manipulation concerns in unregulated Ether spot exchanges. Hashdex's CEO, Marcelo Sampaio, expressed confidence in the eventual approval of a spot Bitcoin ETF, although the timeline and circumstances are still uncertain. Meanwhile, other firms, such as Ark Invest and 21Shares, have also filed applications with the SEC for Ethereum ETFs."
+    },
+    {
+        "id": 27,
+        "title": "FTX Gets Court Approval to Sell Billions in Bitcoin, Ethereum and Solana - Decrypt",
+        "summary": "  FTX, a bankrupt crypto exchange, has received court approval to sell $3.4 billion in cryptocurrencies, including Solana, Ethereum, and Bitcoin. The sale is overseen by Mike Novogratz's Galaxy Digital and is capped at $100 million worth of tokens per week, with the possibility of increasing the limit to $200 million on an individual token basis. The sale aims to plug a $7 billion hole in FTX's assets that disappeared due to alleged criminal mismanagement. The exchange's new management is working to pay back creditors, with $800 million in cash and public equity already recovered. The former CEO and co-founder of FTX, Sam Bankman-Fried, is awaiting a criminal trial in October on charges including wire fraud and securities fraud."
+    },
+    {
+        "id": 28,
+        "title": "Ethereum Price Prediction as $10 Billion Trading Volume Comes In \u2013 Can ETH Reach $10,000? - Cryptonews",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price is up 5% from recent lows, with 24-hour trading volumes of nearly $10 billion.\n\nDespite the recovery, ETH faces an unfavorable near-term technical outlook and may drop to sub-$1,500 levels.\n\nHowever, the fundamental outlook for ETH is more optimistic, with the potential for big gains ahead.\n\nETH could reach $10,000 in the coming years if it maintains its rapid adoption and position as the dominant Web3 infrastructure provider.\n\nAlternatively, investors may consider $WSM, a new meme coin token launched by Wall Street Memes, which has already raised over $25 million in its presale."
+    },
+    {
+        "id": 29,
+        "title": "MetaMask Launches Snaps to Expand Compatibility Beyond Ethereum - CryptoPotato",
+        "summary": "  MetaMask, a popular Web3 wallet, has launched a new feature called \"Snaps\" to expand its compatibility beyond Ethereum. Snaps are novel features developed by third-party developers that can be installed directly into the wallet without permission. This marks a significant step forward for interoperability and compatibility with non-EVM blockchains such as Solana, Bitcoin, and Algorand. The launch of Snaps includes 34 integrated and ready-to-use features, with more to come. Additionally, Metamask has introduced Notification and Transaction Insight Snaps, providing chat features, notifications, and detailed transaction analysis. This new functionality enables developers to build permissionless solutions that integrate with the wallet and offers a platform for innovation in the decentralization movement."
+    },
+    {
+        "id": 30,
+        "title": "Will ETH Really Drop to $1,000? (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum's price has been declining, with recent breaks below key support levels. Technical analysis indicates more downside is likely, with a bearish crossover between moving averages and a failure to climb above the broken $1,650 level. On-chain analysis shows a negative taker buy-sell ratio, indicating futures market traders are bearish on ETH, reducing the probability of a bullish reversal in the short term."
+    },
+    {
+        "id": 31,
+        "title": "Enormous Amount of Ethereum (ETH) Rapidly Leaving Exchanges - U.Today",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEnormous amount of Ethereum (ETH) leaving exchanges, 640,000 in recent data dump.\nOutflow could be bullish or bearish, depending on investor motives.\nAccumulation or de-risking possible reasons for departure.\nReduced liquidity may lead to increased volatility.\nMarket impact worth monitoring, but unclear if storm is coming or already here."
+    },
+    {
+        "id": 33,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: Is BTC ready for a pullback or is it a fake out? - FXStreet",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin (BTC) price is up, but investors should exercise caution as the recovery could be fake. BTC has broken above a resistance level, but there are mixed signals from momentum indicators. If BTC can break above the next resistance level, it could reach $28,000. However, if the current trend reverses, BTC could fall to $24,000.\n\nEthereum (ETH) price is recovering, but there is overhead pressure that could prevent it from reaching $1,800. ETH has mixed signals from momentum indicators, and a break above $1,800 could lead to $1,919. However, if the current trend reverses, ETH could fall to $1,552.\n\nRipple (XRP) price has broken above a bearish channel, but faces strong headwinds. XRP could reach $0.5107, $0.5666, or $0.5753 if it continues to hold above"
+    },
+    {
+        "id": 37,
+        "title": "Unexpected Ethereum (ETH) Bounce: What's Really Behind It? - U.Today",
+        "summary": "  Unexpected Ethereum bounce:\n\n* Market watchers attribute the bounce to mass capitulation among bearish traders\n* Retail traders are buying assets at bargain-basement prices\n* However, it's unclear if retail buying power is the sole driver of the price uptick\n\nXRP loses important support:\n\n* XRP's tumble below $0.5 mark has traders on edge\n* The $0.5 level was a psychological bulwark and a sign of stability and investor confidence\n* If XRP fails to recover quickly, the next line of defense may be the $0.45 level\n\nShiba Inu investors waking up:\n\n* Shiba Inu's trading volume on Binance has skyrocketed by 200%\n* This could be due to increased activity of whales, which suggests possible accumulation phase\n* The surge in trading volume could be a bullish indicator disguised as a bearish trend."
+    },
+    {
+        "id": 38,
+        "title": "Could Mixed Spot/Futures Crypto Funds be the Way Forward? - CCN.com",
+        "summary": "  Nasdaq has proposed a new type of crypto ETF that invests in both spot Ether markets and Ether futures in an attempt to overcome the SEC's resistance to spot crypto ETFs. The fund, issued by Hashdex, would hold a mix of spot Ether, Ether futures contracts, and cash to mitigate the risk of market manipulation. The SEC has approved crypto futures ETFs, but has not approved spot crypto ETFs due to concerns over market manipulation. The proposed fund aims to incorporate \"dynamic investment restrictions\" to ensure that the CME is the only significant market facilitating investments, and could potentially help appease the SEC and weaken its resistance to direct cryptocurrency investments."
+    },
+    {
+        "id": 39,
+        "title": "Investing in Ethereum (ETH): The American investor's guide - Finty",
+        "summary": "  Investing in Ethereum (ETH): The American Investor's Guide\n\nEthereum is a 2nd gen cryptocurrency launched in 2015, similar to Bitcoin but with more features. It uses blockchain tech for programmatic contracts and monetization via ether (ETH). Ethereum is faster than Bitcoin, validating transactions in seconds. Learn how it works and how to invest in it."
+    },
+    {
+        "id": 42,
+        "title": "Top 3 Recent Price Predictions: Bitcoin (BTC), Ripple (XRP), Ethereum (ETH) - CryptoPotato",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nTop cryptocurrency experts predict bold price increases for Bitcoin (BTC), Ripple (XRP), and Ethereum (ETH). Bitcoin could reach $100,000 or more due to halving and other factors. XRP may reach $500 in four years, based on projected cross-border payment growth. ETH could drop to $1,000 due to revenue projections and potential sales by creditors."
+    },
+    {
+        "id": 43,
+        "title": "Polygon co-founder: $1B bet on ZK-rollups paying off - Cointelegraph",
+        "summary": "  Polygon co-founder Sandeep Nailwal believes the firm's $1 billion investment in zero-knowledge (ZK) proof-powered scaling solutions for the Ethereum ecosystem is paying off. At a keynote address at Token2049 in Singapore, Nailwal discussed the development of \"Polygon 2.0\" scaling efforts and the promise of recursive ZK-proof technology to create a seamless interoperable blockchain ecosystem. He highlighted the importance of an aggregator or interoperability layer to amalgomerate ZK-proofs of different chains into a common layer, allowing for cross-chain transactions to be executed in four to five seconds. Nailwal also noted that larger layer-1 blockchain platforms have expressed interest in tapping into an interoperable layer, and that Polygon's zkEVM beta hit mainnet in March 2023, allowing developers to deploy smart contracts and decentralized applications that benefit from faster throughput and lower costs than Ethereum's layer 1."
+    },
+    {
+        "id": 45,
+        "title": "Ancient8 Launches A Web3 Gaming Layer 2 Chain on Ethereum - Decrypt",
+        "summary": "  Ancient8, a gaming-focused community-driven Ethereum Layer 2, has launched to onboard the next 100 million Web3 citizens. The platform, built by the Ancient8 Collective, offers a comprehensive suite of products for game studios, including a gaming guild, localization, and marketing services. Ancient8 utilizes the Optimism Superchain's Layer 2 technology to provide blockchain games with the best features of Ethereum, at a significantly reduced cost. The platform is committed to promoting mainstream adoption of a decentralized world and provides fair distribution of resources through its transparent governance model. Games and protocols contributing to the growth of the Ancient8 Chain are eligible for both ecosystem and financial support. Contact@ancient8.gg for more information."
+    },
+    {
+        "id": 48,
+        "title": "Crypto Price Today: Bitcoin flirts with $26,000; Ethereum nears $1,600; Toncoin rises 9% - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto prices were mixed on Wednesday, with Bitcoin flirting with $26,000 and Ethereum nearing $1,600. Toncoin rose 9%, while Solana, Polkadot, and Dogecoin shed about 1% each. The global cryptocurrency market cap rose 3% to $1.03 trillion, but trading volumes dropped 12%. The IMF and FSB recommended targeted restrictions and sound monetary policy to mitigate risks in the sector, rather than blanket bans. Tech View by Giottus Crypto Platform showed Optimism (OP) experiencing a short rally and potentially breaking through $1.4 mark, but failing to do so could lead to a fall below current levels."
+    },
+    {
+        "id": 50,
+        "title": "Ethereum's Super Player, Layer N Prepares to Shake the Crypto World with Upcoming Testnet Launch - Blockster",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEthereum's Layer N is set to launch a testnet, shaking the crypto world with its innovative technology. As the Co-Founder, Editor-In-Chief, and Creative Director at Blockster, I oversee the publication's stories, build partnerships with premium Web3 brands, and guide product direction. Get ready for a game-changing experience!"
+    },
+    {
+        "id": 53,
+        "title": "BNB Smart Chain Optimism-powered layer-2 opBNB hits mainnet - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBNB Smart Chain has launched opBNB, a layer-2 scaling platform powered by Optimism's rollup technology. opBNB achieved 4,000 transactions per second in a stress test and saw over 150 DApps deployed on its testnet. BNB Chain prioritizes scalability and security, with high availability, fast finality, and reduced gas costs. OpBNB is EVM-compatible and interacts with Ethereum-based smart contracts. Optimism has seen significant growth in daily transaction volumes and active addresses, with major DeFi protocols deploying on the layer-2 solution."
+    },
+    {
+        "id": 54,
+        "title": "BNB Chain\u2019s Layer 2 Network opBNB Goes Live - CoinDesk",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nBNB Chain's Layer 2 network, opBNB, has gone live. Developers can integrate with opBNB through BNB Chain's tutorials and technical support. To encourage adoption, BNB Chain will soon distribute airdrop incentives and partner with 15 ecosystem projects."
+    },
+    {
+        "id": 55,
+        "title": "Ethereum Price Prediction: Where Next As ETH Drops to March Levels - Analytics Insight",
+        "summary": "  Ethereum price dropped to $1,530 on Monday, its lowest level since March, due to a surge in dormant ETH tokens being moved. This could be a sign of capitulation, leading to a potential rebound towards $2,000. The Relative Strength Index (RSI) is moving upwards, indicating buyer return. Upholding support at $1,600 is crucial to ease potential selling pressure. If the price stays below $1,600, there is a higher chance of another sell-off to $1,450. Analysts believe it's too early to rule out a potential drop to $1,000 based on the revenue projection from the Ethereum ecosystem."
+    },
+    {
+        "id": 58,
+        "title": "Shiba Inu's Ethereum Connection: What Does It Mean for Everlodge? - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nShiba Inu, an ERC-20 token, is connected to the Ethereum blockchain, which may impact its transactions and value. Everlodge, a real estate platform, is also built on Ethereum and offers fractional ownership of luxury properties through NFTs. The platform aims to democratize the real estate market and provide investors with rental income and property appreciation. The Everlodge presale is currently underway, with prices starting at $0.012 and a projected minimum launch price of $0.38."
+    },
+    {
+        "id": 63,
+        "title": "Institutional Investment in Ethereum: Trends and Impact - Trade Brains",
+        "summary": "  Institutional investors are increasingly investing in Ethereum, driven by its growing recognition, market maturation, and potential for diversification. This influx of capital has stabilized prices, accelerated mainstream adoption, and boosted Ethereum's market capitalization. However, it has also invited regulatory scrutiny, which may shape the future regulatory framework for cryptocurrencies. As institutional investment continues to grow, it may catalyze further market maturation and infrastructure enhancements, creating new investment opportunities tailored to institutional requirements. Trade Brains offers advertising opportunities for brands looking to connect with the finance industry, elevating their brand visibility and sales through sponsored articles and partnerships."
+    },
+    {
+        "id": 64,
+        "title": "Ethereum Founder Vitalik Buterin Says a SIM Swap Was Behind His Twitter Hack - Gizmodo Australia",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, had his Twitter account hacked, with the hackers using a SIM swap attack to reset his password and bypass two-factor authentication. The hackers posted a link to a fake NFT commemorating an upcoming update to the Ethereum network, and stole an estimated $650,000 worth of NFTs from unsuspecting victims. Buterin has since regained control of his account and is warning users to be cautious of similar scams."
+    },
+    {
+        "id": 65,
+        "title": "Nasdaq Files for Hashdex Nasdaq Ethereum ETF - Coinnounce",
+        "summary": "  Nasdaq has filed for an Ethereum ETF with a unique blend of spot ether holdings and futures contracts, led by Toroso Investments. The fund aims to balance risk and reward by combining spot assets, futures contracts, and cash equivalents to reduce susceptibility to price manipulation in the spot market. This innovative approach represents the first \"33 Act Ethereum futures filing\" and seeks to track the daily fluctuations in the Nasdaq Ether Reference Price."
+    },
+    {
+        "id": 66,
+        "title": "Phisher who stole $24.2 Million Worth of Ethereum Transfers Funds to Tornado Cash, Peckshield Says - Inside Bitcoins",
+        "summary": "  A phisher stole $24.2 million in Ethereum from a crypto whale and is transferring the assets to Tornado Cash, a cryptocurrency mixing firm that has been sanctioned for its alleged involvement in money laundering. The attacker initially transferred $1.15 million to Tornado Cash and has since moved a total of $22.7 million in various cryptocurrencies, including 13,100 ETH and 1.1 million DAI tokens. Tornado Cash has been accused of enabling over $1 billion in money laundering activities, with a significant portion of these funds believed to have benefitted North Korea's Lazarus Group. The US authorities have reaffirmed sanctions against Tornado Cash, and a court decision last month upheld the ban. Tornado Cash provides a platform for users to make their Ethereum transactions more private by combining their funds with those from other cryptocurrency holdings, making it an attractive option for cybercriminals."
+    }
+]

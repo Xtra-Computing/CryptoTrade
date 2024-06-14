@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "title": "\u2018Sequencers\u2019 Are Blockchain\u2019s Air Traffic Control. Here\u2019s Why They\u2019re Misunderstood - CoinDesk",
+        "summary": "  Sequencers, the Air Traffic Control of Blockchain, Misunderstood? \ud83e\udd14 Binance highlights issues in a report: \ud83d\udcca Sequencers hold power to censor transactions \ud83d\ude80 Extract maximal value, harming users \ud83d\udc94 Centralized sequencer downtime affects entire rollup \ud83d\udea8"
+    },
+    {
+        "id": 4,
+        "title": "One Ethereum Rival at \u2018Screaming\u2019 Low Prices Amid Institutional Interest: InvestAnswers - The Daily Hodl",
+        "summary": "  One Ethereum rival, Solana (SOL), is currently trading at a \"screaming buy\" price due to its high institutional interest and superior performance compared to Ethereum (ETH) in various categories, according to a widely followed crypto strategist. Solana has a smaller market cap than Ethereum, but its potential for a larger price increase makes it a more attractive investment. The strategist notes that while Ethereum is considered safer and more established, more institutional money has flowed into Solana this year. Solana is trading at $20.28, up 4% in the last 24 hours."
+    },
+    {
+        "id": 5,
+        "title": "Buterin Admits Node Centralization is Ethereum's Challenge as Fears Loom About Chinese Control - CCN.com",
+        "summary": "  Vitalik Buterin has acknowledged the issue of centralization in the Ethereum network, with over half of nodes operated through cloud hosting services. This centralization raises concerns about Chinese control, as some wallets with large stashes of ETH remain shrouded in secrecy. The Ethereum community is working to address this issue through planned upgrades and the development of stateless nodes. However, the concentration of ETH among a small number of wallets also poses a threat to decentralization."
+    },
+    {
+        "id": 14,
+        "title": "Vitalik Buterin: Ethereum's Future Upgrades Could Bring Full Nodes to Mobile Devices - Cryptonews",
+        "summary": "  Vitalik Buterin predicts that Ethereum full nodes could become lightweight enough to run on mobile devices in the future. Currently, most full nodes are run on centralized platforms like AWS, which is a challenge for decentralization. Buterin believes that solving this issue is crucial for making Ethereum more decentralized. He mentioned that a technology called \"statelessness\" could help achieve this goal, allowing nodes to run on zero storage space. However, Buterin acknowledged that solving this technical problem will take time, possibly within the next 10-20 years."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum's Vitalik Buterin Argues for Blockchain 'Privacy Pools' to Weed Out Criminals - CoinDesk",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, proposes \"privacy pools\" to balance blockchain privacy and regulatory compliance. Current systems view privacy and compliance as mutually exclusive, but his protocol aims to prove the origin of funds while maintaining privacy."
+    },
+    {
+        "id": 19,
+        "title": "Cathie Wood's ARK Invest Files for First Spot Ether ETF - CoinDesk",
+        "summary": "  ARK Invest, led by Cathie Wood, has filed for a first spot Ether ETF, emboldened by recent court victories against the SEC. The industry expects more crypto ETFs, with a spot ETH ETF a top contender due to its similar market structure to Bitcoin."
+    },
+    {
+        "id": 21,
+        "title": "The Protocol: Ethereum Learns of Potential Defector as \u2018Supreme Court\u2019 Mooted - CoinDesk",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nA new layer-2 blockchain called Aerodrome Finance has emerged and quickly gained popularity, with over $170 million in total value locked (TVL) and an annualized yield of nearly 1,000%. This has surpassed the TVL of its predecessor project on the older Optimism chain. However, the sustainability of this growth is uncertain, as the project's token offers liquidity mining rewards without compounding. Additionally, the network suffered a major outage on Tuesday, its biggest glitch since launch last month."
+    },
+    {
+        "id": 25,
+        "title": "Co-founder of Matter Labs Presents 'Ethereum Supreme Court' Idea for Resolving On-Chain Disputes - Forbes India",
+        "summary": "  Co-founder of Matter Labs, Alex Gluchowski, proposes an \"Ethereum Supreme Court\" to resolve on-chain disputes. The system would create a hierarchy of on-chain courts, with the \"Court of Final Appeal\" at the highest level. Disputes could be initiated through a designated contract, with a bail deposit required for appeals. The concept aims to enhance Ethereum's security and reputation by providing a structured framework for resolving conflicts. However, implementation will require community support and cost considerations."
+    },
+    {
+        "id": 26,
+        "title": "Ark, 21Shares apply for spot Ethereum ETF - CryptoSlate",
+        "summary": "  Ark Investment Management and 21Shares have filed for a spot Ethereum exchange-traded fund (ETF) with the Securities and Exchange Commission (SEC). This would be the first of its kind if approved, providing traditional investors with a way to invest in Ethereum without directly holding cryptocurrency. The application follows recent attempts to launch Bitcoin spot ETFs, including one from BlackRock in June. Despite optimism, no spot Bitcoin or spot Ethereum ETF has been approved to date, with previous applications from Ark declined by the SEC in January 2023."
+    },
+    {
+        "id": 28,
+        "title": "Cathie Wood's Ark Invest, 21Shares Apply for First Spot Ethereum ETF - Decrypt",
+        "summary": "  Ark Invest, led by Cathie Wood, has filed an application with the SEC to launch the first spot Ethereum ETF in the US. The application, dubbed the ARK 21Shares Ethereum ETF, names Coinbase as the custodian and proposes to trade on the Cboe BZX Exchange. This move comes after the SEC recently delayed several Bitcoin ETF applications, including Ark Invest's own bid, but the regulator has yet to approve any spot Bitcoin ETFs. The application highlights the growing anticipation that the SEC may soon approve a wave of Ethereum futures ETFs, which track the price of derivatives traded on the Chicago Mercantile Exchange (CME)."
+    },
+    {
+        "id": 39,
+        "title": "Ethereum Founder Vitalik Buterin Introduces New Way to Merge Privacy and Regulatory Compliance - U.Today",
+        "summary": "  Ethereum founder Vitalik Buterin has introduced a new way to merge privacy and regulatory compliance through a mechanism called Privacy Pools. This system uses zero-knowledge proofs (ZK-proofs) to establish a \"separating equilibrium\" between honest and dishonest users on Ethereum-based networks. With ZK-proofs, users can prove their honesty without revealing their transaction history, which can help advance regulatory compliance for decentralized applications (dApps) such as decentralized exchanges (DEXes) and lending protocols. However, regulators will still be responsible for creating \"black lists\" of illicit addresses in different jurisdictions."
+    },
+    {
+        "id": 41,
+        "title": "Top 3 price Prediction Bitcoin, Ethereum, Ripple: ETH bullish divergence in play, but will it hold out? - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin (BTC) could fall to $24,000 if it can't hold the current support level.\n\nEthereum (ETH) is testing the $1,621 support level with a potential fall of 5% if it doesn't hold.\n\nRipple (XRP) is stagnant despite being in a demand zone, which could lead to a slump below the $0.4800 support level.\n\nThe Relative Strength Index (RSI) is inclined south for BTC and ETH, while the Awesome Oscillator (AO) histograms are negative for XRP.\n\nBTC could potentially confront the 200-, 50-, and 100-day Exponential Moving Averages (EMAs) at $27,085, $27,830, and $27,522 levels respectively, if it breaks above the current support level.\n\nETH could pull north if the bullish diver"
+    },
+    {
+        "id": 46,
+        "title": "ETH Price Could Outperform Bitcoin In September and October - CoinGape",
+        "summary": "  Ethereum (ETH) price is showing signs of a potential upswing, with bulls attempting to break out of the current range bound between $1,600 and $1,730. The MACD indicator has given a buy signal, and the path of least resistance appears to be on the upside. If ETH can hold its current support at $1,630, it could potentially break out of the range and reach $2,000. A report from K33 suggests that ETH could outperform Bitcoin (BTC) in September and October if the first ETF futures receives approval. However, the SEC has yet to make a decision on seven BTC ETF applications, and a delay could impact BTC price."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum: With capitulation on the cards, ETH traders can expect this - AMBCrypto News",
+        "summary": "  Ethereum (ETH) is facing potential capitulation again as the bulls struggle to secure momentum. The cryptocurrency has retested a short-term support level, but could lose that support if the bears extend their dominance. Whales are accumulating ETH, with two of the largest categories buying in the last two days, controlling 21.63% of ETH's circulating supply. However, the percentage of ETH held by top addresses as a percentage of total supply has been growing. The next move will depend on which force is more dominant between the bulls and the whales."
+    },
+    {
+        "id": 50,
+        "title": "Fixing Ethereum node centralization may take two decades: Vitalik Buterin - AMBCrypto News",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has stated that fixing node centralization on the blockchain could take up to 20 years. Currently, there are approximately 6,801 nodes responsible for validating transactions and monitoring the blockchain, with most hosted in the US and Germany. However, 35% of these nodes rely heavily on Amazon Web Services (AWS), which is a centralized entity. To achieve decentralization, the cost of node operation needs to be reduced, and the use of Verkle trees is being researched. Development activity on the blockchain has slowed down, and staking activity following the Shapella upgrade has been up and down. The upcoming Dencun upgrade aims to reduce transaction fees and increase transactions on the blockchain, with the potential to increase throughput to 13 Transactions Per Second (TPS) or higher."
+    },
+    {
+        "id": 54,
+        "title": "Investing In Push Protocol (PUSH) \u2013 Everything You Need to Know - Securities.io",
+        "summary": "  Investing in Push Protocol (PUSH) can provide benefits such as receiving important updates, earning crypto for receiving notifications, and deciding what services can send notifications. EPNS works by providing a blockchain-agnostic, platform-independent notification system that allows direct communication between services and users. To buy PUSH, it is available on KuCoin and WazirX exchanges. The project has potential in the present and future blockchain world, and investors are interested in its development."
+    },
+    {
+        "id": 56,
+        "title": "Financial privacy and regulation can co-exist with ZK proofs \u2014 Vitalik Buterin - Cointelegraph",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has published a research paper exploring the use of privacy pool systems to achieve greater financial privacy while still complying with regulations. The paper discusses how zero-knowledge proofs can be used to prove that funds are not linked to illicit sources, while also demonstrating that they originate from a specific set of deposits without revealing any further information. The authors argue that this approach can provide a balance between privacy and compliance, allowing users to prove their disassociation from illicit funds without revealing their entire transaction graph. The paper also offers several use cases for zero-knowledge proofs, including demonstrating that funds are not tied to illicit sources or proving that funds originate from a specific set of deposits without revealing any further information. The findings suggest that scaling zero-knowledge solutions are set to experience the highest growth in the coming 12 months as global regulations evolve and users seek to protect their privacy."
+    },
+    {
+        "id": 58,
+        "title": "Ethereum Price Prediction: ETH Risks Losing $1,600 Support Amid Increasing Whale Activity - Analytics Insight",
+        "summary": "  Ethereum price may drop below $1,600 as whale activity increases, according to Analytics Insight. Despite the recent bail attempts by the Federal Reserve, ETH has been trading below its 2023 high of $2,140. The Crypto Fear and Greed index is in the \"Fear\" zone, indicating that investors are worried about their investments. On-chain metrics also show decreasing demand for ETH, with the value locked on the network decreasing and the number of addresses holding a minimum of $1,000 in ETH hitting a six-month low. However, whales are taking advantage of the low prices to accumulate more, with 260,000 ETH worth $425 million purchased in the last 24 hours. The negative outlook for Ethereum is supported by down-facing moving averages and a Stochastic RSI facing downwards. If the token drops below $1,600, it could fall 5% to $1,545 or $1,500. A sustained recovery would require a daily candlestick close above"
+    },
+    {
+        "id": 60,
+        "title": "DYdX to launch decentralized order book exchange on Cosmos: KBW 2023 - Cointelegraph",
+        "summary": "  dYdX, a decentralized exchange (DEX), is launching a decentralized order book exchange on the Cosmos blockchain. This move is part of the platform's migration from the Ethereum network. The new order book will be hosted within the validators' memory, allowing for faster and more decentralized trading. dYdX CEO Charles d'Haussy believes this is a \"new thing within the space\" and will offer a \"purely decentralized\" exchange. The migration to Cosmos will be smooth for users, who will only need to connect their MetaMask wallets to the new chain. (256 tokens)"
+    },
+    {
+        "id": 61,
+        "title": "Investing In Aurora (AURORA) - Everything You Need to Know - Securities.io",
+        "summary": "  Aurora is a programmable blockchain ecosystem built on the NEAR protocol, aiming to provide a faster and more scalable alternative to the Ethereum ecosystem. Key features include:\n\n* Dual consensus mechanisms for improved performance and security\n* Byzantine Fault Tolerant system and Delegated Proof of Stake for faster transaction throughput and finality\n* Low transaction costs and full Ethereum compatibility\n* Community governance through the AuroraDAO\n* Gasless meta-transactions for reduced transaction fees\n* Passive income options through staking\n* All transaction fees paid in ETH\n\nAurora works by leveraging the SputnikVM Ethereum virtual machine, which can execute all Ethereum-compatible applications, and the Aurora Bridge, which enables free transfers of ETH and ERC20 tokens between Ethereum and the platform. The primary utility token, AURORA, is required for DeFi features such as staking and community governance. The network also has a history of success, launched in November 2021 as a solution to Ethereum's congestion issues, and has"
+    },
+    {
+        "id": 62,
+        "title": "Bitcoin Spark: The New Crypto Mining King Outshining Bitcoin and Ethereum - Analytics Insight",
+        "summary": "  Bitcoin Spark (BTCS) is a new cryptocurrency that has gained attention in the crypto community due to its unique mining mechanism and potential for growth. Unlike Bitcoin and Ethereum, which use traditional Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus mechanisms, Bitcoin Spark uses a combination of PoW and PoS called Proof-of-Process (PoP). This allows for a more efficient and sustainable mining process, as well as a fairer distribution of rewards.\n\nTo mine BTCS, users can install the Bitcoin Spark application on their devices, which will grant access to the device's processing unit. The application will automatically adjust itself to the device's resources and will only use the necessary amount of power to mine BTCS. This makes mining accessible to anyone with a smart device, regardless of their energy or asset prices.\n\nBitcoin Spark's mining mechanism also allows for multiple ways for miners to earn, including transaction fees, new BTCS coins, and revenue from leasing their processing power to clients undertaking high CPU/GPU"
+    },
+    {
+        "id": 63,
+        "title": "Ethereum (ETH) and Floki Inu (FLOKI) Prices Decline, While Anarchy (ANA) Continue to Shine - Analytics Insight",
+        "summary": "  Ethereum (ETH) and Floki Inu (FLOKI) prices are down, while Anarchy (ANA) continues to perform well. ETH has struggled to break $2,000 despite expectations of a breakout two months ago. Floki Inu has been underwhelming since April, and Anarchy has seen significant presale activity with over $3 million in sales. Anarchy aims to use memes to call out corrupt policies and provoke change through satire and humor. The token has the potential for a 50x boost to portfolios, and investors are urged to buy now for a potential early Christmas."
+    },
+    {
+        "id": 65,
+        "title": "Bitcoin, Ethereum and 8 More Cryptocurrencies to Invest in This September - Legit.ng",
+        "summary": "  Here is a summary of the article in 256 words or less:\n\nThe article discusses the current state of the cryptocurrency market and the potential for investment in various assets. It highlights ten cryptocurrencies that are considered to be top candidates for investment in September 2023, including Bitcoin, Ethereum, and others. These cryptocurrencies have been selected based on their growth potential and ability to weather the current market downturn. The article also mentions that Nigeria has emerged as the country with the most active interest in cryptocurrencies, despite the recent ban on cryptocurrency transactions by the Central Bank of Nigeria."
+    },
+    {
+        "id": 66,
+        "title": "The Future of Ethereum: Vitalik Buterin's Vision and Milestones - Cryptopolitan",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, envisioned a platform that extends beyond digital currency and executes smart contracts. The transition to Proof of Stake and the quest for scalability aim to make Ethereum more energy-efficient, inclusive, and accessible. The platform's potential to handle real-world applications at scale is crucial, with a target of 100,000 transactions per second. Ethereum's impact extends to global events, such as the Ukrainian conflict, where it facilitated the secure and transparent transfer of funds for humanitarian aid. However, the platform also faces challenges, including environmental concerns, public perception, and the decentralized nature of the network, which can make it difficult to address challenges. Buterin's leadership and commitment to responsible and sustainable innovation are crucial in navigating these challenges and ensuring Ethereum's continued success."
+    },
+    {
+        "id": 69,
+        "title": "Ark Invest files for spot Ethereum ETF - Cryptopolitan",
+        "summary": "  Ark Invest and 21Shares have filed for a spot Ethereum ETF in the US, which would provide direct exposure to Ether. The ETF would track the performance of Ether as determined by the CME CF Ether-Dollar Reference Rate and would be held by Coinbase Custody Trust Company. The ETF would allow investors to gain exposure to the Ether market without the hurdles of direct trading or spot market nuances. While the filing is audacious and ambitious, it also comes with challenges and the ETF is not FDIC-insured. The SEC filing can be read here."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "title": "On The Future Of Ethereum - Ledger",
+        "summary": "  The article discusses the future of Ethereum and its potential to support Web3's mainstream adoption, focusing on the challenges of scalability and security. It highlights the importance of sharding and Layer 2 solutions, such as Optimistic and Validity Rollups, which use zero-knowledge proof (ZKP) technology to enable trustless and permissionless transactions at scale. The article also touches on the issue of centralization and the need for decentralization in layer 1, suggesting that Layer 1 could become settlement layers, while Layer 2s handle the complexity of DApps. Overall, the article provides a comprehensive overview of the current state of Ethereum's scalability and security challenges and the potential solutions being explored to address them."
+    },
+    {
+        "title": "Ethereum Developers Target March 14 Date for Shanghai Upgrade on Goerli Testnet - CoinDesk",
+        "summary": "  Ethereum developers aim to upgrade Shanghai on Goerli testnet on March 14, with a possible delay in staked ETH withdrawals to April. Developers showed consensus during Thursday's execution layer meeting."
+    },
+    {
+        "title": "Ethereum eyes 25% correction in March, but ETH price bulls have a silver lining - Cointelegraph",
+        "summary": "  Ethereum's price is consolidating between $1,600 and $1,700 since February 15, with a potential 25% correction in March. The upcoming Shanghai upgrade may trigger a short-term sell-off event, but on-chain data suggests that future selloffs will be limited. Exchanges have seen a significant drop in ETH supplies since September 2022, reducing immediate sell pressure. Additionally, only 60% of staked ETH is at a loss, and the most profitable staked ETH was staked less than a year ago, indicating limited profit-taking events."
+    },
+    {
+        "title": "Ethereum Devs Confirm ETH Staking Withdrawals Pushed to April - Decrypt",
+        "summary": "  Ethereum developers have confirmed that the highly anticipated Shanghai upgrade, which will enable staked ETH withdrawals, has been pushed to April. The upgrade, which was previously slated for a March release, has been delayed due to concerns about its seismic financial implications. The exact timing of the upgrade has been closely watched, as it will allow users to withdraw the rewards they have accumulated through staking ETH. The majority of staked ETH is currently held by intermediary staking services and crypto exchanges, which have a clear incentive to start distributing rewards to customers. However, the rush to release the upgrade has led to sacrifices in the long-term health of the Ethereum network, according to some core developers."
+    },
+    {
+        "title": "Ethereum\u2019s ERC-4337 Upgrade Paves The Way For User Wallet Recovery - The Defiant - DeFi News",
+        "summary": "  Ethereum developers have launched a new standard, ERC-4337, which enables \"account abstraction\" and allows for programmable smart contract wallets. This feature allows users to program wallet recovery options, such as two-factor authentication or multi-signature wallets, to protect against losing access to private keys. The standard was deployed as a smart contract and is now available on all blockchain networks compatible with the Ethereum Virtual Machine. This development could potentially replace the common practice of backing up private keys with a set of words on a piece of paper, and enable new security measures such as biometric authentication. Additionally, ERC-4337 enables a fully decentralized fee market for smart contract wallet operations, according to Ethereum's chief scientist and co-founder, Vitalik Buterin."
+    },
+    {
+        "title": "Ethereum launches ERC-4337 \"smart accounts\" - CryptoSlate",
+        "summary": "  Ethereum has launched a new feature called ERC-4337, also known as \"smart accounts,\" which provides a basis for various features such as account recovery and group-access wallets. It allows users to access crypto services without setting up a traditional wallet and manually storing their seed phrase or private key, as keys are stored locally on a hardware security module (HSM). The feature was introduced through a smart contract and can be implemented on any EVM-compatible blockchain, including BNB Smart Chain, Polygon, Avalanche, and others. Visa has also endorsed this technology as a possible way for users to auto-schedule crypto payments. Additionally, Ethereum is preparing for other upgrades, including the Shanghai upgrade, which will allow validators to withdraw staked ETH."
+    },
+    {
+        "title": "Ethereum\u2019s Shanghai Upgrade Will Not Crash Ether Price, Analysts Say - CoinDesk",
+        "summary": "  Ethereum's Shanghai upgrade will not cause a significant drop in ether (ETH) price, according to analysts. The upgrade allows for partial withdrawals of ETH from the network, but the amount that could hit the market is limited. Arcana's analysis shows that in the worst-case scenario, only 6% of the average daily ETH trading volume could be dumped on the market in the first three days after withdrawals are allowed. Additionally, the maximum daily amount of ETH potentially dumped on the market will decrease below 1% of the daily trading volume in the next six months."
+    },
+    {
+        "title": "Shanghai + Capella = 'Shapella': How Ethereum Devs Now Refer to Upcoming Upgrade - CoinDesk",
+        "summary": "  Shanghai and Capella, two layers of the Ethereum blockchain, are being combined into a single layer called \"Shapella.\" This upgrade will allow for more efficient execution of smart contracts and better enforcement of rules on the network. The execution layer will house smart contracts and protocol rules, while the consensus layer will ensure validators follow these rules."
+    },
+    {
+        "title": "Stackup Brings Account Abstraction to Ethereum with ERC-4337 - PR Newswire",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nStackup, a crypto wallet infrastructure company, has launched a node service for ERC-4337 transactions on Ethereum and Polygon networks. ERC-4337 is a new standard for account abstraction, making it easier for users to interact with the blockchain. The company aims to make cryptocurrency accessible to all with its easy-to-use infrastructure and open-source SDK."
+    },
+    {
+        "title": "Smart Accounts on Ethereum set to Simplify Crypto for Newcomers - BSC NEWS",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nSmart Accounts on Ethereum aim to simplify crypto for newcomers. However, it's crucial to proceed with caution when purchasing newly listed tokens, and to reference safety guides on BSC News. Disclaimer: Paid press release, and readers should do their own research before interacting with the mentioned companies."
+    },
+    {
+        "title": "Emmy-Winning, Disney-Backed Baobab Studios Launches \u2018Momoguro\u2019 Ethereum NFTs - Decrypt",
+        "summary": "  Baobab Studios, an Emmy-winning Disney-backed studio, is launching a new project called \"Momoguro\" that combines NFTs and a role-playing game (RPG) set in a fantastical world. The project includes genesis NFTs that can be adopted by players and used to create hybrid characters, with the goal of creating a sense of community and inclusivity. The studio has raised over $31 million in funding and has already gained a significant following on social media."
+    },
+    {
+        "title": "Gas Prices Rise as NFTs Make a Resurgence on Ethereum - NFT Plazas",
+        "summary": "  Gas prices on the Ethereum network have risen due to a surge in transaction volumes, with fees increasing by over 300% since the end of 2022. This resurgence in network activity is driven by existing traders, particularly those involved in NFT trading, as they seek to add transactions on the next block. The recent attention surrounding Blur has led to increased demand for block space, resulting in higher fees for validators and more ETH being burned via EIP1559. Despite controversy surrounding Blur's rise to the top, NFT transactions on Ethereum have risen by 97% over the past two months, approaching levels last seen during the NFT boom in 2021."
+    },
+    {
+        "title": "Three Japanese Banks Start Stablecoin Experiment - CoinDesk",
+        "summary": "  Three Japanese banks have launched a stablecoin experiment, known as \"Project Ice,\" to explore the use of digital currencies in cross-border payments. The project is being conducted in collaboration with CoinDesk, a leading blockchain and crypto news platform. The experiment aims to create a stablecoin pegged to the US dollar, which can be used for international transactions. The project is expected to provide insights into the potential benefits and challenges of using stablecoins for cross-border payments."
+    },
+    {
+        "title": "What Are Liquidity Pools? The Funds That Keep DeFi Running - Decrypt",
+        "summary": "  Liquidity pools are an innovation in the crypto industry that provide a lifeline to DeFi protocols and serve as hotbeds for investors seeking high risk and high reward. They are self-executing smart contracts containing locked crypto tokens supplied by platform users. Liquidity pools are essential for DeFi activities such as lending, borrowing, and token-swapping, as they provide a balance between the two assets in a pool. The more liquidity a pool has, the less slippage traders will experience. As of March 2023, the total value locked in DeFi was $50 billion, with 1inch, Aave, and Uniswap being notable liquidity providers. Investors can provide liquidity to a pool through two methods: directly adding funds to a liquidity pool or \"zapping\" into a pool through platforms like Zapper. However, attracting liquidity is a competitive game, and investors constantly seek high yields elsewhere, leading to a high turnover rate in liquidity pools. To tackle this problem, some protocols have experimented with \"protocol-owned liquidity,\" but this model has also faced"
+    },
+    {
+        "title": "Bear Market Crypto Gems: Collateral Network (COLT), Ethereum (ETH), and VeChain (VET) - Techpoint Africa",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\udca1 Bear market gems: Collateral Network (COLT), Ethereum (ETH), and VeChain (VET)\n\ud83d\udcb0 COLT: Pioneering crowdlending with NFT collateral, available at $0.01 during presale\n\ud83d\udd25 ETH: Largest market cap, still go-to for developers, Ethereum 2.0 improves scalability\n\ud83d\udcc8 VET: Enterprise use cases, partnership with DNV GL, ambitious roadmap, priced at $0.016\n\ud83d\udcb8 Buy now: COLT, ETH, VET presale prices may increase\n\ud83d\udd17 Learn more: collateralnetwork.io, t.me/collateralnwk, twitter.com/Collateralnwk"
+    },
+    {
+        "title": "What is QuickSwap, and how does it work? - Cointelegraph",
+        "summary": "  QuickSwap is a decentralized exchange (DEX) built on the Polygon network that allows users to swap ERC-20 tokens without an order book. It uses an automated market maker (AMM) model to provide token pools for trading, which are maintained by liquidity providers who receive a portion of the transaction fees. QuickSwap charges a small transaction fee of 0.3% and near-zero gas fees. The AMM model determines the asset prices and provides instant liquidity, democratizing access to liquidity through its algorithmic code. Users can seamlessly exchange any combination of ERC-20 tokens without an order book, and liquidity providers can earn payments from the swap-generated fees. However, there is a risk of impermanent loss faced by liquidity providers of AMMs like QuickSwap."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin nears $23,500; Ethereum hovers around $1,650; Shiba Inu down 2% - Business Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin is near $23,500, Ethereum is around $1,650, and Shiba Inu is down 2%. Crypto market cap is slightly higher at $1.07 trillion, with total trading volumes up 11%. Ethereum is closer to its Shanghai Upgrade, which will complete its transition to a fully functional PoS network. The Reserve Bank of Australia has revealed projects for a digital dollar, and Polygon has launched a new product based on Zero-Knowledge technology. Coinbase has suspended trading of Binance USD due to concerns about liquidity. Synthetix is building a decentralized liquidity provisioning protocol, and its token is up 29% in the past day."
+    },
+    {
+        "title": "Ethereum vs Ethereum Classic: Comparison Between ETH And ETC - ClearTax",
+        "summary": "  Ethereum and Ethereum Classic are two separate blockchains that originated from the same source. They have distinct features and goals, with Ethereum aiming to return lost Ether and shift to a Proof-of-Stake consensus mechanism, while Ethereum Classic maintains immutability and has a total supply limit. Ethereum has a wider range of investment opportunities and supports more decentralized applications, while Ethereum Classic has experienced 51% attacks and lost popularity. The future of these blockchains depends on market trends and investor decisions."
+    },
+    {
+        "title": "Post-Shanghai upgrade; How will Ethereum's price react? - Finbold - Finance in Bold",
+        "summary": "  Ethereum's Shanghai upgrade is approaching, which allows investors to withdraw their staked ETH. However, concerns have been raised about the potential impact on the price of Ethereum due to the possibility of a flood of withdrawn ETH entering the market. CryptoQuant analyzed onchain data and found that 60% of staked ETH is at a loss, indicating that investors are unlikely to sell their staked ETH en masse. The analysis also showed that the largest staking pool, Lido Dao, is at a loss, and the staked ETH has an average loss of 24%. These factors suggest that selling pressure is unlikely to arise after the upgrade. The upgrade is expected to have a positive impact on Ethereum's value in the long term, but the short-term price movement will depend on how investors react to the withdrawal process. As of press time, Ethereum is trading at $1,644 with weekly losses of about 2%."
+    },
+    {
+        "title": "5 Reasons Why Experts Think Ethereum Will Hit $2,000 in 2023 - Outlook India",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nExperts predict Ethereum to hit $2,000 in 2023. Three crypto projects in presale - Fight Out, C+Charge, and RobotEra - are expected to provide significant gains. These projects are gaining attention due to their innovative features and potential for growth. However, it's crucial to act fast as these projects won't be in presale for long."
+    },
+    {
+        "title": "Rocket Pool Review 2024 - Is Rocket Pool Trustworthy and Legit? - Captain Altcoin",
+        "summary": "  Rocket Pool is a decentralized Ethereum 2.0 staking protocol that allows users to stake ETH and earn staking rewards by becoming a node operator or by using rETH, a liquid staking token. Rocket Pool lowered the minimum amount needed to start staking to 0.01 ETH, making it accessible to a large public. The protocol is permissionless, allowing anyone to become a node operator, and its smart contracts have been audited by leading security companies. Rocket Pool has become one of the largest ETH 2.0 staking pools, with over 323,840 staked ETH and over 1800 node operators around the world.\n\nTo stake ETH with Rocket Pool, users can visit its official staking page, connect their Metamask or other wallets to the protocol, and choose one of the two staking options, stake + run node, or stake ETH. RPL and rETH tokens are also used in the protocol, with RPL being the governance, insurance, and utility token, and rETH being a liquid staking token pegged to"
+    }
+]

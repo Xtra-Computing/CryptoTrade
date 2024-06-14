@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Ethereum vs. Bitcoin: Which Crypto Is Better? - Nasdaq",
+        "summary": "  Bitcoin and Ethereum are two popular cryptocurrencies with different features and uses. Bitcoin is the first and most well-known cryptocurrency, with a limited supply of 21 million coins and a focus on financial transactions. Ethereum, on the other hand, is programmable and allows for the development of other cryptos and smart contracts on its platform. Both have pros and cons, and investing in either carries risks such as security, tax, and regulatory risks. The choice between the two depends on individual needs and goals, with Bitcoin being the most popular and widely accepted, and Ethereum offering more functionality beyond digital currency."
+    },
+    {
+        "title": "Ethereum Researchers Remain Mystified After Blockchain Briefly Fails To Finalize - The Defiant - DeFi News",
+        "summary": "  Ethereum experienced an unexpected failure in finalizing blocks last week, with transactions continuing to process normally. The incident occurred twice in separate events, with the first lasting for three epochs (20 minutes) and the second for eight epochs (one hour). The cause of the problem is still unknown, but researchers believe it may be related to an \"exceptional scenario\" that caused a high load on the consensus layer clients Teku and Prysm. Patches were released to limit resource usage during periods of network congestion, and the network eventually recovered on its own. Despite the incident, Ethereum's DeFi ecosystem continued to function normally, and the network's diversity of clients helped mitigate the impact. The Ethereum Foundation is conducting further analysis to prevent similar incidents in the future."
+    },
+    {
+        "title": "Here's why the SEC never classified ether as a security - Protos",
+        "summary": "  The Securities and Exchange Commission (SEC) never classified ether (ETH) as a security due to a conflict of interest by former SEC director William Hinman in 2018. Hinman had financial ties to an entity supporting Ethereum, leading to confusion and accusations of lack of clarity from the SEC. Despite this, SEC chair Gary Gensler previously stated that Ethereum passed the Howey Test and could be considered a security. The New York Attorney General (NYAG) also classified ETH as a security in a lawsuit against KuCoin, but the SEC has not officially classified it. The NYAG's designation is the first time a major regulator has classified ETH as a security in court. The question of whether ETH is a security today remains uncertain, as the statute of limitations has expired on 2014 events, but it is possible that it could pass the Howey Test."
+    },
+    {
+        "title": "Coinbase Eyes Major Cancellation In Ethereum Staking - CoinGape",
+        "summary": "  Coinbase has experienced a significant inflow of Ethereum (ETH) as users withdraw their staking rewards, rather than their principal, following the recent \"Shapella\" upgrade. This has led to a gain in ETH price, currently trading at $1,826.91, up 1.31% in the past 24 hours. The majority of withdrawals (95%) are staking incentives, while the remaining 5% are initial stakes. This development may indicate building sell pressure for Ethereum."
+    },
+    {
+        "title": "What Is the Bitcoin Cash 'Ethereum Killer' Hard Fork? - DailyCoin",
+        "summary": "  Bitcoin Cash (BCH) is preparing for a hard fork on May 15 that will introduce a major upgrade to its blockchain. The upgrade, dubbed the \"Ethereum Killer,\" will introduce \"CashTokens\" - an ERC-20-like standard for the network that will enable developers to run smart contracts. According to core developers, this decentralized Proof-of-Work (PoW) blockchain will be more scalable and efficient than Ethereum. The introduction of CashTokens will allow developers to issue tokens directly on the BCH network and build decentralized applications (dApps) directly on the blockchain. One core developer claims that dApps on Bitcoin Cash will be 100x cheaper than Ethereum. However, the network has yet to be tested under heavy load, and Bitcoin (BTC) still suffers from network congestion despite using a similar UTXO model. The upgrade has the potential to significantly boost the utility of Bitcoin Cash and boost blockchain adoption in the decentralized finance space."
+    },
+    {
+        "title": "U.S. Prosecutors Drop Extortion Charges Against Early Adviser to Ethereum Network - CoinDesk",
+        "summary": "  U.S. prosecutors have dropped extortion charges against an early advisor to the Ethereum network, following claims of entrapment and allegations of an FBI informant. The advisor's lawyers say their client was given a list of top crypto industry figures and instructed to gather dirt on them in exchange for a lighter sentence. However, neither Ethereum founder Vitalik Buterin nor Custodia Bank founder Caitlin Long have faced any public allegations."
+    },
+    {
+        "title": "Ether Holders Embrace Near Month-Long Wait for Staking ETH - CoinDesk",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nEther holders are waiting for a month to stake their coins, with deposits surging in the past few weeks. Over 200,000 ether were deposited to the network last week, marking the first time deposits outpaced withdrawals since the Shapella upgrade."
+    },
+    {
+        "title": "Ethereum [ETH]: Bears and bulls tussle for $1800 \u2013 what is the way ahead - AMBCrypto News",
+        "summary": "  Ethereum (ETH) prices have been fluctuating between $1700 and $1800, with bears and bulls struggling for control. Despite a 5% weekly loss, ETH has performed better than Bitcoin (BTC) and Binance Coin (BNB). The Crypto Greed and Fear index is currently neutral, with a value of 48. The aggregated CVD spot has flipped to positive, indicating that buyers have been in charge for the past two days. However, long positions worth $2.5 million were wrecked in the past 24 hours, which could undermine a strong ETH recovery. Macro traders should keep an eye on US debt ceiling woes and US Retail Sales data scheduled for Tuesday."
+    },
+    {
+        "title": "US strips Ethereum dev Virgil Griffith of export privileges for 10 years - Cointelegraph",
+        "summary": "  The US Department of Commerce has banned Ethereum developer Virgil Griffith from enjoying export privileges for 10 years due to his conviction of violating the International Emergency Economic Powers Act by sharing technical information with North Korea. This ban restricts Griffith's ability to participate in international trade and business. He was sentenced to 63 months in prison and ordered to pay a $100 assessment and a criminal fine of $100,000. Under the Export Control Reform Act, individuals convicted of specific offenses may face a denial of export privileges for up to 10 years."
+    },
+    {
+        "title": "Ethereum stumbles with settlements as validators go missing - CoinGeek",
+        "summary": "  Ethereum experienced two glitches in the past week, resulting in delayed settlements on its Beacon Chain. Validators failed to confirm valid blocks, causing some exchange services to pause deposits. Developers are investigating the cause, but have downplayed the seriousness of the issue. The glitches highlight the complexity of Ethereum's constantly changing environment, leading some to call it \"experimental\" and \"hobby platform\" unsuitable for large-scale applications. The issues affect Ethereum's on-chain finalization process, which determines whether a transaction is permanently settled. While the delays were short-lived, they raise concerns about Ethereum's security and stability, particularly for enterprise-level applications."
+    },
+    {
+        "title": "Bankrupt Celsius stake $57M worth of Ethereum: Arkham - CryptoSlate",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBankrupt crypto lender Celsius has resumed staking Ethereum, depositing $57M worth of ETH via Figment. This comes after the firm withdrew part of its staked ETH in April. Total ETH staking deposits have surpassed withdrawals, reaching a new all-time high of 21.62M ETH worth $39.5B. Other entities have also begun re-staking their withdrawn ETH, with liquid staking protocols seeing an increase in assets locked."
+    },
+    {
+        "title": "Ribbon Finance's Decentralized Exchange Aevo Unveils Altcoin Options Trading - CoinDesk",
+        "summary": "  Ribbon Finance's decentralized exchange, Aevo, has launched altcoin options trading. This move brings more diversity to the platform and provides users with more investment opportunities. Register now for Consensus 2024 to learn more about the latest developments in the crypto and blockchain space."
+    },
+    {
+        "title": "Why Ethereum\u2019s Yield Farming May Be The Most Exciting Thing In Crypto Right Now - NewsBTC",
+        "summary": "  Ethereum's yield farming has the potential to revolutionize the cryptocurrency space as it offers high yields without the risk of inflation. Yields are a function of supply and demand and perceived risk, and cryptocurrencies with limited supply and high demand have higher yields. Ethereum's growing ecosystem of decentralized applications and smart contracts can generate significant fees for investors through its use as a platform for decentralized finance (DeFi) applications, offering yields of up to 24% in external fees. Investors can generate yields of more than 3% annual percentage yield (APY) through ETH staking, which is a significant opportunity. Adam Cochran emphasizes the importance of focusing on asset productivity and real yield in the cryptocurrency space, and those who possess assets have an advantage as they stand to gain significant capital gains in addition to the 2% APY on the face value of the asset. As funds of increasing size start to invest heavily in the cryptocurrency space, it will fundamentally change the finance industry, and those who have acquired a significant number of coins before this shift will reap the benefits"
+    },
+    {
+        "title": "Uwerx (WERX) Token Sale Reaches New Heights And Could Surpass Bitcoin Cash (BCH) And Ethereum Classic (ETC) - CoinCodex",
+        "summary": "  Uwerx (WERX) token has reached a new high and could potentially surpass Bitcoin Cash (BCH) and Ethereum Classic (ETC) in value. Uwerx is a freelancing platform that utilizes blockchain technology to provide cheaper transaction fees and more security for both freelancers and companies. The platform has seen increased investment confidence and is currently in the alpha stage of development. The presale for WERX tokens has been successful, and a new stage 5 presale will begin soon. Investors are optimistic about the potential of Uwerx and the value of WERX tokens."
+    },
+    {
+        "title": "$500K worth of stETH redeemed in 3 hours as Lido enables withdrawals - Cointelegraph",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\n$500K worth of stETH redeemed in 3 hours as Lido enables withdrawals. Lido liquid staking protocol allows Ether withdrawals for the first time, with over 260 stETH redeemed in the first three hours. Lido users can now withdraw their ETH rewards, with $500,000 worth withdrawn in the first three hours. Liquid staking solutions have gained popularity since Shapella upgrade, but there are legal questions around staking in the US."
+    },
+    {
+        "title": "ETH Validators Hit All-Time High as Juicy APR Attracts New Stakers - DailyCoin",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nETH validators hit all-time high as staking rewards near double digits.\n\n50,000 new validators waiting to enter active set, while only one is waiting to exit.\n\nETH staking APR grows exponentially, with LSD protocols offering lower APYs.\n\nETH trading at $1,828, up 1.6% in past 24 hours.\n\nLarge number of validators and node runners increase blockchain security.\n\nETH holdings on exchanges hit all-time low despite recent slump.\n\nPolygon (MATIC) pushed out of top 10 cryptocurrencies by Solana (SOL)."
+    },
+    {
+        "title": "Crypto Week Ahead: BTC, ETH Show Weak Stance As Binance Exits Canada. New Twitter CEO Linda Yaccarino Could Be A Crypto Ally - ABP Live",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCrypto prices are stable within a range, with Bitcoin and Ethereum needing to pick up steam to achieve positive marks. Binance is exiting Canada due to new regulations, which could impact crypto prices. However, the soon-to-be Twitter CEO Linda Yaccarino could be a crypto ally. Top crypto prices today include DeFi and stablecoins, with BTC dominance at 46.45%. Pepe, a memecoin, is seeing a decline in prices. Binance CEO Changpeng Zhao is looking to offload a part of his stake in the company. Mudrex co-founder and CEO Edul Patel says Bitcoin needs to surpass the $27,400 resistance level to initiate a decent increase. WazirX Vice President Rajagopal Menon notes that Bitcoin and Ethereum faced moderate losses over the past week, with BTC pulling back amid competition from a rising dollar."
+    },
+    {
+        "title": "Why Shapella looks like a game changer for Ethereum - CityAM - City A.M.",
+        "summary": "  Shapella, a recent Ethereum upgrade, has opened up the asset class to new investors by allowing them to unstake Ether and get back the original stake. This upgrade has removed a major obstacle for institutional investors, who can now retain custody of their funds and withdraw when they see fit. The upgrade has also made it possible for institutional investors to earn a return on their investments, which was previously not possible. The digital asset industry will need to step up its service offering to accommodate institutional investors and address their concerns related to fraud and volatility. The Shapella upgrade may be a pivotal moment in the maturation of the cryptocurrency industry and its gaining of institutional investment."
+    },
+    {
+        "title": "Bitcoin and Ethereum face challenges, Liechtenstein embraces BTC, and Tether reports huge profit - CityAM - City A.M.",
+        "summary": "  Bitcoin and Ethereum face challenges, with Bitcoin experiencing congestion and Ethereum experiencing a temporary disruption. Liechtenstein has announced that it will accept Bitcoin for state services, while the US Department of Justice is investigating Binance for allegedly allowing Russians to use its platform in violation of US sanctions. Tether reports a $1.5 billion profit, while Bittrex has filed for Chapter 11 bankruptcy protection."
+    },
+    {
+        "title": "Ethereum-Based Project, Sparklo (SPRK), Set To Offer Groundbreaking Rewards To All Its Users - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nSparklo is an Ethereum-based project that offers groundbreaking rewards to its users. It's an alternative investment platform that allows users to invest and trade fractionalized NFTs backed by silver, gold, and platinum. The platform is secure and has passed an audit, with liquidity locked for 100 years. The team tokens are also locked for 3 years. Analysts predict that the value of the SPRK token will climb by 1,500% before December 2023. The presale is still ongoing and the current token price is $0.022."
+    },
+    {
+        "title": "Ethereum staking returns soar to record-breaking levels; Here's why - Finbold - Finance in Bold",
+        "summary": "  Ethereum staking returns have reached record highs after an upgrade to the Ethereum ecosystem allowed investors to withdraw their staked ETH. The annualized rate of return for running an ETH validator is currently at 8.76%, the highest since the Shanghai update. Since the implementation of unstaking on the Ethereum network, investors have deposited 3.44 million ETH into ETH 2.0 contracts and withdrawn 2.67 million ETH, with a net pledge of 770.70k ETH. The recent development has also brought about positive aspects such as lower gas fees for developers. The Ethereum price is currently at $1,827.92, up 1.37% in the last 24 hours, but still down 1.50% over the previous week and 13.38% over the past month."
+    },
+    {
+        "title": "Double Trouble For Ethereum: Loss Of Finality As 60% Of Validators Drop The Ball - TronWeekly",
+        "summary": "  Double trouble for Ethereum: Loss of finality due to validator inactivity\n\nOn May 11-12, Ethereum experienced two incidents where over 60% of validators stopped participating, causing a loss of finality. Finality refers to the state where a supermajority of validators have attested to the final state of the blockchain, ensuring that a block and its transactions cannot be altered. Due to the absence of validators, the Ethereum chain's performance was impacted, leading to missed daily slots and 253 blocks not proposed on time. However, the affected validators quickly returned online, and the participation rate jumped back to over 98%. These incidents serve as a reminder of the importance of network security and the need for a reliable validator ecosystem."
+    },
+    {
+        "title": "Ethereum Trader Review - Scam or Legit? - Business 2 Community",
+        "summary": "  Ethereum Trader is a crypto trading platform that focuses on Ethereum and offers educational resources, advanced trading tools, and a demo trading account. However, the platform is light on information, and there is no detail about the trading tools available, the minimum deposit requirement, or the fees. Additionally, the website has not been updated since the Ethereum Merge, and the customer reviews are mixed. As a result, it is difficult to determine if Ethereum Trader is a scam or a legitimate platform. It is recommended to exercise caution and do your own research before investing."
+    }
+]

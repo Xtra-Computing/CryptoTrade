@@ -1,0 +1,167 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum loses its shine as Bitcoin dominates, Solana climbs - Fortune",
+        "summary": "  Ethereum's dominance in the cryptocurrency market is being challenged as Bitcoin surges in value and a new rival, Solana, gains popularity. While Ethereum is up 66% in 2023, Solana has climbed over 400% and is now the fifth-largest cryptocurrency by market capitalization. Ethereum is facing issues with high gas fees and complexity, which may be hindering its performance. The founder of Messari, Ryan Selkis, believes that Ethereum is losing its luster due to increased competition in the smart contract industry and the emergence of new, higher-beta peers. However, Ethereum still maintains its role as the second-most-important blockchain, and its developer ecosystem and integrity remain strong.\n\nIn other crypto news, scammers are exploiting a flaw in Twitter to create fake URLs that appear to be from reputable cryptocurrency sites like Binance and Ethereum. Bankruptcy claims on FTX are being traded for 70 cents or more on the dollar as speculators bet on the company'"
+    },
+    {
+        "id": 1,
+        "title": "Ethereum Emerges as a Key Blockchain for Tokenized Real-World Assets - CoinDesk",
+        "summary": "  Ethereum emerges as key blockchain for tokenized assets, with legal clarity improving in 2024. EU, Singapore, and UAE to attract investors due to new customer and investor protections, licensing regimes. US will rely on regulatory enforcement actions to establish legal precedent."
+    },
+    {
+        "id": 3,
+        "title": "What Crypto Users Need to Know: The ERC20 Standard - Investopedia",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nERC20 is a standard for creating and issuing smart contracts on the Ethereum blockchain.\n\nERC stands for \"Ethereum Request for Comment,\" and ERC20 was implemented in 2015 and officially adopted in September 2017.\n\nERC20 contains nine functions and two events that must be used when creating a fungible token within a smart contract.\n\nThe functions include name, symbol, decimals, total supply, balance of, transfer, transfer from, approve, and allowance.\n\nThe events include the Transfer event and the Approval event.\n\nThere are over 80 total ERCs implemented, and many more are submitted and waiting for approval or rejection.\n\nERC20 is not the same as the Ethereum network, and Coinbase is one of the most popular cryptocurrency exchanges that support ERC20.\n\nMany wallets also support ERC20, including MetaMask, Trezor, Ledger Nano X, Binance, and Exodus."
+    },
+    {
+        "id": 5,
+        "title": "The latest assessment of public Ethereum's readiness for enterprise usage - Ledger Insights - Ledger Insights",
+        "summary": "  The Enterprise Ethereum Alliance (EEA) has published an updated assessment on the readiness of public Ethereum for enterprise use, reducing the previous caveats. The report highlights the advantages of Ethereum, including a strong ecosystem, security, and decentralization, which are attracting financial institutions such as SWIFT, Standard Chartered, and HSBC. However, challenges remain, including privacy and scalability issues, which are being addressed through layer 2 solutions and Ethereum's sharding plans. The report also notes that privacy is a concern, and many opt for private chains, which pose their own set of challenges. The author concludes that this is a multi-decade project and expectations should be calibrated accordingly."
+    },
+    {
+        "id": 6,
+        "title": "Solana's DeFi DEX Volume Surpasses Ethereum's For the First Time - Yahoo Finance",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nSolana's DEX volume surpassed Ethereum's for the first time, reaching $10.1 billion vs $8.8 billion. Solana's success is attributed to lower gas fees and rise of memecoins like BONK and WIF, which are among the top traded tokens on Solana DEXs. SOL flipped XRP and reached a new 2023 high of $99. However, Solana's market cap is still significantly lower than Ethereum's at $41 billion vs $268 billion."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum (ETH) Price Forecast: Rising Funding Rates to Trigger $2,500 Retest? - FX Empire",
+        "summary": "  Ethereum (ETH) price is expected to rise due to increasing funding rates, which could lead to a retest of $2,500. Analysts suggest that the current trend is bullish, and the price may reach new highs in the near future. However, it is important to note that the cryptocurrency market is highly volatile, and prices can fluctuate rapidly. It is essential to conduct thorough research and consult with a financial advisor before making any investment decisions."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum's Dencun upgrade set for 2024 testnet launch - CryptoSlate",
+        "summary": "  Ethereum developers have set a tentative date of January 17, 2024, for the first testnet deployment of the \"Dencun\" upgrade, which aims to improve data handling capabilities and efficiency on the network. The upgrade includes the implementation of \"proto-danksharding,\" which is expected to reduce fees for Layer 2 rollups and scale the blockchain by increasing space for \"blobs\" of data. Additionally, a collaboration between Avail and StarkWare is aiming to develop app-chains that will function as Layer 3 solutions within the Starknet Layer 2 network. The developers also reiterated their commitment to maintaining Ethereum's position as a leader in the decentralized finance (DeFi) space and addressed challenges such as network congestion and user experience."
+    },
+    {
+        "id": 10,
+        "title": "EEA Releases its Second Ethereum Business Readiness Report - Business Wire",
+        "summary": "  The Enterprise Ethereum Alliance (EEA) has released its second annual \"Ethereum Business Readiness Report,\" which assesses the adoption and readiness of Ethereum as a business platform. The report is based on a mix of quantitative and qualitative data, including a proprietary database of 260 real-world business-oriented projects and extensive interviews and case studies. Key findings include:\n\n* Overall blockchain adoption in the enterprise may have slowed, but the share taken by Ethereum has gained significantly.\n* Ethereum's ecosystem has further addressed scalability and privacy issues in an accelerated manner compared to private blockchain implementations.\n* The report is divided into five main sections and an extensive appendix, featuring case studies and interviews with industry leaders.\n* The report is available as a free download on the EEA website.\n\nAbout the EEA: The Enterprise Ethereum Alliance (EEA) is a non-profit organization that enables organizations to adopt and use Ethereum technology in their daily business operations. The EEA empowers the Ethereum ecosystem to develop new business opportun"
+    },
+    {
+        "id": 11,
+        "title": "Ethereum devs eye January for Dencun testing - crypto.news",
+        "summary": "  Ethereum developers are aiming to test the Dencun upgrade on Goerli's testnet by January 17, with potential upgrades on Sepolia and Holesky's networks by the end of January and early February, respectively. The upgrade, EIP-4844, aims to increase blockchain space for data blobs and reduce layer-2 rollup fees, potentially scaling Ethereum's blockchain without increasing gas fees. The final target for shipping Dencun to the mainnet is set for February's end, but the timeline is subject to change. In related news, the EthereumPoW network has moved towards autonomy by disbanding its core development team, and JPMorgan analysts believe ETH will reclaim market share from BTC and outclass most large-cap native blockchain tokens."
+    },
+    {
+        "id": 13,
+        "title": "Is Ethereum (ETH) Ready For A Monster Move In January 2024? - NewsBTC",
+        "summary": "  Ethereum (ETH) is gaining momentum, with signs of a potential monster move in January 2024. Independent educator Sassal is doubling down on ETH, citing strong fundamentals and growing demand for protocols offering decentralized finance and non-fungible token minting services. Despite a relatively slow performance compared to meme coins, Ethereum remains the second most valuable network, with a bullish formation in the daily chart. Support levels are at $2,100 and $2,400, and a breakout could lead to targets of $3,000 and even 2021 highs of $5,000. Ethereum developers are also working on upgrades to enhance performance and scalability, which could drive prices higher in the coming months. However, the key reaction point of $2,500 remains a crucial level to watch."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum Insider Says ETHGate Affects XRP Price, Holders Should Care About it - The Crypto Basic",
+        "summary": "  Steven Nerayoff, a former Ethereum advisor, has urged XRP holders to care about ETHGate, a theory that suggests Ethereum's team fostered relationships with SEC officials to create a favorable regulatory environment. Nerayoff believes that this scandal is why XRP is stuck at around $0.60 and that it's important for XRP holders to care about living in a free society. He also recently sued the co-founder of StormX for allegedly stealing millions of dollars worth of tokens from him."
+    },
+    {
+        "id": 17,
+        "title": "Ethereum Developers Target January for First Testnet Deployment of Next Big Upgrade, 'Dencun' - CoinDesk",
+        "summary": "  Ethereum developers aim to deploy the first testnet of their next big upgrade, \"Dencun,\" in January. This upgrade is expected to significantly improve the scalability and performance of the Ethereum network. CoinDesk's Consensus 2024 event will bring together industry professionals to discuss the latest developments in crypto, blockchain, and Web3. Register and buy your pass now at consensus.coindesk.com."
+    },
+    {
+        "id": 18,
+        "title": "Buterin, Coinbase and more to fund Ethereum decentralization grants - Blockworks",
+        "summary": "  The PBS Foundation is offering $1 million in grants for research and development on Ethereum's proposer-builder separation (PBS) concept, with a focus on decentralization and addressing current challenges. The grants will be disbursed by a council and will fund projects related to relayers, community and educational materials, data transparency, and research on improving or enshrining PBS on both the primary network and layer-2 networks. The funding aims to promote decentralization and incentivize more relayers to join the fray, following the discontinuation of a top relaying service in September."
+    },
+    {
+        "id": 20,
+        "title": "Ethereum co-founder Vitalik Buterin lost $29m in six days - crypto.news",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, lost $29 million in six days due to a fall in the value of his crypto holdings. His publicly known wallets cumulatively lost 5% of their total value, with the majority being Ethereum (ETH). Buterin is heavily exposed to the fluctuations in ETH's price, which reached a high of just under $2,300 on Dec. 15 and currently stands at just over $2,200."
+    },
+    {
+        "id": 21,
+        "title": "Crypto X fades Ethereum as BTC and SOL prices surge - Cointelegraph",
+        "summary": "  In the latest financial news, Ethereum (ETH) has been facing criticism due to its high transaction fees, which have led some to turn to competing chains like Solana (SOL) for cheaper alternatives. The ETH/BTC price chart has seen a significant decline, with the ratio falling to its lowest level in two years. Critics have been pointing to Ethereum's high fees as a major drawback, while Solana has been gaining traction in decentralized exchange (DEX), stablecoin, and nonfungible token (NFT) trading volumes. However, Ethereum still maintains the largest total value locked (TVL) on its network, at $28 billion, and has a higher Mcap/TVL ratio than Solana. Despite the criticisms, some Ethereum bulls remain optimistic about its long-term prospects, with one stating that they will continue to buy ETH despite the market's current retardation."
+    },
+    {
+        "id": 24,
+        "title": "Ethereum 'Dencun' upgrade testing is now scheduled for Jan. 17 - Cointelegraph",
+        "summary": "  Ethereum's \"Dencun\" upgrade is scheduled to begin testing on Jan. 17, with the goal of reducing fees and introducing new features for layer 2 rollups, bridges, and staking pools. The upgrade includes EIP 4844, also known as \"proto-danksharding,\" which will allow layer 2 networks to store transaction data temporarily and delete it after 18 days, reducing fees. Other proposals in the upgrade include transient storage, increased transparency, and limits on the use of the self-destruct keyword. The upgrade is expected to be tested on the Goerli testnet before being deployed to the mainnet, following the usual testing process for Ethereum upgrades."
+    },
+    {
+        "id": 31,
+        "title": "Ethereum (ETH) Hinting at Imminent Jump Higher, Says Crypto Trader \u2013 Here Are His Targets - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto trader Ali Martinez predicts Ethereum (ETH) will jump by over 60% after a period of accumulation. He uses Fibonacci retracement levels to predict a breakout to $3,372. Martinez also analyzes Chainlink (LINK) and Bitcoin (BTC), using IOMAP to identify a key resistance level for Chainlink and watching for a decisive close above or below a descending triangle pattern to determine the direction of a potential 8-9% move in Bitcoin."
+    },
+    {
+        "id": 37,
+        "title": "ETH Death Claims Escalate as Ethereum Weakens Against Bitcoin (BTC) - CryptoPotato",
+        "summary": "  Ethereum's (ETH) dominance against Bitcoin (BTC) has been declining, with Bitcoin's market cap ratio to Ethereum reaching 70%. This is reflected in derivatives markets, where Bitcoin is seeing stronger buyer demand and Ethereum's realized market cap remains overvalued compared to Bitcoin. Ethereum advocates have responded to the negative sentiment by buying more ETH, but prices have been flat for most of the past week, trading between $2,150 and $2,250. Despite this, Ethereum has gained 83% since the beginning of the year, indicating its fundamentals remain strong."
+    },
+    {
+        "id": 41,
+        "title": "Solana Surges to $84, Flips Ethereum in Weekly DEX Volume - Unchained - Unchained",
+        "summary": "  Solana (SOL) has surged to $84, overtaking Ethereum in weekly DEX trading volume. SOL is up 580% in the past year, with daily trading volume reaching $3.9 billion. Institutional data platform Artemis attributes the growth to memecoins like BONK and WIF, which have created more room for retail activity. The dog-themed memecoin BONK has a market capitalization of $1.2 billion, and the bankruptcy estate in charge of FTX has been approved to sell its $1.16 billion in SOL. Despite the large amount of selling pressure from FTX's liquidation plans, SOL has been able to withstand it."
+    },
+    {
+        "id": 43,
+        "title": "Meme Coin Mania Helps Push Solana DeFi Volume Over Ethereum for First Time - Decrypt",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nSolana's decentralized exchange (DEX) volume has surged past Ethereum's for the first time, with $9.03 billion in transactions on Solana compared to $8.836 billion on Ethereum. This is largely due to the popularity of meme coins like BONK and WIF, which have seen significant gains in market capitalization. Despite this achievement, Solana still lags behind Ethereum in terms of market capitalization, with $37 billion compared to $268 billion."
+    },
+    {
+        "id": 44,
+        "title": "Ethereum to \"Easily\" Rally 350% and Hit $10000: Predicts Analyst - Watcher Guru",
+        "summary": "  Ethereum (ETH) may see a significant price increase in the near future, with some analysts predicting a rally of up to 350% to reach $10,000. Reasons cited for the potential price hike include the token's deflationary status, high yields, increased developmental activity, and the potential for a spot ETF. Altcoin Daily predicts ETH could hit $10,000 based on 11 reasons, including the token's P/E ratio, which is higher than Amazon's. BlackRock's spot ETH ETF application could also drive up the asset's price. According to Changelly, ETH could reach $10,000 by 2027, while Standard Chartered predicts a price of $8,000 by 2026 and $35,000 in the long run."
+    },
+    {
+        "id": 46,
+        "title": "Top Crypto Analyst Says Ethereum Competitor That\u2019s Exploded Over 370% in Three Months Is Signaling More Upside - The Daily Hodl",
+        "summary": "  Top crypto analyst Bluntz predicts upside for Avalanche (AVAX), a layer-1 altcoin that has surged 372% in three months. According to Bluntz, AVAX is forming a bullish pattern that could take it to $50, a 17% increase from its current price. Bluntz also analyzes Solana (SOL) paired against Bitcoin (SOL/BTC) and predicts a potential breakout that could lead to the \"steepest\" rise recorded so far."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum Will Continue Losing Ground To Bitcoin: Glassnode - Cryptonews",
+        "summary": "  Ethereum is losing ground to Bitcoin in terms of market cap dominance, with Bitcoin's dominance increasing to 53.3% versus Ethereum's 16.7%. On-chain data suggests this trend will continue, with measures of market dominance such as futures and options derivatives markets showing growing Bitcoin dominance. Ethereum is also seen as overvalued compared to Bitcoin by realized cap, and long-term ETH holders would need to sell their coins at a loss for this to change. Additionally, Bitcoin is dominant in spot trading volume, with 75% of exchange flows between the two assets."
+    },
+    {
+        "id": 49,
+        "title": "Solana Dwarfs Ethereum on Top Exchanges, Beats XRP in Market Cap - The Crypto Basic",
+        "summary": "  Solana (SOL) has surpassed Ethereum (ETH) in transaction volume on key exchanges, with its market capitalization now exceeding XRP's. Solana has been outranking Ethereum on exchanges such as Upbit, MEXC, Kraken, and Coinbase for extended periods, with its 24-hour trading volume jumping by 100%. Solana's price has risen by 12.23% in the past 24 hours to $87.18, while its market capitalization has increased by over 12% to $37.2 billion. The advantage of Solana lies in its robust developer ecosystem and the growing sentiment towards its memecoin, BONK. Top firms like VanEck have also tipped Solana to reach a high price target of $3,211 by the end of the decade."
+    },
+    {
+        "id": 50,
+        "title": "Ethereum core devs decide on Dencun testnet schedule, soft launch slated for January 2024 - Crypto Briefing",
+        "summary": "  Ethereum developers have agreed on a tentative schedule for the Dencun upgrade, with the first testnet phase set for January 17, 2024, on the Goerli testnet. The Sepolia and Holesky testnets will launch on January 31 and February 7, respectively. The dates are subject to change if major issues arise during the testnet. The upgrade aims to enhance Ethereum's data storage capacity by implementing \"proto-danksharding\" and will also include recent developments for Layer 3 app-chains."
+    },
+    {
+        "id": 52,
+        "title": "What Ethereum\u2019s high network activity means for you - AMBCrypto News",
+        "summary": "  Ethereum's network activity has increased, but this has not translated into a green chart for the token. Despite high user activity and rising active addresses, ETH's price has seen a correction due to increased liquidation near the $2,270 mark. On-chain metrics such as exchange reserve, selling pressure, and derivatives market sentiment are all bearish, indicating that investors may have to wait longer for a bull rally."
+    },
+    {
+        "id": 53,
+        "title": "Ethereum Rallies as BlackRock Boss Eyes ETH ETF After Bitcoin - Decrypt",
+        "summary": "  Ethereum (ETH) has been on a steady rise since the approval of Bitcoin ETFs on Wall Street, with a 18.5% increase in the last week. BlackRock CEO Larry Fink expressed optimism about the potential for an Ethereum ETF, stating that he sees value in having one. The company has already filed an application with the SEC for a spot ETH ETF. Fink believes that ETFs are a key step in the technological revolution in the financial markets, with tokenization of financial assets being step two. The success of Bitcoin ETFs, which have cleared $4.5 billion in trading volume in their first day, has seemingly paved the way for Ethereum's potential ETF."
+    },
+    {
+        "id": 54,
+        "title": "Ethereum Upgrade: Dencun Testing on Goerli by January 17 - Crypto Times",
+        "summary": "  Ethereum developers plan to test the Dencun upgrade on Goerli's Testnet on January 17, followed by upgrades on Sepolia's Testnet by January 31 and Holesky's network by February 7. The Dencun upgrade aims to reduce layer-2 rollup fees and increase blockchain space for data blobs, potentially increasing transaction capacity without gas price hikes. The schedule is subject to change, with the end of February being the last soft objective for deploying Dencun to the Mainnet."
+    },
+    {
+        "id": 55,
+        "title": "Ethereum price eyes rally to $2,500 as ETH supply one exchanges declines - FXStreet",
+        "summary": "  Ethereum price may rally to $2,500 as ETH supply on exchanges declines. Crypto analyst predicts Santa rally in Ethereum. Ethereum price rose nearly 10% in month, faces resistance at $2,232.89. ETH supply on exchanges has fallen to an all-time low, sign of further price gains. No personalized recommendations, errors and omissions excepted."
+    },
+    {
+        "id": 58,
+        "title": "Ethereum Forecast: Takes Cues from Bitcoin - DailyForex.com",
+        "summary": "  Ethereum's price has been on an impressive rally, driven by the positive sentiment in the cryptocurrency market. The crypto's value is tied to interest rates, with a negative correlation, and it has been following Bitcoin's upward trajectory. A potential pullback could offer a buying opportunity, with the next target at $2500. However, the long-term success of Ethereum depends on the emergence of a compelling use case that captures the masses' attention. Investors may find value in buying Ethereum during price dips, but the crypto market remains in search of its breakthrough moment."
+    },
+    {
+        "id": 59,
+        "title": "Ethereum surpassed in key crypto indicators by Solana - Cointribune EN",
+        "summary": "  Solana is outperforming Ethereum in several key indicators, including decentralized exchange (DEX) volumes, non-fungible tokens (NFTs), active addresses, number of transactions, and stablecoin transfers. Solana's scalability and lower operational costs for nodes have contributed to its success. However, running a Solana node is still more expensive than an Ethereum node, and Solana has only about 40% of the number of nodes as Ethereum. Despite this, Solana is committed to increasing its decentralization and plans to launch the Firedancer validation tool to strengthen its network."
+    },
+    {
+        "id": 60,
+        "title": "NEAR Protocol and Arbitrum Collaboration Propels Ethereum Rollup Development - Crypto Times",
+        "summary": "  NEAR Protocol and Arbitrum collaborate to enhance Ethereum Rollup development by integrating NEAR Data Availability (DA). This partnership unlocks new opportunities for developers, providing innovative solutions and streamlined development processes. NEAR Protocol emerges as a prime choice for decentralized applications, and the integration marks a significant milestone in the blockchain industry."
+    },
+    {
+        "id": 61,
+        "title": "Bitcoin vs Ethereum: A Year-End Battle for Dominance - Analytics Insight",
+        "summary": "  Bitcoin and Ethereum are two major cryptocurrencies with different goals and features, but they are also in competition for dominance in the market. The current price of Bitcoin is $44,026.27, while Ethereum's price is $2,255.52. Bitcoin's price history shows its evolution over time, while Ethereum's price history highlights the factors that have influenced its value. The latest news on Bitcoin vs Ethereum suggests that Ethereum could outperform Bitcoin in the future due to a proposed network upgrade that could improve its scalability, security, and efficiency. However, Ethereum's outlook also depends on Bitcoin's trends, such as the demand for a spot ETF, the halving event, and the regulatory environment. According to price predictions, Bitcoin's value may rise by +5% and reach $62,149.34 by 2030, while Ethereum's value might rise by +5% and reach $3,120.61 by 2030. Join our"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Bitcoin (BTC), Ethereum (ETH) Show 'Imperfect Hint' at Future Bull Runs: Santiment - U.Today",
+        "summary": "  Bitcoin (BTC) and Ethereum (ETH) are seeing a decline in supplies on crypto exchanges, which could hint at future bull runs. According to Santiment, investors are moving their stashes from exchanges to cold storage wallets. However, there is concern in the crypto community regarding Ledger's new upgrade, which allows seed phrases to be split into three encrypted parts and sent to three different devices, making wallets and assets more vulnerable to hackers. Additionally, Whale Alert has detected several large BTC transactions being withdrawn from Coinbase to cold wallets."
+    },
+    {
+        "title": "This Week in Coins: SEC and CBDC News Drives XRP Rally During Slow Week - Decrypt",
+        "summary": "  This week in the cryptocurrency market, XRP saw a significant rally of 9.4%, driven by a court victory against the SEC and the launch of Ripple's CBDC platform. Other notable movers include Litecoin (13.2%) and Ethereum staking token Lido DAO (13.7%). The SEC's regulatory guidance remains unclear, with the agency facing criticism for its simultaneous lawsuits against crypto companies. Meanwhile, South Korea and the EU have adopted comprehensive crypto regulations, and a British parliamentary committee has recommended legislating crypto as gambling."
+    },
+    {
+        "title": "The Weaknesses of Ethereum VS Modern Blockchains: Interview With Radix - CryptoPotato",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum, the current leader in DeFi, has limitations that are hindering the industry's growth. These limitations include:\n\n* Clunky programming language (Solidity) that makes it difficult for developers to build secure financial applications\n* Limited scalability due to the lack of parallel transaction execution\n* Vulnerability to reentrancy attacks\n\nRadix, a newer blockchain, addresses these limitations by using a unique programming language (Scrypto) and a different consensus mechanism (Cerberus) that enables parallel transaction execution and protects against reentrancy attacks. Radix also has a delegated proof of stake system for security.\n\nThe article also mentions the regulatory pressure DeFi is facing from the SEC, with the agency seeking to regulate DeFi exchanges under existing securities exchange laws. However, Ridyard believes that DeFi will adapt to regulations and continue to grow globally."
+    },
+    {
+        "title": "Who invented NFTs?: A brief history of nonfungible tokens - Cointelegraph",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nNFTs were invented in 2012-2013 with Bitcoin-based colored coins, but they gained popularity in 2017 with the arrival of Ethereum.\n\nEthereum provided NFTs with a reliable solution for critical things such as token creation, storage, programming, and trading.\n\nThe first NFT, \"Quantum,\" was minted on the Namecoin blockchain in 2014.\n\nNFTs were used in gaming and the metaverse, with projects like CryptoPunks, CryptoKitties, and Decentraland.\n\nIn 2021, NFTs saw a sharp surge in supply and demand, with a 21,000% increase in trading volume to $17 billion.\n\nNon-Ethereum blockchains like Cardano, Solana, Flow, and Tezos started work on their own NFT platforms.\n\nThe article concludes that NFTs are an integral part of the metaverse and will continue to grow in popular"
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin Sees Gains As SingularityNET Becomes Top Gainer - ABP Live",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nBitcoin and Ethereum prices rose, while other altcoins saw losses. SingularityNET was the top gainer, up 15.89%, followed by Injective, Kava, XDC Network, and BitDAO. Render Token was the top loser, down 3.90%. Global crypto market cap gained 0.18% to $1.12 trillion."
+    },
+    {
+        "title": "Former Paxful Founder: Ethereum Is A Drain And Drag On Bitcoin - Bitcoinist",
+        "summary": "  Former Paxful CEO Ray Youssef believes Ethereum is a \"drain and drag\" on Bitcoin, slowing its growth. Youssef expresses gratitude for the recent slowdown, which allowed the industry to strategize and prepare for a new phase of innovation. He is working on a project, CivKit, that aims to fulfill what Ethereum failed to achieve. Youssef previously delisted Ethereum from Paxful due to centralization concerns and the number of scams on the network. Despite this, he remains optimistic about Bitcoin's future, stating that the US has no future without it."
+    },
+    {
+        "title": "Game Boy to be Soon Turned Into Ethereum and Bitcoin Wallet - The Coin Republic",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nA startup called Keyp is working on turning old Nintendo Game Boys into crypto wallets called the Game Wallet. The wallet will use gamification to generate seed phrases and store various cryptocurrencies like Bitcoin and Ethereum. The team has been developing the wallet since January and plans to open pre-orders for a summer rollout. This is not the first attempt to turn the Game Boy into a crypto device, but Keyp's approach is different as it uses a cartridge and is not a mining machine."
+    }
+]

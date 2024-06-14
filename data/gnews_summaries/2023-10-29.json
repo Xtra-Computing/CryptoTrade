@@ -1,0 +1,22 @@
+[
+    {
+        "id": 11,
+        "title": "Ethereum Price Prediction: ETH needs to hold these key levels to revisit $2,000 - FXStreet",
+        "summary": "  Ethereum price is up 15% since October 22, but bulls must hold key levels to sustain gains. $1,727 and $1,650 are critical barriers, with a daily close below the latter invalidating the bullish thesis. A break above $2,000 could lead to a push to $2,424, but a close below $1,650 would send prices lower."
+    },
+    {
+        "id": 23,
+        "title": "Scroll: Advancing Ethereum's Reach With Zero-Knowledge Tech - Bybit Learn",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\n\"Zero-knowledge tech advances Ethereum's reach. Sign up for Bybit Learn and grab up to 5,000 USDT in rewards, including a 20 USDT instant coupon. Earn more bonuses by joining today.\""
+    },
+    {
+        "id": 24,
+        "title": "Cosmos outpaces Bitcoin and Ethereum \u2013 this metric rises 182% - AMBCrypto News",
+        "summary": "  Cosmos, a decentralized blockchain network, has seen a significant increase in active users, with a 182% growth in the last 30 days. This is according to data from Token Terminal, which also revealed that the number of active addresses on Cosmos grew faster than Bitcoin, Ethereum, and Coinbase's L2 Base. The project's native token, ATOM, has not felt the impact of this growth, maintaining a similar price over the past 30 days. The increase in active users can be attributed to the expansion of the Inter-Blockchain Communication (IBC) protocol to the Binance Smart Chain, as well as the project's builders' program. Additionally, Cosmos' development activity has increased, with more features being shipped, and the project's market awareness has experienced an up-and-down trend. However, the sentiment around Cosmos has remained relatively stable, with a weighted sentiment of 0.365."
+    },
+    {
+        "id": 25,
+        "title": "Exploring ERC-4337 on Etherscan: A Comprehensive Guide to Enhanced Ethereum Transactions - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  ERC-4337 is a new feature in Ethereum's ecosystem that simplifies transactions and improves user experience. It introduces a user-friendly approach to smart contract wallets, eliminating the need for private keys and making gas fees more accessible. The innovation lies in the EntryPoint contract, which abstracts accounts and simplifies transactions. Users can initiate transactions with ease, and the system provides transparency in execution. Additionally, Paymasters play an innovative role in allowing app developers to cover gas fees or enable users to pay with ERC-20 tokens, broadening accessibility and convenience. Etherscan provides initial support for ERC-4337, and the feature is expected to bring more advanced capabilities and improved user experiences in the future."
+    }
+]

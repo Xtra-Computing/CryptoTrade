@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Ethereum's 2023 Bull Run: Why the Best Is Yet to Come - The Motley Fool",
+        "summary": "  Ethereum's TVL (Total Value Locked) has reached $29.39 billion, making it the largest blockchain in the world, with a 60% market share. This metric measures the amount of cryptocurrency \"locked\" on a blockchain, indicating trust in the future potential of the blockchain. Ethereum's TVL is higher than its direct peers, such as Solana, suggesting it may still have room to run in its bull market rally. The top DeFi (Decentralized Finance) protocol on Ethereum involves staking, which is supported by Coinbase Global. TVL can be used to evaluate Ethereum's long-term growth potential and track undervalued areas. While TVL is not a perfect metric, it provides valuable insights into the trust and activity on a blockchain."
+    },
+    {
+        "title": "Ethereum breaks into $1,700 range briefly as traders scramble for profit - AMBCrypto News",
+        "summary": "  Ethereum (ETH) price surged to $1,713 on February 2, its highest level in four months, before retreating slightly. The inflow of ETH into exchanges exceeded the outflow, indicating sell pressure. However, the lack of a significant spike in inflow suggests that only a small fraction of the overall supply was moved to exchanges. As of now, over 11% of the total supply is available on exchanges, and a sizable portion of the ETH supply is earning interest. Short-term investors may be tempted to cash out their holdings, but observed indicators suggest that the price may not be significantly impacted."
+    },
+    {
+        "title": "How to Choose the Best Ethereum Trading Bot? - Crypto Times",
+        "summary": "  Here are the key points from the article on how to choose the best Ethereum trading bot:\n\n1. Understand what a crypto trading bot is and its features.\n2. Look for a bot that can handle multiple markets and exchanges, including Huobi, Binance, Kraken, and HitBTC.\n3. Check the bot's technical indicators and market information capabilities.\n4. Ensure the bot has a user-friendly interface.\n5. Backtest the trading strategy using historical data to see if it works well.\n6. Check the bot's reputation and authenticity by checking its years in the market and user reviews.\n7. Make sure the bot is compatible with well-known crypto exchanges.\n8. Test the bot using a demo account before signing up.\n9. Choose a bot that is easy to set up, run, and monitor.\n10. Use a trading bot to save time and stress in analyzing the market and putting your crypto portfolio to work."
+    },
+    {
+        "title": "Gavin Wood: The Serial Crypto Founder - DailyCoin",
+        "summary": "  Gavin Wood, a serial crypto founder, rediscovered the potential of blockchain technology in 2013 after initially being uninterested in Bitcoin. He met Vitalik Buterin, the creator of Ethereum, and began building the Ethereum client and Yellow paper, which specified the Ethereum virtual machine. When the Ethereum team disbanded, Wood sided with the winning faction and focused on building the platform, smart contract programming language, and C++ client."
+    },
+    {
+        "title": "Ethereum (ETH) News: What's Common This Rally, Last Bear Run - CoinGape",
+        "summary": "  Ethereum (ETH) is experiencing a rally similar to its previous bear market, with the Shanghai upgrade in March 2023 potentially driving growth. Historical patterns suggest ETH could follow a similar price trajectory as in 2020. However, short-term projections for the US Dollar Index (DXY) are unfavorable for the crypto market, potentially hindering ETH's momentum. As of writing, ETH's price stands at $1,678, up 0.61% in the last 24 hours."
+    },
+    {
+        "title": "Optimism (OP) Finally Flips Solana (SOL), but There's Caveat - U.Today",
+        "summary": "  Optimism (OP) has surpassed Solana (SOL) in terms of fully diluted valuation, with a target market capitalization of $13.3 billion compared to Solana's $13.2 billion. However, Solana is more centralized by design, while Optimism is attempting to retain Ethereum's level of security. Additionally, Optimism is getting closer to Bedrock, an upgrade that could improve its throughput and interoperability with Ethereum."
+    },
+    {
+        "title": "5 Bottlenecks for Growth of Big Eyes Coin, Bitcoin and Ethereum in 2023 - CryptoDaily",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe crypto world faces several bottlenecks that hinder its growth, including lack of regulation, security threats, scalability issues, low user adoption, and the absence of a unified trading system. Big Eyes Coin, a cat-themed meme coin, has raised $21 million in its presale, but the crypto world still faces challenges such as liquidity constraints, centralized solutions, energy consumption issues, and privacy concerns."
+    },
+    {
+        "title": "Here's what the new Dogecoin fork means for DOGE hodlers - FXStreet",
+        "summary": "  Here's the summary in less than 256 tokens:\n\nEthereumFair, a fork of Ethereum, is in talks with the Dogecoin community to propose a new mining algorithm. The Dogecoin consensus mechanism will remain unchanged, but the mining algorithm will be changed to use Ethereum graphics card mining. This could act as a bullish catalyst for Dogecoin. Additionally, Dogecoin ranks among the top traded tokens by Binance Smart Chain whales, indicating high demand. The news of the fork and its popularity among whales could lead to a comeback for Dogecoin."
+    },
+    {
+        "title": "Ether 're-staking' firm EigenLayer to raise $65 million - OBN",
+        "summary": "  EigenLayer, a re-staking protocol for Ethereum, is raising $65 million in funding. The company's valuation is expected to reach $250 million after the investment, with a total funding of $65 million. EigenLayer allows users to use ETH derivatives for staking purposes and re-stake them into other protocols, providing a means of increasing capital efficiency for Ethereum network validators. The potential user scale of EigenLayer is huge, and the middleware used as a destination for restaking has the advantage of enhanced security. However, validators using EigenLayer bear the risk of their holdings being reduced based on the requirements of their security supplier. EigenLayer plans to launch its first middleware \"EigenDA\" in 2023, which specializes in Optimistic and ZK rollups for Ethereum L2 and provides distributed rollup sequencers to distribute transaction fees to restakers."
+    }
+]

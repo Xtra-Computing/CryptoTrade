@@ -1,0 +1,37 @@
+[
+    {
+        "id": 4,
+        "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hdWd1c3RhY2hyb25pY2xlLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDcvMTIvYXVndXN0YS11bml2ZXJzaXR5LWRlYW4tc3VlZC1ieS1tYXJ0aW5lei1ob2Etb3Zlci1haXItYm5iLXByb3BlcnR5LzcwNDAyNTc1MDA3L9IBAA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+        "time": "Wed, 12 Jul 2023 07:00:00 GMT",
+        "title": "Augusta University dean sued by Martinez HOA over Air BnB property - The Augusta Chronicle",
+        "content": "No commitment required. Cancel anytime.\n\n*Offer available to new customers only. All savings based off the regular rate.\n\nRead the full Subscription Terms and Conditions."
+    },
+    {
+        "id": 9,
+        "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hdWd1c3RhY2hyb25pY2xlLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDcvMTIvYXVndXN0YS11bml2ZXJzaXR5LWRlYW4tc3VlZC1ieS1tYXJ0aW5lei1ob2Etb3Zlci1haXItYm5iLXByb3BlcnR5LzcwNDAyNTc1MDA3L9IBAA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+        "time": "Wed, 12 Jul 2023 07:00:00 GMT",
+        "title": "Augusta University dean sued by Martinez HOA over Air BnB property - The Augusta Chronicle",
+        "content": "No commitment required. Cancel anytime.\n\n*Offer available to new customers only. All savings based off the regular rate.\n\nRead the full Subscription Terms and Conditions."
+    },
+    {
+        "id": 0,
+        "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS90ZWNoLzIwMjMvMDcvMTMvYm5iLWNoYWluLXRvLXRhY2tsZS1ibG9ja2NoYWluLWV4cGxvaXQtcmlza3MtaW4tbWFqb3ItanVseS1oYXJkLWZvcmsv0gFyaHR0cHM6Ly93d3cuY29pbmRlc2suY29tL3RlY2gvMjAyMy8wNy8xMy9ibmItY2hhaW4tdG8tdGFja2xlLWJsb2NrY2hhaW4tZXhwbG9pdC1yaXNrcy1pbi1tYWpvci1qdWx5LWhhcmQtZm9yay9hbXAv?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+        "time": "Wed, 12 Jul 2023 07:00:00 GMT",
+        "title": "BNB Chain to Tackle Blockchain Exploit Risks in Major July Hard Fork - CoinDesk",
+        "content": "The hard fork is forecasted to occur on 19th July 2023. at 6:00 UTC. A hard fork refers to a permanent change in the way a network operates by way of a software upgrade. No new BNB tokens will be issued for this upgrade, and two-thirds of all BNB Chain validators will need to upgrade their nodes to process blocks following the upgrade."
+    },
+    {
+        "id": 2,
+        "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY3J5cHRvYnJpZWZpbmcuY29tL2JuYi1iZWFjb24tY2hhaW4tc2VjdXJpdHktdXBncmFkZS1oYXJkLWZvcmsv0gEA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+        "time": "Wed, 12 Jul 2023 07:00:00 GMT",
+        "title": "BNB Beacon Chain Will Undergo Key Security Upgrade and Hard Fork - Crypto Briefing",
+        "content": "Share this article URL Copied\n\nThe BNB Beacon Chain is poised to undergo a scheduled hard fork and security upgrade on July 19th, 2023, as announced by the network\u2019s technical team. This update, expected to occur at block height 328,088,888, will require all full node operators to shift to software version v0.10.16.\n\nThe upcoming changes include the introduction of BEP-255, a feature that aims to boost security on the BNB Beacon Chain through on-chain asset reconciliation. This mechanism allows for the tracking of user balance changes in each block, ensuring the detection and rectification of any inconsistencies. In the event of reconciliation errors, the blockchain is designed to halt the production of new blocks, thereby mitigating potential security threats.\n\nIn addition to the new feature, the hard fork upgrade will address a security vulnerability known as the \u2018Rogue Key Attack.\u2019 This bug, which could potentially compromise the network\u2019s \u201cFast Finality\u201d mechanism, will be rectified through the clearing of all existing vote addresses once the hard fork is activated. Post-upgrade, validators will be required to add their vote addresses once again to ensure the continued proper functioning and integrity of the BNB Beacon Chain."
+    },
+    {
+        "id": 5,
+        "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vY3J5cHRvYnJpZWZpbmcuY29tL2JuYi1iZWFjb24tY2hhaW4tc2VjdXJpdHktdXBncmFkZS1oYXJkLWZvcmsv0gEA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+        "time": "Wed, 12 Jul 2023 07:00:00 GMT",
+        "title": "BNB Beacon Chain Will Undergo Key Security Upgrade and Hard Fork - Crypto Briefing",
+        "content": "Share this article URL Copied\n\nThe BNB Beacon Chain is poised to undergo a scheduled hard fork and security upgrade on July 19th, 2023, as announced by the network\u2019s technical team. This update, expected to occur at block height 328,088,888, will require all full node operators to shift to software version v0.10.16.\n\nThe upcoming changes include the introduction of BEP-255, a feature that aims to boost security on the BNB Beacon Chain through on-chain asset reconciliation. This mechanism allows for the tracking of user balance changes in each block, ensuring the detection and rectification of any inconsistencies. In the event of reconciliation errors, the blockchain is designed to halt the production of new blocks, thereby mitigating potential security threats.\n\nIn addition to the new feature, the hard fork upgrade will address a security vulnerability known as the \u2018Rogue Key Attack.\u2019 This bug, which could potentially compromise the network\u2019s \u201cFast Finality\u201d mechanism, will be rectified through the clearing of all existing vote addresses once the hard fork is activated. Post-upgrade, validators will be required to add their vote addresses once again to ensure the continued proper functioning and integrity of the BNB Beacon Chain."
+    }
+]

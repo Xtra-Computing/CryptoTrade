@@ -1,0 +1,90 @@
+[
+    {
+        "title": "PayPal launches regulated USD stablecoin on Ethereum - Forkast News",
+        "summary": "  PayPal launches USD stablecoin on Ethereum, a first for the company. Editor Will Fee provides insight into the political implications of this move in East Asia, where regulatory pivots are underway. Fee holds a Master's in Japanese Studies from Oxford University and has previously covered domestic politics for The Japan Times. Contact him at [email protected]."
+    },
+    {
+        "title": "Ethereum Is Turning Deflationary, But Price Remains Stagnant - Watcher Guru",
+        "summary": "  Ethereum is burning over half of the coins issued since its merge, with 3.5 million coins burned so far. This makes the platform somewhat deflationary as the circulating ETH amount reduces as coins get actively burned on the network. However, ETH prices have not heavily responded to the burns, possibly due to less demand. The project's end goal is for the burn rate to outpace the rate of issuing new coins, turning Ethereum deflationary."
+    },
+    {
+        "title": "Lido adoption surges with 10000 new stakers despite Ethereum's price struggles - CryptoSlate",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nLido adoption surges with 10,000 new stakers despite Ethereum's price struggles. Lido's TVL briefly exceeded $15B in July but fell below the benchmark due to Ethereum's price correction. Despite this, Lido continues to command a substantial share of the aggregate TVL in DeFi. The protocol predicts that the total number of staked Ethereum will surpass 8M in August. The recent exploit of Curve Finance has led to a decline in stETH usage and share within liquidity pools. Other metrics show growing adoption of staked ETH, with an increase in unique addresses holding stETH and amount in lending pools. However, Lido's LDO token struggled in July due to contagion fears in the DeFi market."
+    },
+    {
+        "title": "PayPal USD: Boon for Ethereum but not decentralization, says community - Cointelegraph",
+        "summary": "  PayPal has launched a stablecoin called PYUSD on the Ethereum blockchain, which has been met with mixed reactions from the crypto community. While some see it as a positive development for Ethereum adoption and mainstream acceptance, others are concerned about the centralization of power and potential for censorship. The stablecoin is issued by Paxos Trust Co. and is built on the ERC-20 standard, with PayPal claiming it will soon be available to US customers. The launch has been seen as a boon for Ethereum adoption, with some predicting that over 5% of the world's population could be onboarded onto the blockchain through PayPal's stablecoin. However, smart contract auditors have highlighted concerns about the centralization attack vectors in the smart contract, and some have expressed concerns about the potential for censorship."
+    },
+    {
+        "title": "Puffer Finance Raises $5.5M Seed Funding to Strengthen Ethereum Decentralization & Scalability - PR Newswire",
+        "summary": "  Puffer Finance, a blockchain infrastructure company, raised $5.5M in seed funding to improve Ethereum decentralization and scalability. The round was led by Lemniscap and Lightspeed Faction, with participation from prominent investors. Puffer's Secure-Signer solution protects validators from slashing penalties, while its protocol lowers the barrier to entry for at-home stakers. The funding will accelerate the development of Puffer's open-source project and create a capital-efficient permissionless staking pool."
+    },
+    {
+        "title": "Ethereum And Smart Contracts: Unleashing The Power Of Decentralized Applications - Dataconomy",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum is a decentralized platform that enables the creation of smart contracts and decentralized applications (DApps). Introduced in 2015, Ethereum has become a groundbreaking platform due to its versatility and the concept of smart contracts. These contracts allow for the automated execution of agreements without intermediaries, making them immutable and transparent.\n\nEthereum has empowered DApps in various industries, including finance, supply chain management, and gaming. The platform offers numerous benefits for developers, such as security features, compatibility with various programming languages, and an active community.\n\nDespite its successes, Ethereum faces challenges like scalability and energy consumption. However, Ethereum 2.0 aims to address these issues with a Proof of Stake (PoS) consensus mechanism and improved scalability.\n\nThe future of Ethereum and DApps looks promising, as the platform continues to evolve and drive innovation across various industries. Ethereum has unlocked the potential of"
+    },
+    {
+        "title": "Crypto: Ethereum, the empire of cybercrime - Cointribune EN",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum is becoming an \"empire of cybercrime\" with over 5,600 addresses linked to fraudulent activities, according to researchers. These activities include Ponzi schemes, which account for 60% of stolen funds, as well as other types of scams such as mining, hacking, and phony token scams. The researchers found that victims of cybercrime in the Ethereum ecosystem have lower risk-adjusted returns in the long term, highlighting the need for improved consumer protection. The article concludes by emphasizing the importance of increased diligence from legislators and investors to prevent illicit crypto activity and ensure the continued growth of decentralized finance."
+    },
+    {
+        "title": "5 factors that could send Ethereum to $5,000 - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum could reach $5,000 due to 5 factors:\n\n1. Mass adoption of Ethereum-based apps\n2. Improved scalability with Ethereum 2.0\n3. Institutional adoption\n4. Favorable regulatory environment\n5. Market sentiment\n\nCurrently, Ethereum is trading at $1,828, down 0.29% in the last week and 2.05% on the monthly chart."
+    },
+    {
+        "title": "PayPal\u2019s New Stablecoin and the \u20182 Wolves\u2019 Inside Crypto - CoinDesk",
+        "summary": "  PayPal is launching a new stablecoin, but it will likely face challenges complying with U.S. sanctions and may have to implement automated software to freeze accounts. The company's vision for Web3 in five years is uncertain, but it is likely that more people will be involved in crypto, leading to changes in the industry."
+    },
+    {
+        "title": "When is EIP-4844, and why is it considered the biggest game changer for Ethereum? - FXStreet",
+        "summary": "  EIP-4844, also known as proto-danksharding, is a proposed upgrade for the Ethereum protocol expected to go live in Q4 2023. It aims to reduce transaction fees and increase transaction throughput by introducing a new transaction type called \"blobs.\" Blobs are similar to regular transactions but with added pieces of information. EIP-4844 is considered a game changer as it introduces a new scaling and cost-saving mechanism for the Ethereum blockchain, which is currently facing high transaction fees. The upgrade is expected to boost the competitiveness of the Ethereum blockchain and increase its throughput to 100,000."
+    },
+    {
+        "title": "PayPal Launches PYUSD Stablecoin Built on Ethereum - Unchained - Unchained",
+        "summary": "  PayPal launches PYUSD stablecoin on Ethereum, fully backed by US dollars. Stablecoin is issued by Paxos Trust, subject to NYDFS regulation. PayPal has 430 million active users, and this is a signal of promise for 21st century payments system. Ethereum proponents see this as a step towards mainstream adoption, despite centralization concerns."
+    },
+    {
+        "title": "USDC issuer Circle launches MPC wallet beta for Ethereum, Polygon, Avalanche - Cointelegraph",
+        "summary": "  Circle, the issuer of USDC, has launched a beta version of a multiparty computation (MPC) wallet service for developers of DeFi apps, Web3 games, and other blockchain projects. The new service allows developers to create customized wallets for their users and offers a \"Web2 feel\" through an application programming interface. The MPC wallets are secured by splitting a user's private key into multiple shards and distributing them through a decentralized network. The new service is seen as a step towards promoting the use of USDC and easing common pain points for developers. However, MPC wallets have faced controversy after a widely used bridge was hacked, losing over $100 million. Circle's new service is built and maintained in-house and does not use external vendors, and developers can choose to host their own MPC nodes if they prefer."
+    },
+    {
+        "title": "Bloomberg Analyst Predicts Mass Die-Off of \u2018Zombie\u2019 Ethereum (ETH) Competitors - The Daily Hodl",
+        "summary": "  Bloomberg analyst Jamie Coutts predicts a \"mass die-off\" of Ethereum (ETH) competitors due to poor financial performance in Q2 2023. Coutts compares these projects to \"zombie\" companies, stating that they have insufficient demand and high inflation, leading to negative profitability. Ethereum's network generated over $500 million in profits in Q2, while other layer-1 projects saw a decline of over $1.5 billion. Coutts warns that the current interest rate environment makes speculative investments less appealing, likely leading to a \"die-off\" of many layer-1 blockchains."
+    },
+    {
+        "title": "Here's My Top Cryptocurrency to Buy in August - The Motley Fool",
+        "summary": "  Here's my summary of the article in less than 256 tokens:\n\nEthereum is the top cryptocurrency to buy in August, according to The Motley Fool. It has seen a 52% gain so far this year and is a leader in the industry with a wide range of uses. Its recent upgrade to a proof-of-stake blockchain has reduced its energy output, making it more environmentally friendly than its competitors. The network is expected to get stronger with future updates, including one that aims to improve its speed and reduce transaction fees. While there are risks to consider, such as new blockchains emerging and cryptocurrency being a speculative investment, Ethereum has a strong potential for long-term growth."
+    },
+    {
+        "title": "Markets - New hope for crypto derivatives as markets urged to hail CESR - Risk.net",
+        "summary": "  Markets have been hoping for a new hope in crypto derivatives as Ethereum validators have been crossing over to a new mechanism called proof of stake (Pos). This shift has created new opportunities for staking index creation, which can enable social consensus and industry-wide benchmarking. Chris Perkins, the president of CoinFund, has seen the potential for staking yield indexes to provide a non-correlated rate to traditional finance, which could help investors achieve a stream of returns unconnected to conventional asset classes.\n\nAndy Baehr, the managing director of CoinDesk Indices, believes that using the Composite Ether Staking Rate (CESR) as a settlement rate could support a fixed-versus-floating swap market, enabling validators to experience less volatility in their revenue by swapping their variable staking yield for a fixed rate. Guillaume Le Fur, the CEO of Compass Financial Technologies, notes that some ETP providers have begun to offer clients a total return on ETH, and Compass is working with issuers to incorporate the returns from its index into the products.\n\nGreg Schvey"
+    },
+    {
+        "title": "100 Million Milestone Achieved for ETH Non-Zero Addresses - CryptoPotato",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\n100 million Ethereum addresses now hold even the smallest fraction of ETH, reaching an all-time high. This comes after Bitcoin non-zero addresses also hit an ATH of almost 48 million. Despite ether's consolidation, the number of Ethereum non-zero addresses has rapidly increased in recent months. Additionally, the amount of Ethereum supply last active between 7-10 years ago hit an ATH of over 4.3 million ETH."
+    },
+    {
+        "title": "News Explorer \u2014 JPMorgan: PayPal's Stablecoin Could Be a Boost to Ethereum - Decrypt",
+        "summary": "  Sure! Here's a summary of the article in 256 tokens or less:\n\nJPMorgan says PayPal's stablecoin could boost Ethereum by attracting more firms to use its blockchain. However, high transaction fees may hinder adoption. PayPal may need to subsidize costs or use other networks with cheaper gas fees to improve user experience."
+    },
+    {
+        "title": "XRP price gears up for rally as Korea\u2019s prosecutors rely on Ripple ruling for Terra LUNA trial - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nKorean prosecutors are using Ripple's recent victory against the SEC in a similar security case to support their arguments in the Terra LUNA trial. The prosecutors are leveraging the US court ruling to prove that Terraform Labs' sister tokens are not securities. XRP price is expected to rally if Bitcoin's bull market makes a comeback, according to a pro-XRP attorney. The Ripple ruling is seen as key to substantiating prosecutors' claims that LUNA is a non-security."
+    },
+    {
+        "title": "Ethereum Price Prediction As ETH Burned Since The Merge Reaches All-time High - Analytics Insight",
+        "summary": "  Ethereum (ETH) price has reached an all-time high in terms of the amount of ETH burned since \"The Merge\" event, with over 3.5 million ETH burned out of 6.5 million issued. However, this has not sparked much optimism among investors, as the price of ETH has remained relatively unchanged. The network is gradually shifting towards a deflationary nature as the circulating supply of ETH diminishes over time due to active coin burns within the network. The ETH price is at risk of a 7% decline, with a potential continuation of the ongoing downtrend if it closes below the horizontal line of a descending triangle pattern on the daily chart. Support levels are at $1,800 and $1,788, with resistance levels at $1,852 and $1,900."
+    },
+    {
+        "title": "How to Predict Future Crypto Prices? The Beginners Guide to Crypto Crystal Ballin' and Price Predictions of Bitcoin ... - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe article discusses the current state of cryptocurrency prices and the challenges of predicting their future movements. It highlights the performance of ApeMax, a new cryptocurrency that has gained popularity due to its unique tokenomics and meme coin vibes. The article also covers the regulatory changes happening worldwide and their potential impact on cryptocurrencies, as well as the macroeconomic factors that could affect the global crypto scene. Finally, it advises readers to be cautious when investing in cryptocurrencies and to do their research thoroughly."
+    },
+    {
+        "title": "Curve Incident Spurs DeFi First Responder Telegram Bot - SEAL 911 - Ethereum World News",
+        "summary": "  In response to the recent $73.5 million hack on DeFi exchange Curve, a group of auditors, security experts, and white hat hackers have come together to create a Telegram bot called SEAL 911 to provide emergency assistance during crypto hacks. The bot connects those in need with a pool of vetted security professionals, including experts from MetaMask, ConsenSys, and Paradigm. This initiative aims to help mitigate losses from DeFi protocols and provide responsible disclosure during high-pressure situations. Meanwhile, Curve has recovered nearly 75% of the exploited liquidity and is offering a $1.8 million bounty for information leading to the exploiter."
+    },
+    {
+        "title": "This purported \u2018The Indian Express\u2019 article promoting investments by prominent businessmen is fake - Factly",
+        "summary": "  The article discusses several instances of fake news articles circulating on social media, purporting to be published by The Indian Express. The articles claim to report on investments by prominent businessmen, including Narayana Murthy and Nandan Nilekani, in new trading platforms that will supposedly provide stable passive income to citizens. However, the articles are found to be fake, as the URLs provided lead to dubious phishing websites, and The Indian Express has not published any such articles. The article concludes that these fake articles are an attempt to mislead people and advises them to be cautious and verify the authenticity of news before sharing or believing it."
+    }
+]

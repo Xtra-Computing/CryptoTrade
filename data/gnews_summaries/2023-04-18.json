@@ -1,0 +1,130 @@
+[
+    {
+        "title": "How To Buy Ethereum - Bankrate.com",
+        "summary": "  Bankrate.com provides independent, advertiser-supported financial comparisons and original content to help users make informed decisions. They offer interactive tools, financial calculators, and original articles, but emphasize that these are not investment advice and do not guarantee future performance. Bankrate.com's compensation may impact the order and placement of products on their site, but they assure that editorial opinions are solely those of their staff and have not been reviewed or approved by advertisers."
+    },
+    {
+        "title": "Ethereum Unstaking Requests Now Face About a 17-Day Wait - CoinDesk",
+        "summary": "  Ethereum staking requests face a 17-day wait, despite increased confidence in the staking process. Stakers have deposited more ETH into the chain than there have been withdrawal requests, resulting in a net increase of 86,000 ETH staked. This suggests that stakers have faith in Ethereum's staking process following the recent upgrade."
+    },
+    {
+        "title": "Regulatory Clarity? Gensler Can't Give a Simple Yes or No on Ethereum - Blockworks",
+        "summary": "  In a congressional hearing, Gary Gensler, Chair of the SEC, was unable to provide a clear answer to whether Ethereum (ETH) is a commodity or a security. Despite repeated questioning by Chair of the Financial Services Committee, Patrick McHenry, Gensler refused to give a straightforward yes or no answer. Gensler's evasive responses and reliance on technicalities suggest a lack of regulatory clarity in the digital asset space."
+    },
+    {
+        "title": "Ethereum is up 15% versus Bitcoin since Shapella \u2014 More ETH price gains ahead? - Cointelegraph",
+        "summary": "  Ethereum (ETH) has seen a sharp price recovery in the past week, up 15% versus Bitcoin (BTC) since the Shapella upgrades. The ETH/BTC pair is eyeing a run-up towards 0.075 BTC by June, based on a fractal setup. The Shapella upgrades may have boosted ETH's appeal as stakers have withdrawn 574,700 ETH worth $1.21 billion since the upgrades. However, institutional investors have shown more interest in Bitcoin than Ether in the past week. ETH's price is at risk of a possible bearish reversal move due to its overbought daily relative strength index. If ETH price retreats, its immediate downside target appears at around $1,984, while an extended sell-off could push the price down to its 50-day exponential moving average near $1,800."
+    },
+    {
+        "title": "A Hacker Has Stolen $10 Million in Ethereum and No One Knows How - Decrypt",
+        "summary": "  A hacker has stolen $10 million in Ethereum and other cryptocurrencies from sophisticated crypto users, with top security experts baffled by the attack. The hack targeted users who prioritized security, including those who created wallets between 2014 and 2022. The attack is believed to have involved the compromise of private keys, which are used to access crypto funds stored in wallets. The security team behind MetaMask, a popular crypto wallet, said that the attack is pointing towards unintentionally insecure storage of private recovery phrases. The best advice from security experts is to not keep all assets in a single key or secret phrase and to create a new wallet if the old one is too old to remember proper key management."
+    },
+    {
+        "title": "Rocket Pool Made It Cheaper to Stake ETH Through Its Platform Following Ethereum Shanghai Upgrade - CoinDesk",
+        "summary": "  Rocket Pool (RPL) saw a surge in price and TVL following Ethereum's Shanghai upgrade. RPL rallied 30% to $55.37 in 6 days, with a 20% increase in TVL to $1.47 billion, making it the 3rd largest liquid staking entity."
+    },
+    {
+        "title": "Ethereum inflows slow following Shanghai upgrade, exchanges see Ether influx - Forkast News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum inflows have slowed following the recent Shanghai upgrade, with only around $300,000 in investment in Ethereum-linked products despite the blockchain's milestone upgrade. Total investment in digital assets reached $114 million last week, with Bitcoin accounting for the majority. However, data from on-chain analysis companies showed a net inflow of Ether on cryptocurrency exchanges, indicating selling intention from crypto holders. Despite this, Ether edged down 0.88% in the past 24 hours but rose 8.24% in the past seven days."
+    },
+    {
+        "title": "Rocket Pool Upgrade Lowers Ethereum Staking Cap to 8 ETH - Blockworks",
+        "summary": "  Rocket Pool, a DeFi staking protocol on Ethereum, has released an upgrade called Atlas, lowering the staking cap for minipools from 16 ETH to 8 ETH. This allows users to stake smaller amounts of ETH and earn rewards. The upgrade also includes automatic rewards distributions, a unified Grafana dashboard, and support for the Lodestar Ethereum consensus client. Additionally, users can stake any amount of ETH to receive a liquid staking derivative token, rETH, which allows investors with less capital to participate in the staking process. The update aims to make it easier for users to engage with the Ethereum blockchain."
+    },
+    {
+        "title": "Ethereum layer 2 bridging up sixfold year-on-year in Q1 \u2014 Alchemy - Cointelegraph",
+        "summary": "  Ethereum layer 2s, such as Optimism, Arbitrum, and Polygon, saw a sixfold increase in popularity in Q1 2023 compared to the same period last year, according to Alchemy's \"Web3 Development Report.\" Over 635,000 Ethereum users bridged crypto assets to these networks, with a 44% quarter-over-quarter and 518% year-over-year increase. The report cited Dune Analytics as its source for this data. Additionally, there was an 8% increase in Ethereum software development kits (SDKs) downloads and a 160% increase in smart contract deployments related to layer 2s. This growth is despite the crypto industry's downturn in 2022, with some experts arguing that sharding the Ethereum network could also help alleviate gas fees."
+    },
+    {
+        "title": "Cubist Launches Bank-Grade Ethereum Key Management Service - CoinDesk",
+        "summary": "  Cubist, a fintech company, has launched an Ethereum key management service that meets bank-grade security standards. The service uses hardware security modules (HSMs) to protect private keys, providing an additional layer of security against malware and hacking. According to Cubist, HSMs are the gold standard in the banking industry due to their physical binding of keys, which makes them more secure than traditional computer-based storage methods."
+    },
+    {
+        "title": "Aurox Makes it Simpler to Transact on Ethereum - Blockworks",
+        "summary": "  Aurox Wallet, a web browser extension-based wallet, has partnered with Chainlink to enable users to pay gas fees in any ERC-20 token instead of ETH, making it simpler for users to transact on the Ethereum blockchain. The feature aims to resolve the issue of users not understanding that they need to hold certain tokens to make transactions on-chain. Aurox Wallet will not follow the ERC-2771 token standard, which requires users to approve transactions for the ERC20 token, and instead will use Flashbots to bundle and approve transactions. This feature will allow users to swap tokens such as USDC for USDT without paying an approval transaction fee, and will execute transactions within the same block in three separate transactions. The wallet will use Chainlink Price Feeds to ensure accurate rates and will be cheaper than paying trading and withdrawal fees on centralized exchanges. The mobile version of the wallet and hardware wallet support are also planned."
+    },
+    {
+        "title": "Ethereum Fees Spike as Bots Spend Millions to Front-Run Punters of PEPE, CHAD - CoinDesk",
+        "summary": "  Ethereum fees have surged as bots exploit a \"sandwich attack\" to front-run users in the PEPE and CHAD ecosystem. Bots are using this technique to buy and sell assets between two transactions, manipulating the victim's trade for profit. The attack involves buying the same asset, then selling it to the victim at a slightly higher price in the same transaction. This has led to a spike in Ethereum fees as users struggle to complete their transactions."
+    },
+    {
+        "title": "Ethereum Price Prediction: ETH At Risk As Staker Sell-Off Concerns Emerge - Analytics Insight",
+        "summary": "  Ethereum price may decline by 9% as stakers prepare to sell their coins, according to on-chain metrics. The supply of ETH on exchanges has increased by over 100,000 Ether since April 10, indicating a potential sell-off. The number of Ether available for sale on exchanges exceeds demand, and the RSI is pointing upward, suggesting that buyers are maintaining their grip on the price. However, a daily candlestick close below $2,000 could lead to a drop to $1,900, and if immense selling pressure persists, ETH could reach $1,768, $1,678, and $1,486."
+    },
+    {
+        "title": "Ethereum (ETH) Tapped New 11-Month High, Bitcoin (BTC) Slips Below $30K: Market Watch - CryptoPotato",
+        "summary": "  Bitcoin (BTC) slipped below $30,000 after a 5-day high, while Ethereum (ETH) reached a new 11-month high. Other altcoins, such as Binance Coin (BNB), Dogecoin (DOGE), Solana (SOL), and Litecoin (LTC), also saw significant gains. The total crypto market cap remained relatively stable at around $1.265 trillion."
+    },
+    {
+        "title": "Cardano DeFi Ecosystem Explodes As Ethereum Rival\u2019s TVL Goes Up 172% Since Last Year: Crypto Insights Firm - The Daily Hodl",
+        "summary": "  Cardano's DeFi ecosystem has seen rapid growth, with a 172% increase in total value locked (TVL) quarter over quarter. The recent launch of Cardano-stablecoins was a major driver of this growth. Minswap, an automated market maker, remains the leading decentralized exchange, but has decreased in dominance due to the emergence of DeFi protocols. Cardano has made significant technological advancements, including scalability and VM compatibility. The developers of Cardano have launched a new crypto wallet, Lace, which supports hardware wallet integration and access to NFT marketplaces, DApps, and DeFi services."
+    },
+    {
+        "title": "ETH staking passes withdrawals for the first time since Shapella upgrade - Cointelegraph",
+        "summary": "  Ethereum's Shapella upgrade has led to a significant milestone, with staked Ether (ETH) surpassing withdrawals for the first time since the upgrade. According to Nansen data, the volume of staked ETH is currently higher than withdrawals, indicating that more ETH is being staked than withdrawn. This is despite a significant amount of ETH being withdrawn in the first week after the upgrade, with over 1 million ETH withdrawn. However, the majority of these withdrawals were partial withdrawals from Lido and old validators, and the amount of staked ETH has now surpassed the number of ETH being withdrawn. The Shapella upgrade was seen as a make-or-break situation for the Ethereum blockchain, as millions in unlocked ETH posed a risk of mass selling. However, the majority of validators are restaking their unlocked Ether, and crypto exchange Binance will open withdrawals on April 19."
+    },
+    {
+        "title": "Ethereum price pumps 10%, but Tamadoge is set to rise 200% after a new exchange listing! - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai update has led to a 10% price pump, with experts predicting a maximum price of $3,380.14 this year. Tamadoge, an Ethereum-based meme coin, is set to rise 200% after listing on a top 5 exchange on April 27th. The project has established itself as the best P2E platform and has seen 22k users enjoying its Play 2 Earn Arcade. Tamadoge offers real utility and has a large user base, making it a terrific investment option. The token has potential for exponential growth, with experts predicting a price target of $0.225 (66% gain), $0.034 (156% gain), or $0.042 (234% gain) in the mid-term."
+    },
+    {
+        "title": "Top Ethereum Altcoin Explodes 47% in One Week As Whales Send Millions of Tokens to Crypto Exchange - The Daily Hodl",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nTop Ethereum altcoin Arbitrum (ARB) surges 47% in one week, driven by whales transferring millions of tokens to Binance exchange.\n\nLookonchain data shows largest buyer of ARB on first day of listing transferred $17 million worth of tokens, and a separate whale transferred its entire bag worth $18 million to Binance on Friday.\n\nARB's TVL ranks fourth among all chains, with $2.27 billion, behind Ethereum, TRX, and BNB Smart Chain.\n\nWhales' actions indicate significant investor interest in ARB, with potential for high returns.\n\nHowever, investors should conduct thorough research and due diligence before making any high-risk investments in cryptocurrencies or digital assets."
+    },
+    {
+        "title": "Why MEV Will Always Be Controversial - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the podcast episode in less than 256 tokens:\n\nThe podcast discusses the controversy surrounding Maximal Extractable Value (MEV) in the Ethereum ecosystem. Justin Drake and Uri Klarman, two experts in the field, share their perspectives on the current state of MEV and the proposed solutions to address the issue. They disagree on the path forward, with Justin advocating for MEV Blocker and Uri opposing it. The episode covers the nuances of MEV, the possibility of back-running and front-running, and the role of wallets and DEXs in preventing MEV. The guests also discuss the similarities and differences among various projects aimed at solving MEV, and the potential impact of proposer-builder separation (PBS) on MEV distribution."
+    },
+    {
+        "title": "A small change of code, a giant leap for Web3: Ethereum's Shapella upgrade - The Economic Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shapella upgrade has been released, which could have a significant impact on the web3 ecosystem. The upgrade includes a small change in code that enables faster and cheaper transactions, leading to a giant leap for web3. This could potentially revolutionize the way transactions are conducted on the internet, making it faster, cheaper, and more secure. The upgrade has already started to see widespread adoption, with top trending stocks such as SBI, Axis Bank, HDFC Bank, Infosys, and Wipro feeling the impact. To stay up-to-date on the latest market news, stock tips, and expert advice, download The Economic Times app or subscribe to their Telegram feed."
+    },
+    {
+        "title": "SEC Chair Gary Gensler Refuses to Answer if Ethereum (ETH) is a Security During Congressional Hearing - Watcher Guru",
+        "summary": "  SEC Chair Gary Gensler refused to classify Ethereum (ETH) as a security or commodity during a Congressional hearing, citing the need for \"fact-based\" regulation. The hearing focused on SEC oversight of the digital asset industry, with Gensler emphasizing that crypto assets are subject to existing securities laws. Gensler faced questions from House Committee Chairman Patrick McHenry, who expressed concerns about the SEC's enforcement actions without clear rules for stakeholders."
+    },
+    {
+        "title": "Gary Gensler refuses to answer if ETH is a security: SEC hearing - Cointelegraph",
+        "summary": "  SEC Chair Gary Gensler refused to answer if Ethereum (ETH) is a security during a House Financial Services Committee hearing. Representative Patrick McHenry pressed Gensler on the issue, citing the SEC's \"punishing\" regulation of digital asset firms through enforcement without clear rules. Gensler claimed the crypto market is \"rife with noncompliance,\" but was unable to provide a definitive answer on ETH's status. The hearing comes amidst criticism of the SEC under Gensler for taking enforcement actions against digital asset firms and a collapse of several major crypto platforms."
+    },
+    {
+        "title": "PEPE Rallies 500x As Investors Pile Into New Wave Of Memecoins - The Defiant - DeFi News",
+        "summary": "  PEPE, a new Ethereum-based token, has surged in value, reaching a market capitalization of $86M in just five days. Memecoins like PEPE, named after popular internet characters, are pumping like it's 2021, with investors flocking to them for quick profits. However, the success of these tokens has both positive and negative effects on the digital asset space, with some seeing them as a fun and accessible way to get into crypto, while others view them as a wasteful aspect of the industry. The rise of memecoins has also led to increased gas fees on the Ethereum blockchain, with one entity using an MEV bot accounting for 7% of daily Ethereum gas usage. Despite the volatility, some traders see memecoins as a spark in the bear market, providing hope for a potential end to the downturn."
+    },
+    {
+        "title": "Explained: All you need to know about Ethereum's latest Shapella upgrade - Business Standard",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum recently completed an upgrade called \"Shapella,\" which is the final milestone in its transition from Proof-of-Work (PoW) to Proof-of-Stake (PoS) consensus. The upgrade allows staked Ethereum to become more liquid, enabling users to withdraw their holdings. This has led to an increase in Indian crypto investors investing and withdrawing Ethereum, with significant spikes in trading on major Indian exchanges. After the upgrade, Ethereum jumped 9.28% in value and was trading at $2,097."
+    },
+    {
+        "title": "What is proto-danksharding? - Unchained - Unchained",
+        "summary": "  Proto-danksharding is a proposed Ethereum upgrade that aims to split the network into smaller chains, known as shards, to increase the network's throughput without slowing down. The upgrade, also known as \"Shard Blob Transactions,\" would introduce a new type of transaction called a \"blob-carrying transaction\" that holds a large and inexpensive piece of data, reducing the amount of work required by the execution layer of Ethereum. Danksharding, the proposed sharding design, aims to have the Ethereum blockchain verify that these data-efficient blobs contain the right kind of information and carry out any orders contained therein. This would cut down on the amount of work required by the execution layer and make transactions cheaper to execute. Proto-danksharding is the first step towards implementing full danksharding, which could take several years to be fully realized."
+    },
+    {
+        "title": "Trader Unveils Price Target for Solana (SOL), Says He\u2019s Bullish on Dogecoin (DOGE) and One Ethereum Rival - The Daily Hodl",
+        "summary": "  Popular crypto trader Cantering Clark has shared his price target for Solana (SOL), predicting a 23% increase in the next two weeks. He is also bullish on Dogecoin (DOGE) and Aptos (APT). Despite recent gains, Clark remains cautious on Bitcoin (BTC) due to its resistance at $34,000. He advises investors to manage positions and hedge risks until the market reaches the 2021 range."
+    },
+    {
+        "title": "Crypto veterans targeted in mysterious wallet heists \u2013 up to 5k ETH allegedly stolen - CryptoSlate",
+        "summary": "  Crypto veterans targeted in mysterious wallet heists, with over 5,000 Ethereum and unknown tokens/NFTs stolen across multiple chains since December 2022. OGs (original gangsters) are being specifically targeted, with no single exploit or phishing site identified. The attacker is draining wallets using stolen data from victims' devices, and swapping assets into Bitcoin before sending to mixers for obfuscation. To stay safe, users should split their crypto across multiple keys or use hardware wallets, avoiding all assets in a single wallet or secret phrase. MetaMask is leading the investigation, with ConsenSys confirming multiple chains and wallets affected."
+    },
+    {
+        "title": "Indian crypto investors flock to Ethereum after 'Shapella' upgrade - The Economic Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nIndian crypto investors are flocking to Ethereum (ETH) after the Shapella upgrade, which saw a surge in transaction volumes across local exchanges. ETH transaction volumes grew 8-fold on Wazir X and 55% on CoinDCX's INR trading pair. The upgrade allowed users to withdraw billions of dollars in Ether, and fresh deposits sustained the staking balance for a couple of days. However, withdrawals from Ethereum staking contracts have exceeded deposits recently. Indian investors are optimistic about Ethereum's future, with some expecting the percentage of staked tokens to rise. The Shapella upgrade sets the stage for a transition to a proof-of-stake (PoS) consensus mechanism, which could increase Ethereum's security and efficiency."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Validators Face 17 Day Withdrawal Wait Due to Multiple Delays - Decrypt",
+        "summary": "  Ethereum validators face long wait for withdrawal due to multiple delays. Withdrawal wait time ranges from 11.7 days to 25 minutes, depending on the type of withdrawal. Partial withdrawals are faster, taking only 4.27 days."
+    },
+    {
+        "title": "Ethereum Merge \u2013 Top 10 Things to Know - Bitbuy",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is conducting its final test run for the long-awaited upgrade known as the \"Merge,\" which will transform the blockchain from Proof-of-Work (PoW) to Proof-of-Stake (PoS). Top 10 things to know about the Ethereum 'Merge':\n\n1. What is the Merge? - The Merge refers to the event when the Ethereum blockchain changes from PoW to PoS.\n2. Why is this so Important? - The Merge is a crucial aspect of a blockchain's operation and has significant implications for the industry.\n3. What are the benefits? - The Merge will bring numerous benefits, including improved efficiency, scalability, and security, as well as reduced centralization.\n4. Will The Merge reduce gas fees? - The Merge does not significantly impact network capacity or gas pricing.\n5. What does this mean for Eth? - The Merge has significantly impacted ETH's economics, making it a deflationary asset.\n6. How will this"
+    },
+    {
+        "title": "All about EOS EVM, its standing against zkEVM and zkSync Era, and more - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEOS recently launched EOS EVM, which is faster than Polygon and Solana.\nEVM claims to be 25x faster than Avalanche and 3x faster than Solana or Polygon.\nEOS invested $20 million in GameFi and EOS EVM projects to grow adoption.\nzkEVM's unique depositors have declined, which could benefit EOS EVM.\nEOS network's TVL increased on launch day but declined later.\nDevelopment activity remained low in April.\nEOS token price increased after launch but later declined.\nGreen funding rate is positive, reflecting demand in futures market."
+    },
+    {
+        "title": "Ethereum Rainbow chart sets ETH price for end of 2023 - Finbold - Finance in Bold",
+        "summary": "  Ethereum's (ETH) price has surpassed $2,000 after the Shapella upgrade, and investors are trying to gauge its future movements. A rainbow chart analysis suggests that Ethereum is in the \"Fire Sale\" phase and may break into the \"Undervalued\" zone by October 2023. The chart also indicates possible trends until 2024, including a potential drop to the \"Go back to BTC?\" zone in August 2023 and a subsequent rise to the \"Maximum Bubble Territory\" in January 2025. However, it's important to note that the crypto sector can change quickly, and chart patterns may not always accurately predict price movements."
+    }
+]

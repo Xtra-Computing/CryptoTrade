@@ -1,0 +1,167 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum is 'much more centralized than folks realize': Blocknative's Matt Cutler - Blockworks",
+        "summary": "  Blocknative, a US-based Ethereum relay service, has discontinued its MEV-boost relayer service due to OFAC SDN compliance concerns. This move has resulted in only four entities handling 93% of Ethereum transactions, raising centralization concerns. Matt Cutler, Blocknative's co-founder, believes that relayers should be compensated for their services, but OFAC SDN compliance makes it difficult to receive funding. Cutler advocates for a \"missed slot insurance\" model, where relays are funded through a hard fee with a hard benefit. He believes that the relay network should provide utility to users without requiring them to think about the complexities of the network's operation. Cutler also highlights the centralization of the relay network, which is now more centralized than people realize, and warns that this trend may continue."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum Foundation Sells $2.7M ETH, Ether Slides 1.5% - Crypto Times",
+        "summary": "  Ethereum Foundation sells $2.7M ETH, causing 1.5% drop in price. Wallet belonging to foundation exchanges 1,700 ETH for $2.7M in USDC. Foundation did not reveal intentions for funds, leading to trader uncertainty and sell-off. Ether Foundation holds $1.29B in ETH and $300M in external investments."
+    },
+    {
+        "id": 5,
+        "title": "Ether Slides as Ethereum Foundation Swaps $2.7M ETH on Uniswap - CoinDesk",
+        "summary": "  Ether (ETH) price declined after the Ethereum Foundation transferred $2.7 million worth of ETH on Uniswap. The move has raised concerns about the Foundation's intentions and may impact the token's value. Meanwhile, CoinDesk's Consensus 2024 event is approaching, where industry leaders will gather to discuss the future of crypto, blockchain, and Web3. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "id": 6,
+        "title": "Tornado Cash Reigns Supreme on Ethereum - U.Today",
+        "summary": "  Tornado Cash, a popular crypto mixer, continues to dominate on Ethereum despite US Treasury sanctions in August 2022. Data from Arkham reveals $77.35 million in assets passed through Tornado Cash contracts on Ethereum Mainnet in the last month, a 60% recovery from its post-sanctions downturn. Despite the arrest of two founders, TVL and transfer volume are showing signs of recovery. The US Treasury sanctioned Tornado Cash for enabling the laundering of funds linked to North Korea's Lazarus Group, but the platform's developers argue it's a tool for preserving financial privacy. A Coinbase-backed group lost a lawsuit challenging the US Treasury Department's actions, and the judge ruled Tornado Cash has property interest in its smart contracts. The US government's sanctions highlight the challenge of shutting down decentralized services like Tornado Cash."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum experiences rocky trading day after Ethereum Foundation selloff - CryptoSlate",
+        "summary": "  The Ethereum Foundation sold 1700 ETH for $2.738 million worth of USDC on Oct. 9, with the Foundation later returning $3.23 million in USDC to a Gnosis wallet. This comes after Vitalik Buterin, co-founder of Ethereum, transferred 1000 ETH worth $1.64 million to Bitstamp earlier in the week. Buterin has also consistently transferred his ETH holding to exchanges throughout the year, with his current holding valued at around $400 million. ETH price saw a tumble after the Foundation's sale, but has since recovered slightly to $1,577."
+    },
+    {
+        "id": 10,
+        "title": "Ethereum Foundation's $27M Swap Sends ETH Price Tumbling - DailyCoin",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum Foundation swaps $27M worth of ETH on Uniswap, causing price to drop 2%.\n\nTransaction coincides with surge in trading volume, but correction is likely temporary.\n\nFoundation periodically sells tokens to fund operations, but this can create short-term fluctuations in price.\n\nEthereum Foundation has faced criticism for its influence over the network, and recent reports suggest next major upgrade may face delays.\n\nFor traders and enthusiasts, staying informed about developments like token swaps and their impact on prices is vital."
+    },
+    {
+        "id": 11,
+        "title": "Layer-2 Blockchains Host Most Ethereum Transactions: Messari - Decrypt",
+        "summary": "  Layer-2 blockchains host most Ethereum transactions, according to Messari's State of Ethereum report. In Q3, Layer-2 networks accounted for 61% of all Ethereum transactions, driven by the popularity of Base and Friend.tech. Base has seen impressive growth since its launch in August, with a total value locked of $448 million and a TVL of $1.067 billion. Arbitrum remains the most utilized by Ethereum users, but its transactions have dropped by 36% during Q3. The analysts expect Layer-2s to continue to grow as reputable financial institutions adopt the technology, and lower transaction fees will lead to more activity on Layer-2s."
+    },
+    {
+        "id": 13,
+        "title": "Why Ethereum, Dogecoin, and Bitcoin Cash Slumped Today - The Motley Fool",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum, Dogecoin, and Bitcoin Cash declined on Monday due to a divergence between cryptocurrencies and the broader equity market. Ethereum's decline was driven by the Ethereum Foundation selling $2.7 million worth of Ethereum for stablecoin USDC. This sale may indicate a shifting narrative around the sustainability of the crypto sector. For investors looking to diversify their portfolios, investing in tokens tied to projects that continue to invest in themselves is a good idea. For traders and speculators, altcoins and higher-leverage tokens will continue to be available for trading. The author suggests buying Ethereum due to its continued reinvestment into the network's technology and its tendency to head higher after previous sales."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum Price Topside Bias Vulnerable Unless It Surges Past $1,665 - NewsBTC",
+        "summary": "  Ethereum price is trading below $1,640 and the 100-hourly Simple Moving Average, with a connect bullish trend line forming with support near $1,620 on the hourly chart of ETH/USD. The price is at risk of more losses unless it clears $1,650 and $1,665 resistance levels. A high was formed near $1,664 before the price saw a fresh decline, retesting the $1,620 support. The next major resistance is $1,650 or the 76.4% Fib retracement level of the recent decline from the $1,664 swing high to the $1,617 low. Any more gains might open the doors for a move toward $1,920. If Ethereum fails to clear the $1,665 resistance, it could continue to move down, with initial support near $1,620 and the next key support at $1,600. The first major support is near $1,585, and any more losses may send Ether"
+    },
+    {
+        "id": 21,
+        "title": "Ethereum's Vitalik Buterin Attracts More Criticism from Cardano's Hoskinson - U.Today",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, proposed changes to the network's staking pool and protocol, which drew criticism from Charles Hoskinson, founder of Cardano. Hoskinson accused Ethereum of copying Cardano's features, such as liquid staking and delegating to pools for consensus. The Cardano community defended their innovations and questioned why the Ethereum community focuses so much on their actions. Hoskinson stood by his comments, suggesting that Ethereum needs to \"copy Ouroboros.\""
+    },
+    {
+        "id": 26,
+        "title": "Ethereum Foundation Just Sold Millions in ETH Before Price Made Another Drop - U.Today",
+        "summary": "  The Ethereum Foundation sold millions of dollars worth of Ether (ETH) on the Uniswap DEX, transferring 1,700 ETH for 2.738 million USDC. This sale comes after a similar event over the weekend, where Ethereum cofounder Vitalik Buterin sold 1,000 ETH worth $1.64 million on the Bitstamp exchange. Over the past two months, approximately 4,400 ETH have been transferred from Buterin's address to Bitstamp, valued at $7.23 million. Additionally, Buterin sent 1,000 ETH to the Coinbase exchange. The sale and transfer of ETH have contributed to the current 3% drop in Ethereum's price, following a hack of nearly $3 million in crypto and recent geopolitical events."
+    },
+    {
+        "id": 28,
+        "title": "Ethereum futures ETFs launch to tepid demand; Bitcoin and Solana remain favored investment products - CryptoSlate",
+        "summary": "  Ethereum futures ETFs launched with tepid demand, attracting only $10 million in investments. This is compared to the $1 billion invested in a similar Bitcoin futures ETF during its first week. The poor demand for Ethereum investment products may be due to overall poor investor appetite for digital assets. Meanwhile, Bitcoin and Solana continued to dominate as investment products, recording inflows of $78 million and $24 million, respectively. Investors from Europe contributed to 90% of inflows, while investors in Canada and the US contributed $9 million."
+    },
+    {
+        "id": 30,
+        "title": "The Ethereum Foundation Just Sold $2.76 Million in ETH - Decrypt",
+        "summary": "  The Ethereum Foundation has sold $2.76 million worth of ETH, converting it to Circle's USDC stablecoin. This transaction was made through Uniswap, and the Foundation now holds 316,488 ETH worth $502.7 million. Previous instances of the Foundation selling its tokens have been followed by declines in Ethereum's price."
+    },
+    {
+        "id": 32,
+        "title": "Crypto Analyst Predicts More Rallies for Ethereum-Based Altcoin, Says Crazy Moves Ahead for Bitcoin (BTC) - The Daily Hodl",
+        "summary": "  Crypto analyst predicts more rallies for Ethereum-based altcoin RNDR, with a potential 33% increase in value. The analyst also predicts a surge in volatility for Bitcoin (BTC) towards the end of the year, with two possible scenarios depending on how BTC reacts to $30,000."
+    },
+    {
+        "id": 34,
+        "title": "y00ts Floor Jumps Amid Ethereum Move. But There's a Catch - DailyCoin",
+        "summary": "  y00ts, a popular NFT collection, is migrating to Ethereum this week, led by its creator DeLabs. The move has caused a 2.2% increase in the collection's floor price, but overall activity has declined in the past 24 hours and 30 days. Despite this, the migration could potentially boost hype and engagement for the collection, especially as interest in PFP NFTs wanes. The move is the collection's second in less than a year, after previously migrating from Solana to Polygon in April 2023."
+    },
+    {
+        "id": 35,
+        "title": "Ethereum Dropped -3.28% in Last Month and is Predicted to Reach $\u202f1,757.01 By Oct 14, 2023 - CoinCodex",
+        "summary": "  Ethereum (ETH) dropped by 3.28% in the last month and 19.73% in the last year, according to CoinCodex. The current price of ETH is $1,587.26, and the prediction for the next 5 days is a 9.64% increase to $1,757.01. The sentiment in the Ethereum markets is currently Bearish, and the Fear & Greed index is Neutral. The key support levels are $1,627.10, $1,613.85, and $1,600.57, while the key resistance levels are $1,653.63, $1,666.91, and $1,680.16. The moving averages and oscillators indicate that ETH is currently neutral, with the Relative Strength Index (RSI) at 50.56, the 50-day Simple Moving Average (SMA 50) above the trendline, and the 200-day Simple Moving A"
+    },
+    {
+        "id": 37,
+        "title": "Ethereum's Centralization Concerns Rise Post-Merge and Shanghai, Says New Report - Blockonomi",
+        "summary": "  Ethereum's centralization concerns have increased after two major upgrades, according to a new report by JPMorgan. The transition from Proof-of-Work to Proof-of-Stake has led to a surge in Ethereum staking, but this has resulted in a decline in the overall staking yield and growing centralization. Lido Finance is a popular alternative for staking Ethereum, but it currently accounts for almost one-third of staking on the network, raising centralization risks. Ethereum's co-founder, Vitalik Buterin, has expressed concerns about the dominant role of liquid staking protocols and suggested changes to Ethereum's governance structure to address these risks."
+    },
+    {
+        "id": 38,
+        "title": "Ether Disappointment Has Bitcoin Gaining Crypto Market Share During Downturn - Bloomberg",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEther's recent downturn is causing investors to flee to Bitcoin, which is gaining market share during the crypto price drop. Ether has lost 18% of its value since June, while Bitcoin's decline is half that amount. Ether dropped 5.4% on Monday, while Bitcoin slipped 2.3%."
+    },
+    {
+        "id": 40,
+        "title": "Bitcoin, Ethereum, Dogecoin Decline As $100M Vanishes In A Single Day Amid Israel-Palestinian Conflict: Analyst ... - Nasdaq",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nMajor cryptocurrencies declined on Monday evening due to an escalation in the Israeli-Palestinian conflict.\n\n* Bitcoin fell by 0.49%, Ethereum by 0.73%, and Dogecoin by 0.99%.\n* Over $100 million in liquidations occurred on Binance, with a total of $114.94 million wiped out in long positions.\n* Analysts predict that Bitcoin may reach $30K, but Ethereum and other altcoins may continue to decline.\n* The global crypto market cap decreased by 0.35% to $1.09 trillion.\n* The S&P 500 and Nasdaq Composite gained 0.63% and 0.39%, respectively.\n* The conflict in Israel and Palestine has not had a significant impact on the crypto market yet, but further escalation could lead to increased price sensitivity."
+    },
+    {
+        "id": 43,
+        "title": "Ethereum Foundation Sold 1,700 ETH for $2.74 Million USDC - Watcher Guru",
+        "summary": "  The Ethereum Foundation has sold approximately 1,700 ETH worth $2.74 million USDC through the Uniswap decentralized exchange. This represents a small fraction of its total holdings, which are still substantial. The sale is believed to be for funding the foundation's ongoing operations, including research grants. The Ethereum Foundation's ETH reserves have declined from 395,000 ETH in Q1 2022, but it still retains a significant amount. The sale comes amid bearish market conditions, and the converted ETH amounts to a prudent move to maintain funding."
+    },
+    {
+        "id": 44,
+        "title": "Ethereum Falls Sick At Pattern\u2019s Support Line Following Large Selloff: Will Bulls Reverse ETH Price Trend? - Coinpedia Fintech News",
+        "summary": "  Ethereum (ETH) has been facing significant selling pressure, with a recent massive selloff by whale investors weakening buyer confidence. Despite the bullish 'Uptober' predictions, ETH has struggled to maintain trading above $1,650, with a recent drop to $1,585. The Ethereum Foundation recently divested a portion of its allocated ETH tokens. The price has initiated a minor rebound from the pattern's support line, but if the price continues to descend, it could trigger a bearish consolidation and potentially test $1,530."
+    },
+    {
+        "id": 47,
+        "title": "Ethereum (ETH) and Vechain (VET) Prices Struggling Today, But Sees Bright Future Tomorrow. How High Can Reach ... - NewsBTC",
+        "summary": "  Ethereum (ETH) and VeChain (VET) are struggling today, but there is a bright future ahead tomorrow. Ethereum (ETH) is facing a \"Sell\" sentiment, while VeChain (VET) is experiencing a \"Strong Sell\" sentiment. ScapesMania, an emerging coin, offers potential high returns and aligns with the massive gaming industry. Enigma Securities predicts a period of market consolidation, offering a ripe window for long-term investors to accumulate assets like Ethereum (ETH) and VeChain (VET). Experts opine that this phase of consolidation may extend the opportunity for discerning investors to bolster their crypto portfolios. However, Ethereum (ETH) and VeChain (VET) may not deliver sharp price escalations like promising presale coins like ScapesMania. It is essential to diversify attention towards emerging coins like ScapesMania, which can provide lucrative returns amidst a steady market backdrop."
+    },
+    {
+        "id": 53,
+        "title": "Michael Saylor would be up $2.5 billion if he chose Ethereum over Bitcoin - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nMichael Saylor's company, MicroStrategy, has been buying Bitcoin for three years as part of its \"Bitcoin Initiative\". However, if they had invested in Ethereum instead, they would have made $2.5 billion in profit instead of $400 million in loss. This is according to an analysis by Holger Rohm, who pointed out that MicroStrategy would have held 11% of staked Ethereum and earned more from staking than their core business. Despite this, Bitcoin could still have a major bull run and reach $1 million, according to some crypto analysts and investors."
+    },
+    {
+        "id": 54,
+        "title": "Illicit activity in Ethereum staking is low. It's still enough to spook big finance firms - DLNews",
+        "summary": "  Illicit activity in Ethereum staking is low, but concerns remain for institutional investors due to exposure to illicit funds. A new report by Northstake found that total illicit and high-risk exposure was between 0.46% and 1.56% across three liquid staking protocols. While the proportion of dirty to clean funds is small, it may still present challenges for regulated entities. The report highlights the difficulty in ascertaining actual exposure to illicit funds in crypto compared to traditional finance. Institutional investors may be hesitant to use liquid staking protocols due to counterparty risk, but retail investors are popularizing them. The issue is mainly seen from the institutional investor perspective due to their fiduciary obligation to record exposure to illicit funds."
+    },
+    {
+        "id": 58,
+        "title": "Ripple (XRP) Might Explode Alongside Bitcon and Ethereum: Here\u2019s Why (Report) - CryptoPotato",
+        "summary": "  Ripple (XRP) could see a significant increase in value in 2024 due to a potential economic downturn, according to a recent report from Forbes. The report suggests that a collapse of the US dollar could lead to a crypto bull market, with Bitcoin, Ripple, and Ethereum rallying towards fresh peaks. Ripple has already seen price increases after winning two court victories against the US SEC, and the upcoming trial in April could be a pivotal moment for the asset. Additionally, potential banking partnerships or adoption by financial institutions could also drive up the price of XRP."
+    },
+    {
+        "id": 61,
+        "title": "Crypto Market Selloff: Bitcoin, ETH, XRP, DOGE Falling Suddenly - CoinGape",
+        "summary": "  The crypto market is experiencing a sudden selloff, with Bitcoin and many altcoins falling in value. The global crypto market cap has dropped by 1.50% to $1.07 trillion. Bitcoin is stable, but other cryptocurrencies such as Ethereum (ETH), XRP, Solana (SOL), Dogecoin (DOGE), and Shiba Inu (SHIB) are seeing major selling. The Fear & Greed Index has also decreased from 47 to 45 in just an hour.\n\nBitcoin price has slipped to $27,500 after a 24-hour high of $28,000, with $50 million in long positions being liquidated in just an hour. The 24-hour liquidation for Bitcoin is $90 million. Ethereum has plummeted below the $1600 level after the Ethereum Foundation sold more ETH, further weakening the upside potential. Other altcoins such as Bitcoin Cash (BCH), XRP, SOL, DOGE"
+    },
+    {
+        "id": 63,
+        "title": "Bitcoin Inscriptions Surpass NFT Minting On Ethereum, Solana, Polygon Despite Bear Market - Nasdaq",
+        "summary": "  Bitcoin inscriptions, a new way to store data on the Bitcoin blockchain, have surpassed 35 million since their inception in January. Ordinals are digital artifacts that can be inscribed onto Bitcoin using the Ordinals protocol and can be anything from text files to images and audio. Despite the unfavorable market conditions for NFTs in 2023, Bitcoin has accumulated the third-highest NFT trading volume by network at $596.4 million. The growing popularity of Bitcoin inscriptions is a significant development for the Bitcoin ecosystem and could lead to new and innovative use cases for Bitcoin in the future."
+    },
+    {
+        "id": 66,
+        "title": "CrypToadz NFT Sells for $1.6 Million in Ethereum Linked to Tornado Cash - Decrypt",
+        "summary": "  A CrypToadz NFT sold for $1.6 million on Ethereum, linked to Tornado Cash, raising red flags for potential wash trading or money laundering. The buyer funded the purchase with a wallet that received $1.76 million from Tornado Cash in September. The use of Tornado Cash has led to speculation of illegal activities, but it does not necessarily imply illegal intent. OpenSea did not respond to a request for comment."
+    },
+    {
+        "id": 71,
+        "title": "Ether Dips as Ethereum Foundation Sells $2.7M ETH - Coinfomania",
+        "summary": "  The Ethereum Foundation, a non-profit organization supporting Ethereum, sold $2.7M worth of ETH on Monday, causing a 1.5% drop in ether prices. The wallet used for the transaction is labeled as a \"Grant Provider\" on Etherscan and holds nearly $400k worth of tokens. The move has sparked speculation among analysts and traders, with some interpreting it as an attempt to lock in profits or diversify assets. The sale led to a 1.8% drop in Ethereum's price, affecting other significant tokens as well. Investors and stakeholders are closely monitoring the Ethereum Foundation's moves for clues about the ecosystem's direction."
+    },
+    {
+        "id": 73,
+        "title": "Cardano founder mocks Vitalik Buterin's Ethereum claims - Finbold - Finance in Bold",
+        "summary": "  Cardano co-founder Charles Hoskinson mocked Ethereum co-founder Vitalik Buterin's claims about staking and network decentralization, suggesting that Ethereum is copying Cardano's ideas. Hoskinson shared a post on social media with an animated GIF poking fun at Buterin's statements. Cardano community members have accused Ethereum of copying Cardano's liquid staking and delegating to pools for consensus, with Hoskinson pointing out that Cardano pioneered these concepts years ago. Cardano's price has declined in recent days, with a 2.19% drop in the last 24 hours and a 6.07% drop across the previous seven days."
+    },
+    {
+        "id": 75,
+        "title": "Crypto Price Today: Bitcoin holds $27,800; Ethereum nears $1600 - The Economic Times",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto prices are down, with Bitcoin at $27,800 and Ethereum at $1,650. XRP, Solana, Dogecoin, and Polygon are also trading in the red. Toncoin is the only token in the green. The global cryptocurrency market cap has declined 0.5% to $1.09 trillion. Bitcoin has been trading close to $28,000, with support at $27,800. If it remains above this level, it may break through $28,350. Geopolitical uncertainty is a factor for traders. Bitcoin has recovered from a test of $27,000 and is consolidating between $28,250 and $27,000. To rally, it needs to break and sustain above $28,500."
+    },
+    {
+        "id": 77,
+        "title": "Cryptocurrency Price Today: Israel-Hamas War Paints The Market Red, BTC Remains Under $28,000 - ABP Live",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 Cryptocurrency prices are down today due to the ongoing Israel-Hamas conflict.\n\n\ud83d\udcb0 Bitcoin (BTC) is trading at $27,939, with a 24-hour loss of 0.23%.\n\n\ud83d\udcc8 Ethereum (ETH) is down 0.09% to $1,634.72.\n\n\ud83d\ude80 Dogecoin (DOGE) has lost 0.90% to $0.06095.\n\n\ud83d\udcb0 Litecoin (LTC) is down 1.13% to $65.08.\n\n\ud83d\udd25 Ripple (XRP) has lost 0.61% to $0.5193.\n\n\ud83d\udcb0 Solana (SOL) is down 1.04% to $23.27.\n\n\ud83d\udcca The top gainers of the day include Lido DAO,"
+    },
+    {
+        "id": 79,
+        "title": "Ethereum: slight growth in ETH inflation - The Cryptonomist",
+        "summary": "  Ethereum's inflation has seen a slight growth due to the reduction in fee burns, causing the currency to become inflationary again after being deflationary for a period of time. The inflation rate of Ethereum's money supply has varied over the past two years, with a negative inflation rate of 3.5% in 2020 and 2% in 2023. The fee burn, which depends on the number of fees paid, has been higher in months with higher fees, causing the money supply to decrease and become deflationary. However, the inflation rate is generally limited and may be negative in the long run. The usage of Ethereum greatly impacts its inflation rate, as higher usage leads to higher fees and burns."
+    }
+]

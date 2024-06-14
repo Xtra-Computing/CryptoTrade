@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "title": "Evmos hopes to lure Ethereum developers to IBC by deprecating Cosmos transactions - Blockworks",
+        "summary": "  Evmos, a Cosmos-based EVM chain, plans to only support Ethereum-formatted transactions by 2024 Q3, aiming to attract Ethereum developers to the IBC. The protocol will burn all Cosmos transaction fees during the interim period, signaling a shift towards revised token economics for the EVMOS token. The move is seen as a way to make it easier for Ethereum developers to start working in Cosmos, as current wallets and tools are not compatible with Cosmos. The Interchain Foundation, a non-profit focused on Cosmos adoption, has made onboarding Ethereum developers a large part of its 2024 roadmap."
+    },
+    {
+        "id": 1,
+        "title": "Study lowers Ethereum price expectation for next 7 years - crypto.news",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCryptocurrency experts have lowered their predictions for Ethereum (ETH) over the next 7 years, according to a new survey. The panel predicted ETH will be worth $1,840 on average by the end of 2023, down from $2,451 in July. The 2025 forecast fell to $5,824 from $5,845 previously, and the 2030 prediction declined to $14,411 versus $16,414 in the earlier survey. While still bullish long term, some experts cited near-term economic challenges and competition from other blockchains as reasons for tempered short-term expectations."
+    },
+    {
+        "id": 2,
+        "title": "Nil Foundation Plans New Ethereum Rollup With Zero-Knowledge Proofs, Sharding - CoinDesk",
+        "summary": "  Nil Foundation is planning a new Ethereum rollup that utilizes zero-knowledge proofs and sharding. This new development will be showcased at Consensus 2024, CoinDesk's premier event for the crypto and blockchain community. The event brings together industry leaders, innovators, and investors to share insights and drive discussion on the future of the space. Register and buy your pass now to be a part of this influential event."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum Layer-2 Booming: Will Gas Fees Drop Even In A Bull Market? - NewsBTC",
+        "summary": "  Ethereum layer-2 networks are gaining popularity, with Polygon and other roll-up technologies seeing increased adoption. This could potentially lead to lower gas fees on the Ethereum mainnet, as more transactions are off-loaded to layer-2s. However, it's unclear whether gas fees will actually decrease as the market recovers. The article provides 256 tokens of information on the topic."
+    },
+    {
+        "id": 5,
+        "title": "Banker Loses Access to $450,000,000 Worth of Ethereum (ETH) After Misplacing Wallet Keys: Report - The Daily Hodl",
+        "summary": "  An Estonian banker, Rain L\u00f5hmus, has confirmed owning an Ethereum address with over $450 million worth of ETH, but he lost the keys to access the funds. L\u00f5hmus revealed this in an interview with Vikerraadio, stating that he had forgotten the passwords to his wallet and couldn't recover them. The address is identified as the fourth biggest holding of ETH excluding exchanges, the Ethereum Foundation, and the Wrapped Ether (wETH) address, according to Etherscan. L\u00f5hmus emphasized the dangers of handling one's own keys and seed phrases in crypto, and warned that losing access to funds is a common problem."
+    },
+    {
+        "id": 8,
+        "title": "Ethereum: Mysterious Owner of 250,000 ETH, Who Lost Wallet Keys, Revealed - U.Today",
+        "summary": "  A mysterious holder of 250,000 Ethereum (ETH) acquired during the Ethereum initial coin offering (ICO) in 2014 has been identified. The owner, Rain Lohmus, founder of LHV Bank in the Baltics, lost the private keys to his ETH, which is now worth approximately $437 million. The discovery was made by blockchain sleuth @lookonchain, who tracked the funds using Coinbase's director of product strategy and business operations, Conor Grogan. The lost ETH is valued at 5,333 times its original value, and Grogan has offered a generous reward for any help in recovering the funds. Additionally, a large outflow of Ethereum was detected on centralized crypto exchanges, with over $210 million worth of ETH moved to self-custody by investors."
+    },
+    {
+        "id": 9,
+        "title": "LHV Bank founder has $470M worth of Ethereum, but lost his private key - Cointelegraph",
+        "summary": "  The founder of LHV Bank in Estonia, Rain L\u00f5hmus, has been revealed as the owner of a massive stash of 250,000 Ether (ETH) worth $470 million. However, he has lost the private key to access the funds, which he purchased during the Ethereum initial coin offering in 2014 for $75,000. L\u00f5hmus is willing to split the funds with anyone who can help him recover the private key. This discovery comes after a US lawmaker proposed cutting the salary of SEC chair Gary Gensler."
+    },
+    {
+        "id": 10,
+        "title": "Ethereum, Ripple and Cronos Forecast: Navigating Choppy Markets - FX Empire",
+        "summary": "  Ethereum, Ripple, and Cronos forecasts are provided by FX Empire, but they are not investment advice. The content is for educational and research purposes only and does not constitute any recommendation or advice to take any action. The website provides general news and analysis, as well as third-party content, but it does not take into account individual financial situations or needs. Prices are provided by market makers and may not be real-time or accurate. Trading decisions are solely the responsibility of the user, and FX Empire bears no responsibility for any losses incurred. The website may include advertisements and promotional content, and FX Empire may receive compensation from third parties. The website does not endorse or recommend any third-party services, and the user uses them at their own risk. FX Empire and its employees, officers, subsidiaries, and associates are not liable for any loss or damage resulting from the use of the website or reliance on the information provided. Cryptocurrencies and CFDs are complex instruments that carry a high risk of losing money, and the user should carefully consider their understanding of these instruments and the risks involved before"
+    },
+    {
+        "id": 13,
+        "title": "Ethereum Bullish Revival: Will This Breakthrough Lead To A New Market Phase? - NewsBTC",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's price has shown a promising technical development, with a bullish flag pattern forming on its daily timeframe. This pattern indicates potential positive movements in the near future. The successful breach of a critical resistance level has reinforced the bullish sentiment, suggesting a potential shift towards a more robust upward trajectory. However, caution is advised due to the market's inherent volatility and unpredictability."
+    },
+    {
+        "id": 15,
+        "title": "New Ethereum rollup takes a zero-knowledge approach to sharding - Blockworks",
+        "summary": "  New Ethereum scaling solution =nil; uses zero-knowledge technology (zk) to shard the network, allowing for faster transaction speeds while maintaining economic security. Unlike other scaling solutions, zkSharding divides the network into sections and processes transactions more efficiently, with the potential to increase maximum throughput on Ethereum. The technique is not confused with Proto-Danksharding, which reduces transaction costs for zk rollups, but only applications built on =nil; can benefit from zkSharding on top of that. =nil; benefits from Proto-Danksharding but addresses fragmentation of liquidity and economic security with zkSharding. The new scaling solution represents a combination of modular and monolithic blockchain architectures and introduces separate shards as dedicated execution layers that are fully composable with each other. The goals are familiar from other zk-based scaling approaches, but the new solution aims to introduce a more efficient and secure solution to the layer-2 fragmentation of liquidity issues."
+    },
+    {
+        "id": 16,
+        "title": "Ether Could Hit $3,000 as Soaring Network Activity Turns Token Deflationary - CoinDesk",
+        "summary": "  Ether (ETH) could reach $3,000 as network activity surges, making the token deflationary. CoinDesk's Consensus 2024 event brings together crypto, blockchain, and Web3 communities. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "id": 17,
+        "title": "Analyst Who Accurately Called Bitcoin 2018 Bottom Predicts Big Ethereum Rally \u2013 But There\u2019s a Catch - The Daily Hodl",
+        "summary": "  Analyst predicts Ethereum to rally to nearly $2,400 in the next few months, but warns of potential correction beforehand. Bluntz, a crypto analyst, shared a chart on X, showing a potential dip in Ethereum's price before it skyrockets. Fellow trader Credible Crypto also shared a similar outlook. However, the analyst acknowledges that Ethereum's price may not rally if Bitcoin's price continues to soar. The analyst advises to accumulate more ETH during any dips below $1,720."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Price Prediction: ETH Going To $5.8? Here\u2019re The Levels To Watch - CoinGape",
+        "summary": "  Ethereum price is consolidating after reaching $1,900, with potential support at $1,800. The bull flag pattern on the weekly chart is bullish, but resistance at $2,000 could limit gains. Finder's panel predicts an average price of $5,824 by 2025, with some analysts citing potential short squeeze and low inflation rate as growth drivers. However, some experts warn of macro headwinds limiting upside action in the short term."
+    },
+    {
+        "id": 27,
+        "title": "Ethereum Rival Solana Is Back\u2014Experts Say It's No Surprise - Decrypt",
+        "summary": "  Solana, a competitor to Ethereum, has seen a significant increase in price and attention in recent weeks. The native coin, SOL, is up over 9% today and has exploded in value by over 88% in the past 30 days, making it the biggest winner among major cryptocurrencies. Despite its association with the collapsed FTX crypto exchange and its criminally convicted founder Sam Bankman-Fried, experts say Solana's recent rise shouldn't come as a shock. Solana aims to be the go-to network for on-chain applications and experiences, and its streamlined approach and major partnerships have helped drive up the price of SOL. Big players such as Visa and Shopify have invested in Solana, and the Solana community's annual conference, Breakpoint, has led to an even bigger rally. However, the question remains whether the price increase will last."
+    },
+    {
+        "id": 28,
+        "title": "Stratis Community Votes In Favour Of Move To Ethereum Blockchain - AlexaBlockchain",
+        "summary": "  Stratis, a blockchain platform, has announced plans to transition to the Ethereum blockchain. The community has overwhelmingly voted in favor of the proposal, with 99.3% of voters supporting the move. StratisEVM, the new layer one blockchain built on Ethereum, will feature a native $STRAT token and offer improved interoperability and compatibility with existing decentralized applications. The move is intended to accelerate innovation and make it easier to develop blockchain solutions using more widely available tooling. Existing $STRAX token holders will be able to exchange their tokens for the new $STRAT at a rate of 1:10. The token supply will be increased to make the token more useful for new use cases, particularly gaming. StratisEVM will also feature a masternode contract to enable new and existing masternodes to continue receiving rewards."
+    },
+    {
+        "id": 30,
+        "title": "SHOCKING: Ethereum Co-Founders Accused of Fraud and Corruption - Coinpedia Fintech News",
+        "summary": "  Ethereum co-founders accused of fraud and corruption by former advisor Steven Nerayoff. Allegations include 1000x bigger fraud than FTX, connections to Chinese Communist Party, and hidden centralization. No solid evidence yet, but concerns about integrity and regulatory uncertainty in crypto space."
+    },
+    {
+        "id": 31,
+        "title": "Ethereum Classic (ETC) And Litecoin (LTC) Slows Price Rise, While XMR Already Falling - The Crypto Basic",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nScapesMania is a new project that is gaining attention in the cryptocurrency market. It combines gaming and crypto in a unique way, offering holders multiple revenue streams and high potential ROIs. Many experts believe it is the best new project of 2023 and beyond.\n\nEthereum Classic (ETC) and Litecoin (LTC) are showing slowed growth, while Monero (XMR) is facing security concerns. Despite these challenges, the market is experiencing a growth mood, with Bitcoin leading the charge in a post-FTX recovery era.\n\nThe price of Ethereum Classic (ETC) is potentially set to increase by 30%, while Litecoin (LTC) is consolidating within a specific range. Monero (XMR) is testing investor trust after a security breach, but its privacy mechanisms remain intact.\n\nOverall, the cryptocurrency market is experiencing a revival, with new projects like ScapesMania emerging and existing coins showing potential for"
+    },
+    {
+        "id": 35,
+        "title": "Ethereum accused of being 1000 times more fraudulent than FTX - Cointribune EN",
+        "summary": "  Ethereum's founders, Vitalik Buterin and Joseph Lubin, have been accused of fraud by a former advisor, Steven Nerayoff. He claims that their actions are 1,000 times larger than the fraud committed by the FTX founder, who was recently convicted. Nerayoff alleges that Ethereum's founders bribed SEC officials, including Clayton and Gensler, to turn a blind eye to the network's initial coin offering (ICO) and avoid charges of securities law violations. However, Nerayoff provides no substantial evidence to support his claims, and his reputation for distorting the truth undermines the credibility of his information."
+    },
+    {
+        "id": 37,
+        "title": "Ethereum (ETH) Breakthrough Heralds Massive Reversal: Bull Market Start? - U.Today",
+        "summary": "  Ethereum (ETH) has made a significant breakthrough, surpassing a crucial resistance level, potentially signaling the start of a bullish reversal in the cryptocurrency market. This development has implications for the wider altcoin sector, as Ethereum's market movements often set the tone for other digital assets. However, Shiba Inu (SHIB) and Cardano (ADA) face resistance at the 200-day Exponential Moving Average (EMA), which could hinder their respective rallies. The lack of significant movement by whales and insufficient trading volume are also contributing factors."
+    },
+    {
+        "id": 38,
+        "title": "Crypto Price Today: Bitcoin below $35,000; Ethereum holds $1,900; Altcoins rally up to 6% - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin and other cryptos rose, with Bitcoin hitting a 17-month high after the Fed's dovish tone. Ethereum was slightly up, while altcoins rallied up to 6%. BLUR (+18.1%) saw positive price action, possibly due to speculation it could be the world's biggest NFT marketplace. Total crypto market cap rose modestly to $1.33 trillion, with increased trading volumes. Bitcoin and Ethereum are at important resistance levels, while altcoins could continue to rally. The Graph (GRT) is an indexing protocol with potential for growth."
+    },
+    {
+        "id": 40,
+        "title": "Prometheum.Prodigy Revolutionizing Ethereum Scalability with Cybersecurity and AI Technologies with Layer 2 ... - Yahoo Finance",
+        "summary": "  Prometheum.Prodigy, a Layer 2 blockchain platform, is revolutionizing Ethereum scalability with cybersecurity and AI technologies. The platform reduces transaction costs and increases overall output by combining smart blockchain handling with advanced cybersecurity and AI. Features include an AI-powered trading bot, staking platform with attractive rewards, multi-chain exchange protocol, and integrated AI for smart contract optimization. Prometheum.Prodigy has a total supply of 1 billion tokens, with 5% going to marketing, development, and funding, 2% returned to holders, and the remaining 93% locked for liquidity. For more information, visit the company website."
+    },
+    {
+        "id": 45,
+        "title": "LHV Bank Founder Mulls Giveaway For $470 Mln Ethereum Wallet Recovery - CoinGape",
+        "summary": "  LHV Bank founder Rain L\u00f5hmus has revealed he is the owner of an Ethereum wallet holding $470 million worth of ETH, which he can no longer access due to losing the keys. L\u00f5hmus is open to collaborating with anyone who can help him recover the funds, even offering to share them. This situation highlights the importance of secure storage solutions for digital assets in the ever-evolving crypto landscape."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum: LHV Bank Founder Loses Key To $470 Million ETH - Watcher Guru",
+        "summary": "  Ethereum whale loses access to $470 million in ETH after buying 250,000 tokens during ICO for $0.31 per coin. Value grew 628,757% to $450 million. Banker, Rain L\u00f5hmus, lost private keys and cannot access holdings. He stated it's common to lose passwords and will split holdings with anyone who can help recover them. Private keys are highly secure and recovery is unlikely."
+    },
+    {
+        "id": 49,
+        "title": "Upcoming Bitcoin halving may put Ethereum's inflation rate in the shadow - CryptoSlate",
+        "summary": "  Upcoming Bitcoin halving may reduce Ethereum's inflation rate, according to CryptoSlate Alpha. To access paywalled content, users must lock a minimum of 20,000 ACS tokens through Access Protocol. Important disclaimers apply, and users are responsible for any losses associated with locking their ACS tokens."
+    },
+    {
+        "id": 50,
+        "title": "Ether (ETH) Set for 55% Surge After Key Technical Breakout, as Supply Turns Deflationary, Says This Well-Known ... - Cryptonews",
+        "summary": "  Ether (ETH) is set to surge by over 55% to $3,000, according to a well-known analyst. The analyst pointed to improved network activity and deflationary supply as key drivers of the potential price increase. Ether's supply is turning deflationary again, with the Ethereum network generating fees of around $36 million last week, leading to a higher burn rate. This could boost optimism for the long-term value proposition of Ether. However, the analyst also noted that Bitcoin has increased its market dominance over Ether in recent weeks, which could potentially limit Ether's upside. The ETH/BTC exchange rate recently rallied back to the north of its 21-day moving average, indicating a potential turnaround. If the analyst's target price is reached, ETH/BTC could potentially rise towards resistance in the 0.058 area. However, if Bitcoin continues to lead the broader market rally and Ethereum network activity falls again, a retest of the 2022 lows under 0.05 could occur."
+    },
+    {
+        "id": 55,
+        "title": "Rain L\u00f5hmus Misplaces Key to Ethereum Millions - Cryptopolitan",
+        "summary": "  Rain L\u00f5hmus, a banker from Estonia, has lost access to a large sum of Ethereum (ETH) worth $470 million due to a misplaced private key. L\u00f5hmus invested $75,000 in Ethereum in its early days and saw an astronomical return of over 628,000%. Despite the vastness of his digital wealth, L\u00f5hmus has not invested substantial effort into recovering the access codes to his wallet. The incident highlights the vulnerabilities of blockchain technology and the recurring challenge of misplacing passwords. The story underscores the need for measures like Ledger's cloud-based key recovery service to mitigate the risk of loss in the cryptocurrency community. According to research, nearly 10% of the Bitcoin supply may be irretrievable, representing a significant portion of digital assets that could reduce the circulating supply of these currencies."
+    },
+    {
+        "id": 56,
+        "title": "Coinbase Director Uncovers Lost Ethereum Wallet with $474 Million Belonging to Estonian LHV Bank Founder - Crypto News Flash",
+        "summary": "  Coinbase director Conor Grogan discovered an Ethereum wallet with $474 million worth of ETH, linked to Rain Lohmus, the founder of Estonia's LHV Bank. The wallet has been inactive since the 2014 Ethereum ICO and has received airdrops, but Lohmus has lost the access keys. Lohmus is seeking help to recover the lost keys through artificial intelligence or other means. The discovery highlights the potential for growth in the cryptocurrency realm and the importance of safeguarding digital assets."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Why Bitcoin, Ethereum, and Solana Jumped Over 10% in the Last 24 Hours - The Motley Fool",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCryptocurrencies jumped over 10% in the last 24 hours, with Bitcoin, Ethereum, and Solana leading the gains. The sudden surge is attributed to momentum trading and liquidations of short positions, which added selling pressure to a market with lower liquidity. The recent inflation data and the potential for the Federal Reserve to stop raising rates and even lower them sooner than expected also contributed to the rally. The long-term trend for cryptocurrencies is still higher, but volatility is expected to continue. Solana is the top cryptocurrency for long-term investment due to its low costs and high speed."
+    },
+    {
+        "title": "Why Ethereum Bulls Are Turning to LSD - Decrypt",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum's upcoming upgrade, Shanghai, is driving the growth of liquid staking tokens (LSDs). These tokens allow users to stake their Ethereum and earn rewards, with the promise of withdrawing their holdings from the network. Lido Finance is the largest LSD project, with over 88% of the market share. The upgrade will allow stakers to withdraw their holdings, reducing risks and increasing demand for LSDs. Lido has overtaken MakerDAO as the largest DeFi protocol."
+    },
+    {
+        "title": "Polygon tests zero-knowledge rollups, mainnet integration inbound - Cointelegraph",
+        "summary": "  Polygon, an Ethereum layer-2 scaling protocol, is testing zero-knowledge rollups (zk-Rollups) technology ahead of full integration with its mainnet. The development of the technology, called Polygon zkEVM, has been ongoing for over three years and involves generating zero-knowledge proofs on the Ethereum blockchain. The team has confirmed that zero-knowledge proofs are possible on Ethereum and has passed over 12,000 zk-Proofs in a testnet. The development of zkEVM offers a myriad of benefits, including faster finality and lower fees, and is described as the end game for layer-2 scalability. The project differs from fellow Ethereum layer-2 scaling network StarkNet in that it focuses on natively scaling the Ethereum ecosystem instead of just scaling transactions in a different VM format."
+    },
+    {
+        "title": "Polygon: The Second Layer of Blockchain - DailyCoin",
+        "summary": "  Polygon, a new parallel blockchain, has been created to address Ethereum's scalability problems. It runs alongside Ethereum and allows for faster transactions while connecting users to all Ethereum projects. Polygon uses a Proof-of-Stake consensus mechanism, similar to Ethereum, where validators stake MATIC tokens to validate blocks and receive a cut of newly minted MATIC. This incentivizes honest behavior among validators and helps to solve Ethereum's scalability problem."
+    },
+    {
+        "title": "Optimism (OP), Polygon (MATIC) or Arbitrum: Which Ethereum L2 Is Dominant? - U.Today",
+        "summary": "  In a recent analysis, cryptocurrency analyst DeFi Mochi compared the key indicators of Optimism (OP), Polygon Network (MATIC), and Arbitrum, revealing insights into which Ethereum L2 is dominant. Here are the main findings:\n\n1. Polygon Network (MATIC) usage spiked in Q4 2022 due to a catalyst.\n2. Optimism (OP) quadrupled its ERC-20 transfers market share in the last three months, siphoning some of Arbitrum's activity.\n3. Polygon (MATIC) is the leader in daily transactions, but Optimism (OP) is closing in.\n4. Arbitrum is whale-dominated, with 3,968 large wallets holding 25% of its funds.\n5. Optimism (OP) has a higher number of wallets with ERC-20 balances, with over 789,000 crypto enthusiasts using it for token transfers.\n6. Arbitrum demonstrated the most impressive growth in total value locked"
+    },
+    {
+        "title": "How to connect the Avalanche network to MetaMask? - TradingView",
+        "summary": "  To connect the Avalanche network to MetaMask, users need to follow these steps:\n\n1. Install the MetaMask Chrome extension and click \"Get Started\" on the MetaMask welcome page.\n2. Import an existing cryptocurrency wallet or create a new one by clicking on \"Create a wallet.\"\n3. Click on the \"Add a network\" button and enter the following information: Network Name: Avalanche Network, New RPC URL: <https://api.avax.network/ext/bc/C/rpc>, ChainID: 43114, Symbol: AVAX, Explorer: <https://snowtrace.io/>.\n4. Click on \"Save\" to complete the process.\n5. Transfer AVAX tokens from an Avalanche wallet to the C-Chain blockchain if they reside on the P- or X-Chain blockchains.\n6. Send the AVAX coins to MetaMask by clicking on \"Send\" from the left menu in the Avalanche wallet, selecting \"C Contract\" as the source chain, and entering the amount to be sent to MetaMask.\n7. Copy the address in the"
+    }
+]

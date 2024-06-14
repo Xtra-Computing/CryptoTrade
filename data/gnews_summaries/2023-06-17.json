@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Why Ethereum\u2019s price rise is not cause for celebration yet - AMBCrypto News",
+        "summary": "  Ethereum's price has increased by nearly 2% in the last 24 hours, but market indicators suggest a change in trends. Investors are losing confidence in centralized exchanges (CEXes) after the US Securities Exchange Commission (SEC) charges, leading to a decline in the supply of Bitcoin and Ethereum on Binance. Ethereum investors are moving their assets to self-custody or decentralized exchanges (DEXes), as evident from Dune's data. Despite Ethereum's revenue declining, its exchange reserve is green, suggesting no under selling pressure. However, ETH's daily chart indicates that the uptrend might continue, with market indicators looking bearish."
+    },
+    {
+        "title": "The 3 Best Ethereum Mining Pool Options - CoinCentral",
+        "summary": "  The article discusses the top three Ethereum mining pools, Ethpool/Ethermine, Nanopool, and Dwarfpool, based on their hash rate power, fees, and other features. The pools have different minimum payout thresholds, with Nanopool having the lowest at 0.2 ETH, and Dwarfpool having the highest at 1.01 ETH. The article also mentions that since Ethereum moved to Proof-of-Stake, mining is no longer used to secure the network, and instead, validators stake ETH to secure the network. The article concludes that the choice of mining pool depends on personal comfort and the ability to sell the mined Ethereum."
+    },
+    {
+        "title": "This Ethereum Upgrade Might Change NFTs Segment for Good, Here's How - U.Today",
+        "summary": "  Ethereum's latest upgrade, ERC-6551, has the potential to revolutionize the non-fungible token (NFT) segment. This upgrade allows NFTs to control ERC-4337-enabled cryptocurrency wallets, enabling them to make transactions, store assets, and interact with DeFi protocols like regular non-custodial wallets. The possibilities for ERC-6551-powered NFTs are endless, including collecting POAPs, displaying them in a transparent and tamper-proof form, and associating them with in-game wallets for a more immersive gaming experience. The upgrade is backward compatible, meaning all existing NFTs can be equipped with the full range of ERC-6551 functionalities, changing the narrative in the global NFT ecosystem."
+    },
+    {
+        "title": "Ethereum Devs Kick Against Uniswap\u2019s V4 Open Source \u201cFailed\u201d Promise - ZyCrypto",
+        "summary": "  Uniswap, a decentralized exchange (DEX), has faced backlash for its new upgrade V4, which was released under a Business Source License (BSL) instead of the previously promised open-source license. Developers have criticized Uniswap for misrepresenting its open-source nature, with some calling it a \"misrepresentation\" and \"insulting to actual open-source software.\" Uniswap's founder, Hayden Adams, addressed the controversy on YouTube, explaining that the four-year period is not as long as it seems and aims to balance incentivizing innovation with giving exclusive rights to the protocol. Despite the controversy, the V4 has been praised for introducing a new smart contract feature called \"hooks\" that allows developers to expand liquidity pools and increase customizability."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin, Ethereum See Gains As Quant Becomes Top Gainer - ABP Live",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin and Ethereum prices rose, with Quant emerging as the top gainer (18.30% 24-hour gain). Other notable gainers included Frax Share, Sui, Pepe, and Trust Wallet Token. On the other hand, BitTorrent(New) was the biggest loser (2.38% 24-hour loss). The global crypto market cap stood at $1.06 trillion, with a 24-hour gain of 2.22%."
+    },
+    {
+        "title": "InQubeta's Staking Feature Is Way More Lucrative Than Ethereum and Cardano's - BSC NEWS",
+        "summary": "  InQubeta's staking feature offers higher potential returns than Ethereum and Cardano, with a minimum staking requirement and a dedicated reward pool. Investors can earn rewards by staking QUBE tokens and contributing to the platform's growth and security. The staking feature is more accessible and flexible, allowing investors to unstake their tokens at any time and adapt their strategy based on their individual preferences. InQubeta's mission to support AI startups aligns with the staking feature, making it an attractive investment opportunity. The presale has already raised over $400,000, with industry experts predicting potential returns of up to 30 times the initial investment."
+    },
+    {
+        "title": "What is Neo? China's Ethereum Rival - Asia Crypto Today",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nNEO is a blockchain platform that aims to create a \"smart economy\" by leveraging smart contracts and digital assets.\n\n* Emerged in 2014 as Antshares, rebranded to NEO in 2016\n* Developed by Da HongFei and Erik Zhang\n* Uses a unique dual-token system with NEO (indivisible) and GAS (divisible)\n* NEO is used for network governance, while GAS is used for operations and storage\n* NEO has a number of advantages, including multilingual support, decentralized storage, native oracle, and self-sovereign identity\n* NEO is a founding member of Poly Network, allowing for interoperability with other blockchains\n* Committed to creating a \"smart economy\" and supporting the development of decentralized applications (DApps)"
+    }
+]

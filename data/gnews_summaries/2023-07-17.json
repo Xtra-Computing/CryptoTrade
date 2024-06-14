@@ -1,0 +1,130 @@
+[
+    {
+        "title": "'Carbon-negative' Celo to 'return home' to Ethereum as layer-2 - Blockworks",
+        "summary": "  Celo, a carbon-negative blockchain, is planning to transition from its current independent chain to a layer-2 network on Ethereum using the Optimism stack. The move aims to align Celo more closely with Ethereum and leverage its economic security. The transition will occur as a hard fork and will not affect end users or existing dApps, including those in the regenerative finance stack. The move is expected to help Celo grow and reduce network storage expenses."
+    },
+    {
+        "title": "Celo Proposes to Ditch Own Standalone Blockchain for Layer-2 Network on Ethereum - CoinDesk",
+        "summary": "  Celo, a decentralized finance (DeFi) platform, is proposing to shift from its standalone blockchain to a layer-2 network on Ethereum. This change could simplify liquidity sharing, boost security, and provide a seamless developer experience. Celo is already compatible with the Ethereum Virtual Machine (EVM), making it easy for Ethereum developers to port their existing apps or create new ones using similar tools."
+    },
+    {
+        "title": "Ethereum Price Prepares For The Next Move As Risk of Bounce Grows - NewsBTC",
+        "summary": "  Ethereum price is consolidating losses near $1,900 after failing to break above $2,000. The cryptocurrency is at risk of a bounce, but a move above $1,930 is needed to trigger a fresh rally. Support levels are at $1,920, $1,900, and $1,850, while resistance levels are at $1,950, $2,000, and $2,120. Technical indicators, such as MACD and RSI, are losing momentum in the bearish zone."
+    },
+    {
+        "title": "Proto-Danksharding Is Going to Change Ethereum Completely\u2014And for The Better - Bitrates",
+        "summary": "  Proto-danksharding is coming to Ethereum in Q4 2023, which will allow rollups to add cheaper data to blocks and reduce network fees. This is the first step towards danksharding, which involves splitting the blockchain into smaller, more efficient chains. The upgrade will use blobs to store data, which can be retrieved efficiently and will help alleviate the network burden. The Dencun hard fork will implement proto-danksharding, and the blobs will set the foundation for data sharding. Ethereum will use KZG commitments as its polynomial commitment scheme. The upgrade is nearing the final stages of planning, and an in-depth specs document will be released soon."
+    },
+    {
+        "title": "Ethereum Stablecoin Developer Ethena Surpasses Epic Milestone - U.Today",
+        "summary": "  Ethena, a crypto start-up, has raised $6 million in seed funding for its innovative stablecoin project, USDe, which utilizes Ethereum derivatives and a hedging mechanism to maintain a stable value relative to the US dollar. Unlike previous attempts, Ethena's approach uses collateral from users to hedge price exposure through shorting Ethereum via perpetual swaps, setting it apart from current stablecoin leaders USDC and USDT. The funding round was led by Dragonfly and received support from prominent investors in the cryptocurrency industry, including BitMEX founder Arthur Hayes."
+    },
+    {
+        "title": "Celo Blockchain Proposes Return to Ethereum to Become Layer 2 - Unchained - Unchained",
+        "summary": "  Celo blockchain, a Layer 1 chain born from Ethereum, is considering a transition to an Ethereum Layer 2 chain. cLabs, the entity behind Celo, proposes using Optimism's OP Stack and EigenLayer for off-chain data availability, while maintaining low fees and no changes to existing dApps or mobile-first features. The transition would not impact end users or CELO holders, but validators and full node operators would need to run an additional Ethereum node. The community is invited to a governance call on July 21 to discuss the proposed changes."
+    },
+    {
+        "title": "Unstoppable Domains adds .eth domains through Ethereum Name Service - Cointelegraph",
+        "summary": "  Unstoppable Domains has announced support for.eth domain names from the Ethereum Name Service (ENS), allowing users to buy and manage Web3 domains in one place. This integration adds.eth domains to Unstoppable's existing support for.nft,.crypto,.wallet,.dao,.bitcoin,.polygon, and.blockchain domains. Users can now purchase.eth names through Unstoppable with added payment methods and functionality, and all.eth domains purchased will be registered through the ENS smart contract. Unstoppable also offers non-custodial domain management through Unstoppable Vault, allowing users to secure Web3 domains without an initial cryptocurrency wallet. Additionally, Unstoppable is developing.eth domain management tools, including the ability to set cryptocurrency addresses and transfer domains."
+    },
+    {
+        "title": "Ethereum Scaling Solution zkSync Unveils Latest Prover Tech \u2018Boojum\u2019 - Decrypt",
+        "summary": "  zkSync, a scaling solution for Ethereum, has launched the latest upgrade, Boojum, to lower the hardware barrier for users to participate in securing the network. The new prover can be operated with as little as 8 GB of hardware, compared to the average prover's demand for 500 GB. This will make it more accessible to users and potentially repurpose the mining industry. The upgrade also aims to decentralize zkSync's sequencer, responsible for ordering transactions in each block, and may launch a token in the future."
+    },
+    {
+        "title": "Aave Protocol launches stablecoin GHO on Ethereum mainnet, $2M minted - Cointelegraph",
+        "summary": "  Aave Protocol launched its stablecoin GHO on the Ethereum mainnet, with $2.19 million worth of GHO minted so far. GHO is a decentralized, over-collateralized stablecoin backed by a multitude of digital assets, including Ethereum's native currency Ether and Aave's native token AAVE. The launch followed a community governance vote with nearly 100% approval. Unlike centralized stablecoins, GHO's assets are transparent and verifiable, and its revenue will further bolster Aave's DAO treasury. GHO is currently available to the public and can be minted using assets as collateral. The launch marks another addition to the growing ranks of DeFi-native algorithmic stablecoins, but the total stablecoin market remains dominated by centralized issuers. At current, GHO is trading slightly below the $1 peg."
+    },
+    {
+        "title": "How to Buy Ethereum with PayPal in 2021 - Cryptonews",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nBuying Ethereum with PayPal is an option for those facing banking restrictions or high transaction fees. However, it's important to note that PayPal doesn't allow for withdrawal of crypto assets into a private wallet, limiting its use. There are three other methods to buy Ethereum with PayPal instantly via local exchanges or informal platforms, giving full ownership of digital assets. These methods include LocalEthereum, which connects buyers with sellers in various areas, and two other platforms. It's crucial to be cautious when using these platforms, as the buyer bears the risk of dealing with scammers."
+    },
+    {
+        "title": "Celo Blockchain is returning to the Ethereum ecosystem with the L2 transition - Forbes India",
+        "summary": "  Celo, a blockchain platform, plans to transition from an independent layer-1 blockchain to an Ethereum layer-2 (L2) solution, leveraging OP Stack as the architecture. The move aims to benefit from Ethereum's robust tooling and libraries, enhance compatibility, and expand development possibilities. The transition would involve establishing an off-chain data availability layer operated by Ethereum node operators and secured by restaked Ether (ETH). Existing validators would become decentralized sequencers for the L2 solution. The proposal is scheduled for discussion on July 21 and could mark a significant milestone in Celo's evolution and integration with the broader Ethereum network."
+    },
+    {
+        "title": "Bridging the Gap Between Solana and Ethereum: Neon EVM Debuts on Solana Mainnet - Crypto Briefing",
+        "summary": "  Neon EVM, an Ethereum Virtual Machine, has launched on Solana mainnet to bridge the gap between Ethereum and Solana's computing models. It enables Ethereum DApps to utilize Solana for transaction settlements with minimal code reconfiguration. Solana's average transaction fee is $0.0002, a 10,000-fold saving compared to Ethereum's $2 average fee. The launch has also activated the Neon DAO, a community that will influence the future of Neon EVM."
+    },
+    {
+        "title": "Just-In: Gnosis Unveils Visa-Certified Debit Card at Ethereum Conference - CoinGape",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nGnosis, a leading blockchain company, has unveiled Gnosis Pay and Gnosis Card, the world's first decentralized payment network and self-custodial debit card. The card is Visa-certified and will initially be available in EU and EEA countries, with expansion plans for Q4 in the US, Brazil, Mexico, Singapore, and Hong Kong. Users can spend stablecoins and Visa payments on the card, and the team is working on integrating MakerDAO's decentralized stablecoin, DAI, for further payment options. The service incurs a 30 EURe fee and marks the beginning of a new era in crypto payments."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Layer-2 Network Mantle Launches Mainnet Alpha With Modular Chain Approach - Decrypt",
+        "summary": "  Sure, here is a summary of the article in 249 tokens or less:\n\nMantle Network, an Ethereum Layer 2 blockchain, launched its mainnet alpha after 6 months of development and testing. It takes a modular chain approach, separating layers for execution, data availability, consensus, and settlement. The network aims to stay at the forefront of technological breakthroughs in the Ethereum ecosystem."
+    },
+    {
+        "title": "NFT News | Ethereum Up NFTs Not So Much | July Week 2 - NFT - Altcoin Buzz",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\udcc8 NFT market sees steady trading volume, but holders are holding amid mixed market conditions.\n\n\ud83d\udcca OpenSea trading sees a positive rise in unique active wallet transactions, but Blur activity dips.\n\n\ud83d\udd25 Solana NFTs experience a decline in various indicators, while Polygon NFTs on OpenSea see a surge in average price and trading volume.\n\n\ud83d\udcb0 Get Protocol raises $45 million to revolutionize the ticketing industry with NFTs, while a CryptoPunk DJ signs with WME and plans music releases.\n\n\ud83d\udcf0 Binance Labs invests $15 million in crypto game publisher Xterio, and an iconic Notorious B.I.G. photo is auctioned as an Ethereum NFT."
+    },
+    {
+        "title": "About Linea: A groundbreaking Ethereum scalability solution - OKX",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\n* About Linea: a groundbreaking Ethereum scalability solution by ConsenSys.\n* Ethereum faces scalability challenges due to high network congestion, limited transaction throughput, and high fees.\n* Linea addresses these challenges by leveraging zk-SNARKs, zkSync, and StarkWare technology for off-chain scaling and privacy.\n* Linea's architecture consists of a zkEVM rollup network, which processes transactions off-chain while maintaining Ethereum's security and integrity.\n* Linea integrates with Ethereum and other blockchain platforms, enabling seamless migration of DApps and asset transfers.\n* Linea offers improved scalability, faster transactions, and lower fees, making it an attractive solution for developers and users.\n* Linea's roadmap includes phases for open-sourcing the codebase, achieving 100% EVM coverage, and decentralizing operators and governance.\n* Linea represents a significant step forward for Ethereum, p"
+    },
+    {
+        "title": "What Is Gnosis? How Decentralized Prediction Markets Work - Decrypt",
+        "summary": "  Gnosis is a blockchain project that started as a decentralized prediction market in 2015 and has since evolved into a broader ecosystem of products and services. The project's main components include:\n\n1. Gnosis Chain: an Ethereum sidechain for stable transactions that leverages the xDai token.\n2. CoW Protocol: a permissionless decentralized exchange (DEX) that matches buyers and sellers through multi-token batch auctions and executes trades at the most favorable available price.\n3. Safe: a customizable multisignature wallet infrastructure that operates as a smart contract wallet on the Ethereum network.\n4. GnosisDAO: a decentralized collective that stewards the Gnosis ecosystem through futarchy, a form of governance where prediction markets play a crucial role in determining which policies will have the most positive effect.\n5. Conditional Tokens: a new asset class designed to facilitate the creation of highly liquid prediction markets.\n6. Gnosis Auction: a platform that helps projects discover a fair price for their token."
+    },
+    {
+        "title": "Today in Crypto: Gnosis Released Pay and Card Products, cLabs Proposes Migrating Celo to Layer 2 Built on ... - Cryptonews",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nToday in crypto, Gnosis released Pay and Card products, allowing users to spend digital assets directly from their wallets. cLabs proposed migrating Celo to Layer 2 built on Ethereum for increased security and potential impact. Unstoppable Domains added ENS-based.eth domains, making it the first one-stop shop for Web3 domains. DFINITY launched a $5 million DeAI grant for projects leveraging AI on the Internet Computer blockchain. ConsenSys met with investors about potential fundraising, but claims it's not actively engaged in a formal process. Finally, security news highlighted the importance of proper key management in the wake of recent hacking incidents."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin above 30k mark, Ethereum and other tokens trade mixed - CNBCTV18",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin is above $30k, Ethereum and other tokens are mixed. Bitcoin's moving average indicates a 'Buy' sentiment, while market oscillators indicate a 'Neutral' sentiment. Ethereum is trading within a narrow range of $1,900 to $1,950 this week. Dogecoin fell, Solana and Shiba Inu gained. The trade volume for these tokens was $8.3B, $707M, and $91M respectively in the last 24 hours."
+    },
+    {
+        "title": "Fantom (FTM) Founder Andre Cronje Says Multichain Hack Was a \u2018Big Blow\u2019 to Ethereum Rival\u2019s Ecosystem - The Daily Hodl",
+        "summary": "  Fantom (FTM) creator Andre Cronje revealed that the recent Multichain exploit was a \"big blow\" to the Ethereum (ETH) rival's ecosystem. The Fantom team was misled about Multichain's security level, and they are now exploring options to make victims whole. The total value locked (TVL) in Fantom has drastically fallen, from $200 million to $67 million, and Multichain has shuttered its operations. The incident highlights the risks of investing in cryptocurrencies and the importance of thorough due diligence."
+    },
+    {
+        "title": "How to Buy Ethereum on eToro - Latest Cryptocurrency Prices & Articles",
+        "summary": "  How to Buy Ethereum on eToro: A Comprehensive Guide\n\nEthereum is a popular cryptocurrency with growing implications in various sectors. eToro is a trusted exchange platform that offers a straightforward and secure way to acquire and manage Ethereum investments. This guide will walk you through the process of buying Ethereum on eToro, including creating an account, depositing funds, and setting up a crypto wallet.\n\nThe Role of Ethereum in the Crypto World\n\nEthereum is the second-largest cryptocurrency by market capitalization, with implications in finance, art, gaming, and technology. It aims to provide a platform for developing and deploying decentralized applications (dApps) and introduced the concept of self-executing contracts.\n\nWhat is eToro Platform?\n\neToro is a user-friendly and straightforward brokerage and social trading platform that offers multi-level security features, such as 2FA verification, cold storage, FDIC-insured USD balances, and KYC. It has grown exponentially since its"
+    },
+    {
+        "title": "Ethereum (ETH) Price Prediction | Guide to Ripple SEC Lawsuit Victory and New Fast Growing Crypto ApeMax - Analytics Insight",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum (ETH) price history: surged in 2021, collapsed in 2022. Current price: $1,864.58.\n\nApeMax: new cryptocurrency with innovative tokenomics, staking rewards, and early-bird discounts. Presale currently open.\n\nEthereum unlikely to reach $100,000 per coin soon.\n\nUncertain if Ethereum will be worth $100,000 in 2025.\n\nEthereum unlikely to crash to zero, but risks include market volatility, regulatory changes, and consumer sentiment.\n\nEthereum has a future due to its robust developer community, ongoing improvements, and versatility in dApps and smart contracts.\n\nPurchase of cryptocurrencies not suitable for all individuals, and ApeMax is not available to people from blocked countries."
+    },
+    {
+        "title": "News Explorer \u2014 Unstoppable Domains Now Supports Ethereum Name Service Domain Endings - Decrypt",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nUnstoppable Domains now supports Ethereum Name Service (ENS) domain endings, allowing users to register simpler names like \"me.eth\" instead of long wallet addresses. The platform aims to attract new users by offering.eth domains for sale, along with other endings like.crypto,.nft, and.polygon. Features like autorenewal and fiat payment options are also being implemented to make domain management easier."
+    },
+    {
+        "title": "News Explorer \u2014 Aave Launches GHO Stablecoin on Ethereum Mainnet - Decrypt",
+        "summary": "  Aave has launched its GHO stablecoin on the Ethereum mainnet after a community governance vote. 2.19 million GHO have been minted so far and the stablecoin is backed by Ether and AAVE. Revenue from GHO will boost Aave's DAO treasury."
+    },
+    {
+        "title": "ZkSync Introduces Mass-Usable STARK Proof System - Crypto Times",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nzkSync introduces Boojum, a new STARK-based proof system that enhances processing capabilities and accessibility. Boojum leverages STARK technology and operates efficiently on consumer-grade GPUs, reducing storage requirements and verification costs. This innovation strengthens Ethereum's layer-2 scaling solution and sets the stage for a scalable and cost-effective era of Ethereum layer-2 scaling."
+    },
+    {
+        "title": "Bitcoin and Ethereum Show Limited Upside While InQubeta Projections show 500% Growth in 2023 - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nInQubeta (QUBE) is a new cryptocurrency that is gaining traction due to its innovative features and potential for exponential growth. While Bitcoin and Ethereum have dominated the crypto market, QUBE offers a unique value proposition through its focus on AI technology, community-driven governance, and security features. The presale for QUBE has raised over $1.4 million and the project has plans to launch a staking dapp, NFT marketplace, and decentralized governance platform. Investors are optimistic about QUBE's potential for significant returns in the near future."
+    },
+    {
+        "title": "Celo proposes upgrade to transition network to an Ethereum L2 - Invezz",
+        "summary": "  Celo, a mobile-first and EVM-compatible blockchain network, is proposing an upgrade to transition into an Ethereum Layer 2 (L2) protocol. The upgrade, if adopted, will see Celo leverage Ethereum's security features and benefit from increased cross-community collaboration, compatibility, and low gas fees. The proposal will go through a governance vote, and CELO holders will not be impacted. The token is currently trading at $0.57, up 10% in the past 24 hours and 18% in the past week."
+    },
+    {
+        "title": "Celsius Is Selling, More Pain For BNB, LINK, And SNX? - NewsBTC",
+        "summary": "  Celsius, a bankrupt crypto lender, has started selling its non-Bitcoin and non-Ethereum crypto assets, including BNB, LINK, SNX, BONE, and ZRX. Approximately $23.5 million worth of these tokens have been transferred to FalconX and OKX. This move could impact the token valuations of the affected projects. XRP, another altcoin, has seen a price increase after a US Judge ruled that it is not a security. However, most altcoins, including BNB, LINK, and SNX, have seen losses in recent days."
+    },
+    {
+        "title": "Arthur Hayes's \"Holy Grail\" Stablecoin DeFi Project Ethena Raises $6M - Ethereum World News",
+        "summary": "  Arthur Hayes's \"Holy Grail\" Stablecoin DeFi Project Ethena Raises $6M\n\nEthena, a startup developing a stablecoin and digital savings bond backed by derivatives, has secured $6 million in seed funding. The project is led by DragonFly, a venture capital firm founded by Arthur Hayes, former CEO of BitMEX. Ethena aims to create a decentralized and accessible financial system, providing individuals with a stablecoin and savings bond that can be stored and grown without relying on traditional banking infrastructure.\n\nEthena's stablecoin is unique in that it is backed by equal amounts of staked ETH and perpetual swaps shorting Ethereum, allowing it to maintain its peg to the US dollar without depending on traditional banking systems. The savings bond is similar to a US treasury bond but is permissionless and accessible to individuals worldwide.\n\nThe project aims to address the limitations of existing stablecoins, which are often susceptible to manipulation and volatility. Ethena's approach leverages the decentralization and transparency"
+    },
+    {
+        "title": "Unstoppable Domains expands Web3 offerings with Ethereum Name Service support - Cryptopolitan",
+        "summary": "  Unstoppable Domains, a digital identity platform, has expanded its Web3 offerings by supporting Ethereum Name Service (ENS) domain names. This integration allows users to register simpler names like \"me.eth\" instead of lengthy wallet addresses. Unstoppable now offers.eth,.nft, and.polygon domain endings and has introduced features to streamline domain ownership and management, including auto-renewal and a vault for custody buyers' domains. The platform also supports both fiat payments and cryptocurrencies. Unstoppable is working on developing.eth domain management tools and is actively participating in the Web3 Domain Alliance to foster collaboration and standardization in the Web3 space."
+    },
+    {
+        "title": "zkSync unveils Boojum upgrade to enhance Ethereum Layer-2 scaling - Cryptopolitan",
+        "summary": "  Matter Labs, the developer of zkSync, has announced the launch of Boojum, a new proof system that will enhance the performance and accessibility of zkSync Era. Boojum is built on a new Rust-based cryptographic library and utilizes STARK technology to power zero-knowledge (ZK) circuits, promising several times more throughput than previous reliance on SNARKs. The upgrade will transition zkSync Era to a STARK-powered proof system, providing world-class performance on consumer-grade hardware, with reduced hardware requirements and improved performance. This will boost zkSync Era and the broader Ethereum ecosystem, enabling a wider range of users to engage with the network and contribute to its growth. The innovation presented by Matter Labs and zkSync holds the potential to shape the future of Layer 2 scaling solutions and has implications for decentralized finance (DeFi) applications and broader blockchain adoption."
+    },
+    {
+        "title": "What Is Ethereum Rainbow Chart & How to Predict ETH Price? - Captain Altcoin",
+        "summary": "  The Ethereum Rainbow Chart is a graphical representation of ETH\u2019s price movements that uses color bands to indicate whether ETH is overvalued or overvalued at any given time. The chart is based on logarithmic regression and features a color-coded spectrum to represent different price zones. The chart can be used to analyze historical and potential future ETH price movements and make informed investment decisions.\n\nThe chart features nine distinct bands, each representing a particular price level in historical context. If ETH is trading in the red band, it means that it is heavily overbought and could see a price correction. Conversely, if ETH is trading in the blue band, it means that it is very low compared to its historical trend and could be a good time to buy.\n\nThe Ethereum Rainbow Chart can be a useful tool for investors and Ethereum holders looking to make informed investment decisions. However, it should not be used as a foolproof prediction tool due to its limitations. It is best used as a complementary research tool in combination with other analytical resources."
+    }
+]

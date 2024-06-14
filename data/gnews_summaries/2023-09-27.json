@@ -1,0 +1,147 @@
+[
+    {
+        "id": 0,
+        "title": "How Ethereum Staking Stacks Up in the Proof-of-Stake Landscape - CoinDesk",
+        "summary": "  Ethereum's staking landscape has seen a surge in new participants, with over 800,000 validators currently in the pool. However, the constant influx has led some to propose a hard cap on new validators to prevent network strain. The current churn limit of 12 new validators per epoch may not be sustainable in the long term, with the queue for new joiners increasing as the network grows. This could lead to functional issues in the future."
+    },
+    {
+        "id": 2,
+        "title": "Ethereum Revenue Soars to $10B, Outshining Tech Titans Microsoft and Facebook - CCN.com",
+        "summary": "  Ethereum's revenue has soared to $10 billion in the past seven years, outshining tech giants Microsoft and Facebook. The cryptocurrency's network revenue could grow to $51 billion per year by 2030, according to sources. Ethereum's versatility and applications have contributed to its growth, making it a preferred platform for various industries. The cryptocurrency's transaction fee revenue goes to validators who secure the network, and positive predictions on the price of Ethereum (ETH) appear to be prevalent in September 2023."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum OFAC compliance dips to 45% post-Merge upgrade - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's OFAC compliance has decreased significantly after the Merge upgrade, with only 45% of blocks adhering to OFAC standards. This is due to censorship relays used by entities such as Binance, Celsius Network, and Coinbase, which harm Ethereum's neutrality. Only three of the seven major relays are OFAC-compliant, and all blocks built by these relays will censor non-compliant transactions. Grayscale abandoned its rights to PoW Ethereum tokens, and some firms are launching EthereumPoW exchange-traded products."
+    },
+    {
+        "id": 8,
+        "title": "Ethereum centralization is becoming a serious problem - Protos",
+        "summary": "  Ethereum is facing a centralization problem as a small number of validators, including Lido, Coinbase, and Binance, control a large portion of the network's validator set. This concentration of power could lead to systemic risks and undermine the decentralization of the network. Lido, in particular, has grown significantly since its launch and now controls a significant portion of the network's liquid staking validation. Other areas of proof-of-stake Ethereum, such as layer 2s, are also centralizing, with multisig wallets controlled by corporate signers custodying all ETH in the three largest layer 2s. This has led to concerns about the decentralization of the network and the potential for centralized roll-ups to take over."
+    },
+    {
+        "id": 10,
+        "title": "Ethereum Address Checksum Explained - Checksummed vs non-Checksummed ETH Address - CoinCodex",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum addresses have two versions: non-checksummed and checksummed. Checksummed addresses are preferable as they ensure address validity and prevent typos. Ethereum addresses can be easily checksummed using popular blockchain explorer services like etherscan.io. Checksum validation is important to prevent losing funds by sending coins to the wrong address. Ethereum addresses did not come with checksums by default, as users were expected to use domain names instead. However, services like ENS provide users with easy-to-remember domain names for their ETH addresses. Always use a checksummed address to ensure address validity and prevent typos."
+    },
+    {
+        "id": 11,
+        "title": "\ud83e\udd5b Ethereum just made history... \ud83d\udc40 - Milk Road",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83e\udd5b Ethereum hits $10B in all-time revenue, faster than Facebook and other major companies.\n\n\ud83d\udcb0 Crypto's billion-dollar opportunity: CS skins, with Counter-Strike skins being traded on a blockchain-based marketplace called DMarket.\n\n\ud83d\udeb2 Ride this bike and get paid in Bitcoin, with developers building a bike that mines Bitcoin as you exercise.\n\n\ud83c\udf6a Bakkt\u00ae Custody offers institutional-grade solution for crypto custody, with multi-layer security and a seasoned team.\n\n\ud83d\udea8 MoneyGram is launching a non-custodial digital wallet, and Chase U.K. will ban all payments related to crypto assets.\n\n\ud83d\udea8 A crypto wallet tied to the Sinaloa Cartel was been sanctioned by the U.S. government, and Vitalik Pic of the Day is... (insert image)."
+    },
+    {
+        "id": 15,
+        "title": "Will Ethereum Recover? - Watcher Guru",
+        "summary": "  Will Ethereum recover? The future of Ethereum is uncertain, but there are reasons to be optimistic. Ethereum is transitioning to a proof-of-stake (PoS) blockchain, which could increase security and scalability, and staking rewards could incentivize users to hold and stake their coins. Price forecasts vary, but some predict significant growth by 2025. However, the crypto market is volatile, and regulatory actions and technological risks should be considered. Investors should conduct thorough research and seek financial advice before investing."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum decentralization takes hit as Blocknative discontinues its relayer - Blockworks",
+        "summary": "  Blocknative, a major Ethereum relayer, has discontinued its MEV-boost relay service, citing economic viability issues. This departure has raised concerns about increased centralization on the Ethereum network, as only four relayers remain active. The remaining relayers do not charge fees for their services, which has made it difficult for them to operate sustainably. Some experts suggest that a relayer fee mechanism should be activated to address this issue and prevent further centralization."
+    },
+    {
+        "id": 17,
+        "title": "EigenLayer\u2019s Sreeram Kannan on the Hot (and Risky) Ethereum Trend of \u2018Restaking\u2019 - CoinDesk",
+        "summary": "  EigenLayer's Sreeram Kannan discusses the trend of \"restaking\" on Ethereum, where developers can leverage the network's trust to build new systems without creating a new blockchain. Kannan explains that by using the Ethereum trust network, developers can internalize innovation back into the network or aggregate it, rather than each innovation requiring a separate system."
+    },
+    {
+        "id": 19,
+        "title": "Five Reasons Why the World Needs a Standardized Ethereum Staking Rate - CoinDesk",
+        "summary": "  Sure! Here is a summary of the article in less than 256 tokens:\n\nEthereum is introducing a standardized staking rate to unlock a new global staking economy. Validators are now rewarded with both protocol emissions and priority transaction fees, and staking ether pays an interest rate. A reference rate is needed to help investors understand the benchmark, so a reliable number can be derived by observing the mean, annualized returns across a comprehensive validator population. This shift has the potential to create a new, global staking economy."
+    },
+    {
+        "id": 21,
+        "title": "Fidelity Executive Says Ethereum Investment Thesis Could Be Easier for Institutions To Grasp Than Bitcoin \u2013 Here\u2019s Why - The Daily Hodl",
+        "summary": "  Fidelity executive says Ethereum investment thesis may be easier for institutions to understand than Bitcoin due to simpler metrics and cash flow data. Ethereum's economic ecosystem allows for more cohesive investment strategies and price analyses. Institutional investors can construct scenario analyses to understand probabilities and size positions accordingly. Ethereum is trading at $1,601."
+    },
+    {
+        "id": 23,
+        "title": "What is Base, Coinbase's L2 network? - Cointelegraph",
+        "summary": "  Coinbase has launched Base, a layer 2 (L2) solution built on the Ethereum blockchain to scale the user base and improve transaction speed and cost. Base is secured by Ethereum and leverages the underlying security of one of the world's most secure blockchain platforms. It is designed to be easy for developers to build on, with full Ethereum Virtual Machine (EVM) compatibility, and is integrated with Coinbase for ease of use. Base uses a sequencer to bundle transactions and submit them to the Ethereum chain for settlement, and is working on a fraud proof system to ensure transactions are valid. The vision for L2-focused ecosystem growth is to create a superchain that has many hubs of ecosystems that operate independently at first, and as interoperability across these hubs improves, they would form a mesh that would help scale Ethereum. Base offers several advantages, including full EVM equivalence, low gas fees, fast transaction times, and ease of use. To get started with Base, users will need a Coinbase Wallet, and can on-ramp to Base directly from Coinbase and interact with Base DApps"
+    },
+    {
+        "id": 31,
+        "title": "Six Ethereum-Based Altcoins and Two Low-Cap Crypto Assets Flashing Bullish On-Chain Signal: Santiment - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nSantiment, a crypto analytics firm, reports that six Ethereum-based altcoins and two low-cap crypto assets are showing bullish on-chain signals. The supplies of these assets are falling on exchanges as they are moved into self-custody. This is a positive sign for future prices, according to Santiment. Additionally, the number of transactions of two Ethereum-based assets, Linear Finance (LINA) and Decentraland (MANA), by whales has hit a three-month high. However, the levels of Bitcoin (BTC) discussion on social media platforms have fallen to a three-month low, indicating \"market greed.\""
+    },
+    {
+        "id": 33,
+        "title": "Bitcoin Price Up 30% Versus Ethereum, New 2023 Lows Incoming? - NewsBTC",
+        "summary": "  Bitcoin (BTC) has seen a 30% increase in value versus Ethereum (ETH) in 2023, with bulls showing no signs of slowing down. Despite attempts by ETH to reach higher highs, BTC has pushed lower, registering new 2023 lows and extending gains from early 2023. The medium-term trajectory is guided by events in mid-March 2023, where ETH prices plummeted drastically versus BTC. However, BTC bulls have extended their gains, but with light trading volume. Regulatory pressure and hacking incidents have negatively impacted activity in the past two quarters. The upcoming Bitcoin halving event in 2024 could create a supply shock, potentially pushing BTC lower and testing June 2022 lows."
+    },
+    {
+        "id": 34,
+        "title": "ETH Staking Has a Bright Future, Despite Regulatory Uncertainty - CoinDesk",
+        "summary": "  ETH staking has potential despite regulatory uncertainty, with hope for US policy change. Increased access through thoughtful regulation would benefit users, industry, and US by regulating control points. Current enforcement-based policy is driving users away from regulated entities."
+    },
+    {
+        "id": 37,
+        "title": "Banking clients had $96 billion in crypto positions in 2022 - Ledger Insights",
+        "summary": "  Banking clients had $96 billion in crypto positions at the end of 2022, according to the Basel Committee. This includes positions on behalf of clients, with seven banks in the Americas accounting for the entire amount. Direct exposure of banks to crypto-assets declined sharply, with a 69% decrease in global exposure to \u20ac343 million across 13 banks. Tokenized assets made up 98% of the Rest of the World exposure, which was the only region that didn't fall sharply. Bank digital asset custody also dropped by 40% in Asia, with two banks reporting for both periods."
+    },
+    {
+        "id": 42,
+        "title": "Ethereum Price Stages Recovery But Can It Overcome This Key Hurdle? - NewsBTC",
+        "summary": "  Ethereum price is recovering after a recent drop, with the current price around $1,590. The recovery is supported by a break above a key bearish trend line and the 100-hourly Simple Moving Average. If the price can close above $1,600 and $1,620, it could lead to a steady increase towards $1,720 and potentially even higher. However, if the price fails to clear the $1,620 resistance, it could lead to another decline with potential support at $1,580 and $1,565. Technical indicators, such as MACD and RSI, are losing momentum in the bearish zone, but are still above 50, indicating a potential for a continued recovery. Major support levels are at $1,565 and $1,540, while major resistance levels are at $1,620, $1,650, and $1,660."
+    },
+    {
+        "id": 43,
+        "title": "North Korean Hackers Lazarus Group Holds Over $46,000,000 in Bitcoin, Ethereum and Other Crypto: On-Chain Data - The Daily Hodl",
+        "summary": "  North Korean hackers Lazarus Group has been found to hold over $46 million in cryptocurrency, including Bitcoin, Ethereum, and Binance Coin, according to on-chain data from 21.co. The data is based on 295 crypto wallets identified by the FBI and OFAC, and the Lazarus Group has been involved in several high-profile hacks in the past two years, including the theft of $960 million. The researchers note that the data is a lower-bound estimation of the group's crypto holdings and that the actual amount could be higher."
+    },
+    {
+        "id": 44,
+        "title": "With All Eyes on a Spot Bitcoin ETF Approval, Don\u2019t Sleep on ETH (or ETHE) - CoinDesk",
+        "summary": "  With a potential approval of a spot Bitcoin ETF imminent, the author suggests that investors should also consider Ether (ETH) for investment. They argue that if a U.S. spot Bitcoin ETF gets approved, there is little argument for holding up a spot Ether ETF. The author highlights that Grayscale, a leading digital asset investment firm, plans to convert its ETHE and other products into ETFs, indicating a possible approval for ETH ETFs. The author also notes that ETH markets are less liquid than BTC, which means the incremental buying from an ETF could have a more material impact on price. Additionally, the author believes that ETH has better upside as the leading platform for Web3 development."
+    },
+    {
+        "id": 45,
+        "title": "Ethereum Creates 'Bullish' Divergence: 12% Rally to Follow? - Watcher Guru",
+        "summary": "  Ethereum (ETH) has created a bullish divergence on its daily timeframe chart, indicating that bears are losing power and bulls are gaining control. This could lead to a 12% rally in the near term. However, the ascent will be gradual due to profit booking and increasing selling pressure from exchanges and wallets with zero balance. The current price of $1591.6 is likely to be followed by a drop to $1422 over the medium term."
+    },
+    {
+        "id": 52,
+        "title": "Ethereum Price Prediction: Hovers Between $1,600 And $1,564 - CoinGape",
+        "summary": "  Ethereum price is trading in a wide descending trendline with low volatility and dwindling trading volumes, making it difficult for bulls to sustain the uptrend. The latest dip below $1,600 saw ETH plunge to $1,564 before a minor rebound to $1,598 on Monday. A falling wedge pattern formed on the daily chart allowed Ethereum to bounce off support at $1,564, but the price must swing above the wedge to validate the breakout. The Relative Strength Index (RSI) is recovering from oversold conditions, indicating that odds are in favor of Ethereum price climbing into the $1,600 range. However, resistance at $1,600 is elaborate on the four-hour chart, and TVL (Total Value Locked) in Ethereum's DeFi protocol has dropped from $31 billion to $21 billion, signaling increasing selling pressure."
+    },
+    {
+        "id": 53,
+        "title": "Ethereum Reaches $10B Revenue Faster Than Facebook, Microsoft - Crypto Times",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nEthereum has reached $10 billion in cumulative revenue since its launch in July 2015, faster than tech giants Facebook (7.5 years) and Microsoft (19 years). Ethereum generates revenue through gas fees on transactions such as smart contract creation, cryptocurrency transfers, and NFT minting. The blockchain has processed over 2.1 billion transactions and has a current market cap of $191 billion, second only to Bitcoin. Ethereum also leads the decentralized finance (DeFi) ecosystem with $48 billion in TVL (total value locked)."
+    },
+    {
+        "id": 57,
+        "title": "ETH Gate Saga Continues: What Is Lubin\u2019s \u2018Piece Of Paper\u2019? - NewsBTC",
+        "summary": "  Steven Nerayoff, an ICO participant, has revealed new emails related to the ETH Gate saga, involving Ethereum co-founder Joseph Lubin and other key figures. In a tweet, Nerayoff shared a transcript of an email from Lubin to him, where Lubin mentions having a \"piece of paper\" that could be relevant to the SEC's regulatory stance on Ethereum. A video clip featuring legal expert John Deaton suggests that this \"piece of paper\" may be an opinion letter written by lawyers Jeffrey Alberts and Fry Bertrand, which could have influenced the SEC's decision on Ethereum's security status. Nerayoff also highlighted a bio section from Alberts' website that suggests he helped structure the initial public sale of Ether, and noted a connection between Alberts and Marc Berger, who worked together at the Manhattan US Attorney Office's securities and commodities fraud task force. The article concludes by noting that the ETH price has crossed $1,600, despite the ongoing saga."
+    },
+    {
+        "id": 59,
+        "title": "How the Three Arrows Collapse Changed Ethereum DeFi Lending - Decrypt",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe collapse of Three Arrows Capital and Terra has changed the DeFi lending space, with a greater emphasis on risk management. Maple Finance CEO Sidney Powell says that borrowers and lenders are now more cautious, preferring sure returns over speculative ones. The industry is also focusing on counterparty risk management and contagion control. Maple Finance has launched a direct lending desk offering overcollateralized loans, and Powell believes that debt is a better asset to tokenize than equities due to its easier monitoring."
+    },
+    {
+        "id": 60,
+        "title": "Why Did NEAR Had More Active Users Than Ethereum in September? - Altcoin Buzz",
+        "summary": "  NEAR Protocol saw a surge in daily active addresses in September, with over 400,000 addresses, while Ethereum's number declined. This increase in user adoption is a positive sign for NEAR, but the token's price has only seen a 1% increase in the past week and is down 60% from its 2023 high. The NEAR Foundation has been onboarding Web 2.5 deals, which may be contributing to the increased activity on the network. However, the low daily transaction volume on the NEAR Protocol compared to its large number of active addresses suggests caution for investors."
+    },
+    {
+        "id": 61,
+        "title": "Crypto Price Today: Bitcoin holds $26,000; Ethereum nears $1,600; Polygon falls 3% - Business Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin and other cryptocurrencies are down today due to higher interest rates and a stronger US dollar. Bitcoin is holding above $26,000, but Ethereum is inching closer to $1,600. Other altcoins are also down, with Polygon falling 3%. The global cryptocurrency market cap is down slightly, and trading volumes have decreased. Tech view by Giottus Crypto Platform suggests that Bitcoin needs to take out the $28,200 level to maintain a bullish bias. Key support levels are $26,000, $25,100, and $24,500, while resistance levels are $26,500, $27,500, and $28,200."
+    },
+    {
+        "id": 66,
+        "title": "Staking Risks Are Vastly Misunderstood - CoinDesk",
+        "summary": "  Stakers in proof-of-stake (PoS) networks may be unaware of the risks involved in selecting a reliable validator. While stakers don't give up custody of their funds, they must assess the validator's reputation and potential for harmful behavior to avoid slashing or penalties."
+    },
+    {
+        "id": 68,
+        "title": "The DOJ\u2019s Puzzling Case Against Former Ethereum Advisor Steven Nerayoff - Coinpedia Fintech News",
+        "summary": "  The DOJ is pursuing charges against Steven Nerayoff, a former Ethereum advisor, despite having a co-defendant's guilty plea in a case involving extortion. Nerayoff has leaked email conversations involving Ethereum co-founders Vitalik Buterin and Joseph Lubin, suggesting that his contributions to the project are being discredited. The move has raised questions about the DOJ's motives and the broader implications for the cryptocurrency community. Some are wondering if Ethereum is facing a karmic reckoning after receiving a regulatory \"free pass\" compared to other cryptocurrencies."
+    },
+    {
+        "id": 73,
+        "title": "Ethereum ($ETH) Reaches $10 Billion in Revenue, Outshining Track Records of Tech Giants Like Microsoft and Adobe - CryptoGlobe",
+        "summary": "  Ethereum has reached $10 billion in revenue, surpassing tech giants like Microsoft and Adobe. The protocol generated $16.8 billion in fees since 2015, with 60.0% converting to revenue. However, Ethereum's network revenue has plummeted by 77% since last year, amid a wider crypto market slump. Despite this, a VanEck valuation projects that Ethereum could increase its annual revenue to $51 billion by 2030. Current data shows a downturn in Ethereum's key performance indicators, including daily transactions, active user addresses, and total value locked in DeFi platforms. The amount of Ether staked has increased, but this has not translated into heightened network activity."
+    }
+]

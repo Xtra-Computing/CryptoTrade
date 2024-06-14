@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Ethereum Briefly Stopped Finalizing Transactions. What Happened? - CoinDesk",
+        "summary": "  Ethereum experienced a brief transaction finalization halt today, according to Marius van der Wijden, a developer at the Ethereum Foundation. The issue was caused by a combination of two or three problems, but the chain recovered gracefully, revealing additional issues that can be improved to make Ethereum more resilient."
+    },
+    {
+        "title": "High Gas Fees Worth the Pain? Ethereum's Deflationary Model in Action - Blockworks",
+        "summary": "  High gas fees on the Ethereum network are causing frustration for users, but they are also contributing to the network's deflationary model. The Ethereum Improvement Proposal (EIP) 1559, implemented in 2021, introduced a mechanism for burning base fees, which has led to a reduction in supply and an increase in value. Institutional investors are taking notice, with many viewing Ethereum as a more attractive investment due to its deflationary nature. The network's fee burns are seen as a form of buyback, similar to traditional finance stock buybacks, which can drive price action for holders of ETH. Other layer-1 protocols, such as Solana, do not generate fees in the same way or burn them to reduce supply, making Ethereum stand out as a more attractive investment."
+    },
+    {
+        "title": "Vitalik Buterin Net Worth 2023: How Rich Is the Founder of Ethereum? - CoinCodex",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has an estimated net worth of over $400 million, primarily composed of Ethereum (ETH) tokens. His crypto wallet holds 244,001 ETH, worth $440 million, as of May 2023. However, his net worth could be higher due to unpublicized investments and crypto holdings. Buterin is a prominent figure in the blockchain industry and has been involved in various projects, including the Ethereum Foundation and the Plasma Group. Despite the recent crypto downturn, his net worth remains substantial."
+    },
+    {
+        "title": "Ethereum Gaming Altcoin Rallies After Project Gets Spot in Apple App Store - The Daily Hodl",
+        "summary": "  Axie Infinity, an Ethereum-based gaming altcoin, has rallied after being listed on Apple's App Store. The game, which features digital pets called axies that can be collected in NFT form, is now available for iOS users in select countries in Latin America and East Asia. This is the first time Apple has allowed external NFTs to be used in the App Store, and the news sent the AXS cryptocurrency soaring by 20%. While AXS has since retraced, it is still trading at a 6.1% increase over the past day, while most other cryptocurrencies are in the red."
+    },
+    {
+        "title": "Crypto Lender Compound Deploys on Ethereum Layer-2 Arbitrum - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto lender Compound is deploying its latest iteration, V3, on the popular scaling solution Arbitrum. This limited to a few cryptocurrencies, such as Ethereum, Arbitrum, Wrapped Bitcoin, and GMX, to manage risk. Compound's deployment on Arbitrum is part of the \"layer-2 season\" with the launch of various governance tokens and zero knowledge-powered rollup solutions. Arbitrum is the largest layer-2 scaling solution by TVL, with $5.8 billion, while zk-rollups, like Starknet and zkEVM, have a TVL of $320 million. Both solutions leverage rollups to batch transactions and reduce congestion on the Ethereum mainnet, keeping gas prices low."
+    },
+    {
+        "title": "The 3 Types of Cryptos That Could Outperform Bitcoin This Year - The Motley Fool",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThree types of cryptos have the potential to outperform Bitcoin this year:\n\n1. Ethereum replacements: Solana, Aptos, and Fantom are up over 100% this year and could challenge Ethereum's dominance in areas like DeFi and NFTs.\n2. Scaling solutions for Ethereum: Layer 2 solutions like Immutable, Optimism, and Polygon could help Ethereum process transactions faster and cheaper, making them essential to the blockchain's future success.\n3. Cryptos that help people stake on Ethereum: Lido DAO and Rocket Pool are up over 90% this year and could benefit from Ethereum's transition to proof of stake.\n\nThe author suggests that investors may want to consider these categories instead of putting all their eggs in one basket with Bitcoin. They also highlight that Ethereum itself is up 52% this year, making it a solid buy-and-hold option."
+    },
+    {
+        "title": "Ethereum Staking Needs Its (Honest) LIBOR - CoinDesk",
+        "summary": "  Ethereum staking, a process of earning passive income by holding Ether, may soon have a new rate based on LIBOR (London Interbank Offered Rate), a benchmark for interbank lending rates. This development could unlock new financial products and serve as a building block for Ethereum's monetary policy. Called CESR (Consensus-based Ethereum Staking Rate), this new staking rate has the potential to drive innovation in decentralized finance and beyond."
+    },
+    {
+        "title": "How to Use Etherscan? - Watcher Guru",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEtherscan is a powerful platform for exploring and interacting with the Ethereum blockchain. It provides a wide range of features, including search, transaction history, wallet addresses, and smart contracts. To use Etherscan, users can navigate to the website and familiarize themselves with the different features and functions. They can also use the API to build applications that interact with the Ethereum network. To withdraw Ether from Etherscan, users must have an external wallet address and confirm the transaction on the blockchain. Sending Ether using Etherscan is also relatively simple, and users can track the progress of their transaction using the transaction hash. Setting up an account on Etherscan allows users to save and track their favorite addresses and transactions and receive alerts when new transactions occur on the blockchain. Overall, Etherscan is an essential tool for anyone working with Ethereum, providing valuable insights into the blockchain and maximizing transaction potential."
+    },
+    {
+        "title": "ERC-6551: The new Ethereum standard unlocking fresh possibilities for NFTs - OKX",
+        "summary": "  ERC-6551 is a new Ethereum standard that expands the functionality of NFTs by allowing them to operate as their own smart contract accounts. This standard was created to address a limitation of ERC-721 tokens, which couldn't act as owners of other on-chain assets or perform actions like an Ethereum account. ERC-6551 introduces token-bound accounts (TBA) that come with all the capabilities of an Ethereum account, making NFTs more dynamic and interactive.\n\nThe benefits of ERC-6551 include improved capabilities, greater interoperability, and enhanced user friendliness. However, there are also limitations to the standard, such as high gas fees, limited compatibility, and lack of awareness. Despite these limitations, ERC-6551 unlocks new possibilities for NFTs, such as becoming repositories for in-game wearables and digital items, and incentivizing collectors through PFP (Profile-for-Proof) projects.\n\nOverall, ERC-6551 has the potential to revolutionize the NFT ecosystem by providing a more practical and"
+    },
+    {
+        "title": "Coinbase Halts ETH Staking Reward Withdrawals: Is SEC Action Related? - DailyCoin",
+        "summary": "  Coinbase has suspended ETH staking reward withdrawals due to a technical issue, amid rumors of an impending SEC enforcement action. The exchange received a Wells Notice in March and a broker-dealer expects an action to be filed in the coming weeks. Coinbase has vowed to fight any such order, but users are advised to be aware of potential issues and consider self-custody."
+    },
+    {
+        "title": "Yachtify (YCHT) Pre-Sale Gains Steam, Targets Whale Holders of Ethereum (ETH), Shiba Inu (SHIB) Cryptos - U.Today",
+        "summary": "  Yachtify (YCHT) is gaining traction in the crypto market as an alternative investment option to traditional cryptocurrencies like Ethereum (ETH) and Shiba Inu (SHIB). YCHT offers fractional yacht ownership, which allows investors to own a share of a luxury yacht without the full costs of ownership. The platform is currently in its presale stage, offering tokens at $0.12 each with a 30% bonus for early investors. Despite the recent turmoil in the crypto market, Ethereum whales are still confident in the future of ETH, while Shiba Inu (SHIB) holders are experiencing a third consecutive week of price drop due to the rise of the Pepe (PEPE) meme token. To join the Yachtify presale, visit <https://buy.yachtify.market>."
+    },
+    {
+        "title": "Scalability Magic of Ethereum Enigma: Unlocking Financial Wizardry and Enhancing Dogetti's Crypto Adventure - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum Enigma is a scaling solution for Ethereum that improves efficiency and reduces costs. It uses layer-2 technologies like state channels and plasma chains to offload transactions from the main blockchain. This has the potential to revolutionize the finance sector by enabling faster and more cost-effective transactions.\n\nDogetti is a meme-based cryptocurrency that has gained popularity due to its lighthearted nature. It has a presale currently underway and offers a 400% bonus for purchases made with the coupon code LAUNCHDETI.\n\nEthereum Enigma's integration with Dogetti could significantly impact Dogetti's scalability, speed, and cost efficiency. This could lead to a more seamless user experience and increased adoption of Dogetti in the volatile crypto market."
+    },
+    {
+        "title": "25-Min Ethereum Cold Wallet Issue Peeks Briefly As Big Eyes Coin's Stage 3 Price Returns - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's mainnet briefly froze for 25 minutes on May 11, causing panic among users and developers. The issue was resolved after 25 minutes, but the cause is still unknown. Despite this, Ethereum remains popular due to its network effect and first-mover advantage. Big Eyes Coin, an Ethereum-based meme project, has announced a return to its affordable $0.00017 price from Stage 3, and will launch its own online casino and play-to-earn games in August. The project has raised $36.8 million in its presale and will officially close on June 3."
+    },
+    {
+        "title": "How To Transform Physical Art into NFT Art? - Analytics Insight",
+        "summary": "  To transform physical art into NFT art, follow these steps:\n\n1. Digitize the artwork using a high-resolution scanner or professional photographer.\n2. Edit and enhance the digital image using image editing software.\n3. Choose an NFT platform and set up a digital wallet compatible with the platform.\n4. Mint the NFT by providing details about the artwork and attaching the digital image file.\n5. Pay the minting fees in the native cryptocurrency (usually Ethereum).\n6. Confirm the minting process and market and sell your NFT art through social media, art communities, and online platforms."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (17-May): Finally! ETH Bearish Flag Pattern is in Play. Time To Sell? - Bitcoinsensus",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe Ethereum price is showing a bearish flag pattern in the 15-minute timeframe, indicating a potential sell-off. The key resistance level to watch is $1,836, which must be maintained for the bearish prediction to remain valid. A break above this level would invalidate the pattern. The article provides a detailed analysis of the Ethereum price and offers a bonus campaign for new and existing users on the Bybit exchange."
+    },
+    {
+        "title": "Bitcoin and Ethereum Hardware Wallet Giant Releases New Update That Might Expose Seed Phrases \u2013 Beware and Stay Vigilant! - Crypto News Flash",
+        "summary": "  Ledger, a popular hardware wallet company, has released an update that has raised concerns among users. The new feature, called Ledger Recover, allows users to backup their seed phrases with a third party through an ID-based system. While the company claims the update is optional, many users are skeptical and fear that it could lead to backdoor attacks. The update has been criticized for potentially exposing users' security data, as Ledger has been compromised in the past. Some users have even destroyed their Ledger Nano X devices in protest. Ledger has defended the update, stating that it is optional and that the sharing of users' secret key phrases happens in a secure channel to three different companies. However, many users remain uneasy and are advising others to ditch the hardware wallet."
+    },
+    {
+        "title": "Coinbase launches Layerswap for zkSync Era - The Cryptonomist",
+        "summary": "  Coinbase has launched Layerswap, a solution that allows users to transfer funds to zkSync Era, a Layer-2 protocol that scales Ethereum with cutting-edge ZK technology. Layerswap integrates with 17 exchanges and 16 networks, enabling frictionless transfers of tokens such as ETH, USDC, and LRC. zkSync Era has been funded to the tune of $458 million and has seen a huge surge in network activity, with a TVL (Total Value Locked in DeFi) of nearly $200M across its ecosystem. The new Layer 2 scaling solution offers fast, low-power transactions without compromising network security. A future airdrop of zkSync Era is planned, and users are advised to transfer some of their ETH onto the two blockchains using MetaMask\u2019s self-custodial crypto-wallet."
+    },
+    {
+        "title": "How EigenLayer Is Going To Revolutionize Blockchain Security - Blockzeit",
+        "summary": "  EigenLayer, a new blockchain security protocol, has raised $50M in a Series A funding round led by Blockchain Capital. The platform utilizes a restaking mechanism to provide an added layer of security to the entire blockchain ecosystem. By reusing staked Ethereum, EigenLayer enables stakers to earn a higher yield and benefit from the success of multiple projects. The new protocol has been praised by Joseph Lubin, co-founder of Ethereum, and offers early restakers exclusive benefits such as a secured spot, skipping the withdrawal queue, maximizing staking opportunities, and accessing premium services. With its promising benefits, EigenLayer has the potential to revolutionize the blockchain industry and transform the way we think about blockchain security."
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Ethereum Price Reaches Key Turning Point, $1,900 Is The Key - NewsBTC",
+        "summary": "  Ethereum price is at a key turning point, with a resistance level at $1,900. If the price breaks above this level, it could lead to an increase towards $1,975. However, if the price fails to clear the $1,900 resistance, it could lead to another decline. Technical indicators such as MACD and RSI are losing momentum in the bullish zone, but the RSI is above 50. Major support levels are at $1,825, while major resistance levels are at $1,900."
+    },
+    {
+        "title": "Ethereum welcomes another zk rollup to mainnet - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has welcomed a new zero-knowledge rollup, Linea, to its mainnet. Developed by Consensys, Linea offers faster transactions and lower costs than Ethereum, while maintaining EVM compatibility. The layer-2 network will be integrated with existing Web3 products and introduce new features such as batch conflation, Canonical ERC-20 bridge, and dynamic fee mechanism. Linea also uses a multi-prover approach to prevent implementation risks. The company will unveil a major NFT collection on its network on July 18 and host a hackathon with prizes up to $50,000."
+    },
+    {
+        "title": "Alluvial raises $12 million to build out Liquid Collective, an Ethereum staking protocol for institutions - Fortune",
+        "summary": "  Alluvial, a software company, raised $12 million to build Liquid Collective, an Ethereum staking protocol for institutions. Backed by Ethereal Ventures, Variant, Brevan Howard Digital, Coinbase Ventures, Kraken, and Avon Ventures, the protocol supports \"liquid staking\" and differs from competitors by catering to institutions. With regulatory uncertainty surrounding staking, Alluvial prioritizes compliance and has a non-custodial model, fixed reward mechanism, and closely guarded entry. The company plans to use the funding to grow the team and expand staking services to other blockchain networks."
+    },
+    {
+        "title": "ConsenSys launches Linea zkEVM to further scale Ethereum - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nConsenSys launches Linea zkEVM, a layer-2 scaling solution for Ethereum, with significant scaling milestones in testing. Linea operates using zero-knowledge proofs and is EVM equivalent, allowing seamless interaction with the Ethereum blockchain. The network has produced 5.5 million unique wallets and 46 million transactions during its testnet period. ConsenSys has begun onboarding partners and highlights improvements in performance, transaction costs, and user experience. Linea integrates with MetaMask and offers faster throughput, lower transaction fees, and inherited security from Ethereum's mainnet. The network also supports nonfungible tokens, blockchain gaming, and social applications. ConsenSys launches Linea Ecosystem Investment Alliance to lend capital and advisory assistance to ecosystem builders. The alpha mainnet launch includes safeguards to protect users and DApps, and ConsenSys plans to open the network to end users during ETHCC in France. Layer 2 development firms like"
+    },
+    {
+        "title": "Here\u2019s How Ethereum (ETH) Could Ignite Nearly 35% Rally, According to Trader Who Rode 2023 Crypto Breakout - The Daily Hodl",
+        "summary": "  DonAlt, a popular crypto trader, predicts a potential 35% rally for Ethereum (ETH) if it breaks above its current resistance level of $1,935. He believes that ETH is consolidating in a favorable area and could ignite a rapid rally if it stays above $1,935 for several weeks. DonAlt suggests that ETH could reach $2,500 if it closes above $1,935, with little resistance in the way. However, he emphasizes that investors should do their own research and due diligence before making any investment decisions."
+    },
+    {
+        "title": "Aave DAO to Vote on Gho Stablecoin Deployment on Ethereum - CoinDesk",
+        "summary": "  Aave DAO to vote on deploying Gho stablecoin on Ethereum. Facilitators can generate/burn Gho tokens, enabling borrowing against collateral in Aave V3 pool."
+    },
+    {
+        "title": "Here\u2019s how Ethereum traders can navigate short-term trends - AMBCrypto News",
+        "summary": "  Ethereum traders are navigating short-term trends with conflicting signs on higher timeframe charts. The price action in the past three weeks showed volatility with no clear trend, retesting psychological resistance at $1900. On lower timeframes, the asset has been consolidating, with a range formation between $1843 and $1934. The OBV declined, indicating a potential downtrend. However, the RSI oscillated between bullish and bearish territory, with momentum for traders to profit on lower timeframes. The spot CVD remained flat despite a minor bounce from the range lows. The article concludes that until the range lows are ceded to the bears, buyers can look to bid in the $1840-$1860 targeting the high at $1935."
+    },
+    {
+        "title": "MetaMask Developer ConsenSys Brings Layer 2 Blockchain \u2018Linea\u2019 to Ethereum Mainnet - CoinDesk",
+        "summary": "  MetaMask developer ConsenSys has launched a layer 2 blockchain called Linea on the Ethereum mainnet. ConsenSys will act as a transaction traffic cop, directing transactions and packaging them into bundles to be sent to Ethereum. For now, only ConsenSys can submit zero-knowledge proofs to Linea's smart contracts on Ethereum."
+    },
+    {
+        "title": "Ether Staking Ratio Nears Key Milestone as Inflows Slow Amid Regulatory Pressures - CoinDesk",
+        "summary": "  Ether staking ratio nears key milestone as inflows slow amid regulatory pressures. Net flows into ETH staking plummeted after lawsuits, with some days showing negative flows for the first time since May. Inflows have since returned but at a lower level than in May."
+    },
+    {
+        "title": "Tron Co-Founder Unstakes $56 Million From Ethereum Via Lido, Will ETH Prices Fall? - NewsBTC",
+        "summary": "  Justin Sun, co-founder of Tron, withdrew 30,000 ETH (worth $56 million) from Lido, a liquidity staking service provider, on July 10. This withdrawal has reduced his Ethereum stake to 263,294 ETH, or $491.6 million at spot rates. The reasons for the withdrawal are unclear, but it could indicate Sun's intention to sell some of the ETH or transfer it to a different staking platform. Despite this transfer, Sun remains one of the largest stakers at Lido, accounting for over 9% of the total ETH staked. The Shanghai upgrade has allowed ETH holders to withdraw their assets, and despite earlier fears, the number of users staking ETH remains upward. However, the SEC's assessment that some proof-of-stake coins are unregistered securities has impacted ETH's price, along with other coins like Cardano's ADA and Algorand's ALGO."
+    },
+    {
+        "title": "ERC 7265: An Ethereum Standard For DeFi Security - CCN.com",
+        "summary": "  Sure, here are the key points from the article in less than 256 tokens:\n\n* ERC 7265 is a proposed Ethereum standard for DeFi security that introduces a circuit breaker mechanism to reduce potential losses and improve protocol stability.\n* The circuit breaker temporarily pauses token outflows when predefined thresholds are exceeded, giving developers flexibility to tailor the mechanism to their protocol's requirements.\n* User protection is strengthened, which can boost confidence and adoption of DeFi platforms.\n* The standard could impact DeFi risks by adding security, reducing risk, improving protocol stability, and enhancing interoperability.\n* The success of ERC 7265 will depend on community support, technical viability, and successful implementation.\n* Standardization efforts, including the introduction of ERC 7265, can contribute to larger adoption by increasing interoperability and user confidence."
+    },
+    {
+        "title": "Macro Guru Raoul Pal Predicts New All-Time Highs for Ethereum This Year, Says Weakening Dollar To Boost Crypto - The Daily Hodl",
+        "summary": "  Macro guru Raoul Pal predicts new all-time highs for Ethereum this year, citing a weakening dollar and strong performance of the Nasdaq-100 Index. Ethereum is currently trading at $1,880, up 1% in the last 24 hours. Pal also expects the US dollar index to break its support at 100, which could boost the performance of risk-on assets like Bitcoin and other cryptocurrencies."
+    },
+    {
+        "title": "62% of the Ethereum Supply Has Not Moved in at Least a Year - Macrohive",
+        "summary": "  In summary, the article discusses the current state of the ethereum market, highlighting both positive and negative signals. The main points are:\n\n1. Trading View: The article suggests that traders may slightly favor buying ethereum in the short term, with a slight bias for exchange outflows.\n2. Investment View: The article advises holding ethereum for the long term, citing a strong investor base and a positive outlook for the coin's profitability.\n3. Macro Signals: The article highlights several macroeconomic signals, including a strong labor market, continued Fed rate hikes, and a slightly positive outlook for inflation.\n4. On-Chain/Flow Signals: The article provides a detailed analysis of on-chain and flow metrics, including HODLer behavior, liquidity demand, futures activity, and DeFi trends.\n\nOverall, the article presents a mixed picture of the ethereum market, with both positive and negative signals suggesting a slightly bullish outlook."
+    },
+    {
+        "title": "Ethereum, Solana, Polkadot On-Chain Staking Enabled on Crypto.com - Watcher Guru",
+        "summary": "  Crypto.com has launched on-chain staking for Ethereum (ETH), Solana (SOL), and Polkadot (DOT). The minimum staking amount is 1.00E-08, and there is no minimum staking period. Rewards are distributed daily for Polkadot, every 2.5 days for Solana, and every 7 days for Ethereum. Staking allows investors to secure the network and receive rewards. Ethereum staking has seen a significant increase after the Shapella upgrade, with over 26 million ETH locked in staking. Solana's TVL has also shown an upward trend in 2023. Polkadot has 45.7% of its supply staked, which promotes greater stake involvement and higher stake rewards."
+    },
+    {
+        "title": "Aave DAO Floats Proposal To Launch Stablecoin GHO On Ethereum - Ethereum World News",
+        "summary": "  Aave DAO is proposing to launch a stablecoin called GHO on Ethereum's mainnet. Users will be able to mint GHO tokens using their collateral, and the interest rate will be adjustable through DAO governance votes. The proposal aims to generate additional revenue for the Aave DAO and make stablecoin borrowing more competitive on the platform. The proposal also includes a mechanism to cut down borrowing costs using staked Aave coins. Voting on the proposal opens today and ends on July 14th."
+    },
+    {
+        "title": "Ethereum: Will declining activity hinder growing revenue? - AMBCrypto News",
+        "summary": "  Ethereum's revenue grew by 56% in Q2, with a gross profit margin of 84%. However, daily active users (DAU) and average daily transactions decreased by -3% and -4% YoY, respectively. Despite this, the Ethereum ecosystem saw significant growth in layer 2 (L2) protocols such as Polygon, Optimism, and Arbitrum. The NFT sector also observed growth, with an increase in volume and number of sales, but floor prices of blue-chip NFTs declined. At press time, ETH was trading at $1,880.46, up 1.86% in the last 24 hours."
+    },
+    {
+        "title": "Bitcoin, Ethereum, Dogecoin Slightly Up Ahead Of Inflation Data Release: Analyst Says 'Pretty Damn Clear' - Benzinga",
+        "summary": "  Bitcoin, Ethereum, and Dogecoin are slightly up ahead of inflation data release. Bitcoin is up 0.37%, Ethereum is up 0.16%, and Dogecoin is up 0.19%. The global crypto market capitalization is at $1.19 trillion, up 0.19% over the last day. US stocks showed gains after a three-session decline, with the S&P 500 up 0.67% and the Nasdaq Composite up 0.55%. Analysts are predicting that the current consolidation phase of Ethereum could lead to a breakout, with the potential for ETH to reach $2,500 if it manages to rise above $1,935."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin, Ethereum and other tokens gain, Polygon up 10% - CNBCTV18",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nCrypto prices today: Bitcoin, Ethereum, and other tokens gained, with Polygon up 10%. Bitcoin at $30,592.2, Ethereum at $1,885.91, Dogecoin at $0.0002, Shiba Inu at $0.00002, Solana at $22.13, and Polygon at $6.91 billion. Trade volume was $14.67 billion, $5.9 billion, $219.52 million, $91.1 million, $532.54 million, and $530.64 million, respectively."
+    },
+    {
+        "title": "Ethereum Blockchain Game Pikamoon Raises $3.6 Million, Final ICO Phase Selling Out Fast - The Daily Hodl",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum-based game Pikamoon has raised $3.6 million in its ongoing ICO, with the final phase selling out fast. The game aims to revolutionize the blockchain gaming space by offering a realistic metaverse game with a unique earning model. Built on Unity and across two blockchains, Ethereum and MultiversX, Pikamoon offers smooth and glitch-free gameplay. Notable partners include Ethereum, Transak, Cryptonews.com, Kevuru Games, and MultiversX. The PIKA token has a deflationary nature, with 0.5% of tokens burned forever whenever a sell or transfer transaction occurs. Investors can enter the strategic market of the metaverse and gaming on the Ethereum blockchain. Find out more at the links below."
+    },
+    {
+        "title": "Consensys Launches Linea Mainnet, Unlocking a New Level of User Experience and Scalability for Ethereum - Financial IT",
+        "summary": "  Consensys has launched the mainnet alpha of its Linea network, unlocking a new level of user experience and scalability for Ethereum. The network has seen 5.5 million unique wallets and 47 million transactions in a three-month testnet phase, making it one of the largest and fastest-growing projects on Goerli. Linea's zkEVM offers out-of-the-box integrations with MetaMask and other popular web3 tools, and the network will soon be onboarding its testnet partners before opening broadly during EthCC. The mainnet alpha release includes several upgrades, such as a new outer-proof system and dynamic fee mechanism, and the network is expected to play a crucial role in making great advances in scalability and usability."
+    },
+    {
+        "title": "Crypto community with 94% historical accuracy sets Ethereum price for July 31 - Finbold - Finance in Bold",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCrypto community predicts Ethereum price for July 31 with 93.54% historical accuracy. As of July 11, the community estimates an average price of $1,848, a 1.24% decrease from the current price. Machine learning algorithm on PricePredictions expects ETH to reach $2,105 by the end of the month. Ethereum has climbed 62% in the past year, outperforming 87% of top 100 crypto assets. The price is currently trading above its 200-day simple moving average and has had 16 green days in the past 30 days."
+    },
+    {
+        "title": "How Much Ethereum Punks \u201cTake Down\u201d Will Damage Ethscriptions? - The Coin Republic",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Punks, a popular collection on the Ethereum-based inscriptions protocol Ethscriptions, has been taken down by its creator Middlemarch at the request of CryptoPunks creator Yuga Labs. The collection of 10,000 Ethscribed punks was created by Tom Lehman, co-founder of Genius.com, and was one of the first on the platform. The takedown includes the removal of the website and images from Ethscriptions.com, as well as deletion of related Tweets from Middlemarch. No official comment has been received from Yuga Labs regarding the instance."
+    }
+]

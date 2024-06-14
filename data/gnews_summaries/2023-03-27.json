@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Polygon's zkEVM Goes Live on Ethereum Mainnet - Blockworks",
+        "summary": "  Polygon, a layer-2 scaling solution, has launched its zkEVM technology on the Ethereum mainnet. This technology allows for the execution of smart contract transactions in a way that is verifiable without revealing the information itself, thereby increasing the capacity of the Ethereum network. The launch comes after Matter Labs' zkSync Era opened to the public on Ethereum mainnet. Polygon's zkEVM is EVM equivalent, while zkSync's offering is EVM compatible. The technology has undergone security audits and will continue to be audited in the coming months. The launch is seen as a significant step towards scaling the Ethereum network, but security measures are still being emphasized."
+    },
+    {
+        "title": "Ethereum's Role in the Growth of the Internet of Things (IoT) - Bitrates",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's blockchain technology has potential in IoT due to its secure data exchange, efficient transactions, and decentralized data management. Ethereum can be used in various industries such as healthcare, supply chain management, and smart homes. However, challenges like scalability and interoperability need to be addressed. The potential impact of Ethereum on IoT is significant, and innovation and new technologies can help overcome these challenges."
+    },
+    {
+        "title": "Polygon launches \u2018holy grail\u2019 zkEVM mainnet beta that aims to increase scale and decrease cost of Ethereum transactions - Fortune",
+        "summary": "  Polygon launched its zkEVM mainnet beta on Monday, bringing the \"holy grail\" of blockchain infrastructure to life. The technology uses zero-knowledge proofs to increase the scale and decrease the cost of Ethereum transactions. The cofounder of Polygon, Mihailo Bjelic, compared the impact of zkEVM to the effect of OpenAI's ChatGPT on artificial intelligence. The technology is a layer-2 scaling solution that builds on Ethereum's execution layer, providing massive possibilities for scaling while maintaining security and the established ecosystem. Several companies have already committed to using the zkEVM mainnet beta, and the technology is expected to bring buzz back to Web3."
+    },
+    {
+        "title": "dYdX Reveals Launch Date for Move From Ethereum to Cosmos - Decrypt",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\ndYdX, a decentralized derivatives exchange, will launch its V4 private testnet this Tuesday, marking a significant step towards leaving Ethereum and moving to Cosmos. The platform cited scalability issues on Ethereum as the main reason for the move. dYdX will fully transition to Cosmos by the end of September, allowing it to customize its blockchain and handle transactions faster. This move follows SushiSwap's recent decision to migrate from Ethereum to Cosmos. Despite the growth of decentralized exchanges like dYdX, centralized exchanges still dominate the market in terms of trading volume."
+    },
+    {
+        "title": "Ethereum sees some whale and retail demand, but here\u2019s the issue - AMBCrypto News",
+        "summary": "  Ethereum (ETH) is seeing demand from both whales and retail investors, with retail addresses holding at least 0.01 ETH reaching an 8-month high and larger addresses adding to their balances. However, the price of ETH is not experiencing a massive rally due to weaker exchange flows, with volume down in the last seven days and exchange outflow volume almost double that of inflow volume. Despite this, ETH is demonstrating some bullish signs, with a 3.6% uptick in the last 24 hours. Investors should watch for increasing demand in the next few days to gauge what to expect."
+    },
+    {
+        "title": "Polygon to Deliver Zero-Knowledge Powered Rollup - The Defiant - DeFi News",
+        "summary": "  Polygon, a Layer 2 blockchain, is launching a zero-knowledge powered rollup on March 27, which will offer enhanced privacy features and faster transaction validation than other Ethereum scaling solutions. The zkEVM, as it's called, will allow developers to deploy Ethereum-compatible code without needing to build it from scratch, making it a significant step towards scaling Ethereum. The launch is expected to be a game-changer for the DeFi community, which is counting on rollups to handle the increasing workload. However, the high levels of testnet activity for Scroll and zkSync 2.0 may be driven by speculation rather than actual adoption."
+    },
+    {
+        "title": "CFTC calls ETH a commodity in Binance suit, highlighting the complexity of classification - Cointelegraph",
+        "summary": "  The Commodity Futures Trading Commission (CFTC) has filed a lawsuit against Binance, claiming that the exchange engaged in transactions with digital assets, including Ether (ETH), that are commodities under the Commodities Exchange Act and CFTC regulations. This position is not new for the CFTC, as they have previously claimed that ETH is a commodity in other cases, such as the suit against FTX in December. However, the classification of ETH as a commodity may have implications for its security status, as SEC Chair Gary Gensler has expressed concerns about staking coins and their potential to be considered securities. The CFTC case against Binance does not hinge on the nature of ETH as much as the nature of the exchange's products, but it highlights the complexity of regulating digital assets and the potential for overlap between the SEC and CFTC's jurisdictions."
+    },
+    {
+        "title": "Bitcoin, Ethereum Fall as CFTC Sues Binance and CEO Changpeng Zhao - Decrypt",
+        "summary": "  Bitcoin and Ethereum prices dropped after the Commodity Futures Trading Commission (CFTC) sued Binance and its CEO Changpeng Zhao for violating trading and derivatives rules. The CFTC alleges that Binance has operated a facility for trading digital asset derivatives in the US since July 2019, despite claims that it would prevent US residents from accessing its platform. The lawsuit seeks to compel Binance to repay allegedly ill-gotten gains and pay civil penalties, and also seeks to ban the exchange from trading and registering within the US."
+    },
+    {
+        "title": "Polygon Launches Final Mainnet for zkEVM Solution to Scale Ethereum - Decrypt",
+        "summary": "  Polygon launched its final mainnet for zkEVM, a scaling solution that can scale Ethereum by batching transactions into zero-knowledge proofs. This technology allows for faster and more secure transactions on the Ethereum blockchain. The launch comes after zkSync launched its own scaling solution, and Polygon's co-founder urges caution for users onboarding to the network, as it is still relatively new and untested. Despite this, the network has already undergone extensive auditing and testing, and is being used by various crypto-native projects and Telef\u00f3nica Tech's digital transformation subsidiary."
+    },
+    {
+        "title": "410 Trillion Shiba Inu (SHIB) Burn by Ethereum's Vitalik Buterin Might Be Biggest of All Time: Details - U.Today",
+        "summary": "  Vitalik Buterin, co-creator of Ethereum, burned 410 trillion Shiba Inu (SHIB) tokens worth $7 billion in May 2021. This is the biggest cryptocurrency burn in history, surpassing previous transactions like $4.4 billion ETH move between Binance wallets. Buterin burned 90% of his SHIB holdings, removing them from circulation, and earmarked the remaining 10% for charitable causes. Other notable transactions include $1.94 billion Binance move to cold storage and $1.46 billion Tron transfer to Huobi exchange."
+    },
+    {
+        "title": "Ethereum [ETH] whales play \u2018shy guy\u2019 ahead of Shanghai Upgrade - AMBCrypto News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum whales with large holdings (10,000 to 1,000,000 ETH) have reduced their holdings in the last month, according to on-chain data. Meanwhile, whales with smaller holdings (10 to 10,000 ETH) have increased their holdings. This suggests a shift in investment strategies among Ethereum investors ahead of the Shanghai Upgrade. The upgrade is scheduled for April 12, and on-chain data reveals a decline in ETH's Mean Coin Age and Mean Dollar Invested Age, indicating a momentary drop in accumulation. Additionally, there has been a spike in ETH's supply outside of exchanges, suggesting that long-held coins have moved off exchanges and may have been staked."
+    },
+    {
+        "title": "Nvidia Says Crypto Adds Nothing to Society, Despite Profiting From Mining - Yahoo Finance",
+        "summary": "  Nvidia CTO Michael Kagan has expressed that crypto does not bring anything useful to society, despite the company profiting from crypto mining. Kagan hopes that Nvidia products are used for AI development rather than crypto mining. However, crypto has regained value in recent months, and the emerging Web3 gaming industry has seen substantial venture capital funding. Despite this, Nvidia has a mixed relationship with crypto, with the company trying to deter miners and releasing products designed for crypto mining. The company was fined $5.5 million by the SEC for failing to disclose the impact of crypto mining on its gaming business."
+    },
+    {
+        "title": "Nvidia says 'crypto adds nothing useful to society' after billions in mining sales - CryptoSlate",
+        "summary": "  Nvidia's CTO, Michael Kagan, has expressed a negative view on cryptocurrencies, stating they don't bring anything useful to society. He doubled down on his anti-crypto stance, saying he never believed in blockchain technology. Despite Nvidia's success in the stock market, its sales have been impacted by the shift away from crypto mining, with revenue for gaming GPUs falling to $1.57 billion after the Ethereum Merge. Interestingly, Nvidia's CEO, Jensen Huang, said in 2017 that cryptocurrency and blockchain are here to stay, but now the company seems to have turned its back on crypto."
+    },
+    {
+        "title": "News Explorer \u2014 Solana Protocol Cega Raises $5 Million, Expands to Ethereum - Decrypt",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nCega, a DeFi derivatives protocol, raised $5 million in new funding led by Dragonfly Capital with participation from Pantera Capital and Robot Ventures. This brings Cega's total funding to $9.3 million and values the company at $65 million, up from $60 million in its last valuation."
+    },
+    {
+        "title": "Vitalik Buterin Sends Hidden Message in First Polygon zkEVM Transaction - Decrypt",
+        "summary": "  Vitalik Buterin, the creator of Ethereum, sent a hidden message in the first transaction on Polygon's new zkEVM network. The message, \"Millions of constraints for man, unconstrained scalability for mankind,\" was encoded in hexadecimal. Buterin also set the gas limit for the transaction to 69, possibly referencing the meme number 69 and the number 420. This is a significant moment for scaling decentralized protocols, as Polygon zkEVM is billed as a next-generation blockchain network that can handle faster and cheaper transactions than Ethereum's mainnet. Other zkEVM networks are also in development, including rival zkSync, which launched its own mainnet last week."
+    },
+    {
+        "title": "Polygon\u2019s Zero-Knowledge Rollup Goes Live On Mainnet - The Defiant - DeFi News",
+        "summary": "  Polygon, a blockchain company, has launched its zero-knowledge rollup on Ethereum's mainnet, becoming the second such rollup to do so in four days. The launch marks a significant milestone in the scaling of Ethereum, as zero-knowledge rollups are considered the most promising technology for increasing the blockchain's capacity. However, the technology is still in beta and users are advised to exercise caution in the first few months of use. The launch of Polygon's zkEVM comes after a contentious race between different teams to develop the first Ethereum-compatible, zero-knowledge rollup. Despite the competition, Polygon's co-founder remains optimistic about the future of the technology and its potential to reignite interest in the crypto space."
+    },
+    {
+        "title": "News Explorer \u2014 DeFi Exchange dYdX to Migrate From Ethereum to Cosmos in September - Decrypt",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\ndYdX, a DeFi exchange, will migrate from Ethereum to Cosmos in September. The move comes due to Ethereum's lack of scalability, with a private testnet launching this Tuesday and a public testnet by the end of July. The mainnet launch on Cosmos is expected by the end of September."
+    },
+    {
+        "title": "Bears in the crypto market have started to fear Ethereum (ETH) and RenQ Finance (RENQ) and their strength can ... - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBears in the crypto market are fearing Ethereum (ETH) and RenQ Finance (RENQ) due to their strong fundamentals, high market capitalization, and consistent growth. ETH has a large developer community and wide range of use cases, while RENQ's unique approach to DeFi has gained investor attention. The potential for a market reversal is possible due to the volatility of the crypto market and investor sentiment. Click the link to buy RENQ tokens and visit the website for more information."
+    },
+    {
+        "title": "Cryptocurrencies are not 'useful to society', says Nvidia - Daily Mail",
+        "summary": "  Nvidia's CTO, Michael Kagan, has stated that cryptocurrency mining is not useful for society, despite the massive amounts of processing power required. He believes that AI, such as ChatGPT, is a more worthwhile use of energy than crypto mining. Kagan's comments come despite Nvidia selling GPUs for crypto mining, and the company's focus on providing chips to the gaming sector and other fields such as AU and robotics. Microsoft has recently purchased tens of thousands of Nvidia AI-focused GPUs to power the workload of OpenAI, the company behind ChatGPT."
+    },
+    {
+        "title": "Crypto surprise! Ethereum founder Vitalik Buterin backing Zambia's bid to be Africa's tech hub - HT Tech",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nZambia is looking to reinvent itself as an African technology hub with support from Ethereum co-creator Vitalik Buterin. Entrepreneurs are working with the government to create a regulatory and business environment that would attract more tech firms and capital. The country aims to attract more foreign investors, particularly from the US, and has already seen success with startups like Flutterwave and Chipper Cash. The government is committed to supporting the sector and has created the Ministry of Technology and Science. However, the success of the project will depend on legislation, particularly improving the ease and cost of getting work permits."
+    },
+    {
+        "title": "Big Eyes Coin Community Prepares For Bonanza As Launch Nears, Bitcoin & Ethereum Continue To Uptrend! - Analytics Insight",
+        "summary": "  Big Eyes Coin (BIG) is preparing for a launch and has already seen success in its presale, raising $32 million. Crypto investors are confident in the coin's potential, with some predicting it will soon rival Bitcoin and Ethereum. The coin has been giving out rewards and promo codes to its community to encourage investment. Bitcoin and Ethereum have also seen gains in recent days, with Bitcoin reaching $28,000 and Ethereum reaching $1,800. To learn more about Big Eyes Coin, visit its website or join its Telegram community."
+    },
+    {
+        "title": "dYdX Up 12% Following The Announcement Of Cosmos Testnet - Ethereum World News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\ndYdX, a popular DeFi exchange, has launched a private testnet on Cosmos, marking a significant step towards decentralization. The testnet has seen a 12% increase in the token's value since the announcement. dYdX plans to transition to a completely decentralized model by September 2023, eliminating centralized entities and preparing for the current regulatory landscape in the US. The founder and CEO, Antonio Juliano, believes that full decentralization is the only viable option for DeFi platforms."
+    },
+    {
+        "title": "List of historical events for Ethereum since its launch - Cryptopolitan",
+        "summary": "  Ethereum has undergone several significant updates since its launch, including Homestead in March 2016. This update introduced security enhancements, bug fixes, and increased scalability, making it a more production-ready platform. The Homestead hard fork marked the transition of Ethereum from a proof-of-concept to a more stable environment for dApp development and adoption."
+    },
+    {
+        "title": "Ethereum co-founder Vitalik Buterin initiates first transaction as Polygon zkEVM Mainnet Beta goes live - Cryptopolitan",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum co-founder Vitalik Buterin initiated the first transaction on Polygon's zero-knowledge Ethereum Virtual Machine (zkEVM) beta, live-streamed at ETHGlobal. The transaction included a message referencing Neil Armstrong's famous quote. Polygon has made all aspects of zkEVM code available to developers, and over 50 companies have agreed to build on the technology. However, co-founder Sandeep Nailwal cautions users to exercise caution as the technology is still in its early days."
+    }
+]

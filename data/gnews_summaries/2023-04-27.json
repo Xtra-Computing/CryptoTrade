@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Ethereum's Next Upgrade To Focus on Blobs - Blockworks",
+        "summary": "  Ethereum's next upgrade, Cancun, will focus on two key features: proto-danksharding (EIP-4844) and deactivating the SELFDESTRUCT opcode. Proto-danksharding aims to reduce transaction costs by introducing a new transaction type for temporary data storage. The second feature, deactivating SELFDESTRUCT, will pave the way for stateless Ethereum by shifting responsibility for storing the blockchain's full state to more specialized nodes. Other features considered for inclusion in Cancun include transient storage (EIP-1153) and EVM Object Format (EOF), but these are considered less urgent and may be prioritized in a future upgrade."
+    },
+    {
+        "title": "How to Perform Gas-Free Trades on Ethereum's 1st Layer - hackernoon.com",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nCoW Swap is a decentralized exchange that allows gas-free trades on Ethereum's first layer. It eliminates gas fees by replacing on-chain transactions with off-chain wallet signatures, then front-running trades to avoid paying ETH gas on limit orders."
+    },
+    {
+        "title": "CoinDesk Indices, Crypto Asset Manager CoinFund Launch an Ethereum Staking Benchmark Rate - CoinDesk",
+        "summary": "  CoinDesk Indices and CoinFund launch Ethereum staking benchmark rate, CESR. Franklin Templeton's Roger Bayston excited as it opens new pathways for industry, particularly for TradFi firms."
+    },
+    {
+        "title": "IRS Memo Addresses Blockchain Protocol Upgrades - McDermott Will & Emery",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nIRS releases memo on tax implications of blockchain protocol upgrades. Memo provides guidance on how upgrades may impact tax liabilities and potential tax implications for investors and businesses."
+    },
+    {
+        "title": "Finance experts set Ethereum price for the end of 2023 - Finbold - Finance in Bold",
+        "summary": "  Finance experts predict that Ethereum (ETH) will reach $2,758 by the end of 2023, according to a survey of 32 experts. However, some experts also expressed concerns about the potential for centralization after the Shapella upgrade. AI predictions suggest that ETH could reach $2,146 by the end of 2023, but this is less optimistic than the polled expert predictions."
+    },
+    {
+        "title": "CoinDesk Indices and CoinFund Announce CESR, the Benchmark Rate for Staking on Ethereum - Business Wire",
+        "summary": "  CoinDesk Indices and CoinFund have launched CESR, a composite ether staking rate benchmark for the Ethereum blockchain. CESR is a global floating rate derived from daily transaction fees and staking rewards, and it can be used as a fundamental building block for the Web3 economy. The benchmark can enable the creation of loans, bonds, futures, swaps, and other derivative products, and it can help enhance stability and risk management capabilities for investors. CESR captures all relevant block rewards and transaction fees, and it will be calculated and published daily by CoinDesk Indices. The launch of CESR has received support from Franklin Templeton, and it will be available to the public in the coming weeks."
+    },
+    {
+        "title": "Polygon Bridge for zkEVM Allows User to Withdraw from Ethereum - CoinGape",
+        "summary": "  Polygon Bridge now available for Polygon zkEVM, allowing users to withdraw funds from Ethereum in 30-60 minutes. UX improvements include transaction history, progress bar, and recent transaction panel. Bridges transferred using zk-technology are governed by smart contracts, offering a seamless experience. Polygon zkEVM launched last month as mainnet beta, open source, permissionless, and public, allowing any team to build atop it."
+    },
+    {
+        "title": "Shiba Inu Burn Rate Tumbles as Ethereum Whales Get Active - DailyCoin",
+        "summary": "  Shiba Inu's burn rate has plummeted as Ethereum whales are actively buying the token. Despite a brief drop below a multi-year support line, Shiba Inu has seen a buying spree on Coinbase, with 98% of retail investors on the platform purchasing the token. Meanwhile, the largest whales have taken advantage of the price drop to stock up on SHIB holdings. However, the Shiba Inu community has slowed down its burning activity, with only 47,664 tokens burned in the last 24 hours. The lack of motivation from the community stems from the fact that there is no automated way of burning the tokens. Despite this, Shiba Inu is evolving into a self-sufficient ecosystem via Shibarium, a Layer-2 scaling solution."
+    },
+    {
+        "title": "Consensus 2023: Ethereum's Next Frontier | Video - CoinDesk",
+        "summary": "  CoinDesk's Consensus 2024 is the longest-running and most influential crypto event, bringing together all sides of the industry. Register and buy passes now at coindesk.consensus.com."
+    },
+    {
+        "title": "Crypto Market Falls, Solana (SOL) and Ethereum (ETH) Down, But Sparklo (SPRK) Will Sour High - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto market is down, with Solana (SOL) and Ethereum (ETH) experiencing a decline. However, Sparklo (SPRK) is predicted to have a bullish run. Sparklo is a presale gem that allows investors to trade and invest in precious metals fractionally. It has partnered with jewelry stores and has measures in place to ensure liquidity and security. The platform is expected to grow and become a future crypto blue chip, making it a good investment opportunity."
+    },
+    {
+        "title": "Ethereum (ETH) Price Prediction VS Uwerx (WERX) Potential: Which Coin Is More Likely to Explode in 2023? - Analytics Insight",
+        "summary": "  Uwerx (WERX) has the potential to explode in value more than Ethereum (ETH) in 2023 due to its unique advantages in the decentralized freelancing market. Uwerx offers a decentralized platform with blockchain technology, transparency, and low fees, which appeals to freelancers and traders alike. The platform's token, WERX, has the potential to range between $1 to $1.5 by September 2023, offering a potential 10,000% to 15,000% ROI. Uwerx's commitment to sustainability, IP protection, rewards, and faster payment withdrawals also contribute to its potential success. Traders are excited about WERX and expect it to stand among the top crypto assets. To learn more about the Uwerx presale and potential purchase bonus, visit the links provided."
+    },
+    {
+        "title": "Blockchain Layer 1 vs. Layer 2: The Essentials - Bybit Learn",
+        "summary": "  Bybit Learn is offering up to 5,000 USDT in rewards for understanding the difference between Blockchain Layer 1 and Layer 2. Sign up now for a 20 USDT instant coupon and additional bonuses."
+    },
+    {
+        "title": "Rajagopal Menon, vice president, WazirX on Bitcoin or Ethereum, which is a better choice of investment - The Financial Express",
+        "summary": "  Rajagopal Menon, Vice President of WazirX, discusses the popularity of Bitcoin and Ethereum as investment choices. Bitcoin's decentralized and secure mechanism, as well as its authenticity, contribute to its popularity. Ethereum's adaptive Proof-of-Stake mechanism makes it versatile, but its unknown scalability may impact its popularity. The future of cryptocurrency depends on the purpose it serves, and both Bitcoin and Ethereum have potential to lead the market."
+    },
+    {
+        "title": "Solana's Phantom Wallet Goes Multichain: Adding Ethereum & Polygon Support - TronWeekly",
+        "summary": "  Phantom Wallet, a popular Solana-based crypto wallet, is expanding to support Ethereum and Polygon blockchains, allowing users to transfer assets across different chains, dApps, and NFT marketplaces. The integration is set to launch on May 1, 2023, and will be available across browsers, iOS, and Android. The wallet will also provide advanced NFT information and new features to prevent phishing attempts. The expansion to multiple blockchains speaks to the growing potential for a multichain world and could allow dApps and other projects to interact with consumers in a more seamless way. However, the news did not cause a significant spike in Solana's (SOL) value, which is currently trading at $21.76 with a 1.30% decrease in the last 24 hours and 5% decrease in the last seven-day chart."
+    },
+    {
+        "title": "How Can Developers Retrieve ETH from Ethereum's Sepolia Testnet? - Cryptopolitan",
+        "summary": "  How Can Developers Retrieve ETH from Ethereum's Sepolia Testnet?\n\n* Testnets are valuable tools for Web3 developers to test their projects before launching on the mainnet.\n* Sepolia is one of Ethereum's most significant proof-of-stake (PoS) testnets.\n* Developers can obtain Sepolia testnet ETH by using a Sepolia faucet.\n* Sepolia testnet ETH has the same functionality as real ETH on the Ethereum mainnet.\n* Developers can use Sepolia as a testing ground for their Web3 projects before launching on the Ethereum mainnet.\n* To perform transactions on the Sepolia testnet, developers need Sepolia testnet ETH as gas.\n* Sepolia is similar to Ethereum, allowing developers to design, create, test, and monitor their project's public performance before launching on the Ethereum mainnet.\n* Developers can add the Sepolia testnet network to their wallet and use a faucet to obtain Sepolia testnet ETH.\n* Sepolia"
+    }
+]

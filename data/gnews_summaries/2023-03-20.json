@@ -1,0 +1,74 @@
+[
+    {
+        "title": "NYAG calls Ethereum a security and destroys decentralization myth - CoinGeek",
+        "summary": "  The New York Attorney General (NYAG) has filed charges against the KuCoin exchange for illegally selling securities, and Ethereum (ETH) was specifically named as a security in the charges. The NYAG argues that ETH is not decentralized, as its development and management are largely driven by a small number of developers who hold positions in ETH and stand to profit from its growth. This aligns with recent statements from Securities and Exchange Commission (SEC) chair Gary Gensler, who has indicated that proof-of-stake (PoS) models, like those used by Ethereum, are securities. The SEC has taken action against lend-to-earn programs on cryptocurrency exchanges, and Nexo Capital paid a $45 million settlement over its lend-to-earn program. The NYAG's action against KuCoin is separate from any potential SEC charges against Ethereum directly. The ramifications of an SEC case against Ethereum could be significant, including fines and penalties, disgorgement of profits, and injunctions against further business. The NYAG"
+    },
+    {
+        "title": "What Is Arbitrum? Speeding Up Ethereum Using Optimistic Rollups - Yahoo Finance",
+        "summary": "  Arbitrum is a scaling solution for the Ethereum blockchain that uses optimistic rollups to speed up transactions. It relays all transaction information back to the main Ethereum blockchain and processes 40,000 transactions per second, compared to Ethereum's 14 transactions per second. Arbitrum also supports the Ethereum Virtual Machine (EVM), making it easy for Ethereum DeFi developers to integrate their decentralized applications (dApps) without modifications. The platform has raised $120 million in funding and has been integrated into several decentralized finance protocols, with over $2 billion worth of cryptocurrency locked up in its smart contracts. Arbitrum's development documentation explains that the platform processes transactions through a method called an optimistic rollup, which assumes that the transactions contained within the rollup are valid and can be settled on a proprietary sidechain. Any transactions confirmed through this process are rubber stamped with the \"AnyTrust Guarantee,\" which incentivizes validators to act honestly. Arbitrum does not have a token and instead settles transactions with ETH, the native cryptocurrency of the E"
+    },
+    {
+        "title": "After scalability, privacy is the next big thing in the blockchain space - Cointelegraph",
+        "summary": "  After scalability, privacy is the next big thing in the blockchain space, with public blockchains lacking in privacy compared to decentralization and transparency. Ethereum, which accounts for two-thirds of DeFi activity, recognizes the need for improved privacy, with a proposed \"stealth address system\" to increase privacy. However, this is an incomplete solution, and RAILGUN is a leading privacy solution that provides zero-knowledge proof technology to enable anonymous transactions and interaction with DeFi applications. RAILGUN is governed by a DAO and works directly on-chain, enabling users to transfer, swap, lend, borrow, and transact with all kinds of DApps anonymously. The deployment of RAILGUN on Arbitrum, a layer-2 rollup technology for Ethereum, brings privacy combined with speed and high throughput to the second-largest decentralized network."
+    },
+    {
+        "title": "Research: Why the Ethereum/Bitcoin ratio will continue to fall - CryptoSlate",
+        "summary": "  Research suggests Ethereum/Bitcoin ratio will continue to fall due to CryptoSlate Alpha's web3 membership, providing cutting-edge insights and knowledge through Access Protocol. Users must lock 20,000 ACS tokens to access paywalled content, and CryptoSlate is not responsible for any losses associated with locking ACS tokens."
+    },
+    {
+        "title": "Ethereum Classic\u2019s TVL recovers and here\u2019s the key driving factor - AMBCrypto News",
+        "summary": "  Ethereum Classic (ETC) has seen a surge in total value locked (TVL) fueled by increased activity from one of its decentralized exchanges (DEXs), HebeSwap. TVL peaked at $236,928, with HebeSwap contributing the majority of the growth. Despite ETC's anemic TVL compared to Ethereum (ETH), the network is seeing improved sentiment and on-chain metrics, including a pivot in weighted sentiment metrics and a surge in NFT trades volume. However, development activity on the network weakened over the weekend."
+    },
+    {
+        "title": "Microsoft Edge Testing Built-In Ethereum Crypto Wallet, Screenshots Show - Blockworks",
+        "summary": "  Microsoft is testing a built-in Ethereum crypto wallet in its Edge browser, allowing users to send and receive digital assets and NFTs. The wallet is non-custodial and users have control over their funds. Microsoft has partnered with Consensys to offer a swap feature for popular digital assets. The wallet is currently in a limited testing phase and could launch soon. Microsoft's move is seen as a pivot from its previous Web3 endeavors and a way to gain an upper hand against rival Google Chrome. The emergence of Web3 technologies has led to a growing trend of Web2 infrastructure companies exploring ways to integrate decentralized solutions into their platforms."
+    },
+    {
+        "title": "Polygon, Immutable Partner for New zkEVM Ethereum Gaming Network - Decrypt",
+        "summary": "  Polygon and Immutable, two Ethereum scaling networks, are partnering to create a new network called Immutable zkEVM, which will use Polygon's upcoming zkEVM technology. The new network aims to provide faster and cheaper transactions than Ethereum's mainnet, making it more useful for Web3 gaming and other decentralized applications. Immutable zkEVM is expected to launch in the second half of 2023 and will use Immutable's IMX token for gas fees and transaction sequencing. The partnership is seen as a way to expand the capabilities of Ethereum and provide a more appealing place for developers to build and grow their projects."
+    },
+    {
+        "title": "Top Ethereum Rival Could Be Gearing Up for Glorious Move, Says Investor Who Called 2022 Crypto Bottom - The Daily Hodl",
+        "summary": "  Venture capitalist Chris Burniske predicts a potential \"glorious move\" for Solana (SOL) as it approaches its 200-day moving average. Burniske previously identified Solana as an undervalued ecosystem with potential for growth, and Placeholder has been building an \"aircraft carrier strategy\" around it. If Solana can break its 200-day SMA, a big rally may be in store."
+    },
+    {
+        "title": "Crypto Market Witnesses Odd Relationship Between Bitcoin, Ether Volatility Metrics - CoinDesk",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCrypto market sees unusual correlation between Bitcoin and Ether volatility metrics, according to CoinDesk. Expert believes there is value in owning ETH variance ahead of Shanghai upgrade, citing underpriced event risk and cheap options."
+    },
+    {
+        "title": "Ethereum and its impact on the blockchain landscape - NewsWatch",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is a blockchain platform that supports the development of decentralized applications and smart contracts. Its architecture and technical specifications are unique, allowing for the creation of trustless and transparent applications. Ethereum's key features include its ability to support decentralized applications and smart contracts, as well as its use of smart contracts to automate agreements.\n\nEthereum has a wide range of use cases, including decentralized finance, non-fungible tokens, and supply chain management. It has the potential to drive innovation and disruption in various industries, but there are still challenges and limitations to its adoption and scalability.\n\nOverall, Ethereum is a significant player in the blockchain landscape, and its potential impact on various industries is significant. It is important for readers to explore Ethereum and its possibilities for innovation and disruption, and to consider its potential impact on their industries and businesses."
+    },
+    {
+        "title": "Render Network Eyes Solana Migration Ahead of Network Changes - CoinDesk",
+        "summary": "  Render Network to migrate from Polygon to Solana, per community poll. 55% support, 14% prefer Polygon, 31% other blockchains."
+    },
+    {
+        "title": "EOS Network Ventures Commits $20M to Build Dapps and Games on EOS Blockchain - CoinDesk",
+        "summary": "  EOS Network Ventures invests $20M in building Dapps and games on EOS blockchain. Competition for developer talent and token incentives heats up as newer networks emerge."
+    },
+    {
+        "title": "Bitcoin & Ethereum Price Surge Pumps Cryptocurrency Market \u2013 Big Eyes Coin Live Launch Looms As Vault PIN '300 ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCryptocurrency market capitalization increased to $1.11 trillion, with a 3.81% increase in 24-hour trading volume. Bitcoin and Ethereum prices surged, with Bitcoin reaching a 24-hour high of $26,234.39 and Ethereum reaching $1,726.62 after news of a target date for a Shanghai hard fork update. Big Eyes Coin, an ERC-20 meme token, has launched a vault PIN '300' for a 300% ROI on purchases of $100 or more. The project has raised over $31.7 million in presale tokens and will launch on the market at the end of stage 15."
+    },
+    {
+        "title": "Shiba Inu (SHIB) takes top spot as most popular meme token held by Ethereum (ETH) whales, experts say it's soon to ... - Analytics Insight",
+        "summary": "  Shiba Inu (SHIB) has become the most popular meme token among Ethereum (ETH) whales, according to data from WhaleStats. The token accounts for over 1/5th of the crypto held by these ETH whales. Orbeon Protocol, an up-and-coming crowdfunding and community VC project, has seen its token increase by over 20x since last November and is still in presale. SHIB started as a small project on the Ethereum blockchain and gained popularity after anonymous developer 'Ryoshi' sent 50% of the supply to Ethereum's creator Vitalik Buterin. The team continued to develop the project, building a decentralized dex and DeFi platform, and even gained the attention of Elon Musk. The Shibarium, a totally functional layer 2 blockchain, has just gone live on beta mode on the Goerli and Puppynet test networks, and the Orbeon Protocol staking dashboard has also gone live on Goerli. Orbeon Protocol allows small and medium-sized businesses to access a new way of fund"
+    },
+    {
+        "title": "Top 10 Cryptocurrencies with Their High Transaction Speeds in 2023 - Analytics Insight",
+        "summary": "  Here are the top 10 cryptocurrencies with high transaction speeds in 2023, according to the article:\n\n1. Ripple (XRP) - up to 3-5 seconds\n2. EOS - approximately 4,000 transactions per second (TPS)\n3. NEO - around 15 transactions per second (TPS)\n4. Cardano (ADA) - more than 1,000 transactions per second (TPS)\n5. Solana (SOL) - up to 24,000 transactions per second\n6. Steller (XML) - up to 1,000 transactions per second\n7. Tron (TRX) - roughly 2,000 transactions per second (TPS)\n8. Cosmos (ATOM) - up to 10,000 transactions per second (TPS)\n9. Ethereum (ETH) - approximately 15 transactions per second (TPS) (with potential upgrade to 100,000 TPS in Ethereum 2.0)\n10. Waves -"
+    },
+    {
+        "title": "Ethereum Fee Remains Low Despite Price Rise: What It Means - Bitcoinist",
+        "summary": "  Ethereum transaction fees have remained low despite the recent price rise, according to on-chain data. The average fees have fallen to $1.75, indicating that the network isn't too congested currently. This could be a good sign for ETH, as it means the price wouldn't encounter any notable transaction barriers and could potentially reach $2,000. The ETH price has risen 12% in the last week, trading around $1,780 at the time of writing."
+    },
+    {
+        "title": "Microsoft may integrate an Ethereum wallet into its browser - The Cryptonomist",
+        "summary": "  Microsoft is reportedly integrating an Ethereum wallet into its Edge browser, allowing users to interact with Ethereum-based websites and applications directly from the browser. While the feature is still unconfirmed, the integration could potentially lead to increased cryptocurrency usage and a profit-making opportunity for Microsoft. The move comes as Microsoft seeks to keep its browser up-to-date with new technologies, and as the company continues to compete with Google and Apple in the browser and search engine markets."
+    },
+    {
+        "title": "How is ERC-721 Used to Create Unique Digital Assets on the Ethereum Blockchain? - Cryptopolitan",
+        "summary": "  ERC-721 is a technical standard on the Ethereum blockchain that enables the creation and exchange of non-fungible tokens (NFTs). Unlike fungible tokens like ERC-20, each ERC-721 token is unique and represents a specific asset. The standard was proposed in 2017, adopted by the Ethereum community in 2018, and has since been used in various applications, including gaming, collectibles, real estate, ticketing, and identity verification.\n\nERC-721 tokens are created through smart contracts on the Ethereum blockchain, which define the parameters of the token, such as its name, symbol, and metadata. The smart contracts also establish the rules for minting, transferring, and burning ERC-721 tokens, ensuring their uniqueness and non-fungibility.\n\nThe potential uses for ERC-721 tokens are vast and varied, with applications across industries. In gaming, ERC-721 tokens can create rare and valuable in-game items, providing a more engaging and immersive experience for players. In collectibles,"
+    }
+]

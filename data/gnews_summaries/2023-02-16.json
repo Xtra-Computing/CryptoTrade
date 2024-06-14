@@ -1,0 +1,138 @@
+[
+    {
+        "title": "Ethereum Proof of Stake: Explained - Ledger",
+        "summary": "  Ethereum has transitioned from a Proof of Work (PoW) consensus mechanism to a Proof of Stake (PoS) mechanism in 2022. PoS is a more energy-efficient and secure way to validate transactions and add new blocks to the blockchain. In PoS, validators must stake a security deposit consisting of ETH on the network to participate in consensus. The validator with the most stake has the highest chance of being selected as the \"block proposer\" for the current time slot. New blocks are verified by assessing whether they are valid using the same copy of the blockchain's history. The Ethereum network selects validators based on their stake in the network, and the requirement to stake ETH incentivizes validators to act in the network's best interests. Finality refers to the time it takes to protect a transaction on the blockchain, and even after a transaction is confirmed, it is not immutable and can be changed or undone for a short period. Slashing is a disciplinary system used by PoS protocols to penalize validators for any harmful or irresponsible behaviors. PoS differs"
+    },
+    {
+        "title": "Ethereum Merge : Understanding the Merge Made Easy ! - CoinGape",
+        "summary": "  The Ethereum Merge is a significant upgrade that is expected to improve the scalability, decentralization, and security of the Ethereum blockchain. The upgrade will transition the network from a proof-of-work (PoW) consensus method to a proof-of-stake (PoS) method. This will allow the network to handle more transactions and reduce energy consumption. The upgrade is expected to improve the overall performance of the network and make it more environmentally friendly.\n\nThe Ethereum Merge is a complex process that involves switching from PoW to PoS. In PoW, miners compete to solve complex mathematical puzzles to validate transactions and create new blocks. In PoS, validators are chosen randomly to propose new blocks and validate transactions. The upgrade is expected to reduce the energy consumption of the network by 99.95%.\n\nThe upgrade is also expected to improve the scalability of the network. With PoW, the network can only handle a limited number of transactions per second. With PoS, the network can handle a much larger number of transactions, making it more scalable.\n\nThe Ethereum Merge is a significant event in the cryptocurrency space,"
+    },
+    {
+        "title": "Institutions Bullish on ETH Price Growth in 2023, Survey Finds - Blockworks",
+        "summary": "  Institutional investors are bullish on Ethereum's (ETH) price growth in 2023, according to a survey conducted by Nickel Digital Asset Management. Two-thirds of respondents expect the price of Ether to be above $2,000 by the end of 2023, with 72% predicting growth from its current level of $1,254. The survey cites Ethereum's move to proof-of-stake and the upcoming Shanghai upgrade as factors driving the optimism. Institutional investors are also increasing their use of DeFi this year, according to a separate survey."
+    },
+    {
+        "title": "Flashbots Proposes New Class of \u2018Matchmakers\u2019 to Share MEV Gains With Ethereum Users - CoinDesk",
+        "summary": "  Flashbots proposes new class of'matchmakers' to share MEV gains with Ethereum users. The MEV-Share protocol distributes gains from maximal extractable value to users, validators, and block builders. This is an early implementation of the SUAVE blockchain."
+    },
+    {
+        "title": "Ether Capital Corporation Allocates an Additional $18 Million to Ethereum Staking and Announces Changes to its ... - Business Wire",
+        "summary": "  Ether Capital Corporation, a public technology company listed on the NEO exchange, has allocated an additional $18 million to Ethereum staking and announced changes to its technical strategy. The company has staked 36,000 Ether (C$81.4 million equivalent), representing 79.4% of its portfolio, and plans to continue staking as much Ether as possible to support the Ethereum network. The company has also appointed Brett Bergmann as an advisor for technical strategy and execution, and Shayan Eskandari will be stepping down as Chief Technical Officer."
+    },
+    {
+        "title": "How Many Ethereum Are There in 2023? - Bankless Times",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum has 121.8 million coins in circulation (Q1 2023).\n\nThere is no fixed supply cap for Ethereum, allowing for an unlimited number of coins.\n\n18 million ETH coins can be mined per year.\n\nThere are 135.3 billion ETC (Ethereum Classic) coins in circulation.\n\nThe Ethereum blockchain was 175 GB large in 2021.\n\n5750 Ethereum blocks are mined per day.\n\nThere are around 2,151 nodes running on the Ethereum network.\n\nEthereum has the potential to become deflationary.\n\nSources: CoinMarketCap, Ethereum.org, Peter Szilagyi, Twitter, YCharts, Etherscan, GitHub."
+    },
+    {
+        "title": "Top Crypto Analyst Maps Path Forward for Bitcoin (BTC) and Ethereum (ETH) \u2013 Here Are His Targets - The Daily Hodl",
+        "summary": "  Top crypto analyst Altcoin Sherpa has provided his targets for Bitcoin (BTC) and Ethereum (ETH) in a new video. He expects BTC to rally to $25,000-$30,000 before collapsing to $20,000, while ETH could surge to $2,000 if BTC holds steady. Sherpa advises waiting for ETH to break $1,600-$1,700 before considering a long entry. BTC is currently trading at $22,568, and ETH is at $1,577."
+    },
+    {
+        "title": "Only 31% of Staked Ether May Be Profitable: Binance Research - CoinDesk",
+        "summary": "  Only 31% of staked Ether may be profitable, according to Binance Research. The total staking reward earned is around 1 million ETH, but only 43,200 ETH can be unstaked per day. The staked balance cannot be withdrawn on the day of the upgrade."
+    },
+    {
+        "title": "Ethereum price prints 'death cross' after losing 13% versus Bitcoin from 2023 peak - Cointelegraph",
+        "summary": "  Ethereum's price has fallen below its 200-day moving average, a technical pattern known as a \"death cross,\" which has previously preceded a 27.5% price correction. This comes as the US Securities and Exchange Commission cracks down on crypto staking services and as investment funds have flowed more to Bitcoin than Ethereum. The next potential targets for ETH/BTC are around 0.067-0.065 BTC, which has served as a strong support level in recent history, or a break below which could lead to an extended selloff towards the 200-week exponential moving average near 0.055 BTC."
+    },
+    {
+        "title": "Crypto Price Today Live: Bitcoin above $24,500; Ethereum, BNB rise over 7% - The Economic Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin price surged 11% to $24,582, while Ethereum rose 8.3% to $1,650. Other top crypto tokens also traded higher, with Polygon, Solana, Cardano, and BNB rising 9.1%, 6.0%, 5.5%, and 7.6%, respectively. The global cryptocurrency market cap rose 7.98% to $1.11 trillion, with a total volume of $6.65 billion in DeFi and $67.66 billion in stablecoins. Market indicators are neutral, with the Relative Strength Index (RSI) and Average Directional Index (ADX) indicating a neutral market. The MACD Level is at 519.38, signaling a \"Buy\" indicator, while the Stochastic RSI Fast is at 71.35 with a Neutral indicator."
+    },
+    {
+        "title": "Crypto Investors Snap Up $260,000,000 in Ethereum Rival That\u2019s Soared 220% This Year: Santiment - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCrypto investors have snapped up $260 million in Fantom (FTM), a rival to Ethereum (ETH), according to Santiment. Sharks and whales have unloaded $259.7 million worth of FTM, but small investors have quickly picked up the majority of these coins. Fantom has surged 220% this year, reaching a high of $0.656 on February 3rd. Meanwhile, the artificial intelligence blockchain project Fetch.ai (FET) has seen a huge whale transaction of 135 million coins. Altcoins are showing strength again, with FTM, Immutable X (IMX), and The Graph (GRT) performing well. Small shark investors are fleeing stablecoin Binance USD (BUSD) after the Wall Street Journal reported that the SEC intends to sue its minting company Paxos. Instead, these investors are investing in Tether (USDT) and USD Coin (USDC)."
+    },
+    {
+        "title": "Complete Guide On Ethereum \u201cMerge\u201d And Evolution Of Ethereum Network - Simplilearn",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nEthereum is set to undergo a major update called the \"Merge,\" which will transition the blockchain from proof-of-work (PoW) to proof-of-stake (PoS).\n\nThe Merge aims to increase the efficiency of the Ethereum blockchain by reducing energy consumption and improving scalability.\n\nThe update will merge the current PoW and PoS layers into a single PoS chain, with no effect on existing Ether.\n\nThe Merge has been delayed several times, with the latest estimate suggesting it will happen in a few months.\n\nExperts believe the upgrade will benefit Ethereum, leading to increased security, stability, and market share.\n\nInvestors are advised to take no action, as their holdings will remain unchanged.\n\nThe future holds potential for increased demand in the Ethereum blockchain, leading to higher prices.\n\nSome experts predict a $10,000 ETH bull run in 2022."
+    },
+    {
+        "title": "Bitcoin Eyes 25K Summit, Ethereum Climbs the Peak Too - DailyCoin",
+        "summary": "  Bitcoin eyes $25K summit, Ethereum climbs. Bears defend $25K zone, bulls have support near $24K. If Bitcoin breaks $25K, could reach $26K-$27K. Bears may push back, but bulls have lower support levels."
+    },
+    {
+        "title": "Why Ethereum Price Could Reach $1,800 Before The Rally Burns Out - NewsBTC",
+        "summary": "  Ethereum price could reach $1,800 due to deflationary pressure. The Ethereum supply is decreasing, with a 0.047% decrease since the Merge, and the issuance rate is now in the negative. The burn rate has accelerated, with over 4,000 ETH burned daily. The total supply is expected to fall below 118 million by 2025. The current momentum and reduced circulating supply are bullish for the digital asset. ETH is currently trading at $1,685, up 8.79% in the last 24 hours."
+    },
+    {
+        "title": "zkSync Counters Polygon With 'Mainnet' Rollup - The Defiant - DeFi News",
+        "summary": "  zkSync, a popular zero-knowledge rollup project, has announced the opening of registrations for developers to deploy applications on its mainnet platform, following Polygon's recent announcement of its own zero-knowledge solution. This escalates the competition between Layer 2 blockchain networks in the race to support decentralized transactions on Ethereum. While zero-knowledge technology is rapidly reshaping the way users interact with Ethereum, the market remains highly competitive, with Optimistic rollups dominating the Layer 2 space. Despite some criticism, zkSync has gained momentum, with holders of UNI, the token of Uniswap, voting to deploy the protocol on zkSync's solution. Other players in the market, such as StarkWare, have also raised significant funding to develop their solutions."
+    },
+    {
+        "title": "Matter Labs Rebrands zkEVM, Opens Mainnet for Developers - Blockworks",
+        "summary": "  Matter Labs has rebranded its zkSync scaling solution and opened its mainnet for developers, with the new version called zkSync Era. This comes as competition in the layer-2 scaling race heats up, with Polygon Labs announcing its zkEVM solution will go live on Ethereum mainnet next month. Matter Labs' zkSync Era is a type-4 zkEVM, which is different from Polygon's type-3 zkEVM. The Fair Onboarding Alpha Stage for zkSync Era will last four to six weeks, during which time mainnet will be closed to end users, allowing projects to deploy and test their applications in a closed environment. The new version is completely open source, but Matter Labs advises against forking the code now. The team does not expect a single prover standard to emerge, but notes that standardization could lead to network effects and limitless scaling with customization."
+    },
+    {
+        "title": "Privacy-Focused Gnosis Chain Co-Founder Proposes Plan to Reduce Ethereum Dependency for GNO Token - CoinDesk",
+        "summary": "  Privacy-focused Gnosis Chain co-founder proposes plan to reduce Ethereum dependency for GNO token by limiting bridge risks. Current bridge has unlimited minting rights, which poses a risk of hacks and bugs. Proposed solution: limit bridge activity to an equivalent amount locked on Ethereum."
+    },
+    {
+        "title": "Picture Of A Rock Just Sold For $235,000 On Ethereum - NewsBTC",
+        "summary": "  A picture of a rock, known as an NFT on the Ethereum blockchain, was sold for $235,000. Only 100 of these NFTs were created and they have been changing hands since then. The buyer paid 0.003672481899086462 ETH, or approximately $6, at the time of purchase. The NFTs do not have any specific use case, but holders can trade them. The purchase was made at a time when the broader DeFi, crypto, and NFT markets are recovering from last year's winter."
+    },
+    {
+        "title": "Vitalik Buterin's IQ and Other Facts About Ethereum's Creator - Bankless Times",
+        "summary": "  Vitalik Buterin is a Russian-born Canadian programmer and entrepreneur who is best known for creating Ethereum, the second most popular cryptocurrency after Bitcoin. Here are some key facts about him:\n\n* Age: Buterin was born on January 31, 1994, which makes him 28 years old as of late 2022.\n* IQ: Buterin's IQ is reportedly 257, which is considered to be an unusually high IQ.\n* Childhood: Buterin was born in Kolomna, Russia, but his parents moved to Canada when he was six years old. He grew up in Toronto.\n* Education: Buterin was placed in a program for gifted students in third grade and showed a knack for mathematics and programming. He graduated from the Abelard School and enrolled in the University of Waterloo, but he dropped out to focus on blockchain technology.\n* Ethereum: Buterin created Ethereum in 2014 with the goal of implementing a programming language that would enable computers to solve a wide range of problems with appropriate algorithms."
+    },
+    {
+        "title": "Matter Labs Says zkSync 2.0 Entering New \u2018Era\u2019 With Re-Brand and Developer Rollout - CoinDesk",
+        "summary": "  Matter Labs announces the launch of zkSync 2.0, a new era for the platform with a rebrand and developer rollout. Starting Thursday, pre-registered project builders can deploy their apps on the network for the first time, with the Era chain closed to general users but open to app developers for testing. The full launch is expected in the coming months."
+    },
+    {
+        "title": "Who Owns the Most Ethereum in 2023? - Bankless Times",
+        "summary": "  The article discusses who owns the most Ethereum in 2023, based on data from Etherscan and other sources. The Eth2 Deposit contract is the largest Ethereum wallet, with a balance of around 12.9 million Ether, equivalent to 10% of the total Ethereum in circulation. The article also highlights that the number of Ethereum investors has been increasing, with around 3.9 million active wallets holding at least 0.1 ETH, and the price of Ethereum has jumped by 1000% since 2020. Vitalik Buterin, the creator of Ethereum, has around 51.7 ETH in his wallet, but has moved most of his wealth to other addresses. The article also notes that 8 out of the 10 biggest Ethereum investors are not individuals, but rather entities such as Binance, Bitfinex, and Kraken. Finally, the article mentions that there is limited information available on the average Ethereum holdings of individual investors."
+    },
+    {
+        "title": "How to buy and sell NFTs on Polygon - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPolygon is a layer-2 Ethereum protocol that has gained popularity as a platform for NFTs. To buy and sell NFTs on Polygon, users can use marketplaces like OpenSea and Rarible. NFT creators can mint their tokens for free using platforms like OpenSea and Rarible, and link their crypto wallets to sign in and upload their digital files. Once an NFT is listed, users can purchase it by linking their crypto wallets and paying the applicable gas fee. To sell NFTs, owners can put them up for sale on marketplaces like OpenSea and set their own prices. OpenSea also allows users to filter NFTs by blockchain, including Polygon."
+    },
+    {
+        "title": "How Much Crypto Does Ashton Kutcher Have? - Bankless Times",
+        "summary": "  Ashton Kutcher has a significant amount of cryptocurrency, but the exact amount is unknown. He has invested in several successful startups, including Uber and Airbnb, and has a venture capital firm called A-Grade Investments. His wife, Mila Kunis, has also invested in cryptocurrency and has put out 10,420 NFTs. Kutcher has a reputation for having a knack for spotting business success stories early on, and he continues to invest in promising new startups. However, the cryptocurrency market is known to be risky, and Kutcher's portfolio is still largely unknown."
+    },
+    {
+        "title": "The 10 Biggest Crypto Whales in the Market - Bankless Times",
+        "summary": "  The 10 biggest crypto whales in the market are:\n\n1. Satoshi Nakamoto - 1 million BTC\n2. Brian Armstrong - $6.5 billion\n3. Michael Saylor - 17,732 BTC worth over $1.14 billion\n4. Chris Larsen - 5.19 billion XRP worth over $37.3 billion\n5. Changpeng Zhao - unknown crypto holdings\n6. Vitalik Buterin - unknown Ethereum holdings\n7. Tim Draper - unknown Bitcoin holdings\n8. The Winklevoss Twins - 70,000 BTC\n9. Barry Silbert - $28 billion worth of digital assets\n10. Jed McCaleb - 3.4 billion XRP worth over $1.6 billion\n\nThese individuals and entities hold a significant amount of cryptocurrency and can have a ripple effect on the market. The total value of their holdings is estimated to be over $100 billion."
+    },
+    {
+        "title": "Cryptocurrency price in India 16 February 2023: Bitcoin hits 6-month high, Ethereum grows 9% - India Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCryptocurrency prices surged on February 16, with Bitcoin reaching a 6-month high of $24,737.57. Ethereum grew 9%, while other top cryptocurrencies like XRP, Polygon, and Cardano also saw significant gains. Meme coins like Shiba Inu and Dogecoin also traded higher. Metaverse tokens like Decentraland, Axie Infinity, and The Sandbox also saw profits. The global crypto market cap increased by 8.80%, and the total crypto market volume saw gains of 23.05%."
+    },
+    {
+        "title": "The Biggest Crypto Losers of 2023 - Bankless Times",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe biggest crypto losers of 2023 include Terra Classic or LUNC, which has lost nearly 100% of its value, followed by SAND, NFT, and SOL. The article highlights the struggles of major crypto innovators and notes that many coins have experienced significant dips in value."
+    },
+    {
+        "title": "How Many People Own NFTs in 2023? - Bankless Times",
+        "summary": "  According to recent financial news and statistics, there are approximately 360,000 NFT owners worldwide, with 9% of them holding 80% of the market's value. In the UK, 3.3% of the population plans on owning an NFT, while 78.8% are unaware of what NFTs are. The NFT market saw a significant increase in trade volume in 2021, reaching $24.9 billion, and there were 2.7 million unique active NFT wallets trading in the marketplace. Nearly a third of surveyed US adults are interested in buying NFTs, with Millennials and men being the most likely to get involved. Approximately 12,000 NFT sales take place every day, with the most popular NFTs being produced by Axie Infinity. Gary Vee is the celebrity with the most NFTs, with around 2,961 in his collection. Overall, the popularity of NFTs is on the rise, with many people expected to join the NFT market in the coming years."
+    },
+    {
+        "title": "What Is Vitalik Buterin's Net Worth in 2023? - Bankless Times",
+        "summary": "  Vitalik Buterin's net worth is estimated to be $320 million, primarily held in Ether (ETH). His current ETH holdings are valued at 250,001, with a history of fluctuating value. Buterin has other crypto holdings, including KNC, OMG, 0xBTC, and DAI, but their value is significantly less than his ETH holdings. He has also received significant amounts of memecoins, such as Shiba Inu, which he burned to avoid accumulating too much power. Buterin has donated a significant portion of his Shiba holdings to CryptoRelief to help solve the covid crisis in India. Despite his wealth, Buterin's focus is on the technological potential of Ethereum beyond monetary value, such as banking the unbanked and enabling smart contracts."
+    },
+    {
+        "title": "How To Send Ethereum Anonymously [The Simple Guide] - Crypto News Flash",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum transactions are traceable, but you can make them anonymous by using a VPN to hide your IP address and conducting chain analysis to trace the origin of the funds. However, it's important to be responsible and play a part in keeping your transactions private. The article provides a beginner-friendly guide on how to set up a VPN and send Ethereum anonymously. It also recommends using platforms like Bitcoin 360, eToro, or Binance for safe and private transactions."
+    },
+    {
+        "title": "Ethereum Price Analysis & Prediction (Feb 16th) \u2013 Heavy Rebound Brings ETH Back to 4-Month High, Ready to Break ... - The VR Soldier",
+        "summary": "  Ethereum price has seen a significant rebound, reaching a 4-month high of $1,666. The sudden upswing was led by Bitcoin's price increase, which pushed ETH above its previous resistance level. The bulls are now in full force, with buy orders filling faster than sell orders. The next resistance levels to watch are $1,788 and $2,000, while the key support levels are $1,473, $1,403, and $1,350. Volatility remains high, and investors are advised to do their research before investing in any cryptocurrency."
+    },
+    {
+        "title": "Coinbase-Backed DeSo Launches Revolutionary Chat Protocol, Unlocking Cross-Chain Wallet-to-Wallet Messaging with Ethereum - Crypto News Flash",
+        "summary": "  DeSo, a layer-1 blockchain, has launched the DeSo Chat Protocol (DCP), a secure, censorship-resistant messaging platform for web3 communities. DCP allows for on-chain, end-to-end encrypted wallet-to-wallet messaging with cross-chain interoperability, scalability, and white-labeling options. It is backed by top funds, including Sequoia, Andreessen Horowitz, and Coinbase-Ventures. DCP can integrate with any blockchain and has features like group chat management, message edits, end-to-end encryption, and emoji reactions. It is positioned to become a major player in the global Blockchain Messaging Apps Market, which is expected to grow significantly. DeSo aims to become the Social Layer of Web3, a creator-led and user-owned internet powering the future of social media."
+    },
+    {
+        "title": "Big Eyes Coin Presale Hits $27 Million Amid Slide In Crypto Market Cap: Ethereum & Binance Show Recovery - Bitcoinist",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBig Eyes Coin presale has raised $27 million amid a recovering crypto market. Ethereum and Binance are showing slight recoveries, while Big Eyes Coin is giving away PlayStation 5s to its community. The presale has extended its promotion code, offering a 200% return on investment. The crypto market is experiencing a bullish trend, with indications of a new bull cycle. However, some cryptos, like Binance Coin, are still highly volatile."
+    },
+    {
+        "title": "Ordinals Project: Chainspace NFT Portal linking Bitcoin, Ethereum - The Coin Republic",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe Ordinals project is a new avenue for creativity in the Web3 space, allowing users to create and own unique digital art on the Bitcoin blockchain. The project uses on-chain inscriptions to create digital objects that can hold more data than Ethereum NFTs. Chainspace is an experimental art project that connects Bitcoin and Ethereum via a lo-fi video rendering app, binding the two coins. The project has sparked interest among builders and collectors, with 620 NFTs set to go on sale on Thursday. The Ordinals project aims to explore new avenues in on-chain art tools and provide each user with a unique experience."
+    },
+    {
+        "title": "Ethereum: Should You Buy Now Or Wait? - Blockzeit",
+        "summary": "  Ethereum is a promising investment opportunity due to its strong developer community, innovative use of smart contracts, and position as a leader in the rapidly growing decentralized finance space. The upcoming Shanghai upgrade will allow validators to unlock 14% of the ETH supply, potentially leading to increased demand and higher prices. However, it's important to wait and set buy orders in advance to catch potential dips in Q3-Q4 of 2023. The current breakthrough of the 200-day moving average resistance indicates a bullish sentiment, but the price must maintain its position above higher time frames to confirm the bullish case. Overall, Ethereum's unique characteristics and capabilities make it a tempting investment opportunity for those looking to enter the blockchain industry."
+    }
+]

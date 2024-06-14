@@ -1,0 +1,172 @@
+[
+    {
+        "id": 2,
+        "title": "The Most Pressing Issue on Ethereum is Validator Size Growth - CoinDesk",
+        "summary": "  Ethereum's validator size growth is the most pressing issue, with the current set size expected to exceed the largest testnet, Holesky, within two months if Cancun/Deneb is activated in January 2024 and staking appetite remains high. However, the number of validators in the entry queue has been declining, which may not support sustained staking activity."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum dominates developer activity in US; BNB Chain in Europe, Asia - The Block",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum dominates web3 developer activity in the US, while BNB Chain leads in Europe and Asia, according to Chainstack's report. Ethereum accounts for 18.8 billion node requests (38.9%), followed by BNB Chain with 31.3% and Polygon with 17.2%. Full nodes dominate the market across regions, with 99.5% of total requests in Asia. Elastic nodes are preferred for cost-effectiveness and scalability, with 89.6% of requests in Asia and 61% in Europe. Chainstack supports 25 of the largest blockchain networks, including Ethereum, Bitcoin, Polygon, and BNB Chain."
+    },
+    {
+        "id": 4,
+        "title": "SEC drags on with spot Bitcoin ETFs, Ethereum futures get a nod - InvestmentNews",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe Securities and Exchange Commission (SEC) has approved several ethereum futures strategies for exchange-traded funds (ETFs), including those from Valkyrie Funds, VanEck, and ProShares. This comes as a surprise given the SEC's previous delays in approving spot bitcoin ETFs. However, the approval of ethereum futures ETFs may be seen as a minor development compared to the eventual launch of spot products, which are expected to have higher demand. Financial advisors have shown little interest in futures ETFs, preferring spot products instead. The approval of ethereum futures ETFs may be seen as a step forward for crypto ETF providers, but the complexity of these products and their higher fees may make them a difficult sell to advisors and retail investors."
+    },
+    {
+        "id": 8,
+        "title": "Ethereum (ETH) Rebounds Massively: Crypto Waking Up? - U.Today",
+        "summary": "  Ethereum (ETH) has shown signs of life after a period of stagnation, with a recent rebound of 1.79%. This growth is notable as ETH managed to break through the 21-day Exponential Moving Average (EMA), a crucial technical indicator. While the market remains unpredictable, the rapid growth spurt is a positive signal for investors. However, caution is advised as the asset could still experience setbacks.\n\nIn addition, Shiba Inu (SHIB) is attempting to break through a support level after a recent dip below the trendline support level. The asset is currently in a skirmish between the bulls and bears at the former support level, which could potentially alter the course.\n\nMeanwhile, the rising tide of the U.S. Dollar Index (DXY) is casting a long shadow over the cryptocurrency market, as the dollar's ascendancy is seen as a refuge during turbulent times. This growth is coinciding with a tremor running through the crypto market's spine, as reduced liquidity and volatility are repelling investors."
+    },
+    {
+        "id": 10,
+        "title": "ETH and OP deposits and withdrawals now available on Optimism! - Kraken Blog",
+        "summary": "  Kraken now supports deposits and withdrawals of Ethereum (ETH) and Optimism (OP) on Optimism. ETH and OP funding and trading are live on Kraken, with OP available for trading with 4 decimal places and a minimum order size of 0.5. ETH is a global platform for decentralized apps, games, and financial services, while OP is a Layer 2 scaling solution on the Ethereum network used for governance and decision-making. Users can sign up for a Kraken account to deposit and trade these assets."
+    },
+    {
+        "id": 11,
+        "title": "Cosmos plans to attract Ethereum developers in 2024 - crypto.news",
+        "summary": "  Cosmos, a decentralized network, aims to attract Ethereum developers in 2024 by offering modularity, interoperability, and a software developer kit (SDK) that sets it apart from Ethereum. The Interchain Foundation, a non-profit behind Cosmos, has revealed its 2024 roadmap, which includes integrating the Inter-Blockchain Communication protocol with zero-knowledge and optimistic rollup frameworks. Cosmos' SDK emphasizes its flexibility, which is a result of its modular design, allowing for customizability. However, practical application of this modularity is challenging, according to the Interchain Foundation. Despite this, Cosmos is looking to replicate Ethereum's success in engaging developers through its 2024 roadmap, which includes 660 changes to the Cosmos Hub in September."
+    },
+    {
+        "id": 14,
+        "title": "Valkyrie wins nod to add Ethereum futures to ETF as SEC delays Bitcoin call - DLNews",
+        "summary": "  Valkyrie, an asset manager, has been approved by the SEC to add Ethereum futures to its existing Bitcoin ETF. This comes as the SEC delays its decision on a spot Bitcoin ETF due to a potential government shutdown. Valkyrie will begin trading Ether futures on Friday, with other Ether futures ETFs expected to be approved soon. ETFs offer investors a convenient and affordable way to bet on the performance of cryptocurrencies, and the approval of Ether futures ETFs is expected to bring increased investment to the sector."
+    },
+    {
+        "id": 15,
+        "title": "Cosmos Has A Grand Plan For 2024: Will It Crush Ethereum? - NewsBTC",
+        "summary": "  Cosmos, a blockchain platform, has unveiled its roadmap for 2024, aiming to increase modularity, improve the developer experience, and drive user adoption. The platform's features, such as Tendermint and Cosmos SDK, enable the creation of custom chains that interconnect and communicate, with the goal of driving interoperability. Cosmos aims to repay technical debt and make its SDK more modular, but it remains to be seen if it can surpass Ethereum, the current market leader, in terms of market cap and TVL in DeFi. Despite this, Cosmos' Stargate bridge is connected to Ethereum and multiple other blockchains, and other bridges are EVM-compatible and primarily connected to Ethereum layer-2s and Polygon."
+    },
+    {
+        "id": 16,
+        "title": "Opposing Centralization in Ethereum Staking - CoinDesk",
+        "summary": "  Two groups of people are emerging in the Ethereum staking space: those who want to stake but don't have the technical expertise or motivation to set up a dedicated PC, and those who prefer higher risk and reward in exchange for locking up their ETH for a 3-6% yield."
+    },
+    {
+        "id": 17,
+        "title": "What is Ethereum ETF, and how could VanEck's launch impact crypto? - crypto.news",
+        "summary": "  VanEck's launch of an Ethereum futures ETF has sparked optimism in the crypto market, with the potential to bring more liquidity and stability to the space. However, investors should approach this new development with caution, as the crypto market is inherently volatile and subject to sudden corrections. The introduction of ETFs could amplify the liquidity of Ethereum, making it more accessible to a wider range of investors, but it's essential to be mindful of the risks involved. As the market continues to evolve, investors should prioritize cautious optimism and never commit more funds than they can afford to lose."
+    },
+    {
+        "id": 22,
+        "title": "Gitcoin Co-Founder Kevin Owocki on Evolution of Ethereum; Bitcoin Breaks Above $27K - CoinDesk",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nGitcoin co-founder Kevin Owocki discusses the evolution of Ethereum, while Bitcoin breaks above $27K. Emily Parker, a former State Department advisor and author, provides insights on the cryptocurrency market. She holds Bitcoin, Ether, and other cryptocurrencies, and has been interviewed on various media outlets."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum ETF: Here's Why Next Week Might Be Crucial - U.Today",
+        "summary": "  Ethereum ETFs may launch next week, according to Bloomberg analysts James Seyffart and Eric Balchunas. Bitwise Asset Management has filed for two Ethereum futures ETFs, AETH and BTOP, which are expected to list and begin trading on Monday, October 2. VanEck has also filed an updated prospectus for its Ethereum xStrategy ETF (EFUT), which will not invest directly in ETH but in standardized, cash-settled ETH futures contracts. The SEC seems to be accelerating its approvals, with a possible Monday launch for the ETFs."
+    },
+    {
+        "id": 30,
+        "title": "Crypto Market Flips Green Amid Ethereum Futures ETF Approval, Dollar Weakness - Decrypt",
+        "summary": "  Crypto market sees green day amid Ethereum futures ETF approval and dollar weakness. Bitcoin and Ethereum lead gains with 2.4% and 3.3% increases, respectively. $80 million in short liquidations in the past 24 hours contribute to bullish sentiments. Dollar index falls 1.13% from yearly peak. Other cryptocurrencies see double-digit gains, with Sui Network and PepeCoin leading the way. Total crypto market cap surges 2.2%."
+    },
+    {
+        "id": 32,
+        "title": "Ethereum\u2019s EIP-7503 Takes Privacy to New Heights at Execution Layer Summit - CryptoPotato",
+        "summary": "  At the recent Execution Layer Summit, Ethereum developers discussed several proposals to enhance privacy and security on the network. Key takeaways include the introduction of EIP-7503, which allows for private transfers through a new approach called \"Burn and Remint,\" and audits of the EIP-4788 contract bytecode. Other topics discussed included devnet-9 testing, proposed changes to the EIP-6780 specification, and the relaunch of Holesky. The next ACDE meeting is scheduled for Oct. 12."
+    },
+    {
+        "id": 33,
+        "title": "Ethereum (ETH) Now Connected to BSC via IBC Bridge - U.Today",
+        "summary": "  Ethereum (ETH) and BNB Smart Chain (BSC) have established a seamless bridge connection through the Inter-Blockchain Communication (IBC) protocol, enabled by TOKI. This allows for secure and resource-efficient cross-chain communication between the two leading smart contract environments. The IBC connection will enable use cases such as cross-chain swaps and lending, and will also support the transfer of a new stablecoin, Pragmat Coin, immediately upon its launch. Additionally, TOKI contributors will extend support to other blockchain ecosystems, including Cosmos SDK appchains, Avalanche, and Polygon, as well as next-generation Ethereum L2s."
+    },
+    {
+        "id": 34,
+        "title": "Ethereum (ETH) Devs Introduced Zero-Knowledge Wormholes: Why Is This Important? - U.Today",
+        "summary": "  Ethereum (ETH) developers introduced zero-knowledge wormholes, a privacy-centric concept that allows holders to secretly remint burned Ethers. The demo was shown during the Ethereum Core Devs Meeting #171, where other major testing milestones were discussed, including the launch of Holesky testnet and the audit of EIP-4788. The meeting also covered the progress of Devnet 9 and Devnet 10, which will test the consensus design of the Deneb-Cancun upgrade with Proto-Danksharding. Additionally, three teams will audit EIP-4788 to expose the roots of Beacon Chain blocks inside the Ethereum Virtual Machine (EVM)."
+    },
+    {
+        "id": 36,
+        "title": "Here's What Ethereum's Holesky Testnet Brings to the Table - DailyCoin",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum developers have launched Holesky, a new testnet for protocol-level changes. Holesky replaces Goerli as the main testnet and offers several improvements, including a larger token supply and validator set. The testnet is designed to serve as a sandbox for future Ethereum upgrades, such as the Shapella upgrade and the upcoming Dencun upgrade. Holesky promises to meet the growing demand and complexity of Ethereum upgrades for at least the next three years. However, the initial launch of Holesky failed on September 15, and Goerli will continue to run until early 2024."
+    },
+    {
+        "id": 39,
+        "title": "How Is Ethereum Liquid Staking Doing in 2023? CoinGecko Report - DeFi - Altcoin Buzz",
+        "summary": "  Ethereum Liquid Staking is growing in 2023, with increasing adoption and TVL in LSD protocols, as well as growing confidence from the public towards LSDs. LSD protocols hold a market share of 43.7% for staked $ETH, and Lido is the dominant player. Despite withdrawals being enabled with Shapella, LSD protocols experienced net $ETH inflows post-upgrade. Yields from staking $ETH on LSD protocols are expected to decrease, but the amount of staking fees earned is on an uptrend. LSDFi projects are also gaining adoption, with Total Value Locked (TVL) in LSDFi protocols growing 5,870% since January 2023."
+    },
+    {
+        "id": 40,
+        "title": "IOTA Enters New Phase as Shimmer Launches Ethereum-compatible Chain - U.Today",
+        "summary": "  IOTA has launched a new chain called Shimmer EVM, which is Ethereum-compatible and allows for smart contracts and cross-chain value transfers without the need for bridges. This marks a significant milestone for the IOTA network and paves the way for more chains to emerge. The new chain is fully EVM-compatible, enabling the processing of DeFi, GameFi, and other Web3 applications. The IOTA Foundation will initially control the chain, but it will be handed over to the community over time to decentralize it further."
+    },
+    {
+        "id": 41,
+        "title": "Two Ethereum Futures ETFs to Be Launched by Bitwise - U.Today",
+        "summary": "  Bitwise, a leading asset manager in the US, has filed for two new Ethereum futures ETFs, AETH and BTOP, which will begin trading on Oct 2. These products are designed for investors who don't hold physical crypto and aim to provide new investment opportunities. The ETFs will invest in regulated CME Ethereum futures and have a cumulative expense ratio of 0.85%. Bitwise has also submitted an amended registration request for its hotly anticipated Bitcoin spot ETF, but the SEC has delayed verdict deadlines for all Bitcoin and Ethereum spot-based ETFs, including Bitwise's, likely pushing approval into 2024."
+    },
+    {
+        "id": 42,
+        "title": "Enter the Ether: VanEck releases two ETF ads ahead of possible Monday launch - Cointelegraph",
+        "summary": "  VanEck, an investment manager, has released two TV commercials for its upcoming Ether (ETH) futures exchange-traded fund (ETF), which could launch as early as October 2. The commercials feature a quirky and straightforward message, with the second ad suggesting a \"shift\" is coming soon and that Ethereum's gravitational pull will draw everyone in. The launch of the ETF is expected to be accelerated due to a potentially imminent U.S. government shutdown. There are 15 Ether futures ETFs from nine issuers vying to launch, and financial services firm Valkyrie has announced that it will soon begin offering exposure to Ether through its existing Bitcoin Strategy ETF."
+    },
+    {
+        "id": 43,
+        "title": "Galaxy and Invesco Join Growing Ethereum ETF Race - Decrypt",
+        "summary": "  Invesco and Galaxy Digital have teamed up to apply for an Ethereum spot exchange-traded fund (ETF) in the US. The Invesco Galaxy Ethereum ETF will hold ETH units with a separate custodian and sell ETH to pay expenses. This is the fourth Ethereum spot ETF application to be filed with the SEC in recent weeks, following similar filings from Ark Invest/21Shares, VanEck, and Hashdex. The industry believes a spot ETF is the next logical milestone for crypto investment in the US, now that an Ethereum futures product is expected to launch next week. However, spot crypto ETFs remain out of reach for US investors, with the SEC delaying Invesco and Galaxy's Bitcoin spot ETF application twice alongside rivals. The SEC has faced pressure after losing a lawsuit to Grayscale, with Bitwise filing an amendment to its Bitcoin ETF application to account for future rejections."
+    },
+    {
+        "id": 45,
+        "title": "Invesco Galaxy applies for spot Ether ETF - Cointelegraph",
+        "summary": "  Invesco Galaxy has filed for a spot Ether ETF with the SEC, joining a growing list of investment managers seeking regulatory approval for a spot ETH ETF. The application was filed on Sept. 29, but the SEC has not yet confirmed or denied the filing. Other investment firms, such as VanEck and Valkyrie, are also set to launch futures-based Ether ETFs in the coming days. The move comes as Ether prices are trading in the green, driven by excitement over the debut of futures ETFs."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum, Dogecoin Show Strength Compared To Bitcoin While All Regain Key Indicator: Weekend Trends - Benzinga",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nBitcoin, Ethereum, and Dogecoin showed strength compared to Bitcoin, with Ethereum and Dogecoin unable to negate their downtrends. Bitcoin formed an inside bar pattern, which could lead to a continuation move in the current trend. Resistance for Bitcoin is at $27,133 and $28,690, while support is at $25,772 and $24,206. Ethereum has resistance at $1,717 and $1,825, and support at $1,615 and $1,564. Dogecoin has resistance at $0.061 and $0.065, and support at $0.057 and $0.053."
+    },
+    {
+        "id": 49,
+        "title": "SEC Rushes Ethereum Futures ETF Approvals Before Government Shutdown - Crypto Briefing",
+        "summary": "  The Securities and Exchange Commission (SEC) is rushing to approve Ethereum-based exchange-traded funds (ETFs) before the government shutdown on October 1st. Several firms, including Valkyrie, VanEck, ProShares, Bitwise, Hashdex, and Volatility Shares, have filed for Ether futures ETFs and are expecting to begin trading on Monday, October 2. The SEC has asked these firms to update their documents by Friday evening to accelerate the launch process. This move by the SEC aims to remove the Ether futures ETFs from their plate before the shutdown."
+    },
+    {
+        "id": 51,
+        "title": "Ethereum Developers Unveil Zero-Knowledge Wormholes: Details - Watcher Guru",
+        "summary": "  Ethereum developers unveiled zero-knowledge wormholes, a privacy-preserving technology that enables confidential transactions without compromising security. The technology allows users to re-mint Ether they previously burned by furnishing cryptographic proofs without exposing transaction details. The demonstration was held during the All Core Devs call, where developers also discussed testnet advancements and auditing for code changes ahead of the Shanghai upgrade."
+    },
+    {
+        "id": 52,
+        "title": "Ethereum Price Prediction: ETH Futures ETF Approval Uptrend - CoinGape",
+        "summary": "  Ethereum price is up 3% to $1,648, with $12.2 billion in trading volume. Valkyrie's Bitcoin futures ETF has been approved to add exposure to Ether futures contracts, making it the first US ETF to provide exposure to both Bitcoin and Ether futures contracts under one wrapper. Another asset management firm, VanEck, is set to launch its Ethereum Strategy ETF (EFUT) soon. The Ethereum price is forming a cup and handle pattern, which is on the verge of a breakout that could propel it to $1,785. New long positions should be opened slightly above the neckline with a stop loss at $1,650 or the 200 EMA currently at $1,635."
+    },
+    {
+        "id": 53,
+        "title": "Crypto Price Today: Bitcoin rises above $27,100; Ethereum, Tron, Solana surge up to 5% - The Economic Times",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nBitcoin rose above $27,100, driven by factors including a stronger stock market and upcoming options expiring on Friday. Ethereum, Tron, and Solana also surged, with gains of up to 5%. The global cryptocurrency market cap rose 2.7% to $1.07 trillion in the last 24 hours. Technical indicators show a potential shift in momentum, with the RSI near overbought and the MACD signaling a bullish trend. However, a break below $27,000 could turn bearish. Traders should keep a close eye on the $27,100 resistance for short-term moves."
+    },
+    {
+        "id": 54,
+        "title": "Crypto wrap: Ethereum outperforms Bitcoin as investors tread with caution - Business Standard",
+        "summary": "  Ethereum outperformed Bitcoin in the past week, rising 5% to $1,673.84, while Bitcoin increased by 1.66%. This is attributed to the growing likelihood of Ethereum futures gaining approval from the US Securities and Exchange Commission. Other major crypto coins traded within a narrow range. The market is cautious due to rising treasury bond rates and household mortgage rates, as well as uncertainty around inflation and the US Federal Reserve's interest rate hike. The possibility of a US government shutdown also adds to the market's bearishness. The main event to watch this week is the options expiry on Deribit, with $4.8 billion worth of Bitcoin and Ethereum options set to expire."
+    },
+    {
+        "id": 55,
+        "title": "Shiba Inu (SHIB) Adoption Increases, Ethereum (ETH) New Achievement, Everlodge (ELDG) Presale Enters Stage 4 - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 Shiba Inu (SHIB) adoption increases with new partnership in Texas.\n\ud83d\udcb0 Ethereum (ETH) reaches $10B in cumulative revenue, outpacing tech giants.\n\ud83c\udfe0 Everlodge (ELDG) presale soars through stages, offering 90% ROI and liquidity in real estate investments.\n\ud83d\udd25 ELDG token could surge 280% before presale ends, outpacing Shiba Inu and Ethereum.\n\ud83d\udc49 Join the Everlodge presale for exclusive benefits and potential returns.\n\nWebsite: <https://www.everlodge.io/>\nTelegram: <https://t.me/everlodge>"
+    },
+    {
+        "id": 59,
+        "title": "Bitcoin Vs. Ethereum: Trader Who Navigated May 2021 Crash Predicts The Winner - Bitcoinist",
+        "summary": "  In a recent analysis, prominent crypto analyst and trader Dave the Wave predicts that Ethereum (ETH) may soon overshadow Bitcoin (BTC) in terms of long-term performance. Dave highlights the importance of taking a longer view when assessing cryptocurrency performance, as a shorter timeframe may show a series of lower highs and lows, while a broader perspective indicates the potential for a different narrative.\n\nUsing technical chart patterns and logarithmic growth curves (LGCs), Dave predicts that Ethereum is approaching the end of a significant wedge pattern, which could signal an upward breakout early next year. In contrast, Bitcoin is on track to outperform traditional assets like stock indices for at least another decade, according to Dave's analysis using LGCs.\n\nAs of the latest data, Bitcoin is trading at $28,072, while Ethereum is at $1,720. The analysis sparks an interesting discussion about the future of Ethereum and Bitcoin, with both cryptocurrencies showing potential for growth in the long term."
+    },
+    {
+        "id": 60,
+        "title": "VanEck unveils Ethereum ETF ads, Monday launch anticipated - Cryptopolitan",
+        "summary": "  VanEck is set to launch an Ethereum futures ETF on the Chicago Board Options Exchange, with a possible launch date of October 2. The firm has released two promotional commercials, signaling an impending launch. Analysts anticipate intensified marketing efforts from other ETF issuers, especially when spot Bitcoin ETFs receive approval. The market is bracing for a marketing battle as ETFs gain approval, with multiple issuers launching similar products on the same day, which could reshape the competitive landscape of ETF offerings."
+    },
+    {
+        "id": 61,
+        "title": "Dan Gambardello on Cardano's Market Potential and Comparison to Ethereum - CryptoGlobe",
+        "summary": "  Dan Gambardello, a crypto influencer, shared his thoughts on Cardano's (ADA) market potential and comparison to Ethereum. Cardano remains a top-five cryptocurrency despite market volatility, and its technological advancements, such as the launch of Alonzo smart contracts and DeFi platforms, are on par with Ethereum. Gambardello believes that Cardano's innovative staking mechanism should be included in total value locked (TVL) calculations, which would rank it higher than Ethereum. He projects that Cardano could reach a market cap of $350 billion, resulting in a $10 ADA price. Cardano already has around $1 million in TVL, thanks to DeFi platforms like Sunday Swap, which demonstrates its potential to catch up with or surpass Ethereum. Gambardello emphasizes the importance of staking in TVL calculations and encourages viewers to share their thoughts and subscribe to his channel for more insights."
+    },
+    {
+        "id": 62,
+        "title": "Ethereum Classic Price Prediction: ETC May Reach $18 in October - The Coin Republic",
+        "summary": "  Ethereum Classic (ETC) price may reach $18 in October, according to a recent prediction. The coin is forming a double bottom pattern and buyers are trying to break the neckline hurdle. While the price is below the 200-day EMA, the positional trend is in a downward direction. However, the price pattern shows that the price is near the demand zone and minor retracement will be easily bought up. The MACD curve is sloping upward and the histogram bar is on the rise, indicating bulls are getting active and recovery is likely to continue. Technical levels for resistance are $18.00 and $20.43, while support levels are $15.00 and $13.57. It is important to note that investing in or trading crypto assets comes with a risk of financial loss."
+    }
+]

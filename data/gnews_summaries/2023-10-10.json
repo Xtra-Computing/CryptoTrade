@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "Vitalik Buterin: Co-founder of Ethereum, Crypto Visionary - FinTech Magazine",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, is a crypto visionary who has played a significant role in shaping the blockchain industry. Born in Moscow in 1994, Buterin moved to Canada with his parents at the age of six and developed a passion for mathematics and programming. He co-founded Bitcoin Magazine and later launched Ethereum, a decentralized mining network and software development platform rolled into one. Ethereum has grown rapidly and become the world's second-most valuable cryptocurrency, with a estimated value of US$220.2bn. Buterin's achievements with Ethereum make him a leader in the world of crypto, and he continues to research and develop the platform despite his father's concerns about the community assigning too much importance to him."
+    },
+    {
+        "id": 3,
+        "title": "ETF Prime: Islam on the Debut of Ethereum Futures ETFs and More - ETF Trends",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nETF Prime podcast features interviews with Roxanna Islam, Rich Lee, and Ed Rosenberg. Topics include the debut of Ethereum futures ETFs, differences between Bitcoin and Ethereum, bond ETF trading volumes, and the Texas Capital Texas Equity Index ETF (TXS). Islam explains why Ethereum futures ETFs have had a disappointing debut, highlighting the differences between Bitcoin and Ethereum, the popularity of Bitcoin, and the differences between spot and future ETFs. Lee discusses bond ETF trading volumes, particularly in the iShares iBoxx $ High Yield Corporate Bond ETF (HYG), and the concept of \"bottom fishing\" in the bond space. Rosenberg discusses the Texas Capital Texas Equity Index ETF (TXS), a state-specific ETF, and the firm's philosophy behind investing in the state of Texas."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum Price Grinds Lower And It\u2019s Vulnerable to a Drop Below $1,500 - NewsBTC",
+        "summary": "  Ethereum price is grinding lower and is at risk of dropping below $1,500. The cryptocurrency has been struggling to clear $1,660 and has reacted to the downside against the US dollar. The price is currently trading below $1,600 and the 100-hourly Simple Moving Average, with a key bearish trend line forming with resistance near $1,610 on the hourly chart of ETH/USD. A close below the $1,550 support zone could lead to further losses, potentially revisiting the $1,465 level. Technical indicators such as MACD and RSI are losing momentum in the bearish zone."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum pooled staking is here! Stake any amount of ETH and generate rewards - Ledger",
+        "summary": "  Ledger Live now supports Kiln pooled staking, allowing users to stake any amount of ETH and earn rewards. The staking pool is bootstrapping and may have fluctuating rewards in the first days after launch due to liquidity. US-based users are not eligible for the service through Ledger Live. Pooled staking is an alternative to solo staking and liquid staking, offering a complete staking experience with dedicated validators and reward tracking through the Ledger Earn dashboard. To get started with pooled staking, users can follow easy steps in the Ledger Live app."
+    },
+    {
+        "id": 11,
+        "title": "Benjamin Cowen Doubles Down on Ethereum Call, Says Big ETH Collapse By End of the Year Most Likely Outcome - The Daily Hodl",
+        "summary": "  Benjamin Cowen, a popular crypto analyst, has doubled down on his prediction that Ethereum (ETH) will collapse by the end of the year. He believes that ETH will drop below $1,200 within the next two and a half months, with a possible target range of $600-$800. Cowen's analysis is based on his own version of the logarithmic regression band, which suggests that ETH is overvalued and due for a correction. While some may view this prediction as bearish, it's important to note that Cowen's views are not investment advice, and investors should always do their own research before making any high-risk investments in cryptocurrencies or digital assets."
+    },
+    {
+        "id": 13,
+        "title": "Ethereum Foundation Suffered from MEV Bot Attack in Eth Selling - Blockchain.News",
+        "summary": "  The Ethereum Foundation suffered a $9,101 loss due to an MEV Bot attack on Uniswap V3, highlighting the growing threat of MEV exploits in the blockchain and cryptocurrency space. The attack involved a Sandwich attack, where the MEV Bot placed a buy order, followed by a sell order, surrounding the Ethereum Foundation's transaction, allowing the attacker to profit at the victim's expense. This incident underscores the need for enhanced security protocols to mitigate the risks associated with MEV exploits and to protect the integrity of decentralized exchanges and the broader DeFi ecosystem."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum (ETH) Might Crash If It Loses This Key Level - U.Today",
+        "summary": "  Ethereum (ETH) could crash if it loses a key level of support, according to a crypto analyst. The analyst warns that a daily close below $1,530 could signal a steep correction ahead for ETH. The cryptocurrency is currently hovering above a critical demand zone, but a loss of this support could trigger a decline to $1,485. The market lacks direction, according to derivative data, and Ethereum whales have been offloading their holdings since February 2023."
+    },
+    {
+        "id": 18,
+        "title": "Bitcoin Ordinals a Success? BTC set to Gain More Ethereum Capabilities - CCN.com",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin Ordinals, introduced 2 years ago, have significantly boosted transaction volume on the Bitcoin network. Developers are now working on new applications that give the blockchain Ethereum-style capabilities. However, some critics argue that the blockchain should only be for transferring value, and Ordinals inscriptions have occasionally clogged the network leading to higher fees. The same upgrade that enabled Ordinals inscriptions is also leading to the development of off-chain protocols, such as Ethereum-style rollups, which could significantly scale transactions on the Bitcoin network."
+    },
+    {
+        "id": 19,
+        "title": "Ethereum Foundation Attacked During 1,700 ETH Sale - U.Today",
+        "summary": "  The Ethereum Foundation was targeted in a \"sandwich attack\" during a recent sale of 1,700 ETH on Uniswap V3, resulting in a loss of $9,101. An MEV Bot capitalized on the opportunity to make a profit of $4,060. The attack highlights vulnerabilities in the crypto space and raises questions about security measures in place. The Ethereum Foundation's sales are often timed just before significant sell-offs, sparking speculation about their motivations."
+    },
+    {
+        "id": 20,
+        "title": "This Hidden Ethereum (ETH) Support Is Extremely Important - U.Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) is facing challenges as its once-thriving DeFi and NFT sectors have slowed down, leading to a decline in trading volume. A relatively unnoticed support level at $170 could play a crucial role in determining ETH's trajectory in the coming weeks. Shiba Inu (SHIB) is experiencing a difficult period with a suppressed price and low trading volume, indicating a strong bearish grip. Solana (SOL) has seen a modest dip but remains one of the strongest performers due to its robust ecosystem and growing interest in its platform. The decreasing trading volume for Solana is a positive sign, indicating a lack of strong selling pressure."
+    },
+    {
+        "id": 22,
+        "title": "Here\u2019s Why The Ethereum Price Fell Toward $1,500 - NewsBTC",
+        "summary": "  The Ethereum price has fallen to around $1,500 following a large-scale Ether swap by the Ethereum Foundation and other whales selling off their tokens. The Foundation swapped approximately 1,700 ETH worth $2.7 million to a single wallet address, leading to a 5% drop in the ETH price. This has left the crypto community anxious about the stability of the world's second-largest cryptocurrency and the long-term effects of the decline. Despite the price drop, Ethereum continues to hold its position as the second-largest cryptocurrency in the market with a market cap of $191.5 billion."
+    },
+    {
+        "id": 29,
+        "title": "Forget Ethereum, Bitcoin Upgrade Unlocks Smart Contracts - DailyCoin",
+        "summary": "  Bitcoin developer Robin Linus proposed an upgrade called BitVM, which would enable more complex smart contracts on the Bitcoin blockchain without changing the code or consensus rules. BitVM relies on off-chain processes and could allow for more expressive smart contract design, including games, proof verification, and prediction markets. However, the upgrade faces technical and practical challenges, such as efficiency, scalability, and security. Bitcoin has a history of proposals that struggle to gain traction, but BitVM could demonstrate Bitcoin's potential to compete with other cryptocurrencies in terms of functionality."
+    },
+    {
+        "id": 30,
+        "title": "Bitcoin regains market dominance while Ethereum and BNB hit new cycle lows - CryptoSlate",
+        "summary": "  Bitcoin regains market dominance as altcoins like Ethereum and BNB hit new cycle lows. Bitcoin's market cap dominance increases to over 51%, while Ethereum's USD value holds steady above its previous low. Binance Coin reaches new lows against Bitcoin."
+    },
+    {
+        "id": 35,
+        "title": "New BitVM proposal brings Ethereum-style contracts to Bitcoin - CryptoSlate",
+        "summary": "  New BitVM proposal enables Ethereum-style contracts on Bitcoin without soft fork. BitVM allows for Turing-complete contracts, enabling more versatile contracts. The proposal uses fraud proofs and challenge-response protocol, similar to Ethereum's Optimistic Rollups. Reaction from the crypto community is mixed, with some expressing optimism and others raising questions."
+    },
+    {
+        "id": 42,
+        "title": "Are Ethereum ETFs Already A Failure? - CoinGape",
+        "summary": "  Despite the launch of six Ethereum ETFs in the US, the cryptocurrency has failed to see a significant boost in price, underperforming Bitcoin. The ETFs launched by VanEck and ProShares struggled to attract trading volume, with the largest two experiencing an average daily trade volume of just $0.5 million. The firm Kaiko attributes the dull response to market conditions, including a surge in risk-free rates and diminished interest in riskier assets. Ethereum's underperformance compared to Bitcoin has been evident since \"the Merge,\" with the ETH/BTC price ratio and volume on a downward trend over the past year. However, the ETFs still provide a liquid and cost-efficient way for investors to gain exposure to Ethereum, which could potentially alter institutional investors' perceptions of the cryptocurrency. As of Monday, ETH extended its losses, reaching a trading price of $1,569, while BTC lost 2.22% over the same period to trade at $27,401."
+    },
+    {
+        "id": 45,
+        "title": "Layer-2 transactions accounted for over 60% of all Ethereum activity in Q3 - crypto.news",
+        "summary": "  Layer-2 transactions on Ethereum surged to over 60% of all activity in Q3 2023, according to Messari data. Coinbase's Base network saw more transactions than Ethereum Mainnet, while Optimism saw a 40% increase in transactions. However, this growth cannibalized activity on Arbitrum, which saw a 36% decrease in transactions. Despite this, Arbitrum remains the largest layer-2 network in terms of total value, with over $5.7 billion locked in it. The total value locked in defi protocols has been declining since March 2023, with current liquidity at around $37.6 billion."
+    },
+    {
+        "id": 51,
+        "title": "Ethereum's bull run at risk? Inside ETH whales' $8 billion sell-off - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum's bull run may be at risk due to large whale sell-off. Over 5 million ETH worth $8.5 billion has been offloaded since February, with no signs of accumulation. Technical indicators are also concerning, with ETH trading below its 200-day simple moving average and down 67% from its all-time high. While long-term prospects remain promising, investors should proceed with caution."
+    },
+    {
+        "id": 52,
+        "title": "Ethereum Classic (ETC) and Aave (AAVE) Holders Dumping their Tokens for Tradecurve Markets (TCRV), Here's Why - Finbold - Finance in Bold",
+        "summary": "  Ethereum Classic (ETC) and Aave (AAVE) holders are selling their tokens and investing in Tradecurve Markets (TCRV) due to the need for substantial returns. ETC's value proposition is hosting and supporting decentralized applications, but it has seen a decline in interest. Aave's unique value proposition in the decentralized finance space has also seen a decline in value by 90%. Meanwhile, Tradecurve Markets (TCRV) is witnessing a surge of investors due to its solid fundamentals and innovative approach to trading. The platform aims to revolutionize the trading ecosystem by offering a hybrid trading platform that intersects with centralized and decentralized exchanges, allowing users to trade diverse assets on a single account. The ongoing presale has raised over $6.4 million and has attracted over 18,000 users."
+    },
+    {
+        "id": 55,
+        "title": "Tokenized RWA Platform Untangled Goes Live, Gets $13.5M Funding to Bring Private Credit On-Chain - CoinDesk",
+        "summary": "  Untangled, a tokenized RWA (Risk Weighted Assets) platform, has gone live and secured $13.5M in funding to bring private credit on-chain. The platform aims to merge the worlds of fintech lending and digital assets by providing a new way to transfer values. The CEO and CIO of Fasanara Capital, Francesco Filia, believes this merger will fill the gap in underserved SME and consumer markets."
+    },
+    {
+        "id": 57,
+        "title": "Ethereum Gas Price Hits All-Time Low - Crypto Briefing",
+        "summary": "  Ethereum gas prices have reached an all-time low, averaging 8.8 gwei, surpassing the previous record low of 8.9 gwei set in January 2020, according to Etherscan data. This decrease is attributed to increased usage of layer 2 scaling solutions like Optimism and Arbitrum, which reduce congestion on the main Ethereum chain by processing transactions off-chain. Additionally, lower demand for block space due to decreased transaction volumes and active users on the network has contributed to the drop in gas fees."
+    },
+    {
+        "id": 60,
+        "title": "Bitcoiner drops BitVM paper \u2014 Bringing Ethereum-like contracts to Bitcoin - Cointelegraph",
+        "summary": "  Bitcoin developer proposes new way to bring more expressive off-chain smart contracts to Bitcoin without needing a soft fork.\n\n* Announced in an Oct. 9 white paper titled \"BitVM: Compute Anything on Bitcoin\" by ZeroSync project lead Robin Linus.\n* Enables Turing-complete Bitcoin contracts without altering Bitcoin's consensus rules.\n* BitVM's architecture is based on fraud proofs and a challenge-response model.\n* Limitation is that it is limited to a two-party setting with a prover and a verifier, and a significant amount of off-chain computation and communication is needed to execute programs.\n* Next milestone is to fully implement BitVM and Tree++, a high-level programming language to write and debug Bitcoin contracts.\n* BitVM is enabled by the Taproot soft fork, which took place in November 2021.\n* Inspired by Ethereum research into optimistic rollups and a study on Merkle trees.\n* Reactions from Bitcoiners include Eric Wall, Dylan LeClair, and Adam Back"
+    },
+    {
+        "id": 61,
+        "title": "Ethereum-Based Altcoin Explodes 40% in 24 Hours As Crypto Whale Rapidly Accumulates: On-Chain Data - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum-based altcoin BNT surged 40% in 24 hours as a single wallet accumulated millions of tokens. The wallet is believed to belong to Upbit, a South Korean exchange. ORBS, another altcoin, rallied 40% in one day with 93.8% of trading volume coming from Upbit and Bithumb. DWF Labs deposited $792,000 into Bithumb after the price increase. BNT is currently trading at $0.52, down 17%, and ORBS is trading at $0.026, down 9%."
+    },
+    {
+        "id": 62,
+        "title": "Ethereum Foundation sells 1700 ETH: What now? - AMBCrypto News",
+        "summary": "  The Ethereum Foundation sold 1,700 ETH, worth around $2.7 million, on October 9. The sale caused a drop in ETH price by 1.45% within 2 hours. Traders opened more short positions after the sale, indicating a possible further price drop. However, the supply on exchanges remains flat, suggesting that there is enough strength in the market to withstand the foundation's sale. The open interest on exchanges has also increased, which could be a sign of market sentiment."
+    },
+    {
+        "id": 65,
+        "title": "This Study Shows that Ethereum is becoming Centralized! Here's Why... - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is becoming more centralized due to increased staking, with a few entities controlling a large portion of the network. This centralization raises concerns about vulnerabilities and malicious attacks. The rise of rehypothecation, where liquidity tokens are used across multiple DeFi protocols, also poses a risk. The diminishing appeal of Ethereum's staking yield compared to traditional financial assets further highlights the issue."
+    },
+    {
+        "id": 66,
+        "title": "Ethereum BSC ($ETHBSC) Presale is Now Open for Participation - Finbold - Finance in Bold",
+        "summary": "  Ethereum BSC, a new cryptocurrency project, has launched its presale, offering a $0.035 per token price. The project aims to raise $2.1 million to support its growth and development. The presale has already secured over $31,000 in funding. Ethereum BSC offers a unique staking mechanism, allowing token holders to earn rewards over time. The project has a capped total supply of 120 million tokens and is available for purchase using BNB, ETH, or USDT. The project's goal is to create an opportunity for individuals who may have missed Ethereum's initial offerings or find Ethereum mining too complex. The team plans to launch Ethereum BSC on a decentralized exchange within a few weeks after the presale concludes. To learn more about the project, visit the official website or follow on social media platforms."
+    },
+    {
+        "id": 67,
+        "title": "Ethereum's Supply Flips Inflationary, Adding 30000 ETH in 30 Days - Crypto Briefing",
+        "summary": "  Sure! Here's a summary of the article in 256 tokens or less:\n\nEthereum's token supply has increased by nearly 30,000 ETH in the past 30 days, equivalent to $47 million. This is due to lower network usage and fees, driven by the adoption of layer 2 (L2) scaling solutions. Ethereum's deflationary narrative emerged after the activation of EIP-1559, which burns a portion of ETH paid in fees. However, lower network activity means fewer burns, potentially leading to inflation. The increased supply can't be attributed solely to low usage, as daily active addresses and on-chain transaction volume have held steady this year."
+    },
+    {
+        "id": 68,
+        "title": "The Latest Comparison Between Ethereum and Solana - Altcoin Buzz",
+        "summary": "  In a comparison between Ethereum and Solana, Ethereum leads in various categories such as market cap, TVL, and number of daily active addresses. Solana's TVL is 64x smaller than Ethereum, and its market cap is around 21x smaller. Ethereum's Uniswap DEX has a TVL of $3.071 billion, while the two Solana DEXes have a combined TVL of $44.62 million. Aave is the biggest lending protocol on Ethereum, with a TVL of $4.72 billion, while Solend and MarginFi are the top lending platforms on Solana with a combined TVL of $50 million. Ethereum's derivative volume is $858.43 million, while Solana's derivative volume is $8.97 million. Lido is the top liquid staking platform on Ethereum with a TVL of $14.116 billion, while Marinate Finance is the top liquid staking platform on Solana with a TVL of $124.94 million. Ethereum's memec"
+    },
+    {
+        "id": 70,
+        "title": "Ethereum Foundation Falls Victim to MEV Bot Attack - CryptoPotato",
+        "summary": "  The Ethereum Foundation suffered a significant loss of over $9,000 due to a sandwich attack by the MEV bot, a well-known attacker in the blockchain space. The attack occurred when the foundation attempted to sell 1.7K Ethereum tokens through Uniswap V3, but the MEV bot intercepted the transaction and generated profits of approximately $4,060 after deducting costs. This incident highlights the growing problem of sandwich attacks in the crypto sphere, with over $1.3 million lost through such schemes in the past 30 days on the Ethereum chain alone. The attackers have been targeting the Ethereum chain and other BSC chains, with a minimum of $1.38 million profited through sandwich attacks in the last 30 days. These incidents underscore the risks associated with the blockchain ecosystem and the need for greater security measures to protect users."
+    },
+    {
+        "id": 71,
+        "title": "Are Cardano (ADA) and Ethereum (ETH) in Trouble After This Bitcoin Update? - U.Today",
+        "summary": "  Bitcoin's latest update, BitVM, has the potential to revolutionize the network by allowing complex off-chain computations without leaving a trace on the chain. This could make Bitcoin a formidable competitor in the smart contract space, potentially drawing developers and users away from Ethereum and Cardano. The trust and security associated with Bitcoin, combined with the new capabilities of BitVM, could make it an attractive platform for developers looking to build decentralized applications. However, it remains to be seen how Ethereum and Cardano will fare in the face of this new competition."
+    },
+    {
+        "id": 73,
+        "title": "Is a Steep Correction Ahead for ETH Price? - CoinGape",
+        "summary": "  Ethereum (ETH) price faced a steep correction after a wallet linked to the Ethereum Foundation sold a portion of its tokens, causing panic in the market. The price slipped by 2% within a few hours, with over $100 million in liquidations primarily affecting long positions. Despite stabilizing on Tuesday, concerns persist as prominent crypto analyst Ali Martinez warned of a critical demand zone and noted that Ethereum whales have been selling off or redistributing over 5 million ETH since February, translating to approximately $8.5 billion. The price was trading at $1,585 at press time, down 0.45% over the past 24 hours."
+    },
+    {
+        "id": 74,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: BTC to dip, taking altcoins with it - FXStreet",
+        "summary": "  Bitcoin, Ethereum, and Ripple prices are expected to decline. Bitcoin is facing resistance at $28,485 and could slide lower, potentially reaching $24,808. Ethereum is sitting above a key support area of $1,551, but could revisit $1,309. Ripple is trading above $0.500 but could fall back to $0.469 and $0.420. The RSI and AO indicators are showing bearish momentum for all three cryptos."
+    },
+    {
+        "id": 76,
+        "title": "Ethereum Analysis: ETH Drops Below $1,600 for the First This Month. How low Will it go? - Coinfomania",
+        "summary": "  Ethereum (ETH) has seen a significant drop in price, falling below $1,600 for the first time this month. The asset has been experiencing losses since the previous month, with a more than 3% loss in the previous session. The main reason for this drop is the sale of assets by the Ethereum Foundation, which has caused panic in the crypto market.\n\nDespite the current bearish trend, historical data suggests that October is a positive month for Ethereum, with an average gain of over 6%. However, the asset has previously lost more than 15% in the ninth month of the year.\n\nKey levels to watch in the coming days include $1,700, $1,900, and $2,030 as resistance, and $1,520, $1,400, and $1,150 as support. A retest of the $1,700 barrier may lead to a surge in buying volume, but previous attempts at this level have failed. If the $1,520 barrier is breached, it may lead to a retest"
+    },
+    {
+        "id": 79,
+        "title": "Bitcoin's And Ethereum's Weakness Fixed With Bitcoin Spark's Impressive Whale Resistance Technology - U.Today",
+        "summary": "  Bitcoin Spark, a Bitcoin hard fork, is introducing a new platform that addresses the limitations of Bitcoin and Ethereum. Bitcoin Spark will have a gas network with lower transaction costs, and the mining rewards will be distributed to miners through a smart contract layer. The platform will also feature a unique smart contract layer that supports decentralized applications in EVM-compatible languages. The contract will have four interjecting layers programmable in low- and high-level languages, and the mining layer will allow network participants to donate idle processing power to the platform. Unlike Bitcoin and Ethereum, Bitcoin Spark encourages network validators to join the ecosystem and traps idle energy during mining. The platform will also be lightweight, allowing mining on low-power devices like laptops and mobile phones. Learn more at <https://bitcoinspark.org/>."
+    },
+    {
+        "id": 80,
+        "title": "Not Ethereum, But Bitcoin Minetrix Is The Hottest New Coin In Crypto \u2013 Here\u2019s Why - NewsBTC",
+        "summary": "  Bitcoin Minetrix, a new cryptocurrency, is gaining traction with its innovative cloud mining solution and successful presale. The project has raised close to $1 million and is gaining attention from major crypto influencers. Meanwhile, Ethereum is facing uncertainty with bearish momentum and a critical demand zone around $1600. The Falling Wedge pattern could result in a bullish breakout, but the momentum indicators are bearish. The nearest significant support zone for Ethereum is $1600, while resistance is seen at $1800 and $2000."
+    },
+    {
+        "id": 82,
+        "title": "Circle Mints USDC Directly on Ethereum\u2019s Polygon Protocol - CoinGape",
+        "summary": "  Circle, a stablecoin issuer, has launched USD Coin (USDC) directly on Ethereum's Polygon protocol. This development simplifies the process for users and developers, eliminating the need to bridge the stablecoin from Ethereum to another blockchain. With this integration, businesses and developers can now create decentralized applications using USDC on Polygon, promising near-instant transactions with minimal fees. Circle had previously facilitated deposits and withdrawals for USDC.e on Polygon through Circle Mint and its APIs, but will end this service on Nov. 10. The integration with Polygon is expected to revolutionize the decentralized finance landscape and foster interoperability with other blockchain networks."
+    },
+    {
+        "id": 83,
+        "title": "Which Crypto Will Make You Rich? Best Cryptos to Buy Now Including Ethereum (ETH), Ripple (XRP), Solana (SOL ... - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in 256 words or less:\n\nThe article provides an overview of the top cryptocurrencies to watch in 2023, including Ethereum (ETH), Ripple (XRP), Solana (SOL), Cardano (ADA), and Litecoin (LTC). ScapesMania is highlighted as a promising new cryptocurrency with innovative revenue streams and rapid growth in its presale. The article emphasizes the importance of understanding the crypto landscape and conducting thorough research before investing in any cryptocurrency. It also advises investors to proceed with caution due to the volatile nature of cryptocurrencies."
+    },
+    {
+        "id": 84,
+        "title": "Bitcoin: BitVM Introduces Ethereum-Inspired Smart Contracts - Cointribune EN",
+        "summary": "  BitVM, a new technology, has been introduced to the Bitcoin sphere, allowing for Ethereum-style smart contracts on the Bitcoin blockchain. This innovation could bridge the gap between the capabilities of Bitcoin and Ethereum, while preserving the fundamental characteristics of Bitcoin. BitVM performs off-chain execution and on-chain verification, similar to Optimism rollups on Ethereum. The technology has sparked excitement in the community, but also raises limitations, such as consumption of computation and off-chain communications. Some users have expressed caution and emphasized the opt-in nature of BitVM. If successful, BitVM could pave the way for further innovations on the Bitcoin blockchain, increasing its value and relevance in the crypto space."
+    },
+    {
+        "id": 86,
+        "title": "Ethereum Futures ETFs launch to little fanfare as institutional tokenization efforts grow - CityAM - City A.M.",
+        "summary": "  Ethereum Futures ETFs launched in the US with little fanfare, with only $2 million in trading volume on their first day. The VanEck Ethereum Strategy ETF had the lowest trading volume of $425,000. Grayscale Investments is planning to convert its Bitcoin Trust into an ETF, and UBS Asset Management launched a money market fund tokenized on the Ethereum blockchain in a pilot project. JPMorgan's Onyx platform is also using blockchain for repurchase agreements with tokenized treasuries as collateral. Meanwhile, US employees of collapsed exchange FTX found a secret feature in the platform's code that allowed its sister company Alameda Research to access billions of dollars of customer funds, but nothing was done to address the issue. The former FTX boss is facing a criminal trial in New York for allegedly taking funds from FTX's customers using the hidden feature."
+    },
+    {
+        "id": 88,
+        "title": "Ethereum FUD Explodes As ETH Under $1,600, Time To Buy? - Bitcoinist",
+        "summary": "  Ethereum's price has dipped below $1,600, leading to a spike in bearish sentiment among investors. Data from Santiment shows that the social dominance of Ethereum has increased significantly, indicating rising FUD in the market. However, this bearish sentiment has historically been a positive sign for the asset's price, with a rebound occurring in March when the social dominance was at high levels. It remains to be seen if Ethereum has found its bottom or if there is more downside to come before a rebound occurs."
+    },
+    {
+        "id": 89,
+        "title": "ETH20 Presale: Offering A Throwback To April 2014\u2019s Ethereum For Just $0.1 And Stake-To-Earn Incentives. - Crypto News Flash",
+        "summary": "  ETH20 is a new cryptocurrency token that aims to recreate the early days of Ethereum by offering a throwback to April 2014's prices, with a presale starting at $0.1 per token. The project uses the Proof-of-Stake (PoS) protocol and has a total supply of 120 million tokens, with 30 million available for presale. Early investors can earn passive income through staking and minting NFTs, and the project has undergone a thorough security audit. The ETH20 Avatar NFT Collection features 10,000 unique digital collectibles, and investors can mint a top-tier PFP NFT or multiple NFTs for free by investing a minimum of $200. The presale is ongoing but won't last forever, so early investors can potentially earn substantial returns. Visit the ETH20 website to learn more and purchase tokens."
+    }
+]

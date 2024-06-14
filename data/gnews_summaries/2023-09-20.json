@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "title": "Understanding the Economics of Ethereum Layer 2s - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nEthereum Layer 2s are still in their infancy, with additional tech layers to monitor. These include the application layer, Eigen Layer, data availability, and data oracles. While Layer 2s aim to improve scalability, there are many factors to consider in their development and adoption."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum Reportedly 27% Undervalued as ETH Price Drops to 14-Month Low Against Bitcoin - CCN.com",
+        "summary": "  Ethereum (ETH) has dropped to a 14-month low against Bitcoin (BTC) due to a recent price movement that started in September 2022. Key takeaways from the article include:\n\n* ETH/BTC ratio has decreased, continuing a pattern that started over a year ago\n* Major token holders, including Ethereum co-founder Vitalik Buterin, have shifted their holdings to exchanges, possibly indicating a prelude to selling\n* Whales have deposited a total of $60 million worth of ETH to exchanges, sparking fears of additional price drops\n* Ethereum is currently trading 27% below its value according to a new on-chain study using a modified version of Metcalfe's Law\n* The Ethereum network valuation tracks the updated ML index better when layer 2 activities are factored into the model\n* The L2 area of Ethereum has seen a flurry of activity with numerous projects testing creative solutions to scaling problems\n* Aggregate total value locked (TVL) on Ethereum's L2 networks"
+    },
+    {
+        "id": 12,
+        "title": "Ether Drops to 14-Month Low Against Bitcoin as Vitalik Buterin, Whales Send $60M ETH to Exchanges - Yahoo Finance",
+        "summary": "  Ether (ETH) price dropped to a 14-month low against Bitcoin (BTC) as large token holders, including Ethereum co-founder Vitalik Buterin, deposited significant amounts of ETH to exchanges. This movement suggests that these investors may be preparing to sell their holdings, which could lead to further price declines. The recent price action extends a trend that began in September 2022, with some analysts forecasting continued outperformance of BTC over ETH. $60 million worth of ETH has been deposited to exchanges by whales in recent days, which has raised concerns about potential further declines in price."
+    },
+    {
+        "id": 13,
+        "title": "Ethereum ICO Participant Moves $9,960,000 Worth of ETH to Crypto Exchange Kraken: On-Chain Data - The Daily Hodl",
+        "summary": "  An Ethereum investor who participated in the project's 2014 ICO transferred $9.96 million worth of ETH to Kraken on Monday, marking a 531,361% increase in value since the initial investment. The investor still holds $80.7 million worth of ETH, but has experienced possible dusting attacks in the past. Large Ethereum holders have displayed bearish behavior in recent months, with a 4-month dump in supply from addresses holding 10-10,000 ETH."
+    },
+    {
+        "id": 14,
+        "title": "Better Buy: Bitcoin vs. Ethereum - The Motley Fool",
+        "summary": "  In a comparison of Bitcoin and Ethereum, two of the best-performing large-market-cap cryptos, Bitcoin appears to have an edge due to institutional investor flows, user adoption rates, and technological improvements. Despite recent volatility, Bitcoin is up 65% year-to-date, while Ethereum is up 40%. Bitcoin's advantage lies in its perceived safe-haven status, which attracts investors during market crises. User adoption rates also favor Bitcoin, with Cathie Wood and Ark Invest predicting a significant increase in Bitcoin usage globally. However, Ethereum's technology, including its transition to proof-of-stake, could lead to a 25% undervaluation. The winner is Bitcoin, with its current market value accounting for approximately 50% of the total crypto market."
+    },
+    {
+        "id": 16,
+        "title": "The Protocol: Ethereum Struggles With Sprawl as Optimism Airdrops $27M - CoinDesk",
+        "summary": "  Ethereum is facing challenges due to rapid growth in the number of active validators on its proof-of-stake blockchain. The network is now experiencing \"sprawl\" with nearly 800,000 validators, up 41% since April's upgrade. This has led to increased network latency and a concentration of staking in the hands of a few major protocols. Developers have proposed EIP-7514 to limit new validator entries to 8 per epoch, but this is seen as a temporary solution."
+    },
+    {
+        "id": 18,
+        "title": "$10 Million of Ethereum ICO Coins Moved to Kraken: ETH Market Ready to Dump? - CCN.com",
+        "summary": "  A major Ethereum whale transferred $10 million worth of ETH to Kraken, sparking concerns of a potential dump in the market. The whale originally received 254,908 ETH in 2014 during Ethereum's early days and has been accumulating the cryptocurrency over the years. The current value of the cache is $466 million. The transfer to Kraken suggests the whale may be preparing to sell their holdings, which could lead to a price drop. However, Santiment remains optimistic about Ethereum's viability, citing the project's ongoing development activity. Significant player behavior, including supply dumps from addresses holding 10-10,000 ETH, is worth monitoring."
+    },
+    {
+        "id": 19,
+        "title": "Grayscale officially abandons post-Merge PoW Ethereum tokens - Cointelegraph",
+        "summary": "  Grayscale, a major cryptocurrency investment firm, has abandoned the rights to post-Merge proof-of-work (PoW) Ethereum tokens (ETHPoW) on behalf of its record date shareholders. The decision comes after a thorough review and finding that the tokens lack meaningful liquidity and the firm's custodian does not support them. This move comes over a year after the Ethereum Merge, which transitioned Ethereum from PoW to proof-of-stake (PoS). While some firms have attempted to launch EthereumPoW exchange-traded products (ETPs), Grayscale's decision to abandon these rights highlights the challenges and uncertainty surrounding the support of these tokens."
+    },
+    {
+        "id": 22,
+        "title": "How Much would you Earn Investing $100 Every Week in Ethereum - Watcher Guru",
+        "summary": "  Investing $100 every week in Ethereum since the beginning of 2023 would be worth $3,618 today, according to data from CryptoDCA. This represents a downturn of 4.76% from the initial investment of $3,800. Ethereum has barely spiked in price this year, leading to a loss of nearly 5% for investors. The cryptocurrency markets remain bearish due to macroeconomic factors and a potential bull run is not seen on the horizon. As of press time, Ethereum is trading at $1,625 and is down 1.1% in the past 24 hours."
+    },
+    {
+        "id": 23,
+        "title": "Grayscale Takes New Approach As It Files For Another Ethereum Futures ETF - NewsBTC",
+        "summary": "  Grayscale, a digital asset management firm, has filed for another Ethereum futures Exchange-Traded Fund (ETF) with the US Securities and Exchange Commission (SEC). This is the third application filed by Grayscale, with the latest one filed under the Securities Act of 1933. The firm's move may be a contingency plan in case the SEC denies its initial proposed Ethereum futures ETF, which is expected to launch in October. Hashdex, a Brazilian investment firm, has also filed an application under the Securities Act of 1933 to offer a fund that will hold both Ether futures contracts and a Spot Ethereum ETF. Several Ethereum futures ETFs are expected to hit the market in October, barring a denial by the SEC. The approval of an Ethereum ETF by the SEC is expected to give the crypto market a much-needed boost, with forecasts of ETH's price rising above $2,000 when these funds launch."
+    },
+    {
+        "id": 24,
+        "title": "Best Place to Stake Ethereum - Watcher Guru",
+        "summary": "  Best Place to Stake Ethereum: Top 5 Places to Earn Staking Rewards with ETH\n\nCryptocurrency staking has become increasingly popular, and Ethereum staking is no exception. Staking allows individuals to earn passive income by holding and locking their ETH in a wallet for a predetermined period. In this article, we will explore the top 5 places to earn staking rewards with Ethereum and become a validator.\n\nBinance\n\nBinance, the world's largest cryptocurrency exchange, offers Ethereum staking through its staking platform. With Binance, you can stake as little as 0.1 ETH and enjoy a \"Flexible Lock\" option, allowing you to redeem your assets at any time. While Binance mandates the 32 ETH requirement for independent validators, it tokenizes BETH as the proof of staked Ethereum in a 1:1 ratio. Binance does not charge staking fees, making it an attractive option for staking your ETH.\n\nCoinbase\n\nCoinbase, a"
+    },
+    {
+        "id": 26,
+        "title": "Eclipse Launches Ethereum Layer-2 Running on the Solana Virtual Machine - Yahoo Finance",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nEclipse has launched its mainnet for a layer-2 scaling solution powered by the Solana Virtual Machine (SVM). The solution leverages Solana's parallel transaction execution and localized fee markets to prevent fee spikes. Eclipse will use Celestia for data availability and Neon EVM for EVM compatibility. The layer-2 chain will use Ethereum for settlement and recognize ETH as the gas token. Eclipse has no plans for its own token at this time. Users can access the mainnet through MetaMask Snaps or Solana native wallets."
+    },
+    {
+        "id": 27,
+        "title": "Report Says Ethereum Is Trading Well Below Fair Value, What\u2019s The Correct Figure? - NewsBTC",
+        "summary": "  Ethereum is trading below its fair value, according to a new report by RxR. The report uses Metcalfe's law to valuate the network, and it shows that Ethereum's price is 27% below its fair value. The report also breaks down Ethereum's value into different layers, including the commodity value layer, equity value, and network value layer. The analysis suggests that Ethereum's price has been dealing with a series of strong declines, which may push the growth of the ecosystem back a few years. The report concludes that Ethereum's price should be trading at around $2,300 with a market cap of $275 billion, significantly higher than its current price of $1,637."
+    },
+    {
+        "id": 29,
+        "title": "Grayscale's New Ether Future ETF: Latest Firm Chasing Ethereum ETFs - CCN.com",
+        "summary": "  Grayscale, a digital asset manager, has filed for a Ethereum Futures Trust ETF with the New York Stock Exchange (NYSE), following its recent victory against the US Securities and Exchange Commission (SEC). The trust will hold Ether futures contracts with a \"roughly constant expiration profile\" and will not carry positions all the way to cash settlement. Grayscale joins other Wall Street firms in listing shares based on Ethereum investing, as the SEC has allowed the first ETFs based on Ether futures. The filing mentions that Grayscale is in the process of becoming registered as a commodity pool operator and member of the National Futures Association. The success of Grayscale's recent case against the SEC has solidified belief that the commission may lose in court if it's truly at fault, and the company is now expanding its business by investing in Ethereum."
+    },
+    {
+        "id": 31,
+        "title": "Ethereum (ETH) Reaches 2023 Low Against Bitcoin (BTC) - U.Today",
+        "summary": "  Ethereum (ETH) reaches new low against Bitcoin (BTC) with a trading pair plummeting to 0.059 BTC. Ethereum's dominance declines in bearish conditions, with Bitcoin's market cap at $525.9B and price at $26,979. Ethereum's market cap is $194.4B with a price of $1,617.48, with Bitcoin showing moderate growth of 3.2% in the last week while Ethereum grew by 1.1%."
+    },
+    {
+        "id": 37,
+        "title": "Grayscale applies for new Ethereum futures ETF - CryptoSlate",
+        "summary": "  Grayscale has filed for a new Ethereum futures exchange-traded fund (ETF) with the Securities and Exchange Commission (SEC). This is the firm's second attempt at an ETF, after previously submitting a filing under the Investment Company Act of 1940. The SEC has approved several Bitcoin futures ETFs under both the 1933 and 1940 Acts, and Grayscale's application is notable as the firm plans to convert its existing GBTC fund into a spot Bitcoin ETF. Other firms, including Volatility Shares, Bitwise, ProShares, VanEck, Roundhill, Valkyrie Investments, and Hashdex, have also applied for Ethereum futures ETFs."
+    },
+    {
+        "id": 39,
+        "title": "Investing $100/week into Ethereum in 2023 would be this worth today - Finbold - Finance in Bold",
+        "summary": "  Investing $100 per week in Ethereum (ETH) in 2023 using dollar-cost averaging (DCA) would not have been a profitable strategy so far, according to data from cryptoDCA. The $3,800 investment (38 weeks) would be worth $3,618.97, a 4.76% loss. This is despite the advantages of DCA, such as minimizing the impact of volatility and psychology on investments. On the other hand, using the same method on Bitcoin (BTC) would have brought a 5.69% return on investment. Ethereum's price has been declining, with a 1.17% loss in the last 24 hours and a 2.62% drop in the past month. However, some experts, such as Paul Brody of Ernst & Young (EY), predict that Ethereum could see price growth in the near future due to its specialization among key players."
+    },
+    {
+        "id": 42,
+        "title": "Grayscale Makes Another Bid for Ethereum Futures ETF - Coinpedia Fintech News",
+        "summary": "  Grayscale, a prominent cryptocurrency investment firm, has submitted a new application for an Ethereum futures ETF under the Securities Act of 1933, after previously filing an application under the Investment Company Act of 1940. This shift in regulatory approach may be an effort to enhance the chances of approval, as Bitcoin futures ETFs have successfully registered and obtained approval under both acts. The Securities and Exchange Commission (SEC) is nearing approval for Ethereum futures-based ETFs, with six applications currently under review. Approval could occur as early as October, despite the SEC's silence on the matter."
+    },
+    {
+        "id": 43,
+        "title": "Ethereum Price Lacks Momentum Above $1,660, ETH Holders Are Safe: Here\u2019s Why - NewsBTC",
+        "summary": "  Ethereum price is struggling to break above $1,660, with two attempts to gain momentum but failing. The cryptocurrency is currently trading above $1,635 and the 100-hourly Simple Moving Average, but facing resistance from a key contracting triangle. If Ethereum fails to clear $1,660, it could start another decline towards $1,620 and potentially lower to $1,540. Technical indicators, such as MACD and RSI, are losing momentum in the bullish zone, indicating a possible reversal in the market."
+    },
+    {
+        "id": 44,
+        "title": "'We Can't Build Something Like This on Ethereum,' Says DYdX Founder as Mainnet Nears - CoinDesk",
+        "summary": "  DYdX founder Juliano says layer 2s need decentralized sequencers to avoid censorship. Current single sequencers on layer 2s, like Coinbase, can refuse to process transactions, centralizing power. Going back to layer 1 for censorship resistance is not a good user experience. Decentralized sequencers are needed for true censorship resistance."
+    },
+    {
+        "id": 46,
+        "title": "Grayscale files for new Ether futures ETF \u2014 Official - Cointelegraph",
+        "summary": "  Grayscale, a digital currency investment company, has filed with the Securities and Exchange Commission (SEC) for a new Ether (ETH) futures exchange-traded fund (ETF). The ETF, called the Grayscale Ethereum Futures Trust, will be listed and traded on the New York Stock Exchange Arca Rule 8.200-E. The trust will hold Ether futures contracts with a roughly constant expiration profile and will not require an Ether custodian. This news comes after several other firms have filed for ETH futures ETFs and follows Grayscale's recent victory in converting its over-the-counter Bitcoin trust into a listed spot Bitcoin ETF."
+    },
+    {
+        "id": 47,
+        "title": "Grayscale Investments Applies to Offer Ethereum Futures ETF - Decrypt",
+        "summary": "  Grayscale Investments has applied to the SEC for an Ethereum futures ETF, following its recent victory in overturning the SEC's decision to block its Bitcoin trust conversion. Unlike previous spot ETF applications, this fund will deal strictly in futures and does not require an Ether custodian. The SEC previously approved a Bitcoin futures ETF in 2021, and investors are eager for spot crypto ETFs, with the SEC currently reviewing multiple applications, including one from BlackRock."
+    },
+    {
+        "id": 49,
+        "title": "Solana set to become Ethereum\u2019s L2 saving grace \u2013 How? - AMBCrypto News",
+        "summary": "  Solana is set to become Ethereum's L2 (Layer 2) savior through its enhanced performance and compatibility with Ethereum's security and liquidity. The Solana Virtual Machine (SVM) has been identified as the best execution environment for the Eclipse mainnet, which aims to provide settlement, data availability, and high-performance execution for its users. Solana's local fee markets and scheduler prioritization of conflict-free transactions result in lower fees compared to other L2 solutions. While Ethereum will provide validation and security through its canonical chain, Solana's performance and compatibility make it a crucial addition to the Ethereum L2 ecosystem."
+    },
+    {
+        "id": 50,
+        "title": "Eclipse Unveils New L2 Architecture, Bringing Solana Advantages to Ethereum - CryptoPotato",
+        "summary": "  Eclipse, a new L2 architecture, is being launched to improve the scalability of Ethereum by leveraging the Solana Virtual Machine (SVM). The new architecture will bring the advantages of Solana's speed and scale to Ethereum, including faster transaction settlement and execution using SVM, and the ability to avail data through Celestia. Additionally, the new mainnet will use Neon EVM to bring full EVM support, and will feature proving similar to Anatoly's SVM fraud-proof SIMD to avoid reintroducing a Merkle tree into the SVM. The new architecture is expected to redefine the scaling world and bring new possibilities to Ethereum, including the ability to onboard EVM users to the SVM chain without switching wallets."
+    },
+    {
+        "id": 52,
+        "title": "Tron edges over Ethereum: What it means for you - AMBCrypto News",
+        "summary": "  Tron has surpassed Ethereum in terms of transactions, with 4.5 million transactions on the Tron blockchain compared to Ethereum's 880,000 transactions. Tron's fast transaction speed and lower gas fees have made it more attractive for gaming and gambling applications, as well as for stablecoin transactions. Tron's adoption rate in Asia has also contributed to its success. Additionally, Tron has been leading the revival of DeFi TVL, with a 20.74% increase in the last seven days, while Ethereum's TVL only increased by 7.41%."
+    },
+    {
+        "id": 57,
+        "title": "Ethereum (ETH) and XRP Struggling with Market Pressure while New Coin Enters Presale - U.Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) and XRP are facing market pressure, while a new coin called ScapesMania is entering its presale stage. ScapesMania aims to bridge the gap between Web2 and Web3, offering a unique value proposition to a broad audience. The coin has passed a stringent third-party tech audit and has listed on prominent exchanges, ensuring liquidity. ScapesMania offers exclusive benefits to holders, including DAO participation, staking rewards, and buyback and burn initiatives. The project has a limited token pool design and is currently in negotiations for listing on major exchange platforms."
+    },
+    {
+        "id": 58,
+        "title": "Ethereum and Litecoin Prices Slide, But Bitcoin BSC Is Bullish - Finbold - Finance in Bold",
+        "summary": "  Ethereum and Litecoin prices have declined, but Bitcoin BSC is seeing success with its presale, raising over $3.6 million and selling 92% of its soft cap. Bitcoin BSC is built on Binance's BNB Smart Chain, which is faster and cheaper than the Bitcoin blockchain, making it more suitable for DeFi, trading, and everyday payments. Investors can stake the $BTCBSC token to validate transactions and earn additional rewards, with staking rewards paid out every 10 minutes. The token is currently priced at $0.99 during the presale, offering a chance to invest early in a potentially huge cryptocurrency before its price skyrockets. However, investors must hurry as the presale could close at any time."
+    },
+    {
+        "id": 59,
+        "title": "Ethereum: As whales move away, what\u2019s next for ETH? - AMBCrypto News",
+        "summary": "  Ethereum whales have been selling their holdings, with one wallet selling 2,591 ETH worth $4.18 million in stablecoins. This has raised concerns about the potential impact on ETH's price. However, Ethereum developers are continuing to improve the network, with updates on the Devnet-8 test network and proposals to limit validator sets' growth rate. Ethereum's price is currently $1,634.14, with trading volume down 16% in the past 24 hours. DeFi activity on Ethereum has also slowed down, with a reduction in Total Value Locked."
+    },
+    {
+        "id": 60,
+        "title": "Crypto Price Today: Bitcoin regains $27,000; Ethereum nears $1,650; Toncoin rises 3% - Business Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin surged over 1% to regain $27,000 level, while Ethereum inched up marginally but failed to break $1,650 mark. Other cryptos also saw gains, with Toncoin rising 3%. However, Solana and Cardano shed a percent each. The global cryptocurrency market cap rose to $1.08 trillion, but total trading volumes dropped 8%. Bitcoin's value has increased by over 1%, and its open interest has seen a recent increase. Citi is also embracing blockchain technology to tokenize deposits and automate trades. Tech View suggests that Bitcoin could potentially drive towards $28,000 resistance level."
+    },
+    {
+        "id": 61,
+        "title": "Wormhole integrates native USDC transfers for four blockchain networks - Cointelegraph",
+        "summary": "  Wormhole has integrated Circle's Cross-Chain Transfer Protocol (CCTP) to enable native USDC transfers between four blockchain networks: Ethereum, Avalanche, Arbitrum, and Optimism. This feature allows end-users to transfer USDC directly without the need for a Circle partner account, reducing liquidity issues and user confusion. The integration is available through the Portal bridge and can be integrated into developer apps using Wormhole Connect. Other bridges, such as Wanchan and Celer, have also implemented or intend to integrate with CCTP."
+    },
+    {
+        "id": 65,
+        "title": "ETH Price Bulls Ready To Defend $1,600 Support - CoinGape",
+        "summary": "  Ethereum price has rebounded after a brief decline, trading at $1,634 on Wednesday. Despite concerns over large transfers of ETH to exchanges, the crypto market has shown resilience and is awaiting the Federal Open Market Committee (FOMC) meeting outcome. The odds of an Ethereum price rally to $3,325 are high if bulls can defend the $1,600 support and push for the repossession of the 21-weekly Exponential Moving Average (EMA) and the 100-weekly EMA. A breakout above the ascending triangle pattern could reach $3,325. Large holders have been transferring ETH to exchanges, which could impact the price, but the market's positive outlook suggests investors are ready to buy despite the transfers."
+    },
+    {
+        "id": 67,
+        "title": "Ethereum iFex AI Review 2023 - UK, Germany, Brazil, Australia, Netherlands - mid-day.com",
+        "summary": "  Ethereum iFex AI is a trading platform that allows users to trade Ethereum, a popular cryptocurrency. The platform provides information and insights on Ethereum and offers a simple and easy-to-use interface. Ethereum iFex AI is free to use and does not require any payment to create an account or start trading.\n\nThe platform is designed for beginners and provides detailed information on Ethereum, including its features and how it works. It also offers a single crypto coin option, which makes it easier for beginners to focus on one cryptocurrency instead of multiple options.\n\nEthereum iFex AI provides several benefits, including informative content, a simple user interface, and easy account opening. The platform is also secure, with KYC (Know Your Customer) requirements to ensure user security.\n\nHowever, there are some limitations to the platform, such as the lack of a demo trading account and the fact that it only offers trading in Ethereum. Additionally, crypto trading carries risks, and users should be aware of these risks before investing.\n\nOverall, Ethereum iFex"
+    },
+    {
+        "id": 69,
+        "title": "Grayscale to forgo Ethereum PoW tokens; files for new ETH ETF - CryptoTvplus",
+        "summary": "  Grayscale, a leading cryptocurrency investment firm, has decided to relinquish its rights to ETHPoW tokens, which are associated with the post-merge proof-of-work (PoW) protocol of Ethereum. The firm determined that these tokens lacked sufficient liquidity and support from the custodian of the products, making it impractical to exercise the rights to acquire and sell them. This decision comes just over a year after the Ethereum Merge, which shifted the Ethereum ecosystem from traditional PoW to PoS consensus mechanism. Meanwhile, Grayscale has filed for a new Ether (ETH) futures exchange-traded fund (ETF) with the US Securities and Exchange Commission."
+    },
+    {
+        "id": 70,
+        "title": "These Cryptocurrencies May Surge After Bitcoin ETF Approval, Shiba Inu (SHIB), Ethereum (ETH), Kangamoon (KANG) - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThree cryptocurrencies, Shiba Inu (SHIB), Ethereum (ETH), and Kangamoon (KANG), may experience significant growth after the approval of a Bitcoin ETF in the US. Shiba Inu has a strong community and exciting developments, while Ethereum is a crypto giant with smart contract capabilities and a vast ecosystem of dApps. Kangamoon is a newcomer that combines gaming and cryptocurrency, offering a unique play-to-earn experience. Market analysts predict that these cryptocurrencies could surge in value, with Kangamoon predicted to experience a 22x value growth before its presale finishes."
+    },
+    {
+        "id": 71,
+        "title": "'BitBoy' Ben Armstrong Raises Over $54K In Bitcoin, Ethereum, Cardano Donations Within Hours - Benzinga",
+        "summary": "  Crypto influencer Ben Armstrong has raised over $54,000 in Bitcoin, Ethereum, and Cardano donations to fund his legal campaign to regain control of BitBoy Crypto. Armstrong alleges that Hit Network, the organization he was associated with, has taken away his financial resources and left him unable to fight back. He has endured blackmail, extortion, public humiliation, death threats, and the spread of lies. Industry experts will discuss the approval of a long-awaited Bitcoin spot ETF at Benzinga's Future of Digital Assets event in NYC on Nov. 14."
+    },
+    {
+        "id": 73,
+        "title": "Grayscale Investments abandons rights to Ethereum Proof-of-Work tokens - Cryptopolitan",
+        "summary": "  Grayscale Investments, the world's largest digital currency asset manager, has abandoned its rights to Ethereum's Proof-of-Work (PoW) tokens, known as ETHPoW. The decision comes over a year after Ethereum's transition to a PoS system, known as the Ethereum Merge. Grayscale cited lack of meaningful liquidity and custodial support for ETHPoW tokens as the primary reasons for this move. Despite some investment firms attempting to launch EthereumPoW exchange-traded products (ETPs), these efforts were short-lived. Grayscale's decision to relinquish rights to ETHPoW tokens could be seen as a strategic decision to focus on more promising and supported aspects of the Ethereum ecosystem. The market cap of the old ETHPoW is currently around $140 million, significantly less than Ethereum's PoS tokens."
+    },
+    {
+        "id": 74,
+        "title": "Injective unveils inEVM, bridging the gap between Solana, Cosmos, and Ethereum - Cryptopolitan",
+        "summary": "  Injective, a blockchain platform, has launched inEVM, a masterstroke that bridges the gap between Solana, Cosmos, and Ethereum. inEVM allows Ethereum developers to leverage the Injective global network and its vast customer base, providing them with unprecedented opportunities to expand their outreach. The platform offers parallelized structure, immediate transaction finality, a comprehensive toolkit, shared liquidity, and composability throughout the Cosmos IBC universe and Solana. This innovation revolutionizes decentralized application deployment, making it easier for developers to launch their applications and enjoy inter and intra-EVM compatibility. Injective has been at the forefront of Web 3.0 innovation, and inEVM is the latest example of their commitment to advancing the blockchain field."
+    },
+    {
+        "id": 75,
+        "title": "Bitcoin OG Proposes Spiderchain: A Game-Changing Sidechain for BTC and Ethereum - Crypto News Flash",
+        "summary": "  Title: Spiderchain Proposes Game-Changing Sidechain for Bitcoin and Ethereum\n\nSummary: Botanix Labs has introduced Spiderchain, a Layer 2 protocol that combines Bitcoin's security and Ethereum's smart contract capabilities. Spiderchain offers full Ethereum Virtual Machine (EVM) equivalence on Bitcoin without altering its base protocol. This integration allows for the transfer of Ethereum's vast capabilities onto Bitcoin while maintaining its decentralization and security. Spiderchain operates via multisig wallets steered by Orchestrators, who manage peg-in and peg-out requests. The protocol operates in epochs, with new epochs created when a new Bitcoin block is mined. Spiderchain balances Proof of Stake (PoS) and Proof of Work (PoW) by leveraging Bitcoin's PoW attributes. The protocol's security is ensured by the stake provided by Orchestrators and the total Bitcoin locked in Spiderchain. However, security assumptions include no individual or entity controlling over 50% of the staked funds and no single multis"
+    },
+    {
+        "id": 76,
+        "title": "Developer Leverages ChatGP4 and AI for Autonomous Token deployment on Ethereum - Cryptopolitan",
+        "summary": "  A developer has successfully created an ERC-20 token, AstroPepeX ($APX), using ChatGP4 and AI, marking a significant milestone in AI-driven token creation. The project demonstrates the potential of AI in the blockchain space, showcasing how it can autonomously create and deploy tokens. The developer integrated ChatGP4 into custom-built applications and connected them to Ethereum via hardhat, leveraging the OpenAI API to automate the token deployment process. The script comprised 876 lines of code and addressed human elements such as contract ownership and private key management. The project received praise from the crypto community, highlighting the potential of AI in the blockchain space and inviting further exploration and innovation."
+    },
+    {
+        "id": 77,
+        "title": "BitTorrent crypto vs. Ethereum: Which will dominate the decentralized world? - CryptoNewsZ",
+        "summary": "  BitTorrent and Ethereum are two popular blockchain platforms competing for dominance in the decentralized tech universe. BitTorrent Crypto (New) is a decentralized, P2P network protocol that enables fast transactions with low fees, while Ethereum 2.0 offers increased scalability and performance. Price predictions vary, but experts suggest that both platforms have optimistic fundamentals for a decentralized future. However, the outcome of the competition remains uncertain, and investors must remain aware of the developments and potential of these technologies."
+    },
+    {
+        "id": 79,
+        "title": "Ethereum: Metis launches crypto incentives for DeFi - The Cryptonomist",
+        "summary": "  Metis, an Ethereum layer 2, has launched a $5 million incentive program for DeFi development, starting with Aave v3. The program, called Metis Journey, aims to attract more users to the platform by offering tokens to liquidity pools and regular users who contribute to the ecosystem. The initiative also involves other DeFi projects, such as Hummus, Stargate, Synapse, and Unimaia. The MetisDAO token has seen a 7% increase in value since the announcement, but is still down 8% compared to 30 days ago and 96% from its all-time high. The bear market of 2022 had a significant impact on DeFi, with a loss of 78% in TVL compared to its peak in November 2021. Currently, DeFi's TVL is around $39 billion, similar to the beginning of the year, despite the recovery of Bitcoin and Ethereum prices."
+    },
+    {
+        "id": 81,
+        "title": "Eclipse unveils its Ethereum SVM L2 mainnet architecture - NameCoinNews",
+        "summary": "  Eclipse, a blockchain platform, has unveiled its Ethereum SVM L2 mainnet architecture, which aims to provide faster and more scalable transactions. The architecture brings together four elements: settlement, execution, data availability, and proving. Eclipse will use ETH as the gas token and will settle and validate transactions on Ethereum, while execution will be handled by the Solana Virtual Machine (SVM). Data will be posted to Celestia, a scalable data availability solution, and zk proofs of fraud will be deployed using RISC Zero. The process begins with Eclipse SVM L2 posting a block to Celestia, which locks data availability and roots it in Ethereum, serving as a validating bridge and settlement section. The architecture offers benefits such as high performance and scalability, and partnerships with existing ecosystems."
+    }
+]

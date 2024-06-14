@@ -1,0 +1,87 @@
+[
+    {
+        "id": 2,
+        "title": "Ethereum Cancun Upgrade Explained - Watcher Guru",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum has completed its transition from proof-of-work mining to proof-of-stake mining, known as the Cancun upgrade. This upgrade aims to boost scalability and security by introducing 5 Ethereum Improvement Proposals (EIPs). The EIPs include enhancing data availability across shards, lowering data storage costs, exposing Beacon chain data to execution layers, and adding a new memory copying instruction. The upgrade is expected to be fully implemented in October 2023 and will make the network more attractive for developers and users."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum Price Plunges to $1,600: Can Bulls Save the Day? - NewsBTC",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum price plunged to $1,600, with bears in control.\n\nSupport levels: $1,600, $1,620, $1,645.\n\nResistance levels: $1,650, $1,665, $1,700, $1,750, $1,820.\n\nEthereum failed to hold above $1,665, leading to a bearish move.\n\nMajor support at $1,600, with potential for further losses to $1,585 or lower.\n\nMajor resistance at $1,665, with potential for a bounce to $1,700 or higher.\n\nTechnical indicators (MACD, RSI) are bearish."
+    },
+    {
+        "id": 5,
+        "title": "Vitalik considers implications of adding ZK-EVM, other features to Ethereum mainnet - CryptoSlate",
+        "summary": "  Vitalik Buterin, the founder of Ethereum, has written a blog post exploring the question of whether certain features should be added to the Ethereum mainnet. The post examines the pros and cons of \"enshrining\" features, which means making them an official part of the protocol that all developers must implement. Buterin considers several potential features, including ZK-EVMs, proposer-builder separation, private mempools, liquid staking, and more precompiles. He notes that enshrining features can provide efficiency, security, and censorship resistance, but also risks over-extending the protocol's governance and making it too rigid for unanticipated user needs. The post also highlights the differing perspectives within the Ethereum community, with some prioritizing user benefits and others advocating for a minimalist approach. Ultimately, the open \"soft forking\" process of Ethereum allows for continued evolution based on emerging community priorities."
+    },
+    {
+        "id": 8,
+        "title": "Futures ETFs Tied to Ethereum Hit the U.S. Market for the First Time - RIAIntel.com",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nInvestment managers Bitwise, Proshares, and VanEck launched six futures-based ETFs tied to ethereum, the second most popular cryptocurrency, in the US for the first time. The ETFs provide a more secure and compliant way for financial advisors to gain exposure to bitcoin and ethereum on behalf of their clients. The launch comes as the SEC continues to deliberate on the future of a spot bitcoin ETF, with many advisors staying away from crypto due to regulatory uncertainty. Despite the low trading volumes on the first day, the ETFs offer a more convenient and regulated way for investors to access cryptocurrencies."
+    },
+    {
+        "id": 11,
+        "title": "A Spot ETH ETF Represents the Dawn of Institutional Liquid Staking - CoinDesk",
+        "summary": "  Excitement over an ETH ETF due to high demand from investors seeking to integrate digital assets into their portfolios. Current offerings fall short, and U.S. investors are looking beyond American shores for a spot BTC ETF."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum futures ETFs on CME begin with light trading volumes - crypto.news",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum futures ETFs on CME have started with low trading volumes, with a total of $1.92 million in the first day. The top performer was Valkyrie's ETF with $787,000 in trading volume. The subdued interest in Ethereum-based futures ETFs may be due to anticipation of spot versions, primarily Bitcoin, possibly in early 2024. However, the US Securities and Exchange Commission (SEC) has been delaying the consideration of applications for a spot Bitcoin ETF."
+    },
+    {
+        "id": 17,
+        "title": "AI forecasts Ethereum price for the end of 2023 - Finbold - Finance in Bold",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nAI forecasts Ethereum price to reach $2,553 by end of 2023, representing a 50% increase from current price. ETH price is expected to reach $3,243 in next 6 months and $5,000 a year from now, according to CoinCodex's AI-powered price prediction algorithms. However, the forecast is based on technical analysis indicators and general market sentiment, and the actual outcome depends on future developments and macroeconomic factors."
+    },
+    {
+        "id": 19,
+        "title": "Crypto Drug Cartel Ties: On-chain Investigator Drags Ethereum Into The Mess - NewsBTC",
+        "summary": "  On-chain investigator @BoringSleuth revealed potential ties between Tron and the Chinese Communist Party (CCP), suggesting that the cryptocurrency may be a Ponzi scheme. The investigator found that over half of the wallets owned by CCP companies were traced back to Tron, and 98% of Tron's total token supply was received by 17 wallets created and owned by a criminal organization. Additionally, the investigator mentioned that cryptocurrency exchanges like Huobi Global and cryptocurrencies like Shiba Inu may be linked to the CCP.\n\nThe investigator also raised concerns about Ethereum, suggesting that it may be backed by the CCP and connected to companies involved in drug trafficking. The investigator pointed to a previous transaction where the CCP received 133,700 ether on a single Genesis Block address owned by the party as evidence of a connection between Ethereum and the CCP. However, no concrete evidence linking Ethereum to the CCP has emerged, leaving the allegations in the realm of speculation."
+    },
+    {
+        "id": 20,
+        "title": "Crypto Analyst Says One Ethereum-Based Altcoin Flashing a Bearish Signal, Updates Outlook on Bitcoin - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto analyst Ali Martinez warns of a potential bearish signal in the market for Ethereum-based altcoin Chainlink (LINK). LINK's 30-day market value to realized value (MVRV) has hit 20%, which could lead to a brief correction. However, Martinez believes that LINK will still reach higher highs after the correction. He also examines Bitcoin's Relative Strength Index (RSI) and notes that when the RSI hits or surpasses 74.21, Bitcoin tends to retrace. BTC is trading at $27,362 at the time of writing."
+    },
+    {
+        "id": 28,
+        "title": "This Ethereum-Based Altcoin Will Explode 100% After 'Final Correction', Says Micha\u00ebl van de Poppe - The Daily Hodl",
+        "summary": "  Crypto analyst Micha\u00ebl van de Poppe predicts that the decentralized oracle provider Chainlink (LINK) is due for a final correction before doubling in price, potentially reaching $12-$15 in 2024. LINK is currently trading at $7.67, which would represent a 56%-95% increase. Van de Poppe also expects \"trendy coins\" to continue showing momentum despite the altcoin correction as long as Bitcoin (BTC) consolidates. Additionally, he believes that Bitcoin could rally to $30,000 if it can successfully retest the $26,700-$26,900 range."
+    },
+    {
+        "id": 31,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: BTC, ETH, XRP move around as market volatility resumes - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin price has a chance to reach $30,000 if it breaks through $28,200.\nEthereum price could extend its downtrend to $1,585.\nRipple price is ready to climb to $0.6146-$0.6432 range.\nBitcoin (BTC) price needs to clear $28,200 first.\nEthereum (ETH) price could extend the ongoing slump to $1,585.\nRipple (XRP) price continues along an ascending trendline."
+    },
+    {
+        "id": 32,
+        "title": "Ethereum (ETH) Price Analysis for October 4 - U.Today",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nEthereum (ETH) price is down 1% over the last 24 hours, with buyers losing initiative. The hourly chart shows a bearish trend, with the price potentially dropping to $1,600. The daily chart also shows a bearish trend, with the price likely to continue dropping to $1,600. The weekly chart shows a failed bullish candle, which may lead to a test of the support level of $1,542. Ethereum is currently trading at $1,634."
+    },
+    {
+        "id": 33,
+        "title": "Top Blockchains With the Most Daily Active Developers (DADs) - Bitcoin Market Journal",
+        "summary": "  The article discusses the importance of daily active developers (DADs) in the blockchain industry, highlighting their role in maintaining and developing the codebase, interacting with users, and contributing to community growth. The author notes that DADs are essential for crypto's long-term viability and growth, as they are the ones who develop and improve the blockchain protocols, fix bugs, and optimize performance. The article also provides insights into the number of DADs across various blockchain projects, with Ethereum leading the pack followed by Polkadot. Additionally, the article emphasizes the importance of DADs in attracting investors and users, as a strong developer community can build trust and confidence in a project. Overall, the article suggests that DADs are a crucial metric for fundamental research in crypto and that investors should consider them when evaluating the potential of a blockchain project."
+    },
+    {
+        "id": 35,
+        "title": "The Protocol: Which Ethereum Layer-2 Project ISN\u2019T Competing to Land Celo? - CoinDesk",
+        "summary": "  Celo, a smart-contracts blockchain, is considering moving to Ethereum's layer 2 network. Several veteran layer-2 teams are competing to provide technology for Celo's new system, including Optimism's OP Stack, Polygon's Polygon CDK, and Matter Labs' ZK Stack. The competition highlights the consolidation trend in the crypto space as networks scramble to find fresh business opportunities."
+    },
+    {
+        "id": 37,
+        "title": "Top 3 Crypto Price Predictions: Bitcoin, Ethereum, XRP Forecasts for October - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nTop 3 crypto price predictions for October:\n\n1. Bitcoin (BTC) may reach $30,633 on average, with a minimum price forecast of $26,966.\n2. Ethereum (ETH) could return to $1,740 if it bounces from its current level, but the token's volume has dropped 27% in the past day.\n3. XRP may reach $0.065, but the token has given back a significant portion of its recent gains. Other altcoins, like Bitcoin Minetrix, could also post gains in October."
+    },
+    {
+        "id": 39,
+        "title": "Poor Week for Ether Prompts Research Firm to Reverse Outlook, Advise Favoring Bitcoin Instead - CoinDesk",
+        "summary": "  Poor week for Ether leads research firm to reverse outlook, advising favoring Bitcoin instead. Enigma head of research Joe Edwards expects short-term stabilization and modest recovery for Bitcoin, with potential for Ether to underperform and fall further if momentum drops in November."
+    },
+    {
+        "id": 46,
+        "title": "Vitalik Buterin openly reflects on the future of Ethereum: should the protocol add more functionality? - The Cryptonomist",
+        "summary": "  Vitalik Buterin, the co-founder of Ethereum, has written a blog post reflecting on the future of the protocol and its community. He poses the question of whether Ethereum should add more functionality to its protocol or maintain a minimalist structure. He provides insights on various topics, including ZK-EVM rollups, private mempools, and liquid staking.\n\nVitalik raises concerns about the challenges of adding more functionality, such as bugs in ZK code, the risk of centralization in private mempools, and the potential for consecration to strain trust and governance in the protocol. He suggests that a balanced approach, combining minimal consecration with full consecration, may be the best way forward.\n\nHe also notes that dedication may be counterproductive in the long run, as user needs are unpredictable, and features that are considered essential today may not be widely used in the future. Vitalik concludes by highlighting the importance of understanding that blockchains are social systems and not personal computing platforms, and that a cross between minimal and full consecration may be the right way forward."
+    }
+]

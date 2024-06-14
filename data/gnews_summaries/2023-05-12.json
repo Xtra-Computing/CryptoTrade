@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Ethereum Resumes Finalizing Blocks after Second Performance Hiccup in 24 Hours - CoinDesk",
+        "summary": "  Ethereum experienced a second performance hiccup in 24 hours, causing blocks to not finalize. This raised security concerns for users, as transactions may be re-ordered or dropped from the network. The cause of the incident is unknown."
+    },
+    {
+        "title": "Ethereum Finality Hiccup a 'Fire Drill' That 'Could Have Been Avoided' - Blockworks",
+        "summary": "  Ethereum suffered a \"fire drill\" hiccup on Thursday that could have been avoided if less than a third of validators ran the same consensus layer software client. The issue caused a failure to finalize blocks, but end users didn't notice much of an effect due to continuous transaction processing. The cause is still unknown, but it involved a coincidence of \"two or three issues.\" The problem resurfaced on Friday, but was resolved after a restart. The incident highlights the importance of client diversity in preventing network halts and ensuring resilience."
+    },
+    {
+        "title": "Ethereum Network Suffers Finality Issues\u2014Here's What That Means - Yahoo Finance",
+        "summary": "  Ethereum, the second largest blockchain, experienced a technical issue on Friday, causing its network to halt finalizing blocks for over an hour. Finality takes roughly 15 minutes and refers to the guarantee that a block cannot be altered or removed from the blockchain without burning at least 33% of the total staked ETH. The cause of the outage is still unclear, but prominent venture capitalist Adam Cochran tweeted that it is a \"liveness fault\" and hopes it is an implementation issue that can be fixed. However, Ethereum core developer Eric Conner said on Twitter that there was a bug in some clients that has already been fixed. Despite the controversy, the network is now up and running again at full capacity, with blocks being finalized."
+    },
+    {
+        "title": "Ethereum's beacon chain suffers another finality issue - The Block",
+        "summary": "  Ethereum's Beacon chain experienced another finality issue, causing transactions to not be fully processed for an hour on Friday. This is the second such issue in as many days, raising concerns about the stability of the network. Data sources showed a significant reduction in attestations received during affected epochs, and some believe the issue may be due to bugs in staking clients or MEV infrastructures. Despite the outage, Ethereum did not go down, and transactions could still be processed during the affected epochs."
+    },
+    {
+        "title": "Ethereum Network Suffers Finality Issues\u2014Here\u2019s What That Means - Decrypt",
+        "summary": "  Ethereum, the second largest blockchain by market cap, experienced a technical issue that caused its network to halt finalizing blocks for over an hour. Finality takes roughly 15 minutes and refers to the guarantee that a block cannot be altered or removed from the blockchain without burning 33% of the total staked ETH. The cause of the outage is still unclear, but prominent venture capitalist Adam Cochran tweeted that it's either an implementation issue or a larger protocol issue. However, Ethereum core developer Eric Conner said that the network did not go down but rather had a bug in some clients that has already been fixed. Despite the controversy, the network is now up and running again at full capacity."
+    },
+    {
+        "title": "Ethereum Stopped Finalizing Transactions for 25 Minutes - Unchained - Unchained",
+        "summary": "  Ethereum experienced a 25-minute disruption in finalizing transactions due to an unidentified issue. Core developers are investigating the cause but have restored finality. The issue seemed to fix itself without intervention. Developers are looking to improve state caching to prevent similar disruptions in the future. The incident was described as a \"great firedrill\" and a reminder of the network's resilience."
+    },
+    {
+        "title": "Ethereum Gas Fees Fall to Lowest Level in Two Years - The Defiant - DeFi News",
+        "summary": "  Ethereum gas fees have reached their lowest level in two years, with transactions executing for less than 13 gwei. This sharp decline in network activity may cast doubt on the bullish signal of The Merge, which is expected to make Ethereum deflationary by destroying more Ether than is created as validator rewards. However, the current burn rate would only offset two-thirds of Ether issuance after The Merge, according to Justin Drake, a researcher at the Ethereum Foundation. Despite this, Ethereum has already produced 26 days of deflationary issuance since transaction fee burning was introduced."
+    },
+    {
+        "title": "Accumulation of $1 billion worth of ETH prevents Ethereum price from falling below this key level - FXStreet",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum price has been trading around $1,800 after a potential decline was averted due to accumulation of over $1 billion worth of ETH. Whales have been reluctant to bear losses, shedding over $1.7 billion worth of ETH in the last 12 days. Despite this, investors have been trying to prevent a downfall by accumulating ETH. The price is currently hovering around monthly lows, with a possible recovery before falling further. The RSI is in the bearish zone, increasing the odds of a decline."
+    },
+    {
+        "title": "Key Support Levels To Monitor As Ethereum Price Slows Down - NewsBTC",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum price consolidation weakened, leading to a 4% loss in 24 hours and a 7% decline on the weekly chart. Technical analysis indicates bearish pressure. Key support levels to monitor are $1,740 and $1,690. If Ethereum fails to hold above $1,740, it could drop to $1,540. The Relative Strength Index (RSI) dipped below 40, and the Awesome Oscillator displayed growing red histograms, indicating sell signals. Bollinger Bands also started widening, indicating increased price volatility. To stall the bears, Ethereum must break its resistance and recover to $27,000. Broader market strength will also be crucial."
+    },
+    {
+        "title": "Catecoin Ethereum Network Launches, Set Sights On Becoming Next PEPE - Yahoo Finance",
+        "summary": "  Sure! Here is a summary of the article in less than 256 tokens:\n\nCatecoin, a cat-themed token, has launched on the Ethereum network and is gaining attention from other meme coins like Pepe Coin and China Inu Whales. Catecoin aims to introduce non-crypto users to the world of cryptocurrencies and offers a range of innovative products and services, including a play-to-earn game and a defi crypto wallet. The project has already garnered a large and dedicated community and has generated substantial liquidity. The launch of Catecoin on the Ethereum network has the potential to drive increased adoption and usage of cryptocurrencies."
+    },
+    {
+        "title": "Imprisoned Ethereum Developer Virgil Griffith Faces 10-year Export Privilege Bar - Blockworks",
+        "summary": "  Imprisoned Ethereum developer Virgil Griffith faces 10-year export privilege bar. Griffith, who is serving 5 years in prison, may not participate in any export-related transactions upon release. The order is effective until April 2032. Griffith was sentenced to 63 months and fined $100,000 last year after pleading guilty to conspiracy to violate the International Emergency Economic Powers Act. In 2018, Griffith developed cryptocurrency infrastructure for North Korea, which could bypass US sanctions."
+    },
+    {
+        "title": "Cardano's hydra scaling solution goes live on mainnet as Ethereum gas fees surge - CryptoSlate",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCardano's Hydra scaling solution has gone live on mainnet, aiming to improve scalability and reduce transaction costs. The first Hydra node was launched on May 11, and the network has seen increased DeFi activities and a decentralized stablecoin, DJED. However, Cardano's token ADA has not seen a significant value increase despite these developments. Meanwhile, Ethereum gas fees have surged due to the recent meme coin frenzy, posing an obstacle to mass adoption."
+    },
+    {
+        "title": "Now Buy Ethereum with PayPal on MetaMask - Crypto Times",
+        "summary": "  Sure! Here's a summary of the article in 256 tokens or less:\n\nMetaMask, a popular crypto wallet, now allows US users to buy Ethereum with PayPal balance, linked bank account, or debit card. This integration with 426M PayPal users could bring mainstream adoption to Ethereum and crypto. MetaMask offers various options for purchasing Ethereum, but PayPal is a rare addition. Despite chargeback concerns, the integration could mitigate disputes and open up new possibilities for PayPal in the crypto space."
+    },
+    {
+        "title": "EDCON Montenegro: Speakers and full agenda unveiled - Cointelegraph",
+        "summary": "  EDCON Montenegro 2023 has announced its full agenda and speaker list, featuring prominent figures in the blockchain and Ethereum communities. The event will take place in Podgorica, Montenegro from May 19-23 and will include a Super Demo day, main conference, and community event day. Speakers will cover topics such as zero knowledge and privacy, decentralized governance, and public goods. Vitalik Buterin, co-founder of Ethereum, will share his insights on the current state of Ethereum. Other notable speakers include Tim Beiko, Skylar Weaver, Barry Whitehat, Cy Li, Eli Ben-Sasson, Sergey Nazarov, and Scott Moore. The event aims to drive progress in the blockchain industry and showcase projects from the global Ethereum community. For more information and ticket purchase, visit the conference website."
+    },
+    {
+        "title": "Decoding Ethereum\u2019s [ETH] chances of achieving a 35% surge in staking demand - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nStaked, a staking service provider, predicts a 20-35% increase in Ethereum stake rate in the next 12-18 months. This is based on factors such as higher staking yields and increased participation in the activity. The Beacon Chain has seen significant deposits and withdrawals, with pledges on the consensus layer reaching 58,800. The stake effectiveness metric has also improved, indicating a transfer of validator rewards to the Ethereum Mainnet. However, the prediction depends on the participation rate, and it remains to be seen if demand will reach the predicted levels."
+    },
+    {
+        "title": "Ethereum gas fees at 10-month high! Investors excited about 100x Meme Coins DigiToads and Pepe - Analytics Insight",
+        "summary": "  Ethereum gas fees have reached a 10-month high, driven by increased demand for ER20 tokens like PEPE, which saw a 21,000% gain in a few days. Investors are optimistic about the potential of altcoins like DigiToads, which has already impressed industry observers in its early presale stages. The TOADS ecosystem is expected to become the go-to P2E meme coin, offering multiple ways to earn and a fun and rewarding environment. The model is designed to guarantee profits before the official launch, and funds are raised via a sales tax on transactions. Staking popular NFTs can also provide an extra way to earn long-term passive income. While Ethereum might not be the best investment right now due to high gas fees, it remains the backbone of the defi token world and home to countless innovative projects. PEPE's recent surge in price has shown that massive gains are still possible, and TOADS could be the next big breakout star. Discounts are still available during the TOADS presale, and investors can join"
+    },
+    {
+        "title": "3 Best Crypto To Buy Now: Cardano (ADA), Ethereum (ETH), And Collateral Network (COLT) - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 3 best crypto to buy now: Cardano (ADA), Ethereum (ETH), and Collateral Network (COLT) \ud83d\udcb0\n\n\ud83d\udd25 Ethereum (ETH) is on fire after its recent upgrade, with record numbers of investors staking ETH and a 3500% increase predicted \ud83d\ude80\n\n\ud83d\udcb8 Cardano (ADA) drops to $0.35, but analysts predict a bounce back as it continues to dominate transaction volume \ud83d\udcb0\n\n\ud83d\udd12 Collateral Network (COLT) is on track for a 3500% increase in value, with its presale almost sold out \ud83d\udd25\n\n\ud83d\udcac Join the presale or community for regular updates on Collateral Network \ud83d\udce2\n\n\ud83d\udc49 Buy COLT tokens now and get exclusive auctions, voting rights, and trading discounts \ud83d\udcb0"
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (12-May): ETH Breaking Below This Key Support As Predicted! What Now? - Bitcoinsensus",
+        "summary": "  Ethereum price broke below $1,800 key support in 4-hour timeframe, indicating a potential 15% dump in value. Bearish Head and Shoulders Pattern is currently in play, suggesting a sell-off in price. ETH must respect and trade below $2,019 key resistance for the bearish prediction to remain valid."
+    },
+    {
+        "title": "ETH Holdings on Exchanges Hit All-Time Low Despite Recent ETH Slump - DailyCoin",
+        "summary": "  Ethereum investors are moving their assets from centralized exchanges to self-custody wallets at an all-time high. Despite a recent slump in price, the percentage of ETH held on exchanges has reached a low of 10.1%, the lowest since public trading began in 2015. This trend towards self-custody highlights the importance of security and control over assets, especially in light of recent events such as the FTX blowup. Meanwhile, ETH has gone down in the past week, but remains deflationary and with a market cap of $214 billion."
+    },
+    {
+        "title": "Ethereum Miner Revenue Outpaces Bitcoin In 2021 - NewsBTC",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum miner revenue has outpaced Bitcoin's in 2021, with ETH miners seeing higher returns on their activity. The difference in revenue figures is due to several factors, including higher volatility in ETH and higher fees on the network. The London hard fork has also contributed to the increased scarcity of ETH, leading to higher revenues for miners. Despite the Chinese government's crackdown on crypto mining, ETH miners were less affected and saw better returns than BTC miners. The growing popularity of DeFi and NFTs has also driven up fees on the ETH network, benefiting miners. Overall, ETH mining revenue has been higher than BTC mining revenue in 2021."
+    },
+    {
+        "title": "ETH Price Analysis: Is the Bear Market Coming Back? Three Crypto Crash Coins to Buy in this Coming Dip - NewsBTC",
+        "summary": "  Ethereum (ETH) price is predicted to break the April 2023 lows next.\n\nThree crypto crash coins to buy in this coming dip are:\n\n1. AiDoge - a meme-to-earn ecosystem that combines memes and artificial intelligence.\n2. yPredict - a platform that provides AI-powered analytics for better trading decisions.\n3. Launchpad.xyz - a platform that provides tools for Web3 investment opportunities.\n\nETH price analysis:\n\n* ETH has set a fresh monthly low, dipping as low as $1,740 today.\n* Despite the bearish sentiment, Ethereum is still on a bullish trajectory after surging 50% from the March lows.\n* The chart above shows Ethereum throughout 2023, with the upward price swing stalling since hitting the April highs.\n* The RSI is sitting beneath the midline, indicating that the sellers are in control of the market momentum.\n\nPresale analysis:\n\n* AiDoge has crossed $6 million"
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin falls below 27k, Ethereum falls over 2%, other tokens slide - CNBCTV18",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nBitcoin fell 3% to $26,614, Ethereum fell 3.51% to $1,763, and other tokens like Dogecoin, Solana, and Shiba Inu also saw declines. The total market capitalization of all cryptocurrencies was $1.5 trillion, with a 24-hour trading volume of $17 billion."
+    },
+    {
+        "title": "Ethereum, Dogecoin, Bitcoin Drop: How PAT WARS' Presale Can Benefit Investors During Crypto Market Turbulence - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto market experiencing turbulence, with Ethereum and Bitcoin prices dropping due to insider selling and slow transactions. PAT WARS (PAWS) presale is gaining popularity as a way to diversify portfolios and hedge against losses in other assets. PEPE coin is threatening Dogecoin's status as a market sentiment indicator, with large investors purchasing significant amounts of PEPE. Join the PAT WARS presale to benefit from market turbulence and diversify your portfolio."
+    },
+    {
+        "title": "Binance: big news on BETH crypto - The Cryptonomist",
+        "summary": "  Binance has announced that it will reduce the wait time for users to redeem their BETH crypto, which is a liquid version of Ethereum staked on the Beacon chain, from 15 days to 5 days. This is great news for users who want to redeem their staked ETH but have been waiting for a long time. The reduction in wait time is due to Binance's commitment to providing the best end-user experience and is based on the fact that new validator activations far outnumber exit requests. The number of locked coins within the Beacon chain has reached a new all-time high, easing selling pressure in the markets and creating scarcity. Additionally, the crypto BETH is one of the liquid versions in circulation to support the staking of ETH and the transition from POW to POS. Lido, the largest liquid wagering platform on the market, will allow the release of 270,000 ETHs on May 15, which will likely be poured into the cryptocurrency markets, causing volatility. However, it's important to be careful and avoid manipulation attempts"
+    },
+    {
+        "title": "BTC and ETH Drop Further as CAPO Dominates - Blockchain Reporter",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBTC and ETH have dropped further, with BTC down to $26K and ETH to $1.7K. CAPO is the top gainer, up 115% in 24 hours and 777% in a week. Other altcoins are also seeing losses, with Dogecoin and Litecoin down 1% and Polygon down 3%. Suipad has also surged 49% in 24 hours. The market cap has dropped 2.69% in a day and 8.9% in a week."
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum blockspace on track for first unprofitable month since the Merge - Blockworks",
+        "summary": "  Ethereum's blockspace is on track to turn a financial loss for the first time since the Merge, according to Blockworks data. Since September 2022, blockspace has consistently turned a profit, but in December 2022, it narrowly turned a loss. However, in September 2023, blockspace has accumulated $15.9 million in losses. The decline in profitability is attributed to declining user activity and falling volumes across multiple on-chain subsectors. Despite this, layer-2 networks such as Arbitrum and Optimism maintain healthy activity."
+    },
+    {
+        "id": 5,
+        "title": "New Report Suggests Ethereum Is Trading Well Below Its Market Value, Citing A Valuation Of $275 Billion - ZyCrypto",
+        "summary": "  New report suggests Ethereum is undervalued, with a market valuation of $275 billion, based on user adoption levels of layer 2 networks. The report uses a modified Metcalfe's law model to arrive at this conclusion, which takes into account the scaling dynamics of Ethereum's network. Despite the current market capitalization of $199 billion, the report suggests that the market has yet to \"price in\" Ethereum's network adoption levels, particularly in the layer 2 space. Ethereum's thriving layer 2 ecosystem, with over 30 networks in play, has seen a surge in total value locked to $10 billion, with projects like Arbitrum and Optimism leading the way in novel scaling solutions."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum Price Faces Another Rejection \u2013 Can Bulls Save The Day? - NewsBTC",
+        "summary": "  Ethereum price failed to break above $1,670, consolidating near $1,630. The pair must stay above $1,620 to start a fresh increase. If it fails, Ethereum could decline to $1,600 or even $1,540. Technical indicators are losing momentum in the bullish zone, and the RSI is below 50. Major resistance is at $1,670, and major support is at $1,620."
+    },
+    {
+        "id": 11,
+        "title": "Eventually, We Are All Ethereum - CoinDesk",
+        "summary": "  Ethereum's dominance may lead to less network variability, making it difficult for tokens and smart contracts to be interoperable across different chains. All chains will need to be EVM (Ethereum Virtual Machine) compatible, limiting the unique functions of other networks. Cross-chain development systems may help, but tokens and smart contracts may become stranded and useless."
+    },
+    {
+        "id": 13,
+        "title": "Solana Eclipsing Ethereum? Wall Street Veteran\u2019s Top Altcoin Pick Emerges - NewsBTC",
+        "summary": "  Former Goldman Sachs executive Raoul Pal has identified Solana (SOL) as one of his top altcoin picks, with potential to challenge Ethereum's dominance. Solana's unique speed and performance have garnered attention from giants like Visa, who have chosen it as their platform of choice. Despite Pal's bullish outlook, Solana's market performance has been bearish, with a recent drop below $22.73 and a current price of $19.84. Analysts suggest a test of the $16.94 support level could offer a buying opportunity, but a dip below $15.5 would invalidate any hopes of a bullish reversal. Ethereum (ETH) has recorded gains of 5.5% over the past week, while Solana has rallied 12.5%."
+    },
+    {
+        "id": 15,
+        "title": "Canto, Astar blockchains plan expansion to Ethereum ecosystem as layer 2s - Cointelegraph",
+        "summary": "  Canto, a Cosmos-native layer-1 blockchain, has announced plans to migrate to Ethereum as a layer 2 zero-knowledge rollup. This follows moves by Astar, another layer-1 blockchain, to expand beyond the Polkadot ecosystem to Ethereum. Canto aims to onboard the traditional financial sector to decentralized finance applications and will inherit Ethereum's security through a shared ZK bridge. This migration is part of a larger trend of layer-2 scaling solutions being built on Polygon's Chain Development Kit, with Neofinance at scale being the goal. Other protocols, such as Astar and Gnosis Pay, have also announced plans to build ZK layer 2s using Polygon's CDK. However, not every protocol is sticking around on Ethereum, with some, such as dYdX, migrating away to build a \"purely decentralized\" order book exchange on Cosmos, and Maker planning to move to a new, more \"efficient\" chain with Solana's codebase."
+    },
+    {
+        "id": 16,
+        "title": "Ether Drops to 14-Month Low Against Bitcoin as Vitalik Buterin, Whales Send $60M ETH to Exchanges - CoinDesk",
+        "summary": "  Ether (ETH) has reached a 14-month low against Bitcoin (BTC) as Vitalik Buterin and whales move $60M worth of ETH to exchanges. Meanwhile, CoinDesk's Consensus 2024 conference is approaching, where industry leaders will gather to discuss the future of crypto, blockchain, and Web3. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "id": 22,
+        "title": "Google Bard previews Ethereum, Arbitrum, Kangamoon's potential - crypto.news",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nGoogle Bard has endorsed Ethereum, Arbitrum, and Kangamoon, highlighting their potential for growth. Ethereum is the \"king of smart contracts\" and is making strides in scalability. Arbitrum is a layer-2 scaling solution that aims to increase processing speeds and reduce transaction fees. Kangamoon is a blockchain game that offers a play-to-earn experience and has the potential to grow faster than Ethereum and Arbitrum due to its low market cap status. Analysts predict prices for Ethereum, Arbitrum, and Kangamoon to reach $2,335.71, $1.46, and $0.005, respectively, by the end of 2023."
+    },
+    {
+        "id": 26,
+        "title": "Astar Announces Ethereum L2 but is \u201cNot Ditching Polkadot\u201d - BSC NEWS",
+        "summary": "  Astar, a decentralized finance (DeFi) platform, has announced the launch of its Ethereum layer 2 (L2) solution, but the company has clarified that this does not mean it is \"ditching\" Polkadot, another blockchain platform it has been working with. The announcement has been made through a paid press release on BSC News, which has included a disclaimer stating that readers should proceed with caution when purchasing tokens that have just been listed. The article also highlights the importance of referencing safety guides in the BSC ecosystem. Additionally, the article mentions that this is a paid Ask Me Anything (AMA) and that readers should do their own research before taking any actions related to the company."
+    },
+    {
+        "id": 28,
+        "title": "Ethereum Gas Consumption Is Down 99.99% Since The Merge - Blockonomi",
+        "summary": "  Ethereum gas consumption has plummeted 99.99% since The Merge, transforming the network into a more environmentally friendly platform. The recent SocialFi hype has eased gas fee pressure on the network, despite increased network activities. The poor performance of NFTs and meme trends have decreased demand for gas usage. The Ethereum community is now eyeing Dencun, the next major upgrade anticipated by the end of 2023. Key areas of discussion include EIP-4844, which aims to improve network security and scalability, and EIP-7514, which aims to address centralization risk. FTX's bankrupt entity plans to liquidate its crypto assets, including $192 million worth of Ethereum, without prior notice to the public."
+    },
+    {
+        "id": 31,
+        "title": "Bitcoin, Ethereum, XRP Forecast: BTC Generating a \u201cGolden Cross\u201d Signal - FX Empire",
+        "summary": "  Bitcoin, Ethereum, and XRP are forecasted to experience significant growth, with Bitcoin generating a \"Golden Cross\" signal. This is a bullish indicator that suggests a potential increase in value. However, it is important to note that the content provided on the website is for educational and research purposes only and should not be taken as investment advice. It is recommended to perform thorough research and consult with a financial advisor before making any investment decisions. Additionally, the website provides risk disclaimers and encourages users to understand the complex nature of cryptocurrencies and CFDs before investing."
+    },
+    {
+        "id": 32,
+        "title": "Top 3 Game-Changing Cryptocurrencies in 2023: Ethereum (ETH), VeChain (VET), Kangamoon (KANG) - Finbold - Finance in Bold",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nTop 3 game-changing cryptocurrencies in 2023: Ethereum (ETH), VeChain (VET), and Kangamoon (KANG).\n\nEthereum (ETH) has great growth potential due to on-chain activity, NFT trading volumes, and burn rate. Analysts predict an end-of-year price of $2,335.71.\n\nVeChain (VET) is revolutionizing supply chain management with its unique blend of IoT integration and blockchain technology. It's positioning itself in smart city systems and could see a rise to $0.023 within Q4 2023.\n\nKangamoon (KANG) is a meme coin with a twist, combining playful gameplay with the emerging P2E gaming trend. It has a low market cap and could see faster growth than Ethereum and VeChain. Analysts predict a 35x value increase after it gets listed on significant exchanges."
+    },
+    {
+        "id": 36,
+        "title": "Crypto Price Today: Bitcoin nears $27,000; Ethereum firms above $1,600; Toncoin rises 5% - Business Today",
+        "summary": "  Bitcoin and other cryptocurrencies are trading higher ahead of the Federal Reserve's policy meeting, with Bitcoin nearing $27,000 and Ethereum above $1,600. The crypto market has been trading sideways with an upward bias in the last 24 hours, with some altcoins such as Solana and Chainlink showing significant momentum. Toncoin has risen 5%, while Solana and Litecoin have gained 4% each. The global cryptocurrency market cap is trading slightly higher at $1.07 trillion, with total trading volumes surging 63%. Tech View by WazirX Trade Desk suggests that Chainlink (LINK) could see an upward trajectory in the coming weeks."
+    },
+    {
+        "id": 39,
+        "title": "Ethereum Price Prediction as Grayscale Files For New Ether Futures ETF \u2013 Here's Where ETH is Headed Next - Cryptonews",
+        "summary": "  Grayscale has filed for a new Ether Futures ETF with the SEC, which could lead to increased demand for Ether and potentially drive up its price. The ETF would be filed under the Securities Act of 1933, and the approval is expected in October. The news has already caused a surge in Ether's price, and if it closes above its 21-day moving average, it could rally to $1,700 and even reach the late August highs. However, traders should keep an eye on upcoming macro risk events, such as the Fed's rate decision and monetary policy announcement, which could impact Ether's price. Additionally, investors may want to consider alternative cryptocurrencies, such as Bitcoin BSC, which offers higher staking yields and is available for purchase in a presale. Note: Crypto is a high-risk asset class, and investment advice should be sought before making any decisions."
+    },
+    {
+        "id": 40,
+        "title": "Vitalik Buterin Transfers Half Million in ETH to Major Exchange, While Ethereum Price Soars - U.Today",
+        "summary": "  Vitalik Buterin transferred $490,000 worth of ETH to Kraken exchange, despite still holding $4.04 million in his wallet. This transfer is notable as it coincides with Ethereum's positive price momentum, leading some to wonder if it signals a local peak. Buterin's influence in the crypto space is significant, and his actions are closely watched by the community."
+    },
+    {
+        "id": 41,
+        "title": "Ethereum\u2019s New Holesky Testnet Delayed After Launch Failure - The Defiant - DeFi News",
+        "summary": "  Ethereum's new Holesky testnet has been delayed due to configuration issues. Developers expect to relaunch the network between Sept. 22 and Sept. 28. Holesky is set to replace Goerli testnet, which is scheduled to be deprecated next year due to a shortage of network tokens. Despite this, GETH (Goerli ETH) has been trading on the open market, drawing criticism from the Ethereum community."
+    },
+    {
+        "id": 42,
+        "title": "Animoca CEO invites Ethereum's creator to Hong Kong - crypto.news",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nAnimoca CEO Yat Siu invited Ethereum co-founder Vitalik Buterin to Hong Kong to show him the city's crypto-friendly policies and regulatory landscape. Siu dispelled concerns about Hong Kong's relationship with Beijing affecting regulatory stability, stressing that the city operates a free market and is a cornerstone of China's approach to emerging tech. Hong Kong is pushing to attract crypto businesses by implementing policies to incentivize web3 growth, including a licensing regime and encouraging banks to onboard digital asset entities. The city could publish a stablecoin regulatory framework by mid-2024."
+    },
+    {
+        "id": 43,
+        "title": "Injective Unveils inEVM, A Groundbreaking Ethereum Rollup for Hyperscaling Multi VM Development - GlobeNewswire",
+        "summary": "  Injective, a blockchain built for finance, has launched inEVM, the first Ethereum Virtual Machine capable of achieving true composability across Cosmos and Solana. This development allows Ethereum developers to seamlessly deploy their applications into the Injective ecosystem, providing them with unprecedented access to Injective's global network and user base. inEVM offers ultra-fast speeds, instant transaction finality, a modular toolkit, shared liquidity, and composability across the Cosmos IBC universe alongside Solana. This innovation is part of Injective's larger plan to introduce a network of Electro Chains, which inherit security from Injective while extending block space available on any one chain, resulting in a far more scalable network than existing Web3 solutions. Injective's overarching mission is to democratize the financial future by fostering decentralization across the blockchain landscape, and inEVM is a significant step towards achieving this goal."
+    },
+    {
+        "id": 45,
+        "title": "Ethereum\u2019s exchange deposit surge: Uncovering trends, outflows, and price upticks - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's exchange deposits have surged to a nine-month high, with over 161,000 deposits recorded. Despite this, more Ethereum is being withdrawn from exchanges than deposited, as shown by the netflow chart. The volume of Ethereum traded has also seen fluctuations, with a slight increase to $3 billion at the time of writing. The price of Ethereum has appreciated slightly, but remains in a bearish trend due to resistance from the short-term Moving Average and the RSI remaining below the neutral line."
+    },
+    {
+        "id": 47,
+        "title": "Are Ethereum NFTs in trouble? What the data suggests - AMBCrypto News",
+        "summary": "  Ethereum NFTs are facing declining trading volumes and prices, leading to concerns about their future vitality. PFP NFTs have seen significant price drops, and even blue-chip NFTs are experiencing reduced activity and demand. This decline is reflected in falling fees on the network and a decrease in retail interest. Traders are navigating these uncertain waters, with a decline in the put-to-call ratio and an increase in Implied Volatility."
+    },
+    {
+        "id": 49,
+        "title": "Ethereum whales have their eyes open, and with good reason too - AMBCrypto News",
+        "summary": "  Ethereum whales are not showing much excitement about the short-term price of the cryptocurrency, with the number of transactions worth over $100,000 hitting a low since the beginning of 2023. According to Santiment, this lack of large transactions does not necessarily imply disinterest, but rather whales being patient and waiting for a better accumulation entry. The balance of addresses holding between 10,000 to 10 million coins has seen a fall in balance, indicating that whales have cashed in on a part of their holdings. Additionally, the number of addresses holding 10,000 to 10 million ETH has either flatlined or decreased since June. Trader sentiment is bearish, with a negative funding rate indicating that traders expect ETH to drop below $1,640 in the short term. The percentage of ETH holders in loss may increase if the altcoin's value decreases."
+    },
+    {
+        "id": 51,
+        "title": "Mark Cuban: Do you want to get your Ethereum back from the hacker? - CoinGeek",
+        "summary": "  Mark Cuban, a billionaire businessman, was the victim of a $870,000 Ethereum phishing scam. Despite the myth that stolen digital assets can't be recovered, Cuban has the opportunity to set an example by recovering his stolen coins and tokens. The process of digital asset recovery involves proving ownership, obtaining a court order, and reassigning the coins to the rightful owner's wallet. This process is possible on various blockchains with some minor differences. It is important for the digital currency and blockchain industries to have confidence in blockchain technology, and Cuban's example can bolster property rights and protect users from criminals. CoinGeek offers assistance in recovering stolen assets and provides resources for those new to blockchain technology."
+    },
+    {
+        "id": 56,
+        "title": "Ethereum Price Prediction: ETH Attempts Recovery But the Downside Remains - Analytics Insight",
+        "summary": "  Ethereum (ETH) price is consolidating around $1,600, with a battle between buyers and sellers evident from the Doji candlestick on the daily chart. Resistance at $1,700 is a major hurdle, and a break above it could lead to further gains towards $2,000. However, if the sellers gain the upper hand, ETH could drop to $1,550 and potentially even lower to $1,500, representing an 8.5% decline."
+    },
+    {
+        "id": 59,
+        "title": "Crypto Wallet Provider Issues Alert to ETH, Polygon Holders - U.Today",
+        "summary": "  Ledger, a crypto wallet provider, has issued an alert to Ethereum, Polygon, and Binance account holders about a scam involving unsolicited \"voucher\" NFTs. These NFTs contain malicious links that can trick users into revealing their 24-word recovery phrase, allowing scammers to access their accounts. Ledger advises users not to interact with links or websites associated with the malicious NFT, avoid sending or burning the NFT, and instead hide it in Ledger Live by right-clicking and selecting \"Hide NFT Collection.\" By following these steps, users can protect their accounts from scams."
+    },
+    {
+        "id": 60,
+        "title": "Injective and Caldera Partner for inEVM Layer 2 Ethereum - Crypto Times",
+        "summary": "  Injective, a Cosmos-based Layer 1 blockchain, has partnered with Caldera to launch inEVM, a Layer 2 solution that utilizes the Ethereum Virtual Machine (EVM). This initiative aims to enhance transaction speed and compatibility for Ethereum developers while expanding opportunities within the Injective network. inEVM offers advantages such as speed, quick transaction confirmation, flexibility, shared liquidity, and compatibility with Cosmos and Solana. Injective's goal is to make Web3 technology more user-friendly and collaborative, with plans to introduce innovative solutions like Altlayer and Espresso Systems to further decentralize their network."
+    },
+    {
+        "id": 62,
+        "title": "Ethereum Co-founder backs Ethereum scaling network Layer N - Tekedia",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nLayer N, a decentralized scaling network for Ethereum, raised $20M in Series A funding led by Founders Fund. The platform uses sharding and cross-shard communication to increase scalability and interoperability. Layer N also combines proof-of-work and proof-of-stake consensus models. The funding will be used to expand the team and launch the mainnet.\n\nLayer N and Ethereum 2.0 are similar in that they use sharding and support cross-chain communication, but they differ in their consensus mechanisms (Layer N uses a hybrid model, while Ethereum 2.0 uses pure proof-of-stake) and the number of shards (Layer N has 128, while Ethereum 2.0 has 64 initially but can change dynamically).\n\nLayer N aims to make Ethereum more accessible and affordable for everyone, and its hybrid consensus model is seen as a promising solution to the scalability and usability challenges of the main chain. The platform also bo"
+    },
+    {
+        "id": 63,
+        "title": "Did You Miss Out on the Crypto Boom? These Cryptos Will Help: Ethereum, Shiba Inu, Everlodge - Analytics Insight",
+        "summary": "  Did you miss out on the crypto boom? Here are three cryptos with potential for big profits: Ethereum, Shiba Inu, and Everlodge. Ethereum is key to web3 and its smart contracts, making it vital for decentralized applications and financial services. Shiba Inu has real utility and is a key coin for the general public in a bull market. Everlodge is a new project on Ethereum that allows ordinary investors to co-invest in luxury holiday properties, offering capital appreciation and rental income. The token is in presale and analysts predict it will rise over a dollar once it goes live on a CEX and DEX. Join the Everlodge presale and win a luxury holiday to the Maldives."
+    },
+    {
+        "id": 64,
+        "title": "3 Altcoins Not Affected By Bitcoin and Ethereum's Turbulence - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThree altcoins, InQubeta (QUBE), Injective Protocol (INJ), and Ton (TONCOIN), are not affected by Bitcoin and Ethereum's turbulence. They offer unique features and benefits that set them apart from other cryptocurrencies. InQubeta allows fractional investment in AI startups using QUBE tokens, Injective Protocol offers a range of financial instruments on a decentralized exchange, and Ton is a community-driven blockchain with fast, transparent, and reliable payment services. Despite the volatility in the larger market, these altcoins remain resilient and attractive investment opportunities."
+    },
+    {
+        "id": 66,
+        "title": "What are the most famous cryptocurrencies and blockchains? - Premium Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\udd25 Most famous cryptocurrencies: Bitcoin, Ethereum, Tether, Litecoin, Ripple, Cardano, EOS, and BNB.\n\n\ud83d\udcb0 Cryptocurrencies are decentralized, meaning no single entity controls them. Transactions are peer-to-peer and secure, thanks to special codes.\n\n\ud83c\udf0e Cryptocurrencies know no borders, making cross-border transactions faster and cheaper.\n\n\ud83d\udca1 Beyond the most famous cryptocurrencies, the landscape is vast and diverse, with thousands of other cryptocurrencies existing.\n\n\ud83d\udcb0 Before investing in cryptocurrencies, approach it with caution: volatility, research, and security are essential.\n\n\ud83d\udd2e Cryptocurrencies represent a technological and social shift that has the potential to disrupt traditional economic systems.\n\n\ud83d\udcbb Central Bank Digital Currencies (CBDCs) are emerging as a response to the crypto revolution.\ufffd\ufffd\ufffd\ufffd\ufffd"
+    },
+    {
+        "id": 67,
+        "title": "Raoul Pal's Bullish Outlook on Solana: A Strong Ethereum Competitor - CryptoGlobe",
+        "summary": "  Raoul Pal, a former Goldman Sachs executive and founder of Real Vision, is bullish on Solana (SOL), describing it as a strong competitor to Ethereum (ETH). Pal praises Solana's co-founder Anatoly Yakovenko for his open-minded approach and leadership style, which has positively represented the Solana ecosystem. Solana has gained significant public awareness and developer engagement, according to Pal, which are crucial factors for its growth and adoption. Visa recently expanded its stablecoin settlement capabilities to Solana, highlighting the blockchain's speed and efficiency. Pal believes that if digital assets experience another market expansion, Solana could be one of the safest bets, given its lack of significant mistakes and strong developer community. While acknowledging Ethereum's position, Pal sees Solana as a strong contender for relative security, making it a less risky choice compared to other options."
+    },
+    {
+        "id": 68,
+        "title": "Remember The Man Who Made Millions from Ethereum ($ETH)? He\u2019s Discovered a New Crypto Gem - Crypto News Flash",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nExperienced investors are turning to a new crypto gem called Domini.art ($DOMI) after making millions from Ethereum ($ETH) in the early days. $DOMI is a blockchain-based art marketplace that democratizes and decentralizes ownership of high-end artworks, offering fractionalized shares and priority access to new artworks. The platform is in its presale beta stage and early investors can expect a massive 633% ROI in the next few months. Vitalik Buterin predicts the future will be built on Ethereum, and data shows Ethereum investors are accumulating $ETH in preparation for a possible bull run in Q4 2023."
+    },
+    {
+        "id": 69,
+        "title": "Positive predictions on the price of Ethereum - The Cryptonomist",
+        "summary": "  Ethereum (ETH) price predictions are positive, with some analysts predicting a bull run that could outperform Bitcoin (BTC). Despite underperforming during the recent bear market, ETH has historically performed better during bull runs. The Ethereum network is also seeing increased activity on its second layers, which could lead to improved scalability and performance of Ethereum-based applications. The total value locked on the Ethereum blockchain has remained stable, while the total value of the second layers has doubled to $9.56 billion. The hypothesis that ETH could outperform BTC in a bull run is based on increased adoption and use of the network, which could lead to faster and cheaper transactions. Bitfinex analysts comment that Ethereum has been perceived as a solid investment and that the burning of 72,117 ETH in August equates to a substantial $126.5M."
+    },
+    {
+        "id": 75,
+        "title": "Ethereum: a whale deposits 6000 ETH on the Kraken crypto-exchange - The Cryptonomist",
+        "summary": "  A whale deposited 6,000 ETH (worth $9.96 million) on the Kraken crypto-exchange, sparking bearish market sentiment. However, some predict a bull run for Ethereum due to increased blockchain usage and adoption. Ethereum co-founder Vitalik Buterin challenged Hong Kong's crypto regulation during a summit, with a member of the Hong Kong Legislative Council responding that the country's regulatory policies are \"very stable.\""
+    }
+]

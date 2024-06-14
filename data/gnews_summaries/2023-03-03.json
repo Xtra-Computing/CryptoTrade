@@ -1,0 +1,86 @@
+[
+    {
+        "title": "What Is the Ethereum Shanghai Upgrade? - Investopedia",
+        "summary": "  The Ethereum Shanghai upgrade is a significant change for the Ethereum network, allowing users to access their staked Ether (ETH) funds for the first time. This upgrade is scheduled to launch in March 2023 and will enable stakers to remove both their staked ETH and the rewards accrued. This change has been sought by Ethereum users and the crypto community at large. The upgrade also includes other proposals related to the Ethereum Virtual Machine (EVM) Object Format (EOF), which will increase scalability by sharding data. The deposit activity on the platform has been experiencing heavy deposits in the lead-up to the Shanghai upgrade, and MetaMask has also joined in by integrating Lido and Rocket Pool to allow users to stake ETH directly from their MetaMask wallets. Overall, the Shanghai upgrade is a major milestone for Ethereum, paving the way for more significant adjustments ahead."
+    },
+    {
+        "title": "Chainlink Price Feeds Go Live on Base Testnet, New Ethereum L2 Incubated by Coinbase - PR Newswire",
+        "summary": "  Chainlink Price Feeds are now live on Base testnet, a new Ethereum L2 incubated by Coinbase. This integration allows developers building on Base to access industry-standard Chainlink Data Feeds and other web3 services. Base is also participating in the Chainlink SCALE program, which aims to make Chainlink data and services available to developers at a lower cost. This will help Base become a secure and high-utility layer-2 solution in the Ethereum ecosystem and set a foundation for it to support secure, fully featured, and highly performant applications."
+    },
+    {
+        "title": "Ethereum core developers delay Shanghai hard fork to early April - Forkast News",
+        "summary": "  Ethereum core developers have delayed the Shanghai hard fork from late March to the first two weeks of April. The hard fork will allow validators to withdraw their locked Ether for the first time since the staking feature went live in 2020. The Shanghai fork will be the first major upgrade since the \"Merge\" last September. The \"Shanghai Capella\" upgrade to Goerli, one of Ethereum's popular testnets, will be the last chance for Ethereum clients and staking providers to ensure the hard fork can go through smoothly. The exact date for the mainnet launch has not been agreed upon, but it is expected to be in the first week of April."
+    },
+    {
+        "title": "ETHDenver Looks Cringey to You Because Ethereum Has an Actual Community - CoinDesk",
+        "summary": "  ETHDenver, a Colorado event for coders, will feature events that will scare away \"normies\" due to the actual community of Ethereum, according to CoinDesk Chief Insights Columnist David Z. Morris."
+    },
+    {
+        "title": "Why Bitcoin, Ethereum, and Shiba Inu Are Falling Today - The Motley Fool",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nSilvergate Capital, a bank that operates a real-time payments network for US dollars in the crypto space, has announced that it may not be able to continue as a going concern due to the impact of several events on its business. This has led to a decline in the price of major cryptocurrencies such as Bitcoin, Ethereum, and Shiba Inu. Silvergate's clients, including Coinbase, have announced they will stop using the bank, and its stock has fallen significantly. The bank is assessing the impact of regulatory inquiries and investigations, and federal banking regulators have issued warnings about the risks associated with crypto activities. The news has raised concerns about the stability of the crypto ecosystem and the ability of banks to provide services to crypto firms."
+    },
+    {
+        "title": "Here\u2019s the Most Immninet Support for Ethereum Following the 5% Daily Crash (ETH Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum's price has been rejected from a key resistance level, leading to a 5% daily crash. However, there are multiple support levels available to hold the price for now. Technical analysis on the daily chart shows a potential support zone at $1400, followed by $1300. The 4-hour chart indicates a potential test of the $1500 support level, with a breakdown leading to a deeper drop to $1350. Onchain analysis shows an increase in the Estimated Leverage Ratio in the futures market, which could lead to a short or long-squeeze event. It is important to monitor this metric in the upcoming weeks to prevent further losses."
+    },
+    {
+        "title": "$17,200,000,000 in Staked Ethereum Is Now Underwater \u2013 Here\u2019s the Price Implication After Upgrade: CryptoQuant - The Daily Hodl",
+        "summary": "  According to CryptoQuant, a significant portion of staked Ethereum (ETH) is currently underwater, with 60% of staked ETH sitting at a loss. This represents 10.3 million ETH, worth over $16.86 billion, and nearly a third of all staked ETH on liquid staking protocol Lido is sitting at an average loss of 63%. The on-chain analytics platform suggests that the low selling pressure after the upcoming Shanghai upgrade is due to the fact that staked ETH holders are not sitting on extreme profits, and the most profitable staked ETH was staked less than a year ago, with no significant profit-taking events in the past. Ethereum is currently trading at $1,637."
+    },
+    {
+        "title": "Bitcoin is for Republicans, Ethereum is for Democrats - Fortune",
+        "summary": "  Bitcoin and Ethereum are associated with different political tribes, according to a Fortune article. Bitcoin is seen as more conservative and focused on red meat and guns, while Ethereum is associated with rainbows and unicorns. The article notes that this division reflects a broader trend in the crypto industry, with different blockchains embodying different political ideologies. However, for many attendees at ETHDenver, the focus is on the potential of Ethereum and its updates, rather than politics. Coinbase's purchase of a digital asset manager and the potential collapse of Silvergate are also discussed in the article."
+    },
+    {
+        "title": "BitMart offers zero fees on Bitcoin, Ethereum and 100+ other spot trading pairs - Cointelegraph",
+        "summary": "  BitMart, a popular cryptocurrency exchange, has announced a 10-day zero-fee campaign for trading over 100 spot trading pairs, including Bitcoin, Ethereum, and other popular tokens. The campaign starts on March 3 and runs until March 13, during which users will receive a rebate on their trading fees. In addition, users who make a net deposit and subscribe to a 14-day fixed savings plan will receive 10% of the deposit amount in USDT or USDC, up to $20. This move marks the beginning of BitMart's new low-fee era and is part of the exchange's fifth-anniversary celebrations. BitMart has listed over 900 tokens and offers 1000+ trading pairs on its platform, making it one of the top exchanges in the industry."
+    },
+    {
+        "title": "Warner Bros backs Ethereum ecosystem as it migrates Blocklete Golf to ImmutableX - CryptoSlate",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nWarner Bros is partnering with Immutable to migrate its web3 mobile game Blocklete Golf from Flow to Immutable X. The move is due to Immutable X's fast transactions and gas-free NFTs minting, which are backed by Ethereum's security and decentralization. Warner Bros has also been adopting web3 technology, including a web3 quiz game on Bleacher Report Watch-to-Earn. The migration indicates a growing appreciation of decentralized technologies by legacy web2 brands."
+    },
+    {
+        "title": "More Improvement Needed: Vitalik Buterin Critiques Ethereum Txn Costs Following Arbitrum Growth - ZyCrypto",
+        "summary": "  Vitalik Buterin criticizes Ethereum's high transaction costs, citing Arbitrum's lower fees as a competitive advantage. He suggests improving Ethereum's scalability, non-internet payment options, and user experience. Despite improvements with EIP-1559 and the Merge, wallet UIs still lack clear indications for users to resolve issues with transaction delays and unknown statuses."
+    },
+    {
+        "title": "Ethereum Layer 2s are gaining traction, could be an opportunity for you - The News Minute",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nEthereum Layer 2s are gaining traction, with Polygon (MATIC), Arbitrum, and Optimism (OP) being the key trending platforms. These layer 2 solutions are designed to increase the scalability and security of the Ethereum network, making it an opportunity for investors and users alike. The article highlights the key trends and expectations for these platforms in the upcoming years."
+    },
+    {
+        "title": "Gitcoin, a Crowdfunding Platform for Open-Source Software Votes to Seed Staked ETH Index - CoinDesk",
+        "summary": "  Gitcoin, a crowdfunding platform for open-source software, has voted to seed a staked ETH index. This move aims to provide more liquidity to the Ethereum ecosystem and support the growth of decentralized finance (DeFi) applications. Learn more about Consensus 2024, CoinDesk's premier event for the crypto and blockchain community, and register now at consensus.coindesk.com."
+    },
+    {
+        "title": "Flashbots Makes Privacy-Enhanced Block Builder Open Source on Ethereum Testnet Sepolia - Yahoo Finance",
+        "summary": "  Flashbots, an Ethereum research and development firm, has made its privacy-enhanced block builder open source on Ethereum's Sepolia testnet. The new block builder operates in a trusted environment, such as a private mempool, to allow blocks to be built without revealing data on users' transactions. This move aims to enhance privacy on the Ethereum network. Flashbots has not provided an immediate timeline for moving the code out of the testnet. The open-source code release is part of Flashbots' effort to decentralize block building on the Ethereum protocol and to encourage collaboration in the block-building space."
+    },
+    {
+        "title": "Tornado Cash Contributor Builds New Privacy Tool\u2014And Hopes It Won\u2019t Trigger the Feds - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nA new privacy tool called Privacy Pools is being developed by a contributor to Tornado Cash, who hopes it won't trigger the Feds. The tool allows users to send and receive Ethereum anonymously, but with an added feature to prove they are not a North Korean bad actor or criminal. The demo is set to be released tomorrow. The Feds banned Americans from interacting with Tornado Cash last year, citing its use by hackers to launder funds. The developer of Tornado Cash was arrested, and the tool's creator hopes Privacy Pools will be treated differently by regulators."
+    },
+    {
+        "title": "Cryptocurrency price in India 3 March 2023: Bitcoin decreases 5%, Ethereum below $1600, overall market suffers - India Today",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nCryptocurrency prices in India decreased on March 3, with Bitcoin falling 5% to $22,356 and Ethereum dropping below $1600. The overall market lost $50 billion in investor capital due to selling pressure. Top gainers and losers in the cryptocurrency market included Threshold, ssv.network, yearn.finance, and XDC Network, while dYdX, Frax Share, Stacks, and Conflux were among the top losers. Meme coins such as Shiba Inu and Dogecoin also saw significant declines, while metaverse tokens including The Sandbox, Axie Infinity, and Decentraland also experienced losses."
+    },
+    {
+        "title": "Bitcoin & Ethereum Tussle With Crypto Foes: Big Eyes Coin Locked And Loaded Ahead Of Next Bull Run - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin and Ethereum have seen a decline in price, with Bitcoin experiencing a $80 million wipeout and Ethereum showing bearish movement. Big Eyes Coin, a new meme token, has launched loot boxes with random prizes and is currently in its initial coin offering (ICO) with $30.62 million raised so far. The token is expected to launch on the market when it reaches its target of $50 million in presale tokens."
+    },
+    {
+        "title": "Huobi to Join BitTorrent Chain Ecosystem, Build Blockchain 'Super Network' - Decrypt",
+        "summary": "  Huobi, a leading crypto exchange, will join the BitTorrent Chain (BTTC) ecosystem to enhance the development and usage of decentralized applications on-chain. Huobi's integration with BTTC's layer 2 cross-chain solution will enable seamless asset exchange between leading smart contract blockchains, including Ethereum, Tron, and BNB Chain. This partnership aims to provide an open, secure, and diverse environment for developer teams, promoting an on-chain open financial system."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for March 31, 2023 - Finbold - Finance in Bold",
+        "summary": "  Machine learning algorithm predicts Ethereum price drop to $1,529 by March 31, 2023. Algorithms at PricePredictions use moving averages, MACD, Bollinger Bands, and RSI to make the prediction. Ethereum is currently facing strong selling pressure due to unfavorable market developments, leading to a 4.56% drop in price. The algorithm expects a 2.39% decrease in Ethereum's price by the end of March 2023. The sentiment on TradingView is generally bearish, with oscillators pointing towards'sell' and moving averages in the'sell' zone. The future of Ethereum depends on developments in the ecosystem, such as the Shanghai upgrade."
+    },
+    {
+        "title": "Cardano-Powered 'Clay Nation' NFTs Coming to Ethereum-Powered Metaverse 'The Sandbox' - CryptoGlobe",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nNFT startup Clay Mates is bringing its Cardano-powered project \"Clay Nation\" to the Ethereum-powered metaverse \"The Sandbox.\" Clay Nation is a collection of 10,000 unique digital clay characters stored on the Cardano blockchain. The main utility token $CLAY will be deeply integrated in Clay Nation for transactions and governance. The Sandbox is a play-to-earn game that allows players to create and monetize virtual goods as NFTs, with the native token $SAND used for transactions and interactions. The company behind Clay Nation's metaverse experience is Smobler Studios."
+    },
+    {
+        "title": "Nasty surprise today for the price of Bitcoin and Ethereum - The Cryptonomist",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nToday, the price of Bitcoin and Ethereum dropped by more than 4% after a nasty surprise. Silvergate, a crypto bank, lost half of its market value, causing fear among investors. SEC Chairman Gary Gensler stated that crypto exchanges cannot be considered qualified custodians, which led to a decline in the prices of Bitcoin and Ethereum. However, the price drop occurred two hours after Gensler's statements, suggesting that another event may have triggered the selling. The price of Bitcoin and Ethereum later stabilized around $22,400 and $1,560, respectively, but the cycle for their prices may be ongoing, with a possible attempt to break above $25,000 in the near future."
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Ethereum moved to proof of stake. Why can\u2019t Bitcoin? - MIT Technology Review",
+        "summary": "  Bitcoin mining, which creates new coins and verifies transactions on the blockchain, has become a global concern due to its high energy consumption. China's crackdown on mining has led miners to seek out other areas with cheap energy, causing strain on local power grids and contributing to environmental issues. The US hosts 38% of all Bitcoin mining operations, and a single transaction uses the same amount of energy as a US household does over a month. As regulators and environmentalists push for change, the Bitcoin community may be forced to reconsider its resistance to change. Ethereum has recently moved to a proof-of-stake consensus mechanism, which reduces energy consumption compared to proof-of-work, the approach used by Bitcoin. The European Parliament is set to pass a crypto bill in April 2023, which will mandate environmental disclosures from crypto firms, and the European Central Bank has expressed concerns about the lack of action on Bitcoin's carbon footprint. In the US, New York has enacted a temporary ban on new cryptocurrency mining permits at fossil-fuel plants, and"
+    },
+    {
+        "title": "Smart Contracts on Ethereum - Finance Magnates",
+        "summary": "  Smart contracts on Ethereum have various use cases, including supply chain management, financial services, property management, gaming, and token switching. However, these contracts also have limitations, such as complexity, immutability, cost, scalability challenges, and integration with legacy systems. Despite these limitations, the applications of smart contracts on Ethereum are expanding, and the benefits of using them can outweigh their drawbacks. Ethereum 2.0, which is currently being rolled out, aims to address the current Ethereum network's scalability issues. Businesses must be aware of these limitations and make informed decisions about how to use smart contracts to improve their operations."
+    },
+    {
+        "title": "Ethereum Price Today: ETH Drops Despite Shanghai Upgrade Development - CoinGape",
+        "summary": "  Ethereum price dropped 0.51% despite Shanghai upgrade development. Market cap is 1.07 trillion USD, with a 28.36% increase in total crypto market volume. Ethereum's second testnet, Sepolia, successfully replicated withdrawals of staked ether, marking a step towards Shanghai Upgrade. The upgrade will enable validators to withdraw rewards earned from adding or approving blocks to the blockchain."
+    },
+    {
+        "title": "Traders Speculate on Goerli Even as Ethereum Devs Move On - The Defiant - DeFi News",
+        "summary": "  In a nutshell, traders are speculating on the price of Goerli ETH despite Ethereum developers transitioning to a new testnet called Holli. Goerli ETH is used to pay for transactions on the testnet, but there has been a shortage of coins, leading developers to purchase them. A faucet distributing 6 million GoETH for free was launched, but users are still buying the coins for testing purposes. Ethereum devs plan to abandon Goerli and are considering different strategies for issuing test tokens on Holli."
+    },
+    {
+        "title": "Crypto Market February Roundup: Bitcoin Layer 2 Protocol Stacks, Ethereum Staking Derivative Tokens Surge - CoinDesk",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nCrypto market sees surge in Bitcoin layer 2 protocol stacks and Ethereum staking derivative tokens in February, despite concerns of a bored market chasing opportunities with no new capital inflows. Poor liquidity exacerbates erratic price movements, with potential for sharp reversal when the music ends."
+    },
+    {
+        "title": "Ethereum testnet successfully forks in Shanghai upgrade rehearsal - Cointelegraph",
+        "summary": "  Ethereum testnet successfully upgrades to Shapella, combining Shanghai and Capella hard forks. Validators can now withdraw rewards in excess of 32 ETH and continue validating. Next step is to release upgrade on Goerli testnet in March before mainnet implementation."
+    },
+    {
+        "title": "Vitalik Buterin says 'more still needs to be done' over high Ethereum txn fees - Cointelegraph",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has highlighted the need for further improvements in the network to make it more user-friendly and efficient, particularly in dealing with high transaction fees. In a recent blog post, Buterin shared his personal experiences with trying to use Ethereum to pay for everyday items, such as tea, but facing issues due to unpredictable transaction times and high fees. He emphasized that good user experience is not just about the average case but also about handling worst-case scenarios, such as when the internet is unreliable. Buterin also raised other issues, including the need for offline proof of transactions and the fragility of secret-sharing-based off-chain social recovery methods for wallets. Despite recent improvements, transaction fees on Ethereum remain high, with an average of $0.656 at the time of publication, according to YCharts."
+    },
+    {
+        "title": "Ethereum: Sepolia testnet successful, but Buterin admits\u2026 - AMBCrypto News",
+        "summary": "  Ethereum's Sepolia Testnet was successful, with validators preparing for the Shanghai Upgrade. The Georli Testnet will be next, but there is more work to be done, according to Vitalik Buterin. Despite a temporary glitch, participation rates are high, and the number of addresses holding 32 ETH or more has improved. However, Buterin acknowledged that more needs to be done to address previous transaction delays and UI challenges."
+    },
+    {
+        "title": "Bitcoin Price \u2013 Bullish Short-term Technical Picture for Bitcoin and Ethereum - FX Empire",
+        "summary": "  Bitcoin and Ethereum are showing a bullish short-term technical picture, according to FX Empire. The website provides general news and analysis, but emphasizes that any financial decisions should be made after conducting thorough research and consulting with competent advisors. Prices provided may be from market makers rather than exchanges, and FX Empire does not provide any warranty or assume responsibility for trading losses. The website may include advertisements and may receive compensation from third parties. Cryptocurrencies and CFDs are complex instruments with a high risk of losing money, and FX Empire encourages readers to perform their own research and understand the risks involved before making any investment decisions."
+    },
+    {
+        "title": "Scroll\u2019s zkEVM Deploys on Ethereum\u2019s Goerli Testnet - Crypto Times",
+        "summary": "  Scroll, a layer 2 scaling solution on the Ethereum network, has deployed its zkEVM on the Goerli testnet. This is the final stage before the mainnet launch in late 2023. The testnet is 100% permissionless and allows developers to test the system in an open-source environment. The deployment marks the transition from pre-alpha to alpha testing phase and will help identify bugs and loopholes before the mainnet launch. A bridge has also been developed to allow for transactions between the Goerli testnet and Scroll."
+    },
+    {
+        "title": "Ethereum Whales Shake Off Market Uncertainty, Break 7-Year Accumulation Record - NewsBTC",
+        "summary": "  Ethereum whales have been buying up the cryptocurrency despite market uncertainty, with their collective holdings reaching a new seven-year high. Top non-exchange addresses now hold over 25 million ETH, with investors filling their bags during the recent price drop. However, the upcoming Shanghai upgrade could lead to staked ETH withdrawals, potentially causing a dump on the market. Despite this, Ethereum developers have assured the community that the withdrawal process will be staggered, potentially mitigating the effects of selling. Investors remain neutral, with prices stuck at a standstill."
+    },
+    {
+        "title": "Charles Hoskinson : Ethereum and Cardano Co-founder - CoinGape",
+        "summary": "  Charles Hoskinson, co-founder of Ethereum and Cardano, is a prominent figure in the cryptocurrency and blockchain industry. He has made significant contributions to the field through his work in developing innovative solutions and emphasizing security and scalability. Hoskinson founded IOHK in 2015 and began working on Cardano, a highly secure and scalable blockchain network. Cardano has become one of the fastest-growing cryptocurrencies in the world and is valued at billions of dollars. Hoskinson's contributions to the industry include prioritizing security and scalability, emphasizing the importance of interoperability, and developing protocols and standards to make blockchain networks more secure and communicative."
+    },
+    {
+        "title": "Cryptocurrency price in India 28 February 2023: Bitcoin at $23,480, Ethereum falls 0.99%, the market remains in the red zone - India Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCryptocurrency prices in India on February 28th:\n\n* Bitcoin: $23,480 (-0.35%)\n* Ethereum: $1,627.03 (-0.99%)\n* Other top tokens:\n\t+ Solana: $22.58 (-1.95%)\n\t+ Litecoin: $94.32 (-0.74%)\n\t+ Polkadot: $6.58 (-1.42%)\n\t+ Avalanche: $17.80 (-2.88%)\n\t+ XRP: $0.375445 (-0.29%)\n\t+ Cosmos: $10.84 (-0.81%)\n\t+ Monero: $167.45 (-1.89%)\n\nGlobal crypto market cap: $1.07 trillion (-0.45%)\n\nGainers and decliners:\n\n* Top gainers"
+    },
+    {
+        "title": "How Much Wash Trading Is Really Happening on Blur? - Decrypt",
+        "summary": "  Blur, a popular NFT marketplace, has been accused of wash trading by CryptoSlam, a leading platform for tracking NFT sales. Wash trading refers to the practice of trading NFTs between the same wallet or a group of coordinated wallets to manipulate trading volume metrics. Blur has been accused of handling $577 million worth of wash trades since its airdrop on February 14, according to CryptoSlam. However, Blur has disputed this figure and pointed to a different resource that shows $345 million worth of wash trades since its October launch. The debate highlights the complexity of tracking NFT trading volume and the need for reliable metrics in the rapidly growing NFT market."
+    },
+    {
+        "title": "Why Is Ethereum Seeing A Surge In 2023? Is It A Good Time To Invest? - ABP Live",
+        "summary": "  Ethereum has seen a surge in value recently, with its price reaching an all-time high of $1,700. There are several reasons attributed to this surge, including the upcoming Shanghai update, ease of macroeconomic relaxation, increased institutional adoption, surge in Bitcoin price, and HODLing. The Shanghai update is expected to enhance Ethereum's liquidity by unlocking staked ETH in the Beacon Chain, while the ease of macroeconomic relaxation and increased institutional adoption have also contributed to the surge in value. Additionally, the surge in Bitcoin price has also had a positive impact on Ethereum's value, and HODLing has also played a role in increasing confidence in the cryptocurrency. However, it is important to note that investing in cryptocurrencies is a long-term process and involves risks. It is always recommended to do thorough research before investing in any asset."
+    },
+    {
+        "title": "OKX says it holds $8.6 billion in Bitcoin, Ethereum and dollars as proof-of-reserves - CityAM - City A.M.",
+        "summary": "  OKX, a major crypto exchange, has revealed that it holds $8.6 billion in Bitcoin, Ethereum, and US dollars in its proof-of-reserves (PoR). The exchange publishes its PoR monthly to provide transparency and trust for its users. The data shows that over 175,000 unique users have viewed the PoR page, and over 90,000 have verified their liabilities. OKX's clean reserves, as determined by a third-party analysis, are 100% of its total reserves. Proof-of-reserves is a report that ensures the custodian holds the assets it claims to hold on behalf of its users, using a Merkle tree to prove the claim."
+    }
+]

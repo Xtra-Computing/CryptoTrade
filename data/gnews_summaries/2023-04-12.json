@@ -1,0 +1,178 @@
+[
+    {
+        "title": "Ethereum\u2019s Shanghai Upgrade Is Complete, Starting New Era of Staking Withdrawals - CoinDesk",
+        "summary": "  Ethereum's Shanghai upgrade is complete, enabling staking withdrawals. However, scaling remains a concern for the next bull run, as transactions could cost $500 without improvements. Vitalik Buterin emphasizes the importance of fixing scaling before the next bull run to avoid expensive transactions."
+    },
+    {
+        "title": "Ethereum rolls out Shapella amid worries over price pressure - Forkast News",
+        "summary": "  Ethereum's Shapella upgrade has sparked concerns over potential price pressure, while Bitcoin's white paper has been secretly distributed to MacBook users for the past six years. Hong Kong's Financial Secretary Paul Chan has prioritized Web3 development as one of three key themes in the city's fiscal budget, with a focus on developing industry regulations and real-world use cases."
+    },
+    {
+        "title": "Ethereum\u2019s Shanghai Upgrade is Live: Our Key Updates - Ledger",
+        "summary": "  The Shanghai upgrade for Ethereum is now live, allowing validators to withdraw their staked ETH. The upgrade also includes three other improvement proposals to tackle high gas fees, slow transaction processing time, and the overall performance of the network. For Ledger Live users, staking with Lido or Kiln will not be immediate, with withdrawals expected around May 2023. For Ledger Enterprise clients, the upgrade provides new incentives for institutions and corporates to stake their Ethereum assets, de-risking them as an investment."
+    },
+    {
+        "title": "Ethereum's Shapella hard fork executed on mainnet - Cointelegraph",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's Shapella hard fork has been successfully executed on the mainnet, allowing validators to withdraw their staked Ether (ETH). Within the first hour, 12,859 ETH were unlocked in 4,333 withdrawals. Around 44% of validators can request a partial or full withdrawal, with the majority of withdrawals ranging between 2.8 to 3.2 ETH. The upgrade is a significant step towards a fully functional proof-of-stake system and has unlocked 18.1 million ETH, equivalent to over $34.8 billion. However, mechanisms are in place to prevent a flood of ETH from hitting the market."
+    },
+    {
+        "title": "How Shanghai Could Change Institutional Appetite for Ethereum - Decrypt",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nEthereum is set to complete its Shanghai upgrade, allowing users to withdraw the ETH they've locked up over the past two years. This could attract more institutional investors to the asset, as they'll have more liquidity and the ability to delta-neutral hedge. Expectations are that this will lead to more ETH being staked in the long term, and potentially attract more mainstream investors. Since the start of the year, ETH is up 60%, currently trading at around $1,916."
+    },
+    {
+        "title": "Predicting the Impact of Stake Withdrawals on Ethereum's Market Dynamics - The Defiant - DeFi News",
+        "summary": "  The article discusses the potential impact of stake withdrawals on Ethereum's market dynamics, as enabled by the upcoming Shanghai update. The authors analyze various on-chain metrics, including total staked ETH, number of validators, staking rewards, withdrawn stake, ETH price, daily transaction volume, and gas prices. They conclude that:\n\n* Stake withdrawals may lead to short-term price volatility, but could also attract new users and investors, benefiting Ethereum's long-term value.\n* The number of active validators and staking rewards may fluctuate due to stake withdrawals, but the PoS system is designed to maintain network security and stability.\n* Stake withdrawals could temporarily increase daily transaction volume and gas prices, but the PoS system is expected to maintain efficiency and scalability.\n* The impact of stake withdrawals on the DeFi and NFT markets within the Ethereum ecosystem should be monitored closely, as users may reallocate their funds, creating additional market volatility.\n\nOverall, the authors suggest that the impact of stake withdrawals on Ethere"
+    },
+    {
+        "title": "Ethereum's Shapella upgrade to unlock $34bn in staked ETH - DLNews",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shapella upgrade will unlock $34 billion in staked ETH, allowing users to withdraw their previously locked Ether for the first time since December 2020. The upgrade is expected to boost staking activity and attract more staking tools and services. However, some fear that the unlocking of staked Ether could lead to a decline in the price of Ether if stakers sell their unlocked coins. The upgrade also introduces five EIPs and updates the network's engine API."
+    },
+    {
+        "title": "Everything You Need to Know About Ethereum's Big Upgrade - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum is undergoing a major upgrade, the biggest since the Merge. CoinDesk provides a comprehensive rundown of the changes and what they mean for the future of the cryptocurrency. The upgrade, known as Ethereum Improvement Proposal (EIP) 155, includes several key changes, such as the introduction of zk-SNARKs, a new type of zero-knowledge proof, and the replacement of the current proof-of-work (PoW) consensus algorithm with proof-of-stake (PoS). This upgrade aims to improve scalability, security, and sustainability, and could potentially lead to the creation of new use cases and applications for Ethereum."
+    },
+    {
+        "title": "Ether Trades Flat After Ethereum Shanghai Upgrade - CoinDesk",
+        "summary": "  Sure! Here's a summary of the article in 256 tokens or less:\n\nEther (ETH) trades flat after Ethereum Shanghai upgrade. Institutions hold ETH and LSTs, while retail investors are absent from the market. Despite the upgrade, institutions will not be significantly impacted due to their longer-term investment horizons."
+    },
+    {
+        "title": "The Ethereum Shanghai Upgrade - LCX",
+        "summary": "  The Ethereum network is set to undergo a major upgrade, known as the Shanghai-Capella upgrade, on April 12, 2023. This upgrade will allow for the withdrawal of ether (ETH) from the deposit contract for the first time since the launch of the PoS-based Beacon Chain in December 2020. The upgrade, also known as Shapella, was tested on three testnets and is now scheduled to take place on the mainnet. The upgrade will implement EIP-4895, enabling the unstaking of ETH tokens and bringing the network closer to a fully functional proof-of-stake (PoS) blockchain network. This is a crucial step for those who wish to become validators on the Ethereum 2.0 network, as they were required to stake at least 32 ETH to the network, which was sealed indefinitely. The upgrade is a major move forward in Ethereum's evolution into a more efficient and scalable blockchain platform. (246 tokens)"
+    },
+    {
+        "title": "Only a Tiny Amount of ETH Is Poised to Be Withdrawn After Ethereum Shanghai Upgrade, Nansen Says - CoinDesk",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nEthereum's Shanghai upgrade will allow only a small amount of ETH to be withdrawn after the hard fork, according to Nansen. The upgrade will complete Ethereum's transition to a PoS blockchain, enabling stakers to withdraw their staked ETH and rewards."
+    },
+    {
+        "title": "Staked ETH Withdrawals Were Activated in Major Upgrade - The Defiant - DeFi News",
+        "summary": "  Staked ETH withdrawals have been activated in Ethereum's Shapella upgrade, allowing stakers to withdraw their ETH for the first time in 28 months. The upgrade is seen as a major step in Ethereum's development, introducing vital functionality to the network. The Shapella Upgrade represents a game-changing development that positions Ethereum for sustained growth and success, according to Chen Zhuling, Founder and CEO of RockX, a Proof of Stake node collective. However, some analysts fear that the upgrade may result in increased sell pressure, as stakers withdraw their ETH. The impact of Shapella on Ethereum's price is expected to be relatively small compared to macroeconomic forces. Liquid Staking Derivatives (LSDs), which allow users to access liquid tokens representing underlying staked Ether while earning staking rewards, have posted impressive growth amid the absence of staked Ether withdrawals. The next major upgrade for Ethereum is expected to focus on EIP-4844, also known as proto-dank sharding, which aims to reduce the costs associated with trans"
+    },
+    {
+        "title": "Ethereum price metrics hint that ETH might not sell-off after the Shapella hard fork - Cointelegraph",
+        "summary": "  Ethereum price metrics suggest that the upcoming Shapella hard fork may not lead to a significant sell-off despite the anticipation. The ETH/BTC price ratio has dropped to its lowest level in nine months, but the majority of the movement can be attributed to the upcoming hard fork. However, the total staked on the Beacon Chain exceeds 18.1 million ETH, which could limit potential selling pressure. Additionally, the Ethereum network's average transaction fee has been above $5 for five weeks, and the Shapella fork does not address the issue. Volume at Ethereum-based decentralized exchanges has also fallen by 84% since a weekly peak. Paul Brody, EY's global blockchain leader, suggests that the battle to keep Ethereum sufficiently and properly decentralized could be a reason for Ether's price underperformance relative to Bitcoin. Ether derivatives metrics indicate that professional traders do not expect a significant price correction as a result of the staking unlock, and there are no obvious reasons for a rally. However, the number of staking unlock requests could increase, which could impact Ether"
+    },
+    {
+        "title": "Ethereum Holds Steady Following Shanghai, Defying Expectations - Decrypt",
+        "summary": "  Ethereum's price remained steady after the successful implementation of the Shanghai upgrade, defying expectations of a price drop following the event. The upgrade enabled the withdrawal of staked ETH, but the price of ETH only ticked slightly upwards, with a 3% increase since the previous day. Analysts had expected more than $300 million worth of ETH to be liquidated immediately following the upgrade, but this did not happen. The majority of staked ETH is believed to be liquid through intermediary staking pools and centralized crypto exchanges, which issue staking tokens to customers. This, combined with the fact that much of the capital supposedly kept hostage pre-Shanghai has actually been liquid for some time, may explain why ETH's price did not drop sharply after the upgrade."
+    },
+    {
+        "title": "Ethereum traders show uncertainty ahead of Apr 12's Shapella hard fork: Report - Cointelegraph",
+        "summary": "  Ethereum traders are uncertain ahead of the Shapella hard fork on April 12, with the upgrade expected to induce selling pressure. The report by Kaiko shows that ETH is lagging behind BTC in spot and futures trading volumes, and options market data suggests traders are adding short-term hedging positions. The implied volatility for Ethereum options contracts has trended higher than for Bitcoin, indicating greater price swings in the underlying asset. The ETH/USD pair faces resistance at $2,000, and the lack of bullish momentum and muted trading interest relative to the Merge highlight the uncertainty in the market. The potential selling pressure after the upgrade could lead to price volatility, and traders are advised to conduct their own research before making any investment decisions."
+    },
+    {
+        "title": "Ethereum Shanghai Upgrade Goes Live, Unlocking $34 Billion in Staked ETH - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai upgrade went live, enabling the withdrawal of staked ETH and marking the completion of the network's transition to proof of stake. The upgrade was implemented after months of delays and concessions to ensure a smooth rollout. Stakers can now withdraw their profits or their entire deposit, but intermediary staking pools and centralized exchanges may take longer to implement withdrawals. The upgrade is a significant milestone for Ethereum and marks a major shift in the network's consensus mechanism."
+    },
+    {
+        "title": "Will Ethereum Recover? Here\u2019s What Will Help ETH Go Up Again - CoinCodex",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) may recover from its current bear market, with factors such as layer 2 technologies, Ethereum's successful transition to Proof-of-Stake, and the blockchain's dominant position in the smart contracts sector contributing to a potential price increase. The article provides a detailed analysis of these factors and offers a 2023 ETH price prediction."
+    },
+    {
+        "title": "When levees break, liquidity flows \u2014 Analyzing Ethereum Shapella and liquidity staking derivatives - Cointelegraph",
+        "summary": "  When levees break, liquidity flows: Ethereum's Shapella upgrade to enable withdrawals of staked ETH could flood the market, impacting holders who are both long and short on ETH post-withdrawals. Liquid staking derivatives (LSDs) are a new financial instrument that allows staked ETH to be traded on secondary markets, providing liquidity to stakers without completely giving up their staked position. The top staking providers, Lido, Coinbase, and Frax, have seen varying degrees of success, with Frax emerging as the winner. Despite the potential impact on the ecosystem, liquid staking derivatives have proven to be an effective mechanism to incentivize ETH holders to validate the network."
+    },
+    {
+        "title": "Ethereum Trades Flat After Ethereum Shanghai Upgrade - Yahoo Finance",
+        "summary": "  Ethereum's Shanghai upgrade has been deployed with little impact on the price of Ether (ETH). Trading is stable, with ETH trading around $1,914, unchanged from before the upgrade. Analysts were divided on potential price action, but CEO of Umee, Brent Xu, believes institutions holding ETH and related LSTs will not be significantly impacted by the upgrade."
+    },
+    {
+        "title": "What Is Ethereum's Shanghai Upgrade? ETH Staking Withdrawals Explained - DailyCoin",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum is undergoing a major upgrade called Shanghai/Shapella, which will enable ETH staking withdrawals and move the network to proof-of-stake consensus. The upgrade will unlock millions of ETH currently being staked, but not all will be available for withdrawal at the same time. Other upgrades within Shapella include lowering gas costs and introducing new instructions to lower developer gas costs. The upgrade will take place on April 12 and can be watched live on YouTube. The impact of the upgrade on ETH's price is uncertain, but investors may be able to scoop up cheap ETH if the price drops."
+    },
+    {
+        "title": "More Than $300 Million in Ethereum Will Be Sold After Shanghai, Analysts Say - Yahoo Finance",
+        "summary": "  More than $300 million in Ethereum is expected to be sold after the Shanghai upgrade, according to analysts. Approximately 170,000 ETH worth $326 million will be sold, with 70,000 coming from validators exiting the network and 100,000 from users withdrawing their staking rewards. However, the report notes that only $133 million worth of ETH is expected to actually become liquid following the activation of withdrawals. The upgrade will allow users to withdraw their initial deposits and rewards, but withdrawal requests will enter a queue and may take several days to process. The move is expected to be less dramatic than anticipated, and will bolster a growing staking industry."
+    },
+    {
+        "title": "Ethereum Price Trims Gains But This Support Could Spark Fresh Increase - NewsBTC",
+        "summary": "  Ethereum price corrected lower after failing to clear $1,925 and $1,940 resistance levels. The price is now trading below $1,880 and the 100-hourly Simple Moving Average, with a few bearish signs below $1,865. If there is a recovery wave, the price might face resistance near $1,880 and the 100-hourly Simple Moving Average. A close above $1,925 with a follow-up move above $1,940 could send the price towards $2,000, while a break below $1,840 could lead to further declines towards $1,825 or $1,780. Technical indicators, such as MACD and RSI, are gaining momentum in the bearish zone. Major support levels are $1,840, while major resistance levels are $1,880 and $1,925."
+    },
+    {
+        "title": "ETH Battles With $1.9K as Shanghai Upgrade Looms (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum (ETH) is facing resistance near $2K and struggling to maintain its upward trend. Technical analysis suggests a consolidation correction may occur soon, with the RSI indicator nearing the overbought zone. On-chain analysis reveals a concerning signal in the futures market, with the Taker Buy Sell ratio falling below zero, indicating a potential pullback or reversal in ETH's value."
+    },
+    {
+        "title": "Coinbase Bytes newsletter - Coinbase",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCoinbase Bytes newsletter - Coinbase\n\n* Ether (ETH) upgraded to PoS, with 99% more energy efficiency\n* ETH price rose 10% after upgrade, with 5% of staked ETH withdrawn\n* Roadmap includes upgrades to increase scalability, security, and usability\n* Gary Gensler faced criticism for SEC's crypto regulation approach\n* Solana Saga smartphone integrated with web3 functionality\n* Stablecoin bill draft proposed, with challenges and open issues\n* Shaquille O'Neal served with legal papers in class-action lawsuit\n* Numbers to know: $104 million in institutional Bitcoin funds, $500,000-$1 million for Donald Trump's NFT collection, 75% of crypto holders hold NFTs\n* Our Force 1 NFT from Nike costs $19.82\n* Disclaimer: This material is property of Coinbase, with views and opinions of the author."
+    },
+    {
+        "title": "Wanchain: The Best Ethereum Bridge - Altcoin Buzz",
+        "summary": "  Wanchain, a decentralized cross-chain solution, offers a faster, cheaper, and more secure way to bridge Ethereum-based assets than in-house bridges provided by Arbitrum, Optimism, and Polygon. ETH XFlows by Wanchain enables native-to-native cross-chain transfers between blockchains, allowing users to move ETH to, from, and between Ethereum, Arbitrum, Optimism, and Polygon without the need for centralized exchanges or wrapped tokens. The bridge is currently live on these networks and outperforms in-house bridges in terms of speed and cost, while also providing a more decentralized solution."
+    },
+    {
+        "title": "Shanghai Arrival Could Push Major Players to Disembark - Decrypt",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nShanghai upgrade on Ethereum network allows validators to withdraw rewards, including some centralized entities. Kraken, Huobi, and Staked.us are among those in line to make withdrawals. Kraken will unstake ETH from U.S. customers as part of $30 million settlement with SEC. Coinbase and Binance also face regulatory scrutiny. SEC has forced Kraken to remove U.S. customers from staking pool and alleges Coinbase has committed violations. CFTC seeks massive damages against Binance for derivatives violations."
+    },
+    {
+        "title": "Ethereum upgrade to unlock $30 billion worth of crypto tokens - CNBCTV18",
+        "summary": "  Ethereum is set to undergo an upgrade on Wednesday, unlocking $30 billion worth of crypto tokens. The software upgrade, known as Shapella, will enable investors to redeem staked ether tokens, which account for 15% of all ether tokens and are worth $31 billion. The upgrade is expected to lead to heightened volatility in ether's price, with some predicting widespread redemptions could lead to selling and downward price pressure. The move comes after Ethereum's last significant upgrade in September, which reduced its energy usage and gave it an advantage in surpassing bitcoin. Despite this, ether has continued to lag bitcoin, gaining just under 60% this year compared to bitcoin's 80% jump."
+    },
+    {
+        "title": "Ethereum (ETH) whale that bought billions of Shiba Inu (SHIB) tokens last week has now started to buy RenQ Finance ... - Analytics Insight",
+        "summary": "  An Ethereum (ETH) whale that purchased billions of Shiba Inu (SHIB) tokens last week has started buying RenQ Finance (RENQ) tokens, indicating growing interest in the platform. The whale's investment in RENQ is a positive sign for the platform's potential growth and profitability. RenQ Finance is a decentralized finance platform that offers non-custodial trading, staking, and liquidity provision, and its multi-chain approach sets it apart from other decentralized exchanges. The platform has attracted investments from significant players in the crypto market, and its ongoing presale stage has raised $7.9 million out of $9.3 million. With strong community support and significant investments, RenQ Finance is well-positioned to make a significant impact in the DeFi space."
+    },
+    {
+        "title": "Ethereum upgrade to unlock over $30 billion in crypto tokens - Moneycontrol",
+        "summary": "  Ethereum is set to undergo an upgrade on Wednesday, unlocking over $30 billion in digital tokens. The upgrade, known as Shapella, will enable investors to redeem staked ether tokens, worth $31 billion, that they have deposited on the blockchain network over the past three years. This could lead to heightened volatility for ether, with some predicting widespread redemptions and selling, potentially weighing on the price. The upgrade follows Ethereum's September upgrade that significantly reduced its energy usage, but ether has continued to lag behind bitcoin in gains. Despite this, the crypto market has rallied in 2023 on expectations of slowing central bank interest rate hikes."
+    },
+    {
+        "title": "Crypto News Update: Ethereum (ETH) gears up for Shanghai Upgrade, Bitcoin (BTC) amidst very positive market ... - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) is preparing for its Shanghai upgrade, which will reduce gas fees and introduce new security measures. Bitcoin (BTC) is experiencing positive market sentiments due to increased institutional adoption and reduced supply. DeFi platform RenQ Finance (RENQ) closed its presale stage ahead of schedule, raising over $6.5 million. The platform offers innovative financial products and services, and its successful presale is a sign of growing interest in DeFi. The cryptocurrency market is experiencing positive growth, with Ethereum and Bitcoin leading the way."
+    },
+    {
+        "title": "Ethereum Stabilizes before Shanghai Upgrade, What this means for Alt Season and Contenders Lido DAO, Solana ... - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is stabilizing ahead of the Shanghai upgrade, which will allow users to withdraw staked ETH. This has led to a surge in Ethereum's value, with experts predicting a prolonged bullish run. The upgrade is expected to benefit contenders like Lido DAO, Solana, and Big Eyes Coin. Lido DAO is expected to increase by 30% from its current price, while Solana has an inverse head-and-shoulders setup that could lead to a bullish breakout. Big Eyes Coin is also expected to have a strong run after its upcoming launch, with user-centric schemes and a last chance for buyers to win a 250% bonus."
+    },
+    {
+        "title": "What is Ethereum\u2019s Shanghai Upgrade and What Does It Mean For Staking? - Bitbuy",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum's Shanghai upgrade (Shapella) will take place on April 12, 2023, and it marks the last step in Ethereum's transition to Proof-of-Stake (PoS). The upgrade enables withdrawals of ETH previously locked in smart contracts, providing new staking possibilities and higher rewards for Bitbuy users. Bitbuy is offering boosted ETH rewards of 4.07% - 6.0% for one month following the upgrade, and users can automatically restake their rewards to maximize returns. The upgrade also introduces new bonding and unbonding periods for ETH staking, with a 45-day bonding period and a 7-day unbonding period."
+    },
+    {
+        "title": "Bitcoin Hovers Around $30K, Ether Holds Above $1.9K Ahead of Ethereum Shanghai Upgrade - Yahoo Lifestyle UK",
+        "summary": "  Bitcoin (BTC) and Ether (ETH) prices are holding steady ahead of the Ethereum Shanghai upgrade. BTC is trading around $30,000, down slightly from recent highs, while ETH is at $1,914, up 0.3% from the previous day. The upcoming upgrade is expected to have a limited impact on ETH's price, with some analysts predicting a possible sell-off and others expecting little change. The overall crypto market is down 0.2% today, but up 2.2% in the past week, according to CoinDesk's Market Index (CMI). Equity markets are mixed, with the S&P 500 and DJIA up 0.3% and 0.5%, respectively, while the Nasdaq is nearly flat."
+    },
+    {
+        "title": "Ethereum Shanghai Upgrade Scheduled To Take Place On April 12: All You Need To Know - ABP Live",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nEthereum Shanghai upgrade scheduled for April 12, unlocking staked Ethereum for withdrawals after two years. Big relief for Ethereum community."
+    },
+    {
+        "title": "Kraken Begins Withdrawing All Staked ETH Ahead of Shapella - CryptoPotato",
+        "summary": "  Kraken is withdrawing all staked ETH on behalf of its clients ahead of the Shapella upgrade, which will allow Ethereum stakers to withdraw their ETH for the first time since December 2020. Kraken's staking as a service product will be closed after being forced to shutter it by regulators in February. The SEC fined Kraken $30 million for failing to register its staking product as a security, and other exchanges like Coinbase may also face legal action for offering similar products."
+    },
+    {
+        "title": "Warren Buffett Upgrades Bitcoin From \u201cRat Poison\u201d to a \u201cGambling Token\u201d as Ethereum Prepares To Undergo a Major Change - Wccftech",
+        "summary": "  Warren Buffett has upgraded his view on Bitcoin from \"rat poison\" to a \"gambling token,\" as the cryptocurrency market sees a resurgence in momentum. Bitcoin has gained 80% this year, and is on the cusp of breaking out of its macro downtrend. Ethereum is also preparing for a major upgrade, which could lead to increased selling pressure. Despite this, the cryptocurrency market remains stable, with Bitcoin trading like a high-beta shitcoin and Ethereum's staking rewards set to be withdrawn. The Shapella upgrade is expected to strengthen Ethereum's ecosystem in the long run, but could lead to elevated selling pressure in the short term."
+    },
+    {
+        "title": "Bruce Lee Enters Web3, Starting With Open Edition NFT From Pplpleasr - Decrypt",
+        "summary": "  Bruce Lee is entering the world of Web3 through a new partnership with Shibuya, an NFT-driven video platform. The late martial artist and actor's estate will launch an open edition NFT, \"House of Lee: Genesis,\" featuring artwork by Emily \"pplpleasr\" Yang. The NFT serves as a ticket to the \"House of Lee\" and is the first stage in an ongoing Web3 collaboration. Open edition NFTs have become popular due to their affordability and gamification techniques. Shibuya has focused on creating original video series that allow NFT holders to have a say in the production process, and they may follow a similar model with Bruce Lee content. The NFT will be available for purchase starting today and will be shown on a Times Square video billboard this week."
+    },
+    {
+        "title": "Bitcoin, Ethereum Listed as Ralph Lauren Accepts Crypto Payments; Signuptoken.com Exceeds 3k - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nRalph Lauren has partnered with BitPay to accept Bitcoin, Ethereum, and MATIC at its new store in Miami's Design District. This is the first Ralph Lauren location to accept cryptocurrency payments. The company is also collaborating with Poolsuite to create a co-branded NFT for current Poolsuite NFT members. Signuptoken.com has amassed over 3,000 email registrations as it prepares for its official launch. The platform aims to turn one million people into millionaires by simply registering their email addresses."
+    },
+    {
+        "title": "3iQ and Azzilon Partner to Launch Smart Index Strategies for Bitcoin and Ethereum - Canada NewsWire",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\n3iQ and Azzilon partner to launch smart index strategies for Bitcoin and Ethereum.\n\n* Advanced suite of smart indices with integrated risk management.\n* Designed for institutional digital asset management.\n* Utilizes Azzilon's SmartB engine for dynamic asset weights.\n* 3iQ will offer two innovative strategies: 3iQ SmartB BTC and 3iQ SmartB ETH.\n* Focus on positive alpha and superior risk-adjusted returns.\n* Partnership aims to deliver sophisticated, risk-optimized strategies.\n* 3iQ is a leading digital asset investment fund manager.\n* Azzilon is a provider of intelligent solutions for financial markets."
+    },
+    {
+        "title": "Ethereum's first major upgrade since Merge is complete- Binance - SaltWire Halifax powered by The Chronicle Herald",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum's Shapella upgrade is complete, enabling investors to redeem staked ether tokens worth $31B. Deposits and withdrawals are now online, but this may lead to heightened volatility and potential selling pressure on ether's price. The upgrade aims to give Ethereum an advantage over bitcoin, but ether has lagged behind despite growing popularity in decentralized finance applications."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin Dips Below $30,000, Ethereum Loses $1,900 Mark Ahead Of Shanghai Upgrade - ABP Live",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\ud83d\udcc9 Bitcoin dips below $30,000, Ethereum loses $1,900 mark.\n\ud83d\udcc8 Solana emerges as top gainer, Rocket Pool as top loser.\n\ud83d\udcb0 Global crypto market cap at $1.22 trillion, down 1.48% in 24 hours.\n\ud83d\udcc9 Top cryptocurrency price movements:\n\t* Bitcoin: $29,982.40 (24-hour loss of 0.30%)\n\t* Ethereum: $1,867.37 (24-hour loss of 2.66%)\n\t* Dogecoin: $0.08157 (24-hour loss of 3.43%)\n\t* Litecoin: $91.53 (24-hour loss of 4.94%)\n\t* Ripple: $0.5087 (24-hour loss of "
+    },
+    {
+        "title": "Big Eyes Coin Emerges as Strong Competitor to Leading Crypto Coins Bitcoin, Ethereum - Analytics Insight",
+        "summary": "  Big Eyes Coin is gaining popularity as a competitor to Bitcoin and Ethereum, according to Analytics Insight. However, the article notes that any financial and crypto market information provided is for informational purposes only and should not be taken as investment advice. The article also warns that crypto products and NFTs are unregulated and can be highly risky, and that readers should conduct their own research and consult financial experts before making any investment decisions. The article also includes a disclaimer that Analytics Insight does not represent or own any cryptocurrency and that any complaints or concerns should be directed to them."
+    },
+    {
+        "title": "Comparing Arbitrum, Optimism And Polygon: How Ethereum Layer 2 Blockchains Are Impacting Upcoming ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum Layer 2 (L2) blockchains are gaining popularity in the crypto industry, with Arbitrum, Optimism, and Polygon being the top three. Arbitrum has the highest TVL and usage, with a 10% price surge in the last day. Optimism has performed better than Polygon, with a 10.39% price increase. The L2 upgrade is expected to positively impact smaller cryptocurrencies like Dogetti (DETI). Dogetti (DETI) is a new meme coin that leverages the Ethereum network and has potential for growth. The top three L2 blockchains have made significant progress, but their performances vary, and it remains to be seen which one will come out on top."
+    },
+    {
+        "title": "Ethereum Price Prediction: ETH will Rally to $3000 on Shanghai Upgrade | Bitcoinist.com - Bitcoinist",
+        "summary": "  Ethereum's price is expected to reach $3000 this quarter, driven by the upcoming Shanghai upgrade. The upgrade will allow for faster and cheaper transactions, and the flexibility of deposits and withdrawals will increase confidence in the coin. The increase in supply is not a cause for concern, as the development of the network and the increase in liquidity will fuel demand for the coin. Ethereum's quick jump from $1379 to $1900 in March suggests that the market is excited about the upcoming milestone and the potential for solid demand and growth. The altcoin is reversing losses made in 2022 and reclaiming its status as the blue-chip crypto by driving solid demand and growth.\n\nEthereum has a lot to look forward to in 2023, including the Proto-danksharding upgrade, which will reduce transaction costs by moving data from rollups permanently on the Ethereum blockchain to a new temporary 'blob' storage. This can kindle a strong Ethereum bull run. Even if the coin doesn't ascend to its all-time high of $4,8"
+    }
+]

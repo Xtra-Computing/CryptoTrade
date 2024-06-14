@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum Has Become More Centralized Since the Merge and Shanghai Upgrades: JPMorgan - CoinDesk",
+        "summary": "  Ethereum has become more centralized since its Merge and Shanghai upgrades, according to JPMorgan. The increase in staking has reduced the appeal of ether from a yield perspective."
+    },
+    {
+        "id": 1,
+        "title": "Ethereum Price At Risk of Sharp Decline Unless ETH Clears This Heavy Resistance - NewsBTC",
+        "summary": "  Ethereum price is facing resistance at $1,650 and could decline further if it fails to break above this level. The cryptocurrency is trading below the 100-hourly Simple Moving Average and a bearish trend line is forming with resistance near $1,645. A close below $1,610 could lead to further losses towards $1,585 and potentially $1,540. Technical indicators such as MACD and RSI are also showing bearish signs."
+    },
+    {
+        "id": 2,
+        "title": "Run Ethereum nodes on AWS - AWS Blog",
+        "summary": "  To run Ethereum nodes on AWS, you can use server-side software components called Ethereum clients. After The Merge, each Ethereum node needs to run two clients: the execution layer (EL) client and the consensus layer (CL) client. These clients work together to synchronize the global state with other nodes of the distributed Ethereum database clusters. When setting up Ethereum nodes on AWS, you can speed up the initial sync process by using checkpoint sync in the CL client and snap sync in some EL client. This can reduce the initial sync time from 5-7 days to about 1 day for full nodes. Additionally, you can use Amazon EBS Snapshots or copy data from S3 to speed up the initial sync time for archive nodes. The approach of keeping your own copy of your client\u2019s blockchain data on AWS works even better for EL clients like Erigon."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum Price Prediction 2024 - Watcher Guru",
+        "summary": "  Ethereum's price is predicted to increase in 2024, with a minimum price of $100 and a maximum price of $200.\n\nThe article provides an overview of Ethereum's history, its current position in the crypto market, and its potential for growth. It also discusses the factors that influence Ethereum's price, such as market capitalization, adoption, and regulatory changes.\n\nThe article concludes by emphasizing the importance of conducting thorough research and consulting with financial professionals before making any investment decisions. It also highlights the potential for Ethereum's price to increase in the future as the crypto market continues to evolve."
+    },
+    {
+        "id": 5,
+        "title": "Ethereum restaking could lead to a 'cascade of liquidations,' says JPMorgan - DLNews",
+        "summary": "  JPMorgan analysts have warned of the risks of restaking in Ethereum, a new feature that allows users to double-stake their Ether on different protocols. Restaking could lead to a \"cascade of liquidations\" if a staked asset drops sharply in value or is hacked. The feature has raised concerns about systemic risks and the potential for unlocking awesome services and reshaping the ecosystem, but also introducing hard-to-tackle risks. EigenLayer is the only option for investors who want to restake their funds, with a total value locked of around $226 million."
+    },
+    {
+        "id": 6,
+        "title": "JPMorgan Pins Ethereum's Centralization Issues on Lido as the 'Single Point of Failure' - CCN.com",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nJPMorgan analysts say Ethereum's centralization issues are due to Lido, a decentralized liquid staking platform, which has become a single point of failure. Lido and other decentralized solutions are centralized, posing risks to the network. Centralization by any entity or protocol can lead to a concentrated group of liquidity providers or node operators acting as a single point of failure, censoring transactions, or forming an oligopoly. The increase in staking has also harmed ETH's appeal from a \"yield perspective.\" Third-party staking providers introduce issues, acting as middlemen, which goes against the decentralized nature of crypto. Ethereum researchers need more time to find solutions to address centralization challenges and mitigate risks."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum Has Become More Centralized Since the Merge and Shanghai Upgrades: JPMorgan - Yahoo Finance",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum has become more centralized since the Merge and Shanghai upgrades, according to JPMorgan. The rise in staking has led to a decrease in overall staking yield and a concentration of liquidity, creating risks for the network. Centralization by any entity or protocol could lead to a single point of failure or oligopoly, and rehypothecation of liquidity tokens could result in cascading liquidations. The increase in staking has also reduced the appeal of ether from a yield perspective."
+    },
+    {
+        "id": 17,
+        "title": "Rise of Ethereum staking came at cost of higher centralization \u2014 JPMorgan - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum staking has become more centralized since the Merge and Shanghai upgrades, according to JPMorgan. Top 5 liquid staking providers control over 50% of staking, with Lido alone accounting for almost one-third. Even decentralized platforms like Lido have high degrees of centralization, with a single node operator controlling over 7,000 validator sets. Centralization risks include single points of failure or collusion among a concentrated number of liquidity providers. Staking yields have also declined post-Merge, from 7.3% to around 5.5%. Ethereum co-founder Vitalik Buterin acknowledges node centralization as a major challenge, with a potential solution taking 20 years."
+    },
+    {
+        "id": 18,
+        "title": "Ethereum Network 'Remains the Place to Operate as a Criminal,' Immunefi CEO Says - CoinDesk",
+        "summary": "  Ethereum network saw the most losses in the recent crypto hacking incidents, with over $600 million stolen in Q3. ImmunFi CEO Mitchell Amador attributes this to Ethereum's dominance in the decentralized finance (DeFi) space and its perceived safety due to the lack of chance of rolling back or funny business. However, Amador believes that the number of successful hacking attempts may continue to increase as hackers invest in advanced persistent threats, rather than slowing down."
+    },
+    {
+        "id": 20,
+        "title": "Flow proposes bridging to Ethereum via 'gateway' - crypto.news",
+        "summary": "  Flow, a layer-1 blockchain, proposes bridging with Ethereum via a \"gateway\" software, allowing for Ethereum-based dApps on the Flow ecosystem. No code changes are required, and developers can wrap external transactions using Cadence, a smart contract language. This would enable the transfer of ERC-20 and ERC-721 tokens between networks. However, some issues, such as mapping EVM gas fees on Cadence, need to be resolved. The proposal has received 12 likes and no responses."
+    },
+    {
+        "id": 21,
+        "title": "Demystifying Ethereum Gas Fees: A Comprehensive Guide - Altcoin Buzz",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\n\ud83d\udd25 Ethereum Gas Fees Explained \ud83d\ude80\n\n* Gas fees are the costs associated with executing transactions and smart contracts on the Ethereum blockchain\n* Incentivize miners, allocate computational resources, and prevent spam attacks\n* Gas fees are denominated in a unit called \"Gas,\" which measures computational work\n* Gas price auction determines which transactions get processed first\n* Complex smart contracts consume more Gas, leading to higher fees\n* Ethereum upgrades and market speculation impact fees\n\n\ud83d\udcc8 Historical Perspective: All-Time Highs and Lows \ud83d\udcca\n\n* February 2021: Gas fees reached an all-time high during the DeFi and NFT boom\n* Pre-2015: Gas fees were negligible due to low network usage\n* Current trends: Gas fees have become more manageable, but still fluctuate depending on network demand and usage\n\n\ud83d\udcb0 Conclusion \ud83d\ude80\n"
+    },
+    {
+        "id": 22,
+        "title": "XRP Poised for 58x Rally to $30, Mirroring Ethereum Past Performance - The Crypto Basic",
+        "summary": "  XRP could surge 58x to $30, mirroring Ethereum's past performance, according to crypto analyst EGRAG. XRP has already established itself as a prominent digital asset and could replicate Ethereum's impressive resurgence. However, past performances do not guarantee future results, and investors should remain cautious. #XRP #cryptocurrency #investing"
+    },
+    {
+        "id": 23,
+        "title": "Ethereum's Plummeting Below $1,600 Creates Alarming Case - U.Today",
+        "summary": "  Ethereum's price plummeted below $1,600, raising concerns about its short-term stability. The failed launch of VanEck's Ether futures ETF may have contributed to the drop, as it indicates a lack of institutional interest in the cryptocurrency. The market's current sentiment is not helping Ethereum, as Bitcoin is struggling to maintain its price levels and the broader market is showing signs of weakness. If Ethereum fails to find strong support soon, it could test the $1,500 level.\n\nShiba Inu is also struggling, as it has been below its trendline support for the past three days. The lack of network activity and general buzz around Shiba Inu is a significant factor contributing to its stagnant performance. Meme assets, in general, are showing poor performance, and Shiba Inu is no exception. Dogecoin is also anemic, as it has failed to make any significant price movements over the past 60 days. The lack of volatility and liquidity on Dogecoin can be attributed to several factors, including the absence of significant updates or news surrounding the coin"
+    },
+    {
+        "id": 24,
+        "title": "Ethereum Futures ETFs Falter Following Launch, Sparking Concerns For Bulls - ZyCrypto",
+        "summary": "  Ethereum futures ETFs launched with disappointing trading volumes, recording less than $3 million in volume on the first day. This is a stark contrast to the impressive figures recorded by Bitcoin futures ETFs in 2021, which saw over $1 billion in volume on the first day. Nine ETFs were launched on the same day, with the SEC aiming to prevent market domination. Despite the lackluster start, optimism remains, with some believing that the ETFs could see impressive figures in the coming weeks. The Valkyrie Bitcoin Strategy ETF recorded the most activity, with just over $800,000 in volume. However, some analysts have warned that futures ETFs can negatively affect spot markets, potentially directing demand away from the spot market into synthetic markets."
+    },
+    {
+        "id": 27,
+        "title": "Is Ethereum\u2019s Staking Boom A Ticking Time Bomb? JPMorgan Weighs In - NewsBTC",
+        "summary": "  Ethereum's staking boom has raised concerns among JPMorgan analysts about the network's centralization. The analysts warn that a concentrated number of liquidity providers or node operators could compromise the network's integrity, leading to potential security risks. Additionally, the analysts highlight the threat of \"rehypothecation,\" where staked assets are used as collateral across various DeFi platforms, which could result in a cascade of liquidations if the assets drop in value. Despite these concerns, Ethereum's market price has shown a slight upward trajectory in the past 24 hours."
+    },
+    {
+        "id": 28,
+        "title": "Whales Move Over $730,000,000 in Bitcoin, Ethereum, Dogecoin and XRP \u2013 Here\u2019s Where the Crypto\u2019s Going - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nDeep-pocketed crypto investors are moving hundreds of millions of dollars worth of Bitcoin and other digital assets. Whale Alert data shows $400 million worth of Bitcoin moved to Coinbase or unknown wallets. Altcoins Ethereum, Dogecoin, and XRP were also moved to and from prominent exchange platforms. Investors should do their due diligence before making any high-risk investments. The Daily Hodl does not recommend buying or selling any cryptocurrencies."
+    },
+    {
+        "id": 34,
+        "title": "Ethereum Price Prediction As ETH/BTC Hits Fresh 52-Week Lows - Analytics Insight",
+        "summary": "  Ethereum price is underperforming despite positive fundamentals, with the ETH/BTC pair reaching 15-month lows. The launch of VanEck Ethereum futures ETF and growing interest from major financial institutions may not be enough to boost the Ethereum price. On-chain analysis shows a decrease in TVL on the Ethereum blockchain, with most funds moving to layer 2 networks. The short-term outlook is bearish, with a possible retest of the range lows around $1,577."
+    },
+    {
+        "id": 41,
+        "title": "Tron Has More Daily Active Addresses Than Ethereum: What's Supercharging Growth? - Bitcoinist",
+        "summary": "  Tron, a blockchain platform, has surpassed Ethereum and Bitcoin in terms of daily active addresses (DAA), with over 1.9 million DAA. This growth is attributed to Tron's role in stablecoin transactions, with 50% of all USDT transactions taking place on the platform. Despite suppressed activity in the broader cryptocurrency scene, legacy blockchains like Bitcoin and Ethereum remain preferred due to their first-mover advantage and adoption. However, third-generation platforms like Tron, BNB Chain, and NEAR Protocol are attracting new users."
+    },
+    {
+        "id": 42,
+        "title": "Bullish signs for Ethereum price: $2,000 by the end of the year? - The Cryptonomist",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's on-chain indicators suggest a possible rally, with a decrease in supply on cryptocurrency exchanges and an increase in staking. The price could reach $2,000 by the end of the year, but macroeconomic factors and approval of a Bitcoin spot ETF could impact the market. The recent withdrawal of 110,000 ETH from exchanges is a notable movement. Traders are currently short on ETH, anticipating a possible drop. The article concludes that while on-chain data provides positive signs for Ethereum's price, it's uncertain whether the coin will reach $2,000 by the end of the year."
+    },
+    {
+        "id": 44,
+        "title": "PancakeSwap and Everlodge Are On the Rise, Ethereum Classic Set To Recover Its Losses - Cryptopolitan",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPancakeSwap (CAKE) is set to rise to $1.96 by the end of 2023, according to analysts. The platform has launched on top of the opBNB Layer-2 network, which could enhance liquidity and lead to growth.\n\nEthereum Classic (ETC) is also expected to recover its losses and reach $22.75 by the end of 2023. The cryptocurrency has been in the red zone but has started to recover in value.\n\nEverlodge (ELDG) is a new project that aims to revolutionize the real estate space by creating NFTs against holiday homes and fractionalizing them. The token is currently trading at $0.019 and could grow 280% during the presale and 3,000% by launch.\n\nJoin the Everlodge presale and win a luxury holiday to the Maldives. Find out more at <https://www.everlodge.io/>."
+    }
+]

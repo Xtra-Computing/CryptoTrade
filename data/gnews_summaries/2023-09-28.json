@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "Devnet, testnet, mainnet: Ethereum's next upgrade progresses \u2014 slowly - Blockworks",
+        "summary": "  Ethereum's next upgrade, Devnet-9, has been delayed slightly from its initial Sept. 27 start date, with a new goal of launching prior to November's Devconnect conference in Istanbul. The upgrade, which includes the Dencun upgrade, is expected to occur in January 2024 if all goes smoothly. The Ethereum Foundation is also planning to launch a new testnet, Hole\u0161ky, which will replace Goerli and is intended to be retired in 2024. Validator participation on Hole\u0161ky has been climbing, with expected reach of 90% by Friday."
+    },
+    {
+        "id": 4,
+        "title": "How Much Ethereum is There? - Watcher Guru",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's supply is not capped like Bitcoin, with a total supply of over 120 million coins currently in circulation. The circulating supply is over 120 million coins, with new coins entering the ecosystem through mining. Ethereum is transitioning from proof-of-work to proof-of-stake, which may lead to slower supply growth. The recent EIP-1559 upgrade burns transaction fees, reducing the overall supply of ETH. The future supply of Ethereum is uncertain, but its demand for decentralized applications and innovation will continue to drive its value."
+    },
+    {
+        "id": 5,
+        "title": "What Are Ethereum Blobs, and How Do They Boost Scalability? - DailyCoin",
+        "summary": "  Ethereum is introducing a new feature called \"blobs\" to improve scalability. Blobs are inexpensive and temporary memory that carry data about transactions, making it more efficient to verify transactions. This will reduce the amount of work necessary to keep data on the Ethereum network, allowing for faster processing and cheaper costs. The upgrade, called EIP-4844, will create two separate fee markets for Layer 1 execution and blobs, reducing the impact of congestion on the Ethereum network. While the upgrade was previously expected later this year, core developers have suggested that it may be delayed until 2024. Layer 2 networks will also need to implement upgrades to support blobs. The introduction of blobs brings Ethereum closer to full sharding, which promises to scale the network exponentially while reducing costs on Layer 2s."
+    },
+    {
+        "id": 6,
+        "title": "Coinbase to let retail users outside the U.S. trade Bitcoin and Ethereum futures on its Bermuda exchange - Fortune",
+        "summary": "  Coinbase, the largest US-based crypto exchange, has received regulatory approval from Bermuda to allow retail traders outside the US to buy and sell perpetual futures on its exchange. This move is part of the company's ongoing effort to expand its footprint beyond the US, where it has faced growing regulatory scrutiny. The exchange has received approval from Bermuda's financial regulator and will begin trading in the coming weeks. This development comes after the collapse of competing exchange FTX and increased regulatory scrutiny from the SEC, which has led to impending litigation against Coinbase. Despite these challenges, Coinbase's Bermuda outpost has seen $5.5 billion in trading volume from institutional investors as of the second quarter of 2023."
+    },
+    {
+        "id": 10,
+        "title": "Trader bets send Ethereum higher on ETF nod optimism - DLNews",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum prices are up due to optimism around the approval of Ethereum futures exchange-traded funds (ETFs) in the US. According to crypto trading platform FalconX, nearly 60% of Ethereum trades made by large funds were buys over the last week, with trading volumes doubling in the past two days. This suggests that institutional investors are becoming more bullish on Ethereum. However, Bitcoin prices are down, with a 1% drop in the past week, while altcoins are also down across the board. There is a 90% chance of Ethereum futures ETFs launching in October, according to Bloomberg Intelligence ETF analysts."
+    },
+    {
+        "id": 12,
+        "title": "Ethereum Price Faces Rejection But Bulls Are Not Out of Woods Yet - NewsBTC",
+        "summary": "  Ethereum price is attempting to recover above $1,600, but faces resistance at $1,620. If it can close above this level, it could lead to a larger increase towards $1,720. However, if it fails to clear $1,620, it could lead to another decline towards $1,540. Technical indicators such as MACD and RSI are losing momentum in the bearish zone, but the RSI is above 50, indicating potential for a bullish move. Major support is at $1,580, while major resistance is at $1,620."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum Name Service is getting easier and cheaper to use, says founder - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Name Service (ENS) is getting easier and cheaper to use, according to its founder Nick Johnson. The service assigns human-readable names to Ethereum addresses, making them easier to remember and use. Johnson's vision is to make the service even more useful with layer-2 support, improved user interface, and greater functionality. Priorities include making ENS names available everywhere ETH addresses are accepted and increasing transparency and lowering costs. The company is working on tooling to make it easier for users to set up layer-2 registrations and issue subnames. Johnson also wants to enable the naming of wallets, making it easier for users to sign up and transact without knowing their Ethereum addresses."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum Staking Surges to 7.4M ETH and Counting - CoinDesk",
+        "summary": "  Ethereum staking has surged to 7.4M ETH and counting, with developers working on solutions to address the issue of too many validators running on the network. Proposed solutions include increasing the maximum number of ETH per validator to 2,048, reducing the number of machines operating on the network."
+    },
+    {
+        "id": 18,
+        "title": "Buenos Aires government ID, coming to Ethereum via zkSync - Blockworks",
+        "summary": "  Buenos Aires is launching a blockchain-based digital identity protocol, QuarkID, for citizens to access public services. The protocol will be open-source and on-chain, allowing for self-sovereignty and control over personal data. The initial rollout will include birth and marriage certificates, with plans to expand to over 2.5 million users by year-end. The initiative is a \"first\" in Latin America and builds on prior efforts since 2022, with the help of tech companies and the local community. The region is becoming a hotbed for blockchain use cases, with a willingness to employ censorship-resistant technologies for official government business and record keeping. Citizens are increasingly warming to the idea of transacting with crypto, with a Ripple survey finding 74% of Latin Americans more likely to transact with businesses that accept crypto."
+    },
+    {
+        "id": 20,
+        "title": "Ethereum futures ETFs could start trading next week \u2014 Bloomberg analyst - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum futures ETFs could start trading next week, according to Bloomberg analysts. There are 15 Ether futures ETFs from 9 issuers awaiting approval. The analysts give Ether futures ETFs a 90% chance of launching in October, with the first product expected to be Valkyrie's Bitcoin futures product on Oct. 3. However, not all of the ETFs are expected to launch. The approval comes as the US government is expected to shut down on Oct. 1 if Congress fails to provide funding for the new fiscal year."
+    },
+    {
+        "id": 23,
+        "title": "Major TradFi Player VanEck Readies Ethereum Futures ETF - CoinDesk",
+        "summary": "  VanEck, a major player in traditional finance (TradFi), is preparing to launch an Ethereum futures exchange-traded fund (ETF). This move represents a significant step towards mainstream adoption of cryptocurrencies. Register and buy your pass now for Consensus 2024, CoinDesk's longest-running and most influential event, to stay ahead of the curve in the rapidly evolving crypto and blockchain landscape."
+    },
+    {
+        "id": 26,
+        "title": "Does Lido Control Too Much Liquid Staking? - CoinDesk",
+        "summary": "  Lido, a liquid staking platform, has spent nearly $2 million on audits to ensure its protocol's security and smart contracts. While some may question whether Lido controls too much liquid staking, users must research and decide which protocol best fits their needs. Lido prioritizes building trust through transparent development and decentralization, rather than relying on marketing campaigns."
+    },
+    {
+        "id": 27,
+        "title": "Why Cryptocurrencies Like Bitcoin and Ethereum Surged Today - The Motley Fool",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCryptocurrencies like Bitcoin and Ethereum surged today, led by the top dogs in the sector. Other coins and tokens also moved higher, with Aave enjoying a nearly 9% surge and miner Riot Platforms defying gravity at a nearly 5% clip. The rally was fueled by a weakening of safe havens such as the 10-year U.S. Treasury bond and crude oil, as well as a potential acceleration of Ethereum exchange-traded funds (ETFs) by the Securities and Exchange Commission (SEC). Other factors contributing to the bullishness include a generally frothy equity market, high interest rates, and optimism for riskier assets."
+    },
+    {
+        "id": 28,
+        "title": "Ethereum News Catalyst Could Trigger Triangle Breakout To $4,000 - NewsBTC",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nVanEck is launching an Ethereum futures ETF, which could trigger a breakout of a nearly 16-month long ascending triangle pattern. The target price is $4,000 per ETH based on the measure rule. The article highlights the potential for a bullish chart pattern to appear before positive news, with the launch of the ETF serving as the catalyst for a strong breakout. The ascending triangle pattern has been forming since June 2022, with the chance of a breakout increasing as the pattern nears the two-thirds point from its apex. However, the article emphasizes that investing carries risks and recommends conducting one's own research before making any investment decisions."
+    },
+    {
+        "id": 30,
+        "title": "Only Bitcoin, Ethereum, and Chainlink Are Meaningfully Decentralized: Sergey Nazarov - Decrypt",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nOnly a handful of blockchain projects are meaningfully decentralized, according to Chainlink co-founder Sergey Nazarov. He names Bitcoin, Ethereum, and Chainlink as the most decentralized projects, despite Ethereum's centralization concerns due to Lido Finance's staking pools. Nazarov believes that decentralization is a security mechanism and that the industry needs to focus on building secure systems rather than using the term \"decentralization\" to attract capital. DeFi security expert Chris Blec raises concerns about Chainlink's multi-sig mechanism, while Solana security researcher Mat\u00edas Barrios emphasizes the importance of key management. The article concludes that the decentralization debate is more alive than ever, and that individuals need to become more educated consumers to avoid falling for centralized projects masquerading as decentralized."
+    },
+    {
+        "id": 31,
+        "title": "Ethereum Developers Make Second Attempt to Launch Holesky Testnet After Previous Flop - Cryptonews",
+        "summary": "  Ethereum developers have relaunched the Holesky test network after a previous attempt failed due to incorrect data in the genesis files. The new testnet is designed to aid large smart contract projects with a capacity greater than Ethereum's current test networks and is expected to have 1.4 million validators, double the size of Ethereum. Despite the delay, the launch is expected to go smoothly and will help Ethereum widen the gap between competitors in creating decentralized applications with effective scalability."
+    },
+    {
+        "id": 33,
+        "title": "SEC Extends Deadline for Ark Invest, VanEck Spot Ethereum ETF Filings - Decrypt",
+        "summary": "  The US Securities and Exchange Commission (SEC) has extended the deadline for decision on two Ethereum spot ETF filings by Ark Invest and VanEck to December 26, 2023. The original deadline was November 11. The SEC needs more time to review the proposals, which were published in the Federal Register on September 27, 2023, seeking public input. Meanwhile, there is growing optimism around approval for a futures-based ETH product, with fourteen proposals pending with the SEC from firms like Bitwise, Grayscale, Valkyrie, and VanEck."
+    },
+    {
+        "id": 36,
+        "title": "VanEck Prepares to Launch Ethereum Futures ETF (EFUT) - Business Wire",
+        "summary": "  VanEck is launching a new ETF, the VanEck Ethereum Strategy ETF (EFUT), which will invest in Ether (ETH) futures contracts traded on the Chicago Mercantile Exchange. The ETF will be actively managed by Greg Krenzer and will seek to provide capital appreciation by investing in ETH futures. The fund will not invest directly in ETH or other digital assets. The launch of EFUT follows the success of the VanEck Bitcoin Strategy ETF (XBTF), which was launched in 2020 and has over $800 million in assets under management. Both funds are structured as C-Corps, which may provide a more efficient tax experience for long-term investors. However, investing in digital assets is still a new and rapidly changing industry, and there are many risks associated with these investments, including the potential for rapid declines in value. Investors should carefully consider the risks and expenses of the fund before investing."
+    },
+    {
+        "id": 39,
+        "title": "ETH Price Skyrockets as Ethereum ETF Eyes Monday Launch Prospect - U.Today",
+        "summary": "  Ethereum (ETH) price surged 2.3% today, reaching $1,635.8 per token, its highest value in 8 days. The altcoin has seen remarkable gains this week, up 4.6%. There is anticipation of an Ethereum Futures ETF launch as early as next week, with the SEC reportedly eager to expedite its approval. However, the decision on Ethereum Spot ETFs from ARK Invest and VanEck has been deferred, with new deadlines set for Dec. 26 and Dec. 25, respectively."
+    },
+    {
+        "id": 40,
+        "title": "Ethereum Developers Appear Successful in Second Attempt at Holesky Test Network Launch - CoinDesk",
+        "summary": "  Ethereum developers have successfully launched the Holesky test network after a second attempt, with the process appearing to go smoothly so far. However, the developers have indicated that the participation rate must reach at least 66% before the launch can be considered final."
+    },
+    {
+        "id": 41,
+        "title": "Is The Ethereum Winter Over? L2 Exploding, ETH Futures ETF Launches - NewsBTC",
+        "summary": "  Ethereum appears to be recovering from the crypto winter, with signs of increased adoption and development of layer-2 scaling solutions. The launch of an Ethereum derivatives product by VanEck, a global asset manager, is also expected to boost liquidity and attract institutions. As of September 28, layer-2 platforms have a total value locked (TVL) of over $10.6 billion, with popular solutions like Arbitrum and Base enjoying faster and cheaper processing environments while remaining coupled with Ethereum. The expansion of Ethereum's layer-2 ecosystem has become so extensive that it is no longer practical to build on other platforms, according to network co-founder Vitalik Buterin."
+    },
+    {
+        "id": 43,
+        "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple: BTC, ETH, XRP at catch 22 moment - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nTop 3 cryptocurrencies (Bitcoin, Ethereum, Ripple) are at a catch-22 moment, with upside potential limited by descending trend lines and resistance confluence. Bitcoin price tests key hurdle, with bulls trying to push north but facing weak momentum. Ethereum price has a pending bullish call that needs activation, while Ripple price faces massive seller accumulation threatening a potential fall to $0.4622."
+    },
+    {
+        "id": 44,
+        "title": "Ethereum Price Prediction: Bulls Hold Firmly Despite ETF News - CoinGape",
+        "summary": "  Ethereum price has steadied its uptrend despite a brief pullback following news of SEC delays on spot Ethereum exchange-traded funds (ETFs). The formation of a short-term falling wedge has boosted bullish confidence, and the asset is currently trading above key moving averages. The SEC has delayed decisions on two ETF proposals, but the bullish outlook remains intact. The Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) indicators also support the uptrend. Traders can maintain long positions with confidence, with potential targets at $1,700 and $1,800."
+    },
+    {
+        "id": 47,
+        "title": "EigenLayer's Sreeram Kannan on the Hot (and Risky) Ethereum Trend of 'Restaking' - Yahoo Finance",
+        "summary": "  EigenLayer's Sreeram Kannan discusses the hot trend of \"restaking\" on Ethereum, where ETH tokens are staked for double duty, providing security for other applications. Kannan addresses concerns raised by Ethereum co-founder Vitalik Buterin about the risks of overloading the consensus layer and the potential for systemic risks to the main blockchain. He emphasizes that anything that restaking can do, liquid staking can already do, and that EigenLayer's approach internalizes innovation back into Ethereum rather than externalizing it to a new system. Kannan also discusses the EIP-7514 proposal to slow the rate of new validators coming online, and how it affects EigenLayer, as well as the potential for restaking to reduce the risk of liquid staking. Finally, he touches on the idea of a natural limit to how much Ethereum can support, citing the analogy of the application layer and the number of smart contracts that can be built on top of Ethereum."
+    },
+    {
+        "id": 49,
+        "title": "Ethereum climbs 3% on talk of ETF launches - ForexLive",
+        "summary": "  Sure, here is a summary of the financial news in less than 256 tokens:\n\nEthereum is up 3.1% to $1644 after chatter of SEC accelerating ETF launches before government shutdown. SEC wants to offload ETF tasks before Monday. VanEck confirms Ether ETF launch, offers symbol EFUT. Caution on chasing headlines, as ETF approval is largely priced in. Sell-the-fact trade possible, but risk assets could run if there's a positive run."
+    },
+    {
+        "id": 50,
+        "title": "This $3 billion layer-2 treasury is 6x richer than Ethereum Foundation - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nMantle Protocol has accumulated $3 billion in its treasury, making it the richest among all Web3 projects, including the Ethereum Foundation with $512 million. Mantle's treasury is diversified across different assets, including BitDAO (BIT) token, and has a total value of $3.02 billion. The protocol is a layer-2 blockchain for the Ethereum ecosystem, offering more scalability, efficiency, and affordability to decentralized app developers. Despite the challenges in fundraising this year, both the BitDAO community and the Mantle Protocol have been able to keep their treasury healthy, which could be an advantage moving forward."
+    },
+    {
+        "id": 53,
+        "title": "Ethereum Futures ETF to Begin Trading as Rumors Swirl of Accelerated SEC Approvals - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nVanEck's Ethereum ETF, EFUT, is set to launch on the CBOE, with shares expected to be listed soon. This comes after years of effort by VanEck to register crypto ETF products in the US, which were initially stonewalled by the SEC. With the approval of Bitcoin futures ETFs, VanEck may benefit from a first-mover advantage in the market. There are currently 14 proposals for similar ETFs pending approval from the SEC. Crypto spot ETFs, which are backed by crypto assets directly, remain inaccessible to American investors."
+    },
+    {
+        "id": 56,
+        "title": "Banking Giants Abuzz About Tokenization of Real-World Assets as DeFi Craves Collateral - CoinDesk",
+        "summary": "  Banking giants are showing interest in tokenizing real-world assets as DeFi craves collateral, despite traditional banks' previous concerns about public blockchains. JPMorgan's head of Onyx Digital Assets, Tyrone Lobban, notes that the public Ethereum chain has evolved significantly, with improvements in energy efficiency and scaling technology. These developments could make Ethereum more appealing to enterprises over time."
+    },
+    {
+        "id": 57,
+        "title": "Metis Proposes Migration to Ethereum Mainnet for Enhanced Data Availability - Blockchain.News",
+        "summary": "  Metis, an Ethereum Layer 2 network, proposes migrating to Ethereum mainnet to enhance data availability for its sequencer pool. The move would simplify the launch of a decentralized sequencer pool and improve data availability, but would also result in higher transaction fees. The proposal is open for community feedback and will be subject to a Snapshot vote. If approved, Metis will switch from its current off-chain storage layer to its original Optimistic Rollup architecture."
+    },
+    {
+        "id": 61,
+        "title": "Valkyrie Gets Approval to Start Buying ETH Futures for Its Existing Bitcoin ETF - CoinDesk",
+        "summary": "  Valkyrie, a financial services firm, has received approval to start buying ETH futures for its existing Bitcoin ETF. This marks the first time a Bitcoin ETF has been approved to invest in both Bitcoin and Ethereum futures. The move is seen as a significant development in the crypto space, as it expands the investment options for Bitcoin ETFs and highlights the growing institutional interest in digital assets."
+    },
+    {
+        "id": 62,
+        "title": "Ethereum needs to fulfill this condition to become deflationary again - AMBCrypto News",
+        "summary": "  Ethereum's supply has increased in the last 30 days despite the transition to Proof-of-Stake (PoS), which could make it inflationary. However, the burn rate (base fee) has decreased, indicating that more ETH has been issued than burned recently. This could lead to ETH becoming deflationary again, but it may require more accommodative monetary policy to achieve this. The number of new addresses on the network has decreased, while active addresses have increased."
+    },
+    {
+        "id": 63,
+        "title": "Ethereum's Holesky Testnet Goes Live After Initial Failed Attempt - Crypto Briefing",
+        "summary": "  Ethereum's Holesky testnet launched after a failed initial attempt on September 15. It aims to enhance testing capabilities for the blockchain's ecosystem with 1.4 million validators, making it the largest testnet. Holesky launched with 1.6 billion ETH supply to avoid shortages and address scalability issues on the mainnet. Developers hope that testing on Holesky will help decentralized apps face fewer unexpected hurdles when deployed on the Ethereum mainnet."
+    },
+    {
+        "id": 65,
+        "title": "Crypto Price Today: Bitcoin nears $26,500; Ethereum tops $1,600; Altcoins trade mixed - Business Today",
+        "summary": "  Bitcoin nears $26,500, Ethereum tops $1,600; altcoins trade mixed. Bitcoin and other crypto tokens were mixed today as rising interest rates and macroeconomic factors impacted market sentiment. SEC Chair Gary Gensler continued his critical stance on crypto in congressional testimony. Bitcoin gained half a percent but remains around $26,500, while Ethereum inched up one percent to $1,600. Altcoins were mixed, with some gaining, others losing. The global cryptocurrency market cap was slightly higher, and total trading volumes increased by 48 percent. Bitcoin showed a small pump but faces resistance at its 50-day DMA, while Terra's LUNA has been pumping due to a community proposal to move away from minting new USTC stablecoins. Tech View by WazirX Trade Desk suggests that Bitcoin Cash (BCH) is breaking out of a long-formed triangle pattern with significant buying volumes, and the daily price momentum indicator or RSI has crossed 65"
+    },
+    {
+        "id": 66,
+        "title": "How to Buy Wrapped Ethereum (WETH) - Benzinga",
+        "summary": "  To buy Wrapped Ethereum (WETH), you can follow these steps:\n\n1. Open an online account on a crypto exchange that supports ETH, such as eToro, Webull, or Robinhood.\n2. Purchase ETH on the exchange.\n3. Download a wallet that supports WETH, such as MetaMask or Ledger.\n4. Swap your ETH for WETH through a decentralized exchange (DEX) like Uniswap.\n5. Trade, sell, or convert your WETH as desired.\n\nNote that WETH is pegged to the price of ETH, so its price will follow suit. It can be a good investment if you want to have tradable ETH for OpenSea bids or other uses, but the price may fluctuate."
+    },
+    {
+        "id": 69,
+        "title": "Microsoft AI's Jaw-Dropping Top Three Crypto Predictions: Everlodge (ELDG), Ethereum (ETH), Filecoin (FIL) - Finbold - Finance in Bold",
+        "summary": "  Microsoft AI has released its top three crypto predictions for the upcoming year, which are Ethereum (ETH), Filecoin (FIL), and Everlodge (ELDG). These tokens show positive market trends, adoption rates, and technological advancements.\n\nEthereum (ETH) has seen a surge in interest in its derivatives, with open interest soaring by 4.1% to $5B on September 25th. The trading volume for Ethereum derivatives has also experienced a remarkable 332% increase, surging to $10.35B.\n\nFilecoin (FIL) has partnered with Brave to enhance privacy features for the browser, leveraging the Zcash protocol\u2019s shielded transactions for enhanced privacy and security. Market analysts forecast the Filecoin price to reach $5.46 by December 2023.\n\nEverlodge (ELDG) aims to revolutionize the real estate market by leveraging blockchain technology, making real estate investment accessible and solving long-standing issues such as transparency, liquidity, and accessibility"
+    },
+    {
+        "id": 77,
+        "title": "Cryptocurrency Price Today: Ethereum Crosses $1,600, Bitcoin Cash Becomes Top Gainer - ABP Live",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\n\ud83d\ude80 Ethereum crosses $1,600, Bitcoin Cash becomes top gainer \ud83d\ude80\n\n\u25aa\ufe0f ETH price stands at $1,603.74, up 5.7% in 24 hours \ud83d\udcc8\n\u25aa\ufe0f BTC price stands at $26,342.12, up 0.3% in 24 hours \ud83d\udcc8\n\n\ud83d\udcb0 Top gainers: Bitcoin Cash (6.82%), Maker (5.42%), Terra Classic (5.14%), Chainlink (4.56%), and Pepe (4.35%) \ud83d\udcc8\n\n\ud83d\udcc9 Top losers: Immutable (3.76%), Curve DAO Token (2.37%), 1inch Network (2.17%), Casper (2.04%), and MultiversX (2.02%) \ud83d\udcc9\n"
+    },
+    {
+        "id": 79,
+        "title": "Ethereum ETFs: Insider Leak Hints At Next Week's Debut - Bitcoinist",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe US Securities and Exchange Commission (SEC) is accelerating the launch of Ethereum futures exchange-traded funds (ETFs) due to a potential US government shutdown. The SEC has asked ETF filers to update their documents by Friday to enable a Monday trading debut. At least 15 Ethereum futures ETFs have been filed by nine issuers, but not all will be approved. The move could solidify Ethereum's status as a non-security and pave the way for spot-traded ETFs. The ETH price is currently at $1,609 with no reaction to the news."
+    },
+    {
+        "id": 80,
+        "title": "Surprise: BIS Used Ethereum Testnet And Curve Finance's Code In CBDC Pilot - Bitcoinist",
+        "summary": "  The Bank of France has confirmed the successful conclusion of Project Mariana, a central bank digital currency (CBDC) pilot project that aimed to enhance cross-border payments. The project reportedly used Ethereum's public testnet and Curve Finance's smart contracts as its base. While the BIS did not comment on the use of Curve Finance's code, the platform had over $2.1 billion in total value locked at the time of the pilot. Meanwhile, an anti-CBDC bill has been introduced in the US, with support from Republicans, that would bar the Federal Reserve from issuing a digital dollar."
+    },
+    {
+        "id": 85,
+        "title": "Ethereum Price Analysis for October 2023 - CoinChapter",
+        "summary": "  Ethereum (ETH) price is attempting to break above $1,620 resistance in October 2023, but faces a crucial bearish trend line with resistance near $1,620 on the daily chart. A daily close above $1,665 could start a fresh increase, but a failure to clear these resistance levels could lead to a decline below $1,530 and potentially as low as $1,440."
+    },
+    {
+        "id": 86,
+        "title": "Understanding EIP-4844: Ethereum's Upgrade Focusing On Blobs - Blockzeit",
+        "summary": "  Ethereum is set to launch a new upgrade, EIP-4844, also known as Proto-Danksharding, which aims to significantly reduce gas fees by introducing a new transaction type called blobs. Blobs are large amounts of data that are cheaper than current cell data and can be used to carry data efficiently. This upgrade will enhance the Ethereum network's scalability, security, and usability, making it more adaptable and user-friendly. The upgrade will also include the implementation of execution-layer logic, verification rules, and a two-dimensional fee market, necessary for full Danksharding. The expected launch date of the Ethereum Cancun upgrade is September 27, 2023, on the Ethereum Devnet-9 testnet. The upgrade will bring several benefits, including boosted scalability, reduced gas fees, and top-notch security. Overall, the EIP-4844 upgrade is a significant step forward in Ethereum's journey towards addressing its long-standing issue of high gas fees."
+    }
+]

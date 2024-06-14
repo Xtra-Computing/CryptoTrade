@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Ethereum derivatives flirting with bearishness: Mind the $1,820 support - Cointelegraph",
+        "summary": "  Ethereum derivatives are flirting with bearishness as the Ether price has been stuck in a tight range between $1,820 and $1,950 for the past three weeks. Professional traders have been unwilling to add neutral-to-bullish positions using derivatives contracts, which favors a break below $1,820. The increased gas fees on the Ethereum network have driven users to layer-2 solutions, which could be interpreted as a weakness. The Ether sale by the Ethereum Foundation and the lack of demand for risk-on assets due to investors' expectations of stable interest rates at the next Federal Reserve meeting may also contribute to the bearish outlook. The Ether futures contract premium and options markets also suggest a lack of appetite from buyers using derivatives contracts, which could lead to a break below $1,820."
+    },
+    {
+        "title": "Extremists Receive Large Ethereum Cryptocurrency Donations - Southern Poverty Law Center",
+        "summary": "  Extremist groups have received large cryptocurrency donations, totaling over $300,000, through a mysterious donor using a cryptocurrency mixer service. The donations were made to groups such as Ammon Bundy's People's Rights Network, white nationalist publication VDARE, and white nationalist organization American Renaissance. The donations continue a pattern of anonymous big-money benefactors using cryptocurrency to conceal their identities and avoid accountability for funding extremists. The donor used a service called Tornado Cash to disguise the origins of the donations, which have been sanctioned by the US government due to their use in money-laundering. The donations were made between August 2021 and April 2022, and some of the groups have received donations from all three accounts used by the donor."
+    },
+    {
+        "title": "Ethereum's OFAC-Compliant Blocks Drop to 27%: What Does It Mean? - DailyCoin",
+        "summary": "  Ethereum's OFAC-compliant blocks, which are blocks that adhere to US sanctions, have decreased to 27% from a higher percentage in 2022. This means that Ethereum has maintained its censorship-resistance property despite the OFAC sanctions. Relay operators, such as Flashbots, have been filtering transactions that are not OFAC-compliant, but the percentage of OFAC-compliant blocks has decreased. This highlights the importance of censorship resistance in blockchain technology."
+    },
+    {
+        "title": "Bitcoin, Ethereum Push Higher As Inflation Slows to 4.9% in April - Decrypt",
+        "summary": "  Bitcoin and Ethereum prices rose as US inflation slowed to 4.9% in April, according to the Consumer Price Index. The increase in inflation was largely driven by a jump in housing prices, while core inflation (excluding food and energy costs) rose 5.5%. Despite the slowdown in inflation, the Federal Reserve has continued to raise interest rates to combat soaring prices, which could potentially lead to a recession. The Fed's next meeting in June may see a pause in rate hikes if inflation remains under control."
+    },
+    {
+        "title": "Ethereum validators earn a record $46M as staking rewards rate surges - Cointelegraph",
+        "summary": "  Validators on the Ethereum network earned a record $46 million in the first week of May due to a surge in staking rewards. The increase is attributed to the recent trading craze of a new memecoin called Pepe, which has resulted in higher fees on the Ethereum network. The average fees on the network have exceeded 100 gwei, marking the highest level since May 2022. This has resulted in higher fee income for validators from processing transactions and regular validator rewards. The staking rewards rate signifies the anticipated annualized return for validators, who are mandated to stake a minimum of 32 ETH to engage in the network's consensus procedure."
+    },
+    {
+        "title": "EY Launches Ethereum-Based Carbon Emission Tracking Platform - CoinDesk",
+        "summary": "  EY launches Ethereum-based platform for carbon emission tracking, tokenizing emissions inventory for enterprises to track decarbonization efforts. Detailed traceability allows linking carbon output to specific product output, enabling enterprises to use carbon credit tokens created or sourced on the market for visibility into decarbonization actions."
+    },
+    {
+        "title": "tomi Introduces Privacy Stablecoin and Layer-2 Protocol on Ethereum - DailyCoin",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nTomi has launched a privacy-focused Layer-2 protocol on Ethereum called TPL, which enables private transactions.\n\nTPL uses zero-knowledge proofs to protect user privacy and will be the first token on the new Layer-2 network.\n\nTomi is also launching a privacy stablecoin called tpUSD, which will be the first token on TPL.\n\nTPL offers features such as privacy, accessibility, adaptability, and scalability.\n\nThe launch of TPL and tpUSD is part of tomi's broader bundle of privacy-preserving tools under the umbrella of tomiNET.\n\nWhile the exact launch date of tpUSD is unknown, the product is attractive to crypto enthusiasts due to its privacy-preserving features."
+    },
+    {
+        "title": "Chiliz (CHZ)-Ethereum Bridge Officially Goes Live, Here's What to Know - U.Today",
+        "summary": "  Chiliz, a blockchain provider for the sports industry, has launched the Chiliz Ethereum Bridge, allowing users to transfer their CHZ tokens from the Ethereum mainnet to the Chiliz Chain. The Chiliz Chain mainnet is also now live, marking a significant milestone for blockchain and sports. The new blockchain is a Layer 1, EVM-compatible, proof-of-stake authority (PoSA) blockchain, and all fees will be paid using the Chiliz native token (CHZ). The Chiliz team has also announced that MetaMask is the only self-custody wallet currently available on the Chiliz Chain, and more upgrades are planned for the coming weeks."
+    },
+    {
+        "title": "Arbitrum's DAO to receive over 3,350 ETH in revenue from transaction fees - Cointelegraph",
+        "summary": "  Arbitrum's DAO will receive over $3.3 million in Ethereum (ETH) in revenue from transaction fees. The funds will be collected from base fees and surplus revenue generated from network transactions. The DAO will distribute the funds to its members through proposals voted on by the group. The revenue distribution comes after a controversy over a nearly $1 billion fund transfer that wasn't approved by ARB holders. An anonymous proposal on the governance forum suggests creating a mechanism for revenue distribution triggered by a smart contract, but the DAO has not voted on the proposal."
+    },
+    {
+        "title": "Ethereum L2 Arbitrum (ARB) Records Sudden Price Uptick, Here's Possible Reason - U.Today",
+        "summary": "  Arbitrum, an Ethereum-based Layer 2 scaling solution, has shared its fee generation model, which involves sending surplus fees to its decentralized autonomous organization (DAO). This move has led to a bullish price uptick for the ARB token, with a growth of over 3%. The protocol splits fees into L1 and L2 fees, with surplus tokens accumulated on-chain before being sent to the DAO. The total funds billed for the Sequencer are approximately $10.9 million, with 582 ETH reserved for the Sequencer and 3,352 ETH to be sent to the DAO as a reward. This distribution of rewards has triggered a buy-up of ARB, extending the positive outlook for the scaling tool on Ethereum."
+    },
+    {
+        "title": "Grayscale Files for Ethereum Futures, Bitcoin Composite and 'Privacy' ETFs - Unchained - Unchained",
+        "summary": "  Grayscale Investments has filed for three new exchange-traded funds (ETFs): Grayscale Ethereum Futures ETF, Grayscale Global Bitcoin Composite ETF, and Grayscale Privacy ETF. The new entity, Grayscale Funds Trust, is structured as a Delaware statutory trust and allows Grayscale to manage 1940 Act products independently. The firm's CEO, Michael Sonnenshein, stated that the new entity and ETFs are part of Grayscale's ambition to build out its ETF offerings. The three ETFs include:\n\n* Grayscale Ethereum Futures ETF, which will invest 100% of its funds in cash-settled futures offered by the Chicago Mercantile Exchange (CME).\n* Grayscale Global Bitcoin Composite ETF, which will invest 40% in internationally listed Bitcoin ETFs and 60% in Bitcoin mining companies.\n* Grayscale Privacy ETF, which will invest 10% in Grayscale's ZCash Trust and the remaining funds in relatively liquid listed"
+    },
+    {
+        "title": "Ethereum (ETH) Trades Above $1800 Despite Crypto Market Pullback as Tradecurve (TCRV) Launches Presale - Techpoint Africa",
+        "summary": "  Ethereum (ETH) maintains price above $1800 despite crypto market pullback. Tradecurve (TCRV) launches presale with potential for 50X growth. Ethereum's Shapella upgrade unlocks locked tokens without significant price drop. Tradecurve aims to revolutionize trading with hybrid platform combining centralized and decentralized exchanges. Native token TCRV available for purchase for $0.01, with potential for 100X profits upon launch."
+    },
+    {
+        "title": "Crypto price prediction: BTC, ETH and KAVA after CPI data - CoinJournal",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCPI data caused crypto prices to rise, with Bitcoin (BTC) reaching $28,200 and Ethereum (ETH) testing $1,800. KAVA price surged 11%. BTC, ETH, and KAVA are near key technical levels. Market experts predict possible price movements, with BTC potentially falling below $20,000 and ETH possibly reaching $1,570. KAVA could face resistance at $1.12 and potentially drop to $0.52."
+    },
+    {
+        "title": "Ethereum breaches key demand wall; What's next for ETH? - Finbold - Finance in Bold",
+        "summary": "  Ethereum has reached a critical demand zone of $1,850-$1,905, which could lead to a correction if failed to retain. 2.36 million addresses have purchased 8.37 million ETH at this price range. Ethereum is currently trading at $1,878, with a 1.97% increase in the last 24 hours and 0.40% across the previous week. Crypto trading expert Micha\u00ebl van de Poppe suggests that ETH will remain stable if Bitcoin crashes but decline against BTC in case of a volatile move to the upside."
+    }
+]

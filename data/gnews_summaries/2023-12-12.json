@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "title": "Ethereum staking network SSV launches permissionless mainnet - The Block",
+        "summary": "  SSV Network, an Ethereum staking infrastructure provider, has launched its permissionless mainnet, making it the first project to achieve this milestone using distributed validator technology (DVT). This technology enables multiple parties to share responsibilities and prevent single points of failure, improving overall resilience. The launch aims to decentralize Ethereum staking and reduce centralization concerns, with the current scenario raising concerns about a few major staking service providers holding substantial control. SSV Network is offering token rewards to boost adoption of its DVT network, and other projects such as Obol and Diva are also utilizing this approach."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum burns $2.5B worth of ETH since merge as supply drops to 18 month low - CryptoSlate",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nEthereum has burned $2.5B worth of ETH since merge, reducing supply to 18-month low. Top 10 contracts burned $1.04B ETH, with Uniswap, Tether, and OpenSea leading the way. Ethereum's deflationary model may attract investors seeking a store of value. Average ETH burn rate is 3.09 ETH/min, with potential for increased demand and higher prices if deflationary trends continue. However, market volatility and external factors like regulatory changes or macroeconomic trends can impact these dynamics."
+    },
+    {
+        "id": 8,
+        "title": "SIX Digital Exchange (SDX) tokenizes ethereum stocks in its CSD - Ledger Insights",
+        "summary": "  SIX Digital Exchange (SDX) has tokenized the shares of a private company, Aktionariat AG, on the Ethereum blockchain and stored them in its central securities depository (CSD). This allows both crypto-savvy investors and institutional investors to access the stocks in a similar way to how they access other securities. The tokenization of securities aims to improve liquidity, but fragmentation of investor pools remains an issue. The SDX transaction is a pilot and the companies plan to explore commercializing the concept. The development of multi-blockchain tokens raises questions about the legal validity of records and the potential for companies to issue securities on multiple blockchains. Regulatory clarity on how to treat tokenized public blockchain securities is needed."
+    },
+    {
+        "id": 14,
+        "title": "Ethereum Price Forecast \u2013 Ethereum Stabilizes - FX Empire",
+        "summary": "  Ethereum stabilizes after recent price drop, with forecasts ranging from $100 to $300 in the near future. Analysts attribute the price increase to improved fundamentals and increased institutional investment. However, risks remain, including market volatility and the potential for a global economic downturn. It is important to conduct thorough research and consult with a financial advisor before making any investment decisions."
+    },
+    {
+        "id": 15,
+        "title": "DeFiBitcoin Introduces New Market Cycle on Ethereum Blockchain - Yahoo Finance",
+        "summary": "  DeFiBitcoin, a decentralized finance project on the Ethereum blockchain, has introduced a new market cycle structure with a unique reward system to optimize trading behavior and ensure project stability. The new cycle consists of a bull market and a bear market, each lasting 4 and 3 days respectively, with a pivotal halving event in between. The halving event reduces the total reward pool and increases the value of tokens, while the tax rate remains at 0/0. The project has also developed a smart bot to enhance the trading experience for users. DeFiBitcoin's focus on security, innovation, and stability makes it a pioneer in decentralized finance. For more information, visit <https://defibitcointoken.com/>."
+    },
+    {
+        "id": 18,
+        "title": "SSV.Network Launches Permissionless DVT-Powered Ethereum Staking - Yahoo Finance",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nSSV.Network has launched a permissionless Ethereum staking infrastructure powered by DVT technology. This allows anyone to stake and contribute to the Ethereum network, decentralizing validation and increasing security. The launch follows three years of development and includes an incentive program to reward users for registering validators. Over $160M has been staked through SSV.Network in just two months, with over 2,200 validators using the DVT-based infrastructure."
+    },
+    {
+        "id": 21,
+        "title": "=Nil; Foundation unveils advanced zkEVM to enhance Ethereum's security and scalability - CryptoSlate",
+        "summary": "  The =nil; Foundation has unveiled an advanced zkEVM (Zero-Knowledge Ethereum Virtual Machine) to enhance Ethereum's security and scalability. The zkEVM is powered by zkLLVM, an automated circuit compiler that enables the compilation of high-level code into efficient zk-SNARK circuits. This automation reduces the risk of human error and simplifies auditing, making the zkEVM more secure and adaptable to the Ethereum Virtual Machine (EVM). The zkEVM also boasts seamless upgradability and compatibility with evmone, a C++ version of Ethereum's base execution environment. The =nil; Foundation has been actively researching and developing Ethereum scalability infrastructure since 2018, and has secured $22 million in funding to support its efforts."
+    },
+    {
+        "id": 22,
+        "title": "PulseChain Unleashes Interoperability: Transforming the Ethereum Landscape with Advanced Features and Inclusive ... - Yahoo Finance",
+        "summary": "  PulseChain, a blockchain platform, has launched a groundbreaking interoperability feature allowing seamless trading between the Pulse and Ethereum networks. This feature enables users to transfer ETH and PLS between the two networks, opening up new possibilities for decentralized finance and smart contract capabilities. PulseChain aims to redefine the Ethereum landscape by offering a combination of technological advancements and user-centric features. The platform's mission is to increase Ethereum's value, lower fees, enrich ETH users, empower ERC20 and NFT users, and make it easy to use. PulseChain also plans to lower its own fees and serve more users, improve game theory, and empower its holders. The platform's native token, $PLS, serves as a key utility within the ecosystem, allowing users to activate validators and earn PLS by contributing to the security of the network. PulseChain is committed to revolutionizing the Ethereum ecosystem and creating a more inclusive and sustainable blockchain environment. For more information, visit their website."
+    },
+    {
+        "id": 23,
+        "title": "Ethereum Price Prediction: Will Surging DeFi TVL Pump ETH To $3,000? - CoinGape",
+        "summary": "  Ethereum price is facing a potential drop to $2,000 if the current sell-off continues, according to technical analysis. The MACD indicator and RSI are both indicating a possible sell signal. However, if support at $2,200 holds, Ethereum price could potentially recover and rise. The total value locked in Ethereum DeFi has increased to $28 billion, suggesting a long-term bullish outlook for the cryptocurrency."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum Price Consolidates Below Hurdle, What Could Trigger Fresh Increase - NewsBTC",
+        "summary": "  Ethereum price is consolidating below the $2,275 resistance level, potentially setting the stage for a fresh increase. The cryptocurrency recovered from a sharp decline and is currently trading below $2,320 and the 100-hourly Simple Moving Average. While there is a key bearish trend line forming resistance near $2,240, a clear move above the $2,300 zone could send the price towards $2,400. However, if Ethereum fails to clear the $2,275 resistance, it could start another decline with potential support levels at $2,155, $2,120, and $2,100. Technical indicators such as MACD and RSI are losing momentum in the bearish zone."
+    },
+    {
+        "id": 27,
+        "title": "Ethereum scaling firm =nil; Foundation introduces security-focused zkEVM - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum scaling firm =nil; Foundation has introduced a new security-focused zkEVM called zkEVM. The zkEVM is designed to be compatible with Ethereum's base execution environment, EVM, and prioritizes security by automating the compilation of high-level programming code into zero-knowledge proofs. This approach eliminates the need for manual circuit definition and reduces the risk of errors, making it more future-proof and adaptable to EVM changes. The zkEVM has been tested and proven to be secure, with a bug bounty rewarded for identifying a vulnerability in Matter Labs' zkSync era mainnet. =nil; Foundation's zkEVM is one of several layer-2 protocols aiming to help Ethereum process large transaction loads and smart contract functions, and its automated compiler design makes it a promising solution for scaling Ethereum's security and capacity."
+    },
+    {
+        "id": 37,
+        "title": "Ethereum Rival Avalanche (AVAX) Skyrockets 138% in a Month As Ecosystem Makes Comeback - The Daily Hodl",
+        "summary": "  Avalanche (AVAX) cryptocurrency has surged 138% in the last month, outperforming the top 20 cryptocurrencies. The ecosystem is experiencing a resurgence, with a significant increase in large transactions and DEX fees. Institutional investors are also showing interest in AVAX, according to CoinShares. However, Solana (SOL) leads AVAX in institutional inflows. At the time of writing, AVAX has dipped slightly to $37.80."
+    },
+    {
+        "id": 40,
+        "title": "Next Big Crypto to Buy in 2024 Including Ethereum, Cardano, ApeMax, and Solana - Finbold - Finance in Bold",
+        "summary": "  Next Big Crypto to Buy in 2024: ApeMax, Ethereum, Cardano, Solana\n\n* ApeMax: Revolutionary new coin with \"Boost-to-Earn\" feature, currently in presale with exclusive discounts for eligible buyers.\n* Ethereum: Leading smart contract platform with over $19B market cap, continues to empower DApps and smart contracts.\n* Cardano: Scalable and secure platform with layered architecture and Ouroboros PoS consensus mechanism.\n* Solana: High-speed, low-cost platform with PoS and PoH mechanisms, positioned as smaller Ethereum rival.\n\nOther contenders: Dogecoin, Shiba Inu, Worldcoin, Pepe Coin.\n\nUncertainty surrounds which token will be the next big star in 2024, but ApeMax's innovative tokenomics and ongoing presale momentum are worth keeping an eye on. However, thorough research and understanding of associated risks are crucial before engaging with any cryptocurrency."
+    },
+    {
+        "id": 41,
+        "title": "AIDI Finance Officially Launches on the Ethereum Network - GlobeNewswire",
+        "summary": "  AIDI Finance, a DeFi platform, has launched on the Ethereum network, offering a range of utilities including a decentralized exchange, lottery, and crypto card. The platform has seen significant growth since its launch, with a current market capitalization of $1 million. AIDI's ecosystem is designed to provide value and growth potential to its holders, with a focus on transparency and security. The platform's unique features include a low-commission NFT marketplace, transparent lottery service, and crypto visa card. AIDI Finance aims to become a ubiquitous name in the cryptocurrency world and rank among the top 50 projects on CoinMarketCap."
+    },
+    {
+        "id": 42,
+        "title": "Cambridge Study: Ethereum Consumes 28x Less Energy Than American Express - Cryptonews",
+        "summary": "  Ethereum consumes 28x less energy than American Express, according to a Cambridge study. Ethereum's annual energy consumption of 7 Gigawatts per hour (GWh) is 28 times lower than American Express, which operates on 202.73 GWh. Additionally, Ethereum is 50 times less energy-intensive than Deutsche Bank, which uses 437 GWh. The Ethereum network is also more energy-efficient than Netflix and the Burj Khalifa. The report highlights the energy efficiency of Ethereum's proof-of-stake (PoS) mechanism, which replaced the energy-cumbersome proof-of-work (PoW) consensus algorithm. The Ethereum network is a hub for decentralized applications (dApps) and has maintained a 19% market share of the crypto market. The recent launch of the decentralized Verifiable Random Function (dVRF) service on the Ethereum mainnet by the SupraOracles dApp further strengthens the network's potential."
+    },
+    {
+        "id": 43,
+        "title": "Ethereum: Here\u2019s the latest prediction for its price and supply - AMBCrypto News",
+        "summary": "  Ethereum's supply is shrinking at an annual rate of 0.248%, with a predicted decrease to 117.7 million by the end of 2025. This is a welcome development as ETH had become inflationary due to poor network participation. The current supply of 120.21 million is the peak, and the number of ETH in circulation is expected to gradually decline. This scarcity could lead to increased price increases, provided demand remains the same. Despite a recent correction, the market sentiment remains optimistic, with greed uniform across the market."
+    },
+    {
+        "id": 46,
+        "title": "Is ETH Still on Track for $2.5K Following the Correction? (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum (ETH) is currently in a critical price range after a notable correction following a yearly high of $2.4K. Technical analysis suggests a potential bullish market, but there is a likelihood of a temporary consolidation correction in the short term. On-chain analysis shows an increase in open interest in the futures market, which could indicate a potential major market reversal but is still far from overheating. The next moves will depend on whether ETH breaks out of the current price range."
+    },
+    {
+        "id": 50,
+        "title": "Ethereum: Whales are Stocking Up Before the Explosion! - Cointribune EN",
+        "summary": "  Ethereum whales are buying more ETH despite recent price drop of over 5%. Strategic investors see this as a good opportunity to accumulate more tokens at advantageous costs. Data from Lookonchain shows one whale transferred 55 million USDT to Binance, signaling a buy intent. DWF Labs, a major player in the crypto market, also revealed its largest ETH accumulation over the past two months, transferring 280 ETH from Bitfinex. These actions indicate a long-term vision and continued confidence in Ethereum's upward trajectory, despite temporary corrections. However, it's important to remember that cryptocurrencies are inherently risky and to never invest more than one is willing to lose."
+    },
+    {
+        "id": 53,
+        "title": "Grayscale's Ethereum ETF Hopes Delayed; Reddit Buzz Around Emerging AI Altcoin Intensifies - Finbold - Finance in Bold",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nInQubeta, a new DeFi crypto, is gaining traction on Reddit due to its innovative AI crowdfunding platform. InQubeta (QUBE) tokens are deflationary, with 2% of each transaction going to a burning wallet and 5% to a dedicated reward pool. Holders can stake their tokens and earn rewards, making QUBE a popular choice for those eyeing AI tech startups' potential growth.\n\nMeanwhile, Grayscale's Ethereum ETF hopes have been delayed by the SEC, which seeks additional time to evaluate the proposed rule change. Despite previous approvals of crypto futures-based ETFs, the SEC has yet to greenlight a spot BTC or ETH ETF on a US exchange.\n\nInQubeta's NFT marketplace and deflationary mechanism have fueled Reddit excitement, with over 626 million tokens sold in the presale at $0.01925. Influencers have shown interest in"
+    },
+    {
+        "id": 55,
+        "title": "Nil Foundation Launches Type-1 zkEVM for Enhanced Ethereum Scaling Security - Cryptonews",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\n Nil Foundation has launched Type-1 zkEVM, a scalable and secure solution for Ethereum. It integrates zkLLVM, a proprietary compiler, to automate circuit construction and mitigate security risks. The zkEVM offers improved auditability, adaptability, and compatibility with Ethereum's base execution environment. It aims to revolutionize Ethereum's scalability by addressing security and compatibility concerns."
+    },
+    {
+        "id": 57,
+        "title": "Why Ethereum (ETH) and Solana (SOL)'s Big Fish are Making Waves in Everlodge (ELDG)'s $82B Ocean - Atalayar EN",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEverlodge (ELDG) is a new project that is gaining attention in the cryptocurrency space due to its innovative approach to the vacation rental market. The project uses NFTs and blockchain technology to offer fractional ownership of holiday residences, providing investors with the opportunity to earn passive income and capital gains.\n\nExperts predict that Everlodge will experience a staggering 30-fold surge on launch day, with the current presale momentum, the size of the $82B global vacation property market, and the innovative features of the project driving the growth.\n\nWhile Ethereum (ETH) remains the undisputed king of smart contract technology, many investors are switching to newer projects with a higher reward potential, such as Solana (SOL). Solana is gaining traction as a platform for developers to build decentralized applications and protocols, with its super-fast transaction speeds making it an obvious choice for developers looking to build scalable and efficient decentralized applications.\n\nThe price of Solana has"
+    },
+    {
+        "id": 58,
+        "title": "High Growth Trifecta: Ethereum, Solana, and New Meme Coin Lead The Way - Finbold - Finance in Bold",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum, Solana, and NuggetRush are leading the way in the altcoin season, with Ethereum surging 39% in the past three months and Solana recording over 200% growth in the same period. NuggetRush, a new meme coin, has raised over $800,000 in its presale and is nearing its $215 million hard cap. The project offers a play-to-earn gaming experience with real-world earning capabilities in the metaverse, and its presale has been selling out fast."
+    },
+    {
+        "id": 65,
+        "title": "Ethereum to Break Past $3,000 \u2013 Everlodge Will Enable Fractional NFT Ownership in Multi-Million Dollar Properties - Techpoint Africa",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price surged after breaking above $2,000, with analysts predicting it could reach $3,332.19 by Q1 2024. Everlodge (ELDG) is also gaining momentum, with its presale at Stage 8 and AI-driven features set to disrupt the $280 trillion real estate market. The crypto will enable fractional ownership in multi-million dollar properties, providing access to the market for more investors. Analysts expect a 2,500% price upswing at launch."
+    },
+    {
+        "id": 69,
+        "title": "Bloomberg ETF Analyst James Seyffart Puts Ethereum in the Spotlight \u2013 What's Polygon and Everlodge Next Price ... - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPolygon (MATIC) is seeing a significant upswing, with a potential to reach $1.50. Ethereum (ETH) could surge to $3,300 if the SEC approves its ETF. Everlodge (ELDG) is currently in Stage 8 of its presale, with a predicted upswing of 2,800%. The Rewards Club on Everlodge offers free nightly stays and passive income opportunities for holders of the native crypto."
+    },
+    {
+        "id": 72,
+        "title": "Why Does the Ethereum Network Get Congested? - Crypto News Flash",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum, the leading decentralized global computing network, experiences congestion due to its popularity. The network's limitations, such as the PoW consensus algorithm and lack of native sharding, contribute to congestion. Additionally, high gas fees and spammers intentionally clogging the network with unnecessary transactions exacerbate the issue. Congestion leads to longer transaction confirmation times, higher gas fees, and a poor user experience. Solutions proposed to address congestion include layer 2 scaling, proof-of-stake consensus, sharding, and limiting blockchain bloat."
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Ethereum's Shapella Upgrade Went Through Despite 'Ridiculous Bug' - Blockworks",
+        "summary": "  Ethereum's Shapella upgrade was successful despite a critical bug in the main execution client Prysm. The bug caused validators to fail to propose blocks, but a \"circuit breaker\" triggered early on and relayer teams quickly disabled Prysm support to prevent a wider impact. The incident highlighted the need for more comprehensive testing and closer collaboration with other teams. Around 40% of Ethereum nodes run Prysm software, but the percentage is gradually shrinking as the community recognizes the need for client diversity. Developers can now focus on the next major upgrade, Cancun-Deneb."
+    },
+    {
+        "title": "What is the Ethereum Shanghai (Shapella) Upgrade? Everything You Need to Know - CryptoPotato",
+        "summary": "  The Ethereum Shanghai (Shapella) upgrade is a significant event in the crypto industry, introducing a new mechanic that allows validators to withdraw their staked ETH from the Beacon chain after years of securing the network. The upgrade consists of several Ethereum Improvement Proposals (EIPs), with EIP-4895 being the most critical, allowing validators to unlock their staked ETH. This upgrade paves the way for further development and scalability of the Ethereum network."
+    },
+    {
+        "title": "Ether ETH Price Swings Upward After Ethereum Upgrade, but What About the Future? - CoinDesk",
+        "summary": "  Ether (ETH) price surges after Ethereum upgrade, but future uncertainty remains. Both BTC and ETH breached upper Bollinger Bands, indicating increased bullishness. However, long-term outlook uncertain due to various factors."
+    },
+    {
+        "title": "Ethereum researcher says staking reveals IP address, sparking privacy concerns - Cointelegraph",
+        "summary": "  Ethereum researcher reveals that staking ETH reveals IP address, sparking privacy concerns in the cryptocurrency community. The researcher at the Ethereum Foundation, Justin Drake, disclosed that the IP addresses of Ether stakers are monitored as part of a broader set of metadata. This information is used to track deposit addresses, withdrawal addresses, fee recipients, and IP addresses. The revelation has raised concerns about privacy and surveillance in the Ethereum network, with some users suggesting ways to protect their privacy, such as using a Linux operating system, VPN, and hardware wallet."
+    },
+    {
+        "title": "Ethereum Researcher Predicts Solo Stakers May Get Airdrops - The Defiant - DeFi News",
+        "summary": "  Ethereum researcher Justin Drake predicts airdrops for solo stakers in the network, incentivizing them to run solo nodes and bolster decentralization. Drake cites publicly available blockchain data, but detractors raise privacy concerns. Lido, a liquid staking provider, is the largest staker with 21% of staked ETH, followed by centralized exchanges Coinbase, Kraken, and Binance."
+    },
+    {
+        "title": "Kraken to withdraw US$1 bln of staked Ether after SEC ruling against staking crypto - Forkast News",
+        "summary": "  Kraken, a cryptocurrency exchange, has announced plans to withdraw $1.17 billion worth of staked Ether, the largest amount since the Ethereum blockchain's Shanghai upgrade. The exchange has registered to withdraw 556,272 Ether, accounting for 63.3% of the total in the queue for withdrawal. This move comes after the SEC fined Kraken $30 million for failing to register staking programs and forced it to shut down its staking services for US users. Other exchanges, such as Coinbase and Huobi, have also initiated withdrawal requests. The Shanghai upgrade allows users to withdraw their staked Ether, which was deposited to support the operations of the Ethereum blockchain in return for a passive income. While some concerns emerged about a potential flood of Ether sales, on-chain data provider CryptoQuant does not expect a significant selling pressure due to the majority of staked Ether still holding losses compared to Ether prices when it was staked. The price of Ether has risen 10.54% in the past 24 hours to reach $2,1"
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin rises above $30,700; Ethereum, Cardano jump up to 11% - The Economic Times",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBitcoin rose 2.3% to $30,786, while Ethereum surged 10.5% to $2,117. Other top crypto tokens also traded higher, with Dogecoin jumping 9%. The global cryptocurrency market cap rose 4.25% to $1.28 trillion. Market sentiment is neutral, with major oscillators indicating a neutral outlook. The MACD indicates a buy signal, while the Stochastic RSI Fast indicates a sell signal."
+    },
+    {
+        "title": "ETH Vs BTC: Why Ethereum Price May Face Short Term Pain Ahead? - CoinGape",
+        "summary": "  Ethereum (ETH) price surged 7% in 24 hours after completing the Shanghai hard fork, allowing network participants to withdraw staked funds. However, analysts predict short-term pain for ETH as Bitcoin (BTC) remains in the driving seat mid-term. ETH outperformed BTC in the past week, with a 13% increase in price, while BTC saw a 10% jump. Despite this, ETH may face a hit in the short term as market participants did not buy it anticipating a drop after the update. The amount of unstaking was less than expected, leading to a surge in ETH price. Currently, ETH is trading at $2,115 with a 5% increase in the last 24 hours."
+    },
+    {
+        "title": "Ether rallies up to 12% in two days, briefly topping $2,100 after tech upgrade - CNBC",
+        "summary": "  Ether rallies 12% in 2 days, peaking at $2,100 after successful tech upgrade. Ether's weekly gain is 12.32%, with a daily gain of 3%. Bitcoin sustains $30,000 level, posting an 8.61% gain for the week."
+    },
+    {
+        "title": "Ethereum Validators Withdraw $620M ETH in Less Than 2 Days - Blockworks",
+        "summary": "  Ethereum validators have withdrawn $620M in ETH in less than 2 days, with 5,600 validators fully unstaking their ETH and another 17,500 in the withdrawal queue. Despite this, the network's overall security remains intact, and the outflows are changing the liquid supply of ETH. The total number of ETH staked has fallen 0.76% since the Shapella upgrade, and fresh validators are coming in to stake their ETH. The market has easily absorbed validator liquidations so far, with ETH's price increasing by 9% since withdrawals were activated."
+    },
+    {
+        "title": "Ethereum on-chain data forecasts the withdrawal of 1.4M ETH over the next few days - Cointelegraph",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai and Capella upgrades were activated on April 12, leading to increased withdrawals from staking contracts. 1.4M ETH is expected to be withdrawn over the next few days, with 70% of validators having updated their software to enable partial withdrawals. The majority of withdrawals are expected to come from Lido, with 56% of processed withdrawals so far. However, a significant portion of Kraken's withdrawals may move to decentralized liquid staking platforms. The ETH price looks bullish, with buyers targeting $2,300 and $2,900 resistance levels. Funding rates for ETH perpetual contracts are neutral, indicating a potential limit on upside potential."
+    },
+    {
+        "title": "Ethereum Layer 2 Network zkSync Era Jumps to Nearly $250M in Locked Value - CoinDesk",
+        "summary": "  Ethereum Layer 2 network zkSync has reached nearly $250M in locked value, according to CoinDesk. The network is gaining popularity and will be featured at Consensus 2024, CoinDesk's longest-running and most influential event. Register and buy your pass now at consensus.coindesk.com."
+    },
+    {
+        "title": "3 Cryptocurrencies Showing Same Bullish Patterns As Ethereum - CoinGape",
+        "summary": "  Three cryptocurrencies, Binance Coin (BNB), Chainlink (LINK), and Uniswap (UNI), are showing similar bullish patterns as Ethereum (ETH), according to CoinGape. These cryptocurrencies have formed symmetrical triangle patterns on their weekly time frame charts, indicating a potential breakout and significant growth. BNB has already bounced off the support trendline twice and the resistance trendline three times, suggesting a possible 80% increase to $6000. LINK is retesting the overhead resistance trendline of the chart pattern, with a potential breakout offering an early sign of trend reversal. If buyers manage to pierce the resistance trendline, the coin could rally 10% to challenge the $13 mark. UNI has rebounded from the support trendline, indicating a bull cycle with the chart pattern, and could potentially rise 88% to $13 if the buyers manage to pierce the resistance trendline."
+    },
+    {
+        "title": "EOS EVM to allow interoperability across Ethereum, EOS - Cointelegraph",
+        "summary": "  The EOS Network Foundation (ENF) has launched the beta version of the EOS EVM mainnet, which aims to improve interoperability between Ethereum and EOS blockchain ecosystems. The EVM emulates the Ethereum Virtual Machine and allows for the deployment of decentralized applications written in Solidity. The launch is expected to bridge the scalability gap between Ethereum and EOS, providing developers with access to lower fees and faster transactions on the EOS network. Other projects, such as Astar Network and Polygon, have also launched similar solutions, highlighting the growing demand for interoperability between different blockchain networks."
+    },
+    {
+        "title": "Hacker Robs Crypto Exchange Bitrue of $23M in Ethereum, SHIB, Other Assets - Decrypt",
+        "summary": "  Hacker steals $23M in Ethereum, other assets from Bitrue crypto exchange after exploiting hot wallet vulnerability. Bitrue suspends withdrawals until April 18. This is the second time in 2019 that the exchange has been hit by a cyber attack, with $5M worth of Ripple and Cardano tokens stolen."
+    },
+    {
+        "title": "Moving beyond the blockchain trilemma: L1 vs. L2 - Cointelegraph",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nAs of February 2023, over 44 million unique Bitcoin addresses have a non-zero balance. However, the scalability challenge facing the industry remains a significant barrier to widespread adoption. Two strategies have emerged to tackle this challenge: layer-1 (L1) and layer-2 (L2) solutions. L1 solutions aim to optimize the base layer of a blockchain, while L2 solutions provide an additional layer to facilitate faster and more affordable transactions. The battle between L1 and L2 solutions is ongoing, with each demonstrating unique strengths and weaknesses. L1 blockchains offer superior security and decentralization but suffer from scalability issues, while L2 solutions offer scalability and lower fees but may compromise security and decentralization. The outcome of this showdown will determine the path forward for scaling blockchain technology."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin trades near $31k; Ethereum surges 10% to hit $2,100, Dogecoin gains 8% - Business Today",
+        "summary": "  Bitcoin and other cryptocurrencies are trading with significant gains, led by Ethereum's 10% surge to $2,100. Other top gainers include Dogecoin (8%), Cardano (7%), Polygon (7%), and Litecoin (5%). The global cryptocurrency market cap has risen by 4% to $1.28 trillion, with total trading volumes increasing by 16% to $53.48 billion. The Shapella upgrade on Ethereum has been seen as a positive development, with liquid staking protocols performing well. Twitter has also partnered with eToro to allow users to buy and sell stocks, crypto, and other assets, which could boost retail investments. Tech View by Giottus Crypto Platform suggests that Ethereum could continue to rally towards the $2,500 mark if the trend continues, but warns that the asset could be overbought and face resistance at the $2,230 and $2,661 levels."
+    },
+    {
+        "title": "Tim Beiko: Shapella Removes Risk, Invites More Ethereum Staking - U.Today",
+        "summary": "  Tim Beiko discussed the Shapella upgrade on Laura Shin's podcast, highlighting its impact on Ethereum's decentralization and validator staking. The upgrade reduces risks for validators, allowing them to withdraw their stakes and try staking with more confidence. This may lead to a reshuffling of staking providers and more solo stakers joining the network. The upgrade also enables validators to accrue rewards directly and promotes decentralization by imposing greater penalties for centralized services. Beiko believes the upgrade has the potential to invite more staking and promote a more secure and decentralized future for Ethereum."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Price Surges After Shanghai Hard Fork, Hitting 11-Month High - Decrypt",
+        "summary": "  Ethereum price surges to 11-month high after successful Shanghai hard fork. Price jumped 7% in past day, reaching $2,123.35. Onchain data shows $58.5 million worth of ETH withdrawn since upgrade."
+    },
+    {
+        "title": "Will ETH witness a price correction? These updates may lead you to believe that\u2026 - AMBCrypto News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) demand has soared on both the spot and derivatives markets after the successful Shanghai upgrade. Open interest in perpetual futures contracts reached a two-year high, and the funding rate was at its highest level in four weeks. However, some ETH whales are taking profit, which could lead to a price correction. The article suggests that short sellers may have an opportunity to secure gains if more whales start selling. However, the influx of market confidence could also lead to an extended upside."
+    },
+    {
+        "title": "Olympus DAO Votes to Buy More ETH for Treasury Backing OHM Token - CoinDesk",
+        "summary": "  Olympus DAO has voted to increase its holdings of ETH for treasury backing of its OHM token. While the treasury operations team agrees with community members' bullishness, they caution that the protocol cannot YOLO (You Only Live Once) into ETH without incurring risk. The number of ETH may go up, but it can also go down, according to Relwyn."
+    },
+    {
+        "title": "Uniswap proposal to launch on Polygon zkEVM is set to pass - Cointelegraph",
+        "summary": "  Uniswap proposal to launch on Polygon zkEVM set to pass with over 42 million votes in favor. The integration will provide validation and fast finality for off-chain transactions and solidify Uniswap's place as the number one DEX. Polygon's zkEVM uses zero-knowledge proofs to inherit Ethereum's security, minimizing risks. The proposal has already reached the 40 million vote threshold needed for passage."
+    },
+    {
+        "title": "Liquid Staking Platform Ether.Fi Deposits Surge Ahead Of Launch - The Defiant - DeFi News",
+        "summary": "  Ether.Fi, a non-custodial liquid staking platform, has seen a surge in deposits ahead of its launch on the Ethereum mainnet on March 4. As of Friday, over 14,000 wallets have deposited ETH in the protocol's \"early adopter\" smart contract, with deposits picking up since Ethereum's developers upgraded the blockchain to allow for the withdrawal of staked ETH. The platform promises to offer truly decentralized staking, with users retaining custody of their Ether by generating mnemonic withdrawal credentials and validator keys. Despite facing fierce competition in the $19B staking industry, Ether.Fi has closed a $5M funding round and plans to take a snapshot of its users as of April 30, awarding bonus points to early depositors."
+    },
+    {
+        "title": "Big Eyes Coin, Ethereum, and Bitcoin: Is This the Bull Market Investors Have Been Waiting for? - Analytics Insight",
+        "summary": "  Big Eyes Coin, Ethereum, and Bitcoin are seeing a surge in prices, leading to speculation of a potential bull market. Big Eyes Coin has seen a 390% increase in value since its early presale stages, with a bonus code available for extra returns. Bitcoin's price has been rising due to its relationship with gold and silver, and it may be a good opportunity to invest for the long term. Ethereum has broken through a resistance level barrier and is trading above $1,910, an encouraging sign for investors. The bull market presents a good opportunity for investors to capitalize on the rising prices of crypto coins and positive market sentiment, with Big Eyes Coin being considered as a potential addition to a portfolio."
+    },
+    {
+        "title": "A Beginner\u2019s Guide to EIP-5725: Transferable Vesting NFTs - Ethereum World News",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEIP-5725 is a new standard for NFTs that allows for transferable vesting tokens, which can be bought or sold on a secondary market. This standard is an extension of the ERC-721 token and provides basic functionality for creating vesting NFTs, claiming the tokens, and reading vesting curve properties.\n\nEIP-5725 allows projects to create custom NFT art, novel vesting curves, and aggregate, holistic views of vesting tokens and properties. ApeSwap has already used this standard to create a product called ApeSwap Bonds, which allows projects to create transferable NFTs that users can purchase with liquidity provider tokens.\n\nUsers should educate themselves on EIP-5725 to take advantage of the opportunities it creates, such as transferable vesting tokens and custom NFT art. The article encourages users to learn more about ApeSwap Bonds and to reach out to ApeSwap if they have a favorite crypto project that might be a good fit. Additionally, users and project contributors are"
+    },
+    {
+        "title": "SA crypto exchanges upbeat after R543bn Ethereum upgrade - ITWeb",
+        "summary": "  Sure, here is a summary of the article in under 256 tokens:\n\nSouth African crypto exchanges are optimistic about the recent upgrade of Ethereum, which unlocked over $30 billion in digital tokens. The upgrade, known as the \"Shanghai\" merge, allows stakers to unstake funds that were locked since the switch to a proof-of-stake consensus mechanism in December 2020. The event has given investors access to more than $30 billion in digital tokens, and exchanges are seeing a small uptick in Ethereum trading volumes. However, some exchanges are taking a cautious approach, as the market sentiment is still uncertain."
+    },
+    {
+        "title": "Bull run events and crypto ATH - The Cryptonomist",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nCrypto bull runs and ATHs: Three major bull runs have occurred in the past, with the first one happening in 2013 and the latest one in 2021. Each bull run has resulted in the cryptocurrency reaching its ATH.\n\nBulls and bears: Investors who buy into the market and drive up prices are called bulls, while those who sell and drive down prices are called bears.\n\nHalving: The halving of the block reward in Bitcoin occurs every four years, which can lead to a bull run.\n\nATH: The ATH (All-Time-High) refers to the highest price of all time for a particular cryptocurrency.\n\nNext bull run: No one knows when the next bull run will occur, but it could happen after Bitcoin's next halving.\n\nInfluence of central banks: The prices of cryptocurrencies can be influenced by the monetary policies of central banks, such as the US Federal Reserve."
+    }
+]

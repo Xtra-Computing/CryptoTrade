@@ -1,0 +1,34 @@
+[
+    {
+        "title": "StarkWare to Open Source Its Ethereum Scaling System - CoinDesk",
+        "summary": "  StarkWare, a scaling system for Ethereum, will open source its technology to accelerate decentralized development and mass adoption of self-custody solutions. Co-founder Eli Ben-Sasson believes that providing infrastructure and making it accessible will catalyze devs to build, leading to faster onboarding of people to manage their own funds."
+    },
+    {
+        "title": "Israel's Ethereum scaling tool Starknet Prover will be made open source - The Jerusalem Post",
+        "summary": "  Israel's StarkWare is making its Ethereum scaling tool, Starknet Prover, open source. The tool uses Zero Knowledge Proof technology to enable efficient and secure verification of transactions without revealing sensitive information. This can help scale Ethereum by reducing the number of transactions that need to be stored and processed, allowing the network to handle more transactions per second. The announcement was made at the StarkWare Sessions 2023 event in Tel Aviv."
+    },
+    {
+        "title": "StarkWare to Open Source Its Zero Knowledge Tech for Scaling Ethereum - Decrypt",
+        "summary": "  StarkWare, a leading Ethereum scaling solutions provider, has announced plans to open-source its zero-knowledge technology, STARK Prover, under an Apache 2.0 license. This move aims to make the technology more accessible to developers and promote collaboration within the community. StarkWare's president, Eli Ben-Sasson, believes that this will help achieve faster and cheaper transactions on Ethereum, and ultimately lead to mass onboarding to self-custody solutions. The company has already open-sourced several elements of its technology, including the native smart contract language for StarkNet, Papyrus Full Node, and the StarkNet Sequencer."
+    },
+    {
+        "title": "Bitcoin, Ethereum and select altcoins set to resume rally despite February slump - Cointelegraph",
+        "summary": "  Bitcoin, Ethereum, and select altcoins may resume their rally despite a February slump, according to Cointelegraph. The article highlights the current market sentiment and provides an analysis of various cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), OKB (OKB), Algorand (ALGO), and Theta Network (THETA).\n\nKey takeaways from the article include:\n\n1. Bitcoin: The price has been correcting since hitting $24,255 on February 2, indicating profit booking by short-term traders. The support zone between $22,800 and $22,292 is nearby, and the 20-day exponential moving average ($22,436) is located within this zone.\n2. Ethereum: Ether (ETH) has been trading near the $1,680 resistance for several days, and the upsloping 20-day EMA indicates that buyers are in control. However, the negative divergence on the RSI suggests that the bulls may be losing their grip"
+    },
+    {
+        "title": "StarkWare to Open Source Its Ethereum Scaling Solution - CryptoPotato",
+        "summary": "  StarkWare, a scaling solution for Ethereum, will open-source its Zero-Knowledge (ZK) software, marking a significant moment for Ethereum scaling and cryptography. This move will make STARK technology available as a public good, benefiting the wider cryptography community."
+    },
+    {
+        "title": "Liquid Staking Derivatives On Ethereum - Altcoin Buzz",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nLiquid staking derivatives (LSDs) on Ethereum are gaining traction, with Lido Finance leading the market.\n\n* Lido's stETH token accounts for 29% of all staked ETH.\n* Coinbase launched its LSD in August 2022, with 7% market share.\n* Rocket Pool is the most decentralized option, with 2% of staked ETH.\n* Frax offers the highest yield, at around 8%, through its dual token design.\n\nThe article concludes that Lido's dominance could jeopardize Ethereum's decentralization, while Coinbase's centralized approach has limited on-chain liquidity. Rocket Pool and Frax offer more decentralized options, but their commission rates differ."
+    },
+    {
+        "title": "Visa's crypto strategy targets stablecoin settlements - Cointelegraph",
+        "summary": "  Visa is exploring the use of blockchain technology to enable faster and more secure settlements of digital assets, including stablecoins. The company is investing in building \"muscle memory\" for converting digital assets into fiat currencies on its platform, with the goal of moving money faster than the current Swift system allows. Visa has been testing the use of stablecoins for settlements and sees potential for these assets to play a meaningful role in the payments space. The company's former CEO, Al Kelly, also discussed the potential of central bank digital currencies and private stablecoins at Visa's annual shareholder meeting."
+    },
+    {
+        "title": "The Three Cryptocurrencies To Make You A Crypto Millionaire: Bitcoin, Ethereum And Big Eyes Coin - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nInvestors are turning to cryptocurrencies to diversify their portfolios due to their potential for large profits at relatively low risk. Bitcoin, Ethereum, and meme tokens like Big Eyes Coin are gaining popularity. Ethereum offers a decentralized platform for creating blockchain applications, while Bitcoin has long-term development potential as a store of value. Big Eyes Coin is a new meme token that promotes ocean conservation and offers a 200% bonus for purchases made before February 3rd. Now is a good time to invest in these cryptocurrencies as their value is increasing. Conduct thorough research before buying."
+    }
+]

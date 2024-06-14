@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "title": "Explaining Ethereum's 'Risk Free' Rate of Return - CoinDesk",
+        "summary": "  In a recent article, CoinDesk explores the concept of \"staking\" in the context of Ethereum and its potential to offer a \"risk-free\" rate of return. Staking refers to the process of holding or \"staking\" a certain amount of cryptocurrency in a special wallet or account to help maintain the network and validate transactions. The article suggests that staking may become an expectation for cryptocurrencies, similar to the way dividend-paying stocks work. This could help reduce the perception of crypto as being untethered from reality and increase its connection to traditional investment strategies. The article also notes that staking offers a way for cryptocurrencies to demonstrate intrinsic value, as holders of the currency can earn a return on their investment by participating in the network's maintenance."
+    },
+    {
+        "id": 1,
+        "title": "These Problems Need to be Solved to Fix Ethereum\u2019s Centralization Issues: Vitalik Buterin - CryptoPotato",
+        "summary": "  Ethereum co-founder Vitalik Buterin has identified several issues that need to be addressed to fix centralization problems on the leading smart contract blockchain. These include reducing the cost of running nodes and making it easier for people to run nodes without expensive hardware. Buterin also outlined other steps that can be taken to enhance decentralization, such as easing documentation, eliminating barriers to distributed staking, and making staking more secure and convenient. However, he noted that fixing decentralization issues will likely take ten to twenty years. Additionally, Buterin emphasized the importance of achieving higher levels of scalability, which is currently the most pressing concern for the Ethereum network."
+    },
+    {
+        "id": 2,
+        "title": "Lido dominates on Ethereum, but struggles on Solana. Why? - Blockworks",
+        "summary": "  Lido dominates liquid staking on Ethereum due to its history of security and \"Lindy effect,\" making it difficult for competitors to unseat it. However, Solana's liquid staking game is less established, with fewer network effects and lower DeFi traffic, making it more fragmented and open to competition. While some up-and-comers may attempt to compete in yield, it's unclear if they can match Lido's brand, security, and Lindy effect. Mike Ippolito, associate at Reverie, notes that Lido is well-positioned on Ethereum but less certain on Solana, where more competition is possible."
+    },
+    {
+        "id": 5,
+        "title": "What Is Ethereum Sharding? A Beginner's Guide - Unchained - Unchained",
+        "summary": "  Ethereum sharding is a scaling solution aimed at improving the network's capacity and transaction speed. It works by dividing the network into smaller, interconnected networks called \"shards,\" each processing its own transactions. This reduces the load on individual nodes and increases the network's throughput, while also decentralizing the network. Sharding offers benefits such as increased efficiency, participation, and security, but also presents challenges such as attack vulnerabilities, centralization concerns, and smart contract compatibility issues. The successful implementation of sharding relies on the Ethereum developer community identifying and solving these challenges. If successful, sharding could help hit 100,000 transactions per second and open up new use cases for Ethereum."
+    },
+    {
+        "id": 6,
+        "title": "Can Ethereum Reach $3,000? - The Motley Fool",
+        "summary": "  Ethereum (ETH) has gained 37% this year despite a recent decline, with three key factors supporting its potential to reach $3,000:\n\n1. Market leadership: Ethereum remains the leader in non-fungible tokens (NFTs) and decentralized finance (DeFi), accounting for 57% of total value locked in DeFi.\n2. Strategic plan: Ethereum's post-Merge road map outlines five stages of development, including boosting processing speeds to 100,000 transactions per second, which could make it a world-class payments network.\n3. Regulatory clarity: While regulatory risks persist, Ethereum has remained relatively unscathed, and its proof-of-stake model may offer greater regulatory clarity than other blockchains.\n\nIf Ethereum can maintain its market leadership, deliver on its strategic plan, and avoid regulatory issues, it has the potential to reach $3,000."
+    },
+    {
+        "id": 8,
+        "title": "Vitalik Buterin on fix for Ethereum centralization: Make running nodes easier - Cointelegraph",
+        "summary": "  Vitalik Buterin highlights the issue of centralization in the Ethereum network, particularly in the running of nodes. Currently, most nodes are run through centralized web providers like Amazon Web Services, which can leave the network vulnerable to a single point of failure. Buterin suggests making the running of nodes cheaper and easier to address this issue. He highlights the concept of statelessness, which involves removing the reliance on centralized service providers to verify activity on the network. While statelessness is a key component of the Ethereum roadmap, Buterin admits that addressing these highly technical concerns may take a long time, possibly 10-20 years. Additionally, he suggests that making documentation easier, lowering barriers to distributed staking, ensuring staking security, and improving convenience for staking Ether are also important steps towards decreasing Ethereum centralization. Finally, Buterin emphasizes the need for higher levels of scalability, with zero-knowledge rollups being a key tool in achieving this goal."
+    },
+    {
+        "id": 10,
+        "title": "Future Ethereum Upgrades Could Allow Full Nodes to Run on Mobile Phones: Vitalik Buterin - Decrypt",
+        "summary": "  Future Ethereum upgrades could allow full nodes to run on mobile devices, according to co-founder Vitalik Buterin. This would help decentralize the network and improve scalability. Currently, full nodes require significant hardware specifications, leading to centralization. Ethereum's roadmap includes \"stateless clients\" and \"Verkle Trees\" to reduce hardware requirements, but implementation may take time. Buterin also addressed other centralization concerns, including the need for a more widespread distribution of staked ETH and making documentation easier for developers and users. Scalability remains the most pressing issue, with progress being made through rollup solutions, including zero-knowledge proofs."
+    },
+    {
+        "id": 11,
+        "title": "Ethereum bears grow more confident as futures market sees increased sell-off - AMBCrypto News",
+        "summary": "  Ethereum (ETH) bears are gaining confidence in the futures market as the taker buy-sell ratio has plunged to its lowest level this year. The ratio measures the volume of buy and sell orders in the futures market and a value less than 1 indicates more sell orders. The analyst Greatest_Trader said that the consistent behavior underscores the dominant bearish sentiment among futures traders. Despite this, market participants have continued to \"long\" ETH, with the open interest at its lowest mark this year. However, the fall in open interest could be due to cyclical factors such as summer doldrums. Funding rates across leading cryptocurrency exchanges have been significantly positive, suggesting that long positions continue to outpace short positions."
+    },
+    {
+        "id": 12,
+        "title": "Binance Completes Travala.com AVA Token Swap to Ethereum ERC20 - Blockchain.News",
+        "summary": "  Binance has completed the swap and rebranding of Travala.com's native token, AVA, to the Ethereum ERC20 network. The new token, now referred to as AVAOLD, can be deposited and withdrawn on Binance. Users can swap their old AVA tokens for the new ERC20-based AVA tokens at a 1:1 ratio using the convert function on Binance. The move to the Ethereum network could potentially offer AVA greater interoperability and adoption rates. Binance stated in their official release, \"Deposits and withdrawals for the new AVA (ERC20) tokens are now open.\""
+    },
+    {
+        "id": 13,
+        "title": "Vitalik Buterin Proposes Solution to Ethereum\u2019s Node Centralization - Coinpedia Fintech News",
+        "summary": "  Vitalik Buterin proposed a solution to Ethereum's node centralization issue, called stateless clients, which aims to reduce resource requirements and encourage wider individual participation. Buterin outlined a phased rollout of this solution, which could take years or decades to complete. He also emphasized the need for improved documentation, simplified staking procedures, and robust security mechanisms to create a more inclusive and resilient network. Additionally, Buterin highlighted scalability as Ethereum's most pressing issue and mentioned zero-knowledge rollups as a potential solution."
+    },
+    {
+        "id": 15,
+        "title": "Ether price risks losing the $1.6K support as multiple ETH price metrics decline - Cointelegraph",
+        "summary": "  Ether's price may drop below $1,600 as investors lose confidence in the cryptocurrency's ability to sustain its current level. Multiple metrics, including the number of Ethereum addresses with a minimum $1,000 deposit, average transaction fees, and DApp activity, are declining, indicating a stagnation in demand. Competitors like Solana are gaining traction, and Ethereum's high transaction fees may be limiting the number of active users. The likelihood of Ether's price dipping below $1,600 has increased due to the prevailing bearish sentiment in the cryptocurrency market."
+    },
+    {
+        "id": 16,
+        "title": "Crypto Whale Abruptly Crashes Price of Ethereum-Based Altcoin Swapping to Stablecoins: On-Chain Data - The Daily Hodl",
+        "summary": "  A deep-pocketed investor triggered a sudden price collapse of an Ethereum-based altcoin by swapping their token holdings to stablecoins, according to on-chain data. The investor sold off their large holdings of the altcoin's native token, causing the price to drop by 25%. The investor then bought a large amount of Ethereum on the crypto exchange Binance, helping the cryptocurrency form a bottom. Additionally, an investment fund associated with a decentralized exchange aggregator bought over 3,000 Ethereum at a price of $1,625."
+    },
+    {
+        "id": 18,
+        "title": "\u2018Ethereum Supreme Court\u2019 Mooted by Blockchain Executive as Alternative to \u2018Code Is Law\u2019 - CoinDesk",
+        "summary": "  Ethereum executive proposes \"Supreme Court\" for blockchain security, as bugs and hacks threaten user funds on layer 2 apps like zkSync. Gluchowski's idea aims to provide an alternative to \"code is law\" and address growing security concerns in the Ethereum ecosystem."
+    },
+    {
+        "id": 25,
+        "title": "Payments Giant Visa Selects Ethereum Rival Solana (SOL) for Stablecoin Settlement Expansion - The Daily Hodl",
+        "summary": "  Visa, a leading payments giant, has selected Solana (SOL) as its new platform for stablecoin settlement expansion. After a successful pilot with Crypto.com, Visa is launching a new cross-border money system using Circle's USDC on Solana. Solana's high-speed, high-throughput infrastructure made it the prime candidate to meet Visa's clients' demand for fast and low-cost stablecoin transactions. This partnership makes Visa one of the first major payments companies to directly utilize Solana for live settlement payments. SOL is up nearly 6% since the announcement. Solana co-founder Anatoly Yakovenko reacted with excitement, stating that Visa's endorsement is a significant boost for the Solana network."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum: Of staking, Lido\u2019s dominance, and rising concerns - AMBCrypto News",
+        "summary": "  Ethereum's staking activity has seen a significant rise, with over 28 million ETH staked at press time, and Lido's share of the staking market has expanded, leading to concerns about centralization. Lido commands 32.4% of the total ETH staked, amounting to over 8 million ETH. This dominance has sparked concerns about Ethereum being viewed as a centralized platform, potentially damaging its reputation among corporations and governments. Meanwhile, LDO is trading at approximately $1.5, experiencing a modest price increase."
+    },
+    {
+        "id": 28,
+        "title": "Visa Expands Stablecoin Settlement Capabilities to Merchant Acquirers - Business Wire",
+        "summary": "  Visa is expanding its stablecoin settlement capabilities to merchant acquirers Worldpay and Nuvei, in addition to the issuer partners it previously worked with. This allows for faster and more efficient settlement of cross-border payments, with the use of the Solana blockchain network. This partnership aims to provide more flexibility and choices for merchants in receiving funds, and is part of Visa's broader effort to innovate and modernize cross-border money movement."
+    },
+    {
+        "id": 32,
+        "title": "Base, the new Layer 2 incubated by Coinbase, joins the Ledger Live ecosystem! - Ledger",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBase, a new Layer 2 network incubated by Coinbase, has joined the Ledger Live ecosystem. Users can now create Base accounts in Ledger Live Desktop and Mobile Android, and send/receive ETH with private keys stored securely on Ledger devices. Base aims to onboard the next billion users into cryptocurrencies by making blockchain technology more accessible. It's a platform for Coinbase's onchain products and an open ecosystem for developers to build their own DApps. No network token is planned, and developers can build on Ledger Live with their coins."
+    },
+    {
+        "id": 33,
+        "title": "Bitcoin & Ethereum Influenced by Thick Cloud Cover; BTC/USD & ETH/USD Price Setups - DailyFX",
+        "summary": "  Bitcoin and Ethereum are facing resistance due to thick cloud cover, according to DailyFX. BTC/USD and ETH/USD are flirting with major support levels, and the outlook is uncertain. The key levels to watch are:\n\n* BTC/USD: 24750 (support), 19550 (support), 1620 (support)\n* ETH/USD: 1620 (support), 1370 (support), 880 (support)\n\nThe weekly charts show that both Bitcoin and Ethereum are under the influence of bearish Ichimoku cloud cover, which could lead to a deeper retracement if support levels are broken. However, the daily charts indicate that there is still hope for a bullish recovery, as both assets have been able to hold onto their higher-highs-higher-lows sequences since late 2022."
+    },
+    {
+        "id": 35,
+        "title": "Mammoth 300K ETH Transfer to Coinbase Stirs Market Uncertainty - DailyCoin",
+        "summary": "  A large transfer of 300,000 ETH (approximately $488 million) was made to Coinbase from two wallets, sparking uncertainty in the market. The transfers are among the largest of 2023 and have led to the most significant on-chain transaction spike since June 13. However, ETH's price has yet to react to the development, remaining steady at $1,637. The reason for the transfers remains unclear, and some users feared a selloff due to exchange transfers typically indicating an interest to sell."
+    },
+    {
+        "id": 36,
+        "title": "Major shareholders of Grayscale Bitcoin and Ethereum trusts urge others to join fight - Cointelegraph",
+        "summary": "  Major shareholders of Grayscale Bitcoin and Ethereum trusts are urging others to join a lawsuit against Grayscale Investments, LLC. The shareholders, including Alameda Research Ltd., UTXO Management, and Balch and Bingham LLP, are seeking to recover lost value and demand justice for Grayscale's alleged violations of trust agreements. The lawsuit aims to recoup excessive fees, reduce fees to a reasonable rate, and open redemptions to allow shares to track the trusts' asset values. Grayscale has argued that the trusts' governing documents require the litigation to be brought collectively by shareholders owning at least 10% of the shares of each trust. The shareholders are encouraging current shareholders to provide their information to participate in the litigation by September 6, 2023, and are offering to represent eligible shareholders for zero out-of-pocket cost."
+    },
+    {
+        "id": 37,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: Possible moves as BTC goes back to consolidation mode - FXStreet",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin (BTC) price is consolidating after recent gains, with a possible move north or south. The Relative Strength Index (RSI) and Awesome Oscillator (AO) suggest a bearish outlook, with the possibility of a dip to $24,995 or $21,711.\n\nEthereum (ETH) price is testing $1,630 support level, with a possible breakdown to $1,522. Momentum indicators suggest a downtrend, but late or sidelined investors could salvage the price.\n\nRipple (XRP) price is nurturing a uptrend, with a possible move above $0.5667 and $0.6840 resistance levels. The RSI and AO suggest a bullish outlook, but early profit takers could sell the token and expose it to a possible slump to $0.4191."
+    },
+    {
+        "id": 38,
+        "title": "Ethereum 2.0 disappointment spurs interest in VC Spectra's presale - crypto.news",
+        "summary": "  Ethereum 2.0 disappointment sparks interest in VC Spectra's presale. ETH prices have failed to reach new highs after the Merge upgrade in September 2022, leading to a depressed market. Meanwhile, VC Spectra's presale is ongoing and has seen significant gains, with early adopters up 220%. The platform aims to democratize crypto investing and provide transparency, making it suitable for both beginners and experienced traders. SPCT holders are entitled to quarterly dividends during the presale, and experts predict the token to reach $0.08 before listing. Learn more about the presale here: https://invest.vcspectra.io/login."
+    },
+    {
+        "id": 40,
+        "title": "Buy Ether Instead of Bitcoin to Ride ETF Momentum, Crypto Research Firm Says - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nCrypto research firm QCP Capital advises buying Ether instead of Bitcoin due to potential ETF momentum. September is historically a difficult month for Bitcoin, with negative returns every year since 2016. QCP forecasts Bitcoin could drop to $23,000 by October."
+    },
+    {
+        "id": 42,
+        "title": "Crypto Price Today: Bitcoin falls below $25,900; Ethereum holds at $1,600 level - The Economic Times",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin fell 1.09% to $25,693, while Ethereum declined 0.99% to $1,621. Other top crypto tokens also traded lower, with Litecoin, Solana, and Shiba Inu falling over 2-3%. The global cryptocurrency market cap declined 0.79% to $1.04 trillion. Bitcoin's dominance is currently 48.27%. Experts suggest that the price movement may be due to uncertainty around a Bitcoin spot ETF in the US."
+    },
+    {
+        "id": 47,
+        "title": "Vitalik Buterin Sells MKR Tokens as MakerDAO Co-Founder Pushes for Solana-based \u2018NewChain\u2019 - Decrypt",
+        "summary": "  Vitalik Buterin has sold around $580,000 worth of MakerDAO's MKR tokens after the project's co-founder Rune Christensen advocated launching a new chain on a Solana-based platform. Buterin is dissatisfied with Christensen's decision and has encouraged the Reflexer Finance community to expand their collateral options to liquidity staking derivatives on Ethereum. The price of Reflexer Finance's governance token surged after Vitalik's endorsement, while MakerDAO's MKR token is trading flat."
+    },
+    {
+        "id": 48,
+        "title": "Not Dogecoin, Shiba Inu But This 'Ethereum Rival' Is The 'Most Loved Altcoin' Among Large Investors - Eme - Benzinga",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nLarge investors are pouring money into Solana (SOL), an Ethereum rival, despite a recent outflow of $342 million from institutional investors in cryptocurrencies. According to CoinShares, Solana has captured the attention and favor of large entities, with approximately $700,000 invested in the cryptocurrency through various providers in the past week. This makes Solana the most loved altcoin among investors, with Dogecoin and Shiba Inu trailing behind. Other altcoins, such as Polygon and Ethereum, experienced outflows from investment products in the past week."
+    },
+    {
+        "id": 51,
+        "title": "Vitalik Buterin sells his cryptos: ETH goes backwards! - Cointribune EN",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has sold a significant portion of his Ether (ETH) tokens, causing a drop in the cryptocurrency's price. He has transferred 31,000 ETH to various addresses, worth around $50 million, without providing an explanation. The crypto community is speculating about the reasons for the transfer, with some suggesting it may be for portfolio diversification, while others believe he may be developing a new project or preparing for future financing. Some analysts also suggest that Buterin's actions may be intended to stabilize the cryptocurrency market."
+    }
+]

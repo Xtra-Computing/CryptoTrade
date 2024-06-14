@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Ethereum Whales Buy Up Over 200,000 ETH Within 24 Hours As Attractive Prices Prevail - ZyCrypto",
+        "summary": "  Ethereum whales have purchased over 200,000 ETH in the past 24 hours, despite the ongoing bear market. This significant accumulation of ETH is worth $425 million. The purchases were made amidst a decline in price and a surge in selling activity, indicating that large investors are taking advantage of the current discounted prices. The development contrasts with previous bullish sentiment observed in late 2022, with large Ethereum holders exhibiting bearish behavior since April. Analysts attribute the continued weakness in Ether's price to dominant bearish sentiment among futures traders, as indicated by a declining 30-day moving average of the taker buy-sell ratio. For Ethereum to embark on a new bullish trajectory, there needs to be a shift in behavior among futures traders, characterized by more aggressive buying."
+    },
+    {
+        "id": 3,
+        "title": "Who is Vitalik Buterin, Ethereum Creator? - Decrypt",
+        "summary": "  Vitalik Buterin is the creator of Ethereum, a popular blockchain platform that has been instrumental in powering decentralized applications and finance. Born in Russia and raised in Canada, Buterin was introduced to cryptocurrency in his teenage years and quickly became involved in the space. He co-founded Bitcoin Magazine and wrote articles on cryptocurrency before traveling the world to connect with Bitcoin developers. Disagreeing with the direction of World of Warcraft, a massively multiplayer online role-playing game, Buterin turned to cryptocurrency.\n\nButerin's interests in broadening Bitcoin's scope led him to create Ethereum, a Turing-complete programming language that enables the creation of decentralized applications, smart contracts, and decentralized autonomous organizations. He received a grant from Peter Thiel's Fellowship in 2014, allowing him to fully focus on developing the new ecosystem. Ethereum launched in July 2015, and since then, it has been responsible for settling trillions of dollars worth of transactions each year, eclipsing"
+    },
+    {
+        "id": 4,
+        "title": "Ethereum's Buterin co-authors proposal to balance blockchain privacy, regulation - Blockworks",
+        "summary": "  Ethereum co-founder Vitalik Buterin has co-authored a research paper proposing a solution to balance blockchain privacy with government regulations. The paper, titled \"Privacy Pools,\" uses zero-knowledge technology and smart contracts to enable users to generate new withdrawal addresses that can't be linked to previous transactions. Users can also choose their own privacy settings, including excluding suspicious users from transactions. The authors argue that their proposal is flexible and can adapt to various regulatory requirements, with the goal of finding cooperative solutions between lawmakers, regulators, and practitioners."
+    },
+    {
+        "id": 8,
+        "title": "Ethereum ERC-4337 Account Abstraction Grant Round Recipients Announced - Blockchain.News",
+        "summary": "  The Ethereum Foundation has awarded grants to 18 teams in its ERC-4337 Account Abstraction grant round, supporting projects that promote modularization, diverse blockchain applications, and enhance the Ethereum network's capabilities. Notable recipients include ZeroDev Kernel, Skandha Bundler, and MynaWallet, which integrates with the Japanese Government-Issued ID Card. These projects aim to make crypto more accessible and user-friendly, with potential impact on millions of users worldwide. Other grant recipients include Blocto, Silius, and others, each bringing unique perspectives and solutions to the Ethereum ecosystem."
+    },
+    {
+        "id": 10,
+        "title": "Crypto whale loses over $24M staked Ethereum to phishing, as 'verified' X scams surge - CryptoSlate",
+        "summary": "  A crypto whale lost over $24M worth of staked Ethereum to phishing scammers on Sept. 6. On-chain data shows the whale signed \"increaseAllowance\" transactions, approving the scammers to access their funds. The stolen funds were transferred to several addresses, including 0x693b72 and 0x4c10a4, and some were relocated to Fixed Float exchange. This incident highlights the ongoing threat of phishing scams in the crypto space, with a 40% year-on-year increase in crypto-related phishing scams, according to Kaspersky cybersecurity experts."
+    },
+    {
+        "id": 15,
+        "title": "MetaMask \u2018Sell\u2019 Feature Enables Ethereum Users To Cash Out - The Defiant - DeFi News",
+        "summary": "  MetaMask has launched a new feature allowing users to sell their Ethereum and receive payments in USD, EUR, or GBP directly in their bank or PayPal accounts. Early users have praised the speedy transactions but decry high fees, with some paying up to 9% in transaction costs. The feature is available in the US, UK, and parts of the EU, and the company plans to extend support to Layer-2 blockchains in the future."
+    },
+    {
+        "id": 16,
+        "title": "Crypto whale loses $24M in staked Ethereum to phishing attack - Cointelegraph",
+        "summary": "  A significant phishing attack has occurred in the crypto space, with a whale losing $24 million in staked Ethereum (ETH) on the liquid staking provider Rocket Pool. The attacker(s) carried out two transactions, stealing 9,579 stETH and 4,851 rETH, worth $15.5 million and $8.5 million, respectively. The stolen assets were then swapped for 13,785 ETH and 1.64 million DAI. Most of the remaining funds were transferred to three addresses. The attack highlights the risks associated with approving ERC-20 allowances, as the victim may have inadvertently granted access to their tokens to the scammer. This incident comes shortly after several Ethereum liquid staking providers implemented a self-limit rule to prevent any one entity from owning more than 22% of the staking market."
+    },
+    {
+        "id": 18,
+        "title": "'NFTs will win on Bitcoin' \u2014 OnChainMonkey NFT collection ditches Ethereum - Cointelegraph",
+        "summary": "  OnChainMonkey NFT collection is migrating from Ethereum to Bitcoin due to security concerns and the belief that high-value NFTs will thrive on Bitcoin. The migration will take several months and cost over $1 million. While Ethereum continues to dominate the NFT market, Bitcoin Ordinals transaction volumes have plunged 98% since May. Despite this, the CEO of Metagood, the company behind OnChainMonkey, is not concerned and believes that a strong Bitcoin-native NFT ecosystem will develop in time. The OnChainMonkey NFTs currently trade at an average floor price of 1.10 Ether and have over 20,550 ETH in transaction volume since launching on OpenSea in September 2021."
+    },
+    {
+        "id": 19,
+        "title": "VanEck, ARK filings officially start clock for spot Ethereum ETFs: Analyst - Cointelegraph",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nVanEck and ARK have filed 19b-4 forms with the SEC to launch spot Ethereum ETFs, starting the clock for a decision. The SEC has 90 days to review the filings, and the deadline is estimated to be around May 23, 2024. This is the first spot Ethereum ETF race, and more filings are expected in the coming days. The SEC has previously delayed spot Bitcoin ETF decisions, but the regulator has signaled its intention to approve Ethereum futures investment products."
+    },
+    {
+        "id": 20,
+        "title": "Casa wallet launches Ethereum vault relay service for increased user privacy - Cointelegraph",
+        "summary": "  Casa, a cryptocurrency self-custody platform, has launched a new service that allows users to transact with their Ethereum vaults via a relay for added privacy. The service, called the ETH Pay Wallet Relay, allows users to use an alternative single-signature wallet as a relay to transact from their vault without associating their Ethereum addresses with Casa on-chain. This feature was developed before the launch of Casa's ETH custody vault and offers users an opportunity for customization. However, it's important to note that the service does not afford anonymity and all on-chain activity will still be viewable."
+    },
+    {
+        "id": 21,
+        "title": "Cathie Wood's Ark Invest joins VanEck in race for spot Ethereum ETF - DLNews",
+        "summary": "  Ark Invest and VanEck have officially filed applications for spot Ethereum exchange-traded funds (ETFs) with the Securities and Exchange Commission (SEC). The applications come after several Ethereum futures ETF applications were filed in August. The SEC has 240 days to respond to the applications. The ETFs would trade on the Cboe BZX Exchange and aim to increase access and exposure to crypto-backed assets beyond Bitcoin. The news follows a courtroom win for Grayscale, which could lead to the approval of a spot Bitcoin ETF. Bitcoin was flat in the past 24 hours, while Ethereum slipped 0.2%."
+    },
+    {
+        "id": 22,
+        "title": "Ethereum Co-Founder Vitalik Buterin Explores Privacy Protocol Amid Tornado Cash Concerns - Cryptonews",
+        "summary": "  Ethereum co-founder Vitalik Buterin is collaborating on a research paper to develop a privacy protocol called Privacy Pools to address concerns around existing platforms like Tornado Cash, which have faced legal challenges. Privacy Pools utilizes zero-knowledge proofs to verify the legitimacy of user funds without revealing their entire transaction history. The goal is to establish a balance between privacy and regulatory requirements while filtering out unlawful transactions. Buterin also acknowledged the centralization of Ethereum full nodes on centralized platforms and hopes to make fully verified nodes accessible on a phone in the future."
+    },
+    {
+        "id": 24,
+        "title": "7 Notable Ethereum Investors You Should Be Aware Of - Blockchain Magazine",
+        "summary": "  Here are the 7 notable Ethereum investors mentioned in the article:\n\n1. Joseph Lubin - Co-founder of Ethereum and founder of ConsenSys, a software business specializing in dApps based on the Ethereum platform.\n2. Richard Sherman - Cornerback for the San Francisco 49ers and investor in Bitcoin, Ethereum, and LTC.\n3. The Winklevoss Brothers - Cameron and Tyler, who are known for their investments in Bitcoin and Ethereum.\n4. Vitalik Buterin - Creator of Ethereum and one of the highest net worth individuals in the cryptocurrency industry.\n5. Ashton Kutcher - Actor and investor in cryptocurrencies, including Ethereum.\n6. John Hoskinson - Co-founder of Ethereum and principal developer of Ethereum Classic and Cardano (ADA).\n7. Unknown - An unknown investor who is reportedly one of the biggest investors in Bitcoin and Ethereum, but their identity has not been disclosed."
+    },
+    {
+        "id": 25,
+        "title": "How Can You Use Ethereum To Generate Passive Income? - Blockchain Magazine",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum can be used to generate passive income through staking, hodling, electronic trading, and lending.\n\nStaking involves locking Ether on a Proof-of-Stake (PoS) blockchain to validate transactions and earn rewards.\n\nHodling is holding Ether for long-term financial objectives, betting its price will increase in the future.\n\nElectronic trading involves using automated bots to buy and sell Ether on cryptocurrency exchanges.\n\nLending involves lending Ether to borrowers at a high-interest rate, which can be accomplished through centralized or decentralized lending networks.\n\nLiquidity mining or yield farming involves lending Ether or other assets to liquidity pools on decentralized exchanges to receive rewards."
+    },
+    {
+        "id": 28,
+        "title": "Machine learning algorithm sets Ethereum price for September 30, 2023 - Finbold - Finance in Bold",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nMachine learning algorithm predicts Ethereum price drop to $1,611 by end of September. Analysis took into account recent crypto developments, including ARK's ETF application and technical indicators. ETH current price is $1,627 with support at $1,560 and resistance at $1,702. Technical gauges on TradingView are bearish, with a'sell' signal at 15. Machine learning predictions could prove correct, but investing is speculative and carries risk."
+    },
+    {
+        "id": 29,
+        "title": "Cathie Woods' ARK Files for First-Ever Spot Ethereum ETF - TipRanks.com - TipRanks",
+        "summary": "  Ark Invest, led by Cathie Woods, has filed for the first-ever spot Ethereum ETF with the SEC. The fund, Ark 21Shares Ethereum ETF, will be listed only in the American markets and will custody assets with Coinbase Global. This is the first attempt by a fund to list an Ether ETF, with earlier attempts at a Bitcoin ETF still awaiting regulatory approval. The SEC has concerns about fraud and manipulation in spot cryptocurrency ETFs, but a recent court ruling has prompted several funds to list other bitcoin-tracking ETFs. Ethereum is the second-largest cryptocurrency by market capitalization and has gained 35.6% year-to-date, despite a current price of around $1,636, representing a 66.7% discount from its all-time high."
+    },
+    {
+        "id": 33,
+        "title": "MetaMask Introduces Ethereum-to-Fiat Conversion Feature - The Crypto Basic",
+        "summary": "  MetaMask, a popular cryptocurrency wallet, has introduced a new feature allowing users to convert Ethereum (ETH) into fiat currency and transfer it to their bank accounts. This feature, called \"Sell,\" is currently available in the United States, United Kingdom, and select European regions. MetaMask plans to extend this feature to \"native gas tokens on layer two networks\" in upcoming developments. The platform has also formed strategic partnerships with crypto on-ramp providers, such as MoonPay, Sardine, Transak, and Wyre, to simplify the conversion process and cater to a diverse range of users, from individual retail traders to institutional investors."
+    },
+    {
+        "id": 34,
+        "title": "NFT Community OnChainMonkey Spends Over $1 Million USD to Migrate the Entire Digital Art Collection from ... - Business Wire",
+        "summary": "  Sure, here's a summary of the article in under 256 tokens:\n\nOnChainMonkey, a digital art collection, is migrating from Ethereum to Bitcoin, with a cost of over $1 million. The OCM DAO voted to financially subsidize the migration, with 99% of voters in favor. Metagood, the creators of OnChainMonkey, are covering the rest of the cost. This migration is significant as it involves the first 10,000 NFT collection inscribed on Bitcoin, with innovative features such as recursive inscriptions. The move reflects the OCM community's conviction in the potential of Bitcoin for digital assets."
+    },
+    {
+        "id": 35,
+        "title": "Ethereum: Is this the right time to stake ETH? - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum PoS staking has surged since the Shanghai Upgrade and Merge, with 26.5 million ETH staked as of September 6. This increase is attributed to the Shapella upgrade and the Merge, which provided avenue for withdrawals and increased staking activity. The number of validators has crossed 800,000, and liquid staking activity has also increased. However, stakers have realized mild losses in the last 365 days, but there could be an opportunity to increase deposits in case ETH's value rallies in the future."
+    },
+    {
+        "id": 36,
+        "title": "Ethereum Co-Founder\u2019s Privacy Pools: A Solution for Blockchain Compliance - CoinTrust",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum co-founder Vitalik Buterin has proposed a new concept called \"privacy pools\" to address privacy concerns on the blockchain. The system aims to distinguish between legal and illegal activities on the blockchain, while maintaining transaction data privacy. The proposal addresses limitations of existing solutions, such as Tornado Cash, which have faced challenges in separating criminal activity from legitimate transactions. The privacy pools mechanism ensures that transactions from legitimate sources are protected while exposing illegal activities. The innovation may help align with regulatory requirements and challenge the notion that privacy and compliance are incompatible."
+    },
+    {
+        "id": 37,
+        "title": "Binance POR: Ethereum holdings declined while Bitcoin and USDT steadied - crypto.news",
+        "summary": "  Binance's latest proof-of-reserves (POR) report reveals mixed trends in asset holdings. While Bitcoin and Tether deposits remained steady or slightly increased, Ethereum holdings decreased by 4.3%. Binance held 4.71 million ETH and 276,215 BTC in cold storage, with user deposits on the BNB Chain standing at 1.18 million ETH and 311,821 BTC. USDT holdings increased by 1%. The report highlights Binance's dedication to asset security and transparency, providing reassurance to its large user base amid regulatory pressure and market volatility."
+    },
+    {
+        "id": 38,
+        "title": "Vitalik Buterin introduces decentralized privacy pools for balancing crypto regulation and anonymity - CryptoSlate",
+        "summary": "  Vitalik Buterin introduces Privacy Pools, a new approach to balance privacy and regulatory compliance in cryptocurrencies. The system allows users to prove their withdrawals without revealing their complete transaction histories, incentivizing honest users to dissociate themselves from criminals. Buterin co-authored the paper with researchers from University of Basel and Swiss Federal Institute of Technology Zurich, cautioning against centralized parties overseeing access due to governance concerns. The paper represents Buterin's latest effort to promote constructive dialogue between crypto industry and regulators, while maintaining user privacy."
+    },
+    {
+        "id": 39,
+        "title": "Expert Says Demand Triggered Shiba Inu 46,000,000% Rise, Not Ethereum Founder 410T Burn - The Crypto Basic",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nExpert says demand triggered Shiba Inu's 46M% rise, not Ethereum founder's burn. Shibburn, a community-driven burn tracker, clarifies that Vitalik Buterin's burn of 410T SHIB did not directly impact the token's price in May 2021. The burn tracker emphasizes that the growing demand and interest in SHIB from the broader crypto community, combined with the fact that half of the token's supply was already under Buterin's control, contributed to the asset's extraordinary price appreciation. The article provides a CoinMarketCap chart that supports these claims, showing that SHIB had already increased by 29M% before Buterin's burn. The burn tracker also notes that while the burn may have had a minimal impact on the token's price, it is important to consider the overall demand and utility of the asset when evaluating its potential for growth."
+    },
+    {
+        "id": 40,
+        "title": "Vitalik Buterin Pushes for \u2018Privacy Pools\u2019 to Balance Anonymity With Regulatory Compliance - Decrypt",
+        "summary": "  Vitalik Buterin and co-authors propose \"Privacy Pools\" to balance anonymity and regulatory compliance. The protocol mixes transactions, generates zero-knowledge proofs for withdrawals, and introduces association set providers (ASPs) to maintain regulatory compliance. The authors address centralization concerns and seek legal expertise to ensure compliance across jurisdictions. The paper follows the sanctioning of Tornado Cash and the arrest of one of its co-founders by the US government."
+    },
+    {
+        "id": 41,
+        "title": "WisdomTree enables staking in physical ether ETP - ETF Strategy",
+        "summary": "  WisdomTree, a financial investment firm, has introduced staking in its physical ether ETP (exchange-traded product), allowing investors to earn rewards by holding ether tokens. The ETP is 100% backed by ether and is listed on several exchanges, including Deutsche B\u00f6rse Xetra, Euronext Amsterdam, and SIX Swiss Exchange. The staking return is expected to range between 4% and 8%. WisdomTree has implemented a multi-custodian model to provide greater liquidity for the underlying digital currency, and the ETP remains fully physically backed at all times. The product has an expense ratio of 0.95%, making it one of the cheapest in Europe for obtaining directly backed ether exposure."
+    },
+    {
+        "id": 43,
+        "title": "Lightscale launched Kroma mainnet, Ethereum Layer 2 - GlobeNewswire",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nLightscale launched Kroma mainnet, an Ethereum Layer 2 solution to scalability issues. Kroma uses optimistic rollup with ZK fault proof, which combines optimistic rollup and ZK proof for faster block finality. Kroma will mint its native token KRO in mid-2024, with tokenomics that incentivize active ecosystem expansion. 25% of KRO will be distributed to the WEMIX Foundation and community. Kroma will start as a game-centric chain, expanding to include DeFi, NFT, and more. Learn more at <https://kroma.network/>."
+    },
+    {
+        "id": 47,
+        "title": "Crypto Price Prediction Today for Bitcoin, Ethereum, XRP and Cardano - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto prices have been declining, with Bitcoin at $25,730, Ethereum at $1,630, XRP at $0.49, and Cardano at $0.25. These prices have been stable in the past 24 hours, but there is a possibility of a price drop to $20,000 for Bitcoin, $1,400 for Ethereum, $0.45 for XRP, and $0.20 for Cardano if a crypto crash occurs. The article provides price predictions for these cryptocurrencies for the short to medium term."
+    },
+    {
+        "id": 50,
+        "title": "Ethereum Price Prediction: ETH Records 5%+ Growth; Borroe Finance Generates Buzz Among Crypto Whales - Analytics Insight",
+        "summary": "  Ethereum price surges by 5% amid growing optimism in the crypto market. Borroe Finance, a new project, has gained attention with its innovative features and accessible pricing. The project's presale has already raised over $600,000 and is expected to make a significant impact in the crypto space. Experts suggest that Borroe Finance could be a top crypto investment for long-term gains."
+    },
+    {
+        "id": 52,
+        "title": "Ark Invest and 21Shares Applies for First Spot Ethereum ETF - CryptoDaily",
+        "summary": "  Ark Invest and 21Shares have filed an application with the SEC for the first spot Ethereum ETF in the US. The ETF, called the \"Ark 21Shares Ethereum ETF,\" would directly hold ether and be custodied by Coinbase. This application follows recent delays in approving spot ETFs, but the SEC has received previous filings for Ethereum futures ETFs, which are yet to be approved. Ark Invest and 21Shares have also proposed a futures-based Ethereum ETF, the ARK 21Shares Active Ethereum Futures ETF (ARKZ)."
+    },
+    {
+        "id": 55,
+        "title": "How Has the Boba Network Taken the Ethereum Ecosystem by Storm? - Cryptopolitan",
+        "summary": "  How Has the Boba Network Taken the Ethereum Ecosystem by Storm?\n\n* Boba Network is a game-changer in Ethereum\u2019s scalability journey, leveraging Optimistic rollup technology to reduce transaction fees and enhance smart contract capabilities.\n* Supported by Enya, a leading decentralized infrastructure solutions provider, Boba Network has been in operation since its mainnet launch in September 2021.\n* The network's architecture relies on sequencers, quick exit mechanisms, and a range of innovative features to enhance Ethereum's efficiency, security, and functionality.\n* Boba Network has attracted 39 initiatives, including OolongSwap, a native decentralized exchange (DEX), which has become a powerhouse within the ecosystem.\n* To foster growth and engagement, Boba Network has introduced the \"WAGMI\" incentive program, offering user-centric rewards linked to key performance indicators (KPIs).\n* The network competes with established Layer-2 solutions like Arbitrum and Optimism, while keeping an eye on emerging Z"
+    },
+    {
+        "id": 56,
+        "title": "ARK Invest is asking to issue a spot Ethereum ETF - The Cryptonomist",
+        "summary": "  ARK Invest, a US investment management company, has submitted a request to the SEC to issue a spot Ethereum ETF. If approved, it would be the first ETF directly collateralized by ETH and approved by the SEC. The ETF would be issued in partnership with 21Shares, a leading crypto ETF issuer. The approval of the ETF would provide a regulated investment product for institutional investors, allowing them to access the Ethereum market without custodying the cryptocurrency themselves. The ETF would also be available for use by those who do not want to enter the crypto market. However, the approval is not guaranteed, and the SEC has not yet approved ETFs directly collateralized by cryptocurrencies."
+    },
+    {
+        "id": 57,
+        "title": "New Cryptocurrency Releases, Listings & Presales Today - DORK LORD, PymeDAO, Ethereum Express - Inside Bitcoins",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nNew cryptocurrency listings include DORK LORD (DORKL), PymeDAO (PYME), Ethereum Express (ETE), and Wall Street Memes (WSM). These projects aim to offer innovative solutions in the web3 space, including memecoin, decentralized autonomous organization (DAO), and layer 1 network. The article highlights the key features and missions of each project, as well as their current market performance and listing status. It also warns investors to be cautious and prepared to lose their entire investment, as these are high-risk investments."
+    }
+]

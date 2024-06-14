@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Cryptocurrency Ethereum has slashed its energy use by 99.99 per cent - New Scientist",
+        "summary": "  Ethereum, the second-largest cryptocurrency, has successfully reduced its energy consumption by 99.99% through an experimental update called \"proof of stake.\" This update replaced the previous \"proof of work\" mechanism, which relied on powerful computer hardware to mine new currency and verify transactions. The new system, which was tested in September 2022, allows validators to lodge money with the network in exchange for the right to validate transactions and receive rewards. According to data from the Cambridge Centre for Alternative Finance, Ethereum's energy consumption dropped from 16.4 terrawatt hours in 2021 to just 6.6 gigawatt hours annually, a reduction of 99.99%. This is a significant improvement compared to its previous consumption, which was comparable to Switzerland's annual electricity consumption. However, experts say that a similar change in bitcoin, the largest digital currency, is unlikely due to its attachment to its current proof-of-work approach."
+    },
+    {
+        "title": "Ethereum Staking vs Traditional Investments - hackernoon.com",
+        "summary": "  Ethereum staking offers higher returns than traditional investments, with an average annual ROI of 6% compared to 4% for stocks, according to recent data."
+    },
+    {
+        "title": "Ethereum's post-Merge energy usage shows how blockchain tech can align with national sustainability goals - Yahoo Finance",
+        "summary": "  Ethereum's switch to proof-of-stake (PoS) has significantly reduced its energy consumption, aligning with China's sustainability goals. After changing its architecture last September, Ethereum's energy usage plummeted by 99% to 235 kilowatts. Although energy consumption has risen since then, it is still significantly lower than before the change and comparable to iconic structures like the Eiffel Tower or the British Museum. Bitcoin's energy consumption, on the other hand, remains high, consuming 10.3 terawatt hours last month alone, more than 1,500 times Ethereum's annual consumption. China has been promoting blockchain technology and developing its own digital assets, while Hong Kong aims to become a regional virtual asset hub and balance its Web3 initiatives with sustainability goals."
+    },
+    {
+        "title": "Ethereum's Lifetime Energy Use Before the Merge Equaled Switzerland's for a Year - CoinDesk",
+        "summary": "  Ethereum's energy consumption over its lifetime is equivalent to Switzerland's energy use for a year, according to CoinDesk. The energy required to power the network is a major concern for proof-of-work (PoW) consensus algorithms like Ethereum. However, proof-of-stake (PoS) algorithms are more financially based, making it easier to disrupt the network through token acquisition."
+    },
+    {
+        "title": "Is Ethereum More Decentralized After The Merge? - The Motley Fool",
+        "summary": "  Ethereum's transition to proof of stake (PoS) has been completed, but its decentralization and security are still being evaluated. Before the merge, Ethereum had the second-highest hash rate of all cryptocurrencies, but now that it uses PoS, measuring its decentralization and security is more complicated.\n\nSince the merge, the number of validators has been increasing steadily, with over 600,000 validators currently participating. However, a small number of centralized companies control a significant portion of the staked Ether, with four validators controlling 53% of the total amount.\n\nThe staking ratio, which measures the amount of ether staked relative to the total circulating supply, is also lower than other PoS blockchains. Currently, almost 15% of the total ether supply is staked, compared to other blockchains like Cardano, Solana, and Avalanche, which are above 60%.\n\nOverall, while Ethereum's transition to PoS has been successful, it still has some growing pains to overcome in terms of decentralization and security."
+    },
+    {
+        "title": "Crypto wallet Phantom to release public multichain support for Ethereum and Polygon - TechCrunch",
+        "summary": "  Phantom, a Solana-based crypto wallet, is expanding to support Ethereum and Polygon blockchains starting on May 1. This multichain support will allow users to transfer assets and interact with dApps across different blockchains, opening up the wallet to a broader pool of crypto users. The company has raised $109 million in funding and has a valuation of $1.2 billion. The new capability could also let dApps and other projects interact with consumers in an easier way cross-chain. Phantom is adding new safety features to prevent phishing and is available on browsers, iOS, and Android."
+    },
+    {
+        "title": "Circle launches cross-chain USDC transfer protocol for Ethereum, Avalanche - Cointelegraph",
+        "summary": "  Circle, the creator of US Dollar Coin (USDC), has launched a mainnet protocol allowing users to transfer USDC between Ethereum and Avalanche without needing a bridge. The Cross-Chain Transfer Protocol (CCTP) completely destroys tokens sent to its contract and issues new tokens on the receiving network, allowing users to redeem them for bank deposits. Many large cross-chain protocols have pledged to use CCTP, including Celer, Hyperlane, LayerZero, and MetaMask. The new protocol aims to solve the problem of fragmentation in the Web3 ecosystem and improve liquidity and capital efficiency in decentralized finance."
+    },
+    {
+        "title": "How the Hunt for Yet-to-Exist Tokens Is Shaping Ethereum\u2019s Layer 2 Landscape - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\n\"The hunt for yet-to-exist tokens is shaping Ethereum's Layer 2 landscape. One to watch is Scroll, a zkEVM startup that has partnered with big-name protocols but has yet to deploy on the main network. While capital is available, many are sidelined on zkSync due to a lack of assets to play with.\""
+    },
+    {
+        "title": "USDC Transfers Between Ethereum and Avalanche Just Got More Secure - Blockworks",
+        "summary": "  Circle, the issuer of USDC, has made its permissionless cross-chain transfer protocol (CCTP) available to developers building on Ethereum and Avalanche. This allows for more secure and efficient transfers of USDC between the two chains using Circle's burn-and-mint mechanism, rather than the traditional lock-and-mint approach. This development aims to reduce fragmented liquidity and security risks associated with bridge hacks. Several developers have already integrated the CCTP, including wallets and infrastructure providers such as Celer, Hyperlane, and Rarimo."
+    },
+    {
+        "title": "Decentralized Exchange Vertex Launches on Ethereum Layer 2 Arbitrum - Yahoo Finance",
+        "summary": "  Vertex, a decentralized exchange, has launched on the Ethereum layer 2 network Arbitrum. The exchange offers spot and derivatives trading and has attracted institutional and retail traders. Vertex combines an off-chain order book with an on-chain automated market maker, allowing for fast and secure trading. The platform has drawn interest due to its speed, rivaling leading centralized venues, and its use of an off-chain sequencer for the order book."
+    },
+    {
+        "title": "Decentralized Exchange Vertex Launches on Ethereum Layer 2 Arbitrum - CoinDesk",
+        "summary": "  Vertex, a decentralized exchange (DEX) built on Ethereum's Layer 2 scaling solution Arbitrum, has launched. The exchange is not forking any existing smart contracts and has developed its own automated market maker (AMM) technology, allowing for leveraged AMMs, looping, and an inbuilt money market. It combines features from Aave, dYdX, and Uniswap, with an order book."
+    },
+    {
+        "title": "Franklin Templeton Bets Big on Ethereum by Putting Fund on Polygon - Decrypt",
+        "summary": "  Franklin Templeton, a $1.4 trillion asset manager, has announced that one of its funds, the Nasdaq-listed OnChain U.S. Government Money Fund (FOBXX), will now be supported on the Polygon blockchain. This is the first U.S.-registered fund to use a blockchain for transaction processing and share ownership recording. Polygon is a scaling platform for Ethereum, making it faster and more efficient. Franklin Templeton has been involved in crypto for some time, launching a digital asset venture fund two years ago and digitizing shares for a money market fund on Stellar's blockchain in 2019."
+    },
+    {
+        "title": "Franklin Templeton Bets Big on Ethereum by Putting Fund on Polygon - Yahoo Finance",
+        "summary": "  Franklin Templeton, a $1.4 trillion asset manager, has announced that one of its funds, the OnChain U.S. Government Money Fund (FOBXX), will now be supported on the Polygon blockchain. This makes FOBXX the first U.S.-registered fund to use a blockchain for transactions and share ownership. Franklin Templeton has been involved in crypto for some time, having launched a digital asset venture fund two years ago and digitizing shares for a money market fund on the Stellar network in 2019. The move to Polygon is seen as a way to expand the fund's compatibility with the broader digital ecosystem, particularly through Ethereum."
+    },
+    {
+        "title": "Solana: Phantom Wallet Now Supports Ethereum and Polygon Chains - Watcher Guru",
+        "summary": "  Phantom Wallet, a Solana-based cryptocurrency wallet and browser extension, has expanded its services to include support for Ethereum and Polygon chains. This move towards broader compatibility may challenge MetaMask's position as a popular wallet. Users can now access new support provided by the wallet, including the ability to view all holdings and NFTs in one place and connect to dApps on multiple blockchain networks."
+    },
+    {
+        "title": "If Bitcoin is gold, Ethereum is silver, then AI crypto is platinum - ZyCrypto",
+        "summary": "  AI crypto is gaining popularity, with projects like Avorak AI leveraging AI tools to improve efficiency and accuracy in the blockchain ecosystem. Avorak AI's innovative solutions, including a trading bot, are receiving attention and driving growth. The project's ongoing ICO has seen significant increases in funding, with early investors enjoying high returns. To buy Bitcoin or stake Ethereum, visit eToro, a top crypto buying platform. Learn more about Avorak and its ICO on their website or investment platform. (246 tokens)"
+    },
+    {
+        "title": "Vitalik Buterin among the top speakers at EDCON 2023 in Montenegro - Cointelegraph",
+        "summary": "  Vitalik Buterin and other top Ethereum leaders to speak at EDCON 2023 in Montenegro. Conference to cover blockchain regulation, layer 3, decentralized society, and more. May 19-23 in Podgorica. Keynote speeches, technical workshops, and panel discussions. Over 10,000 attendees, 2,000 developers, and 300 speakers since 2017. Nonprofit and global. #EDCON2023 #Ethereum #Blockchain"
+    },
+    {
+        "title": "Posts of Matt Nelson - Blockworks",
+        "summary": "  Matt Nelson, a product manager at ConsenSys, works on various blockchain projects including Hyperledger Besu and Web3Signer. He has experience in building DLT and blockchain solutions at IBM and has been with ConsenSys since 2021. Matt has coordinated efforts across ConsenSys teams to help with readiness, testing, development, and more, and continues to lead the team in developing a top-tier execution client and advancing Ethereum protocol development."
+    },
+    {
+        "title": "New MetaMask Competitor? Top Solana Wallet Phantom Goes Multichain With Expansion to Ethereum and Polygon - The Daily Hodl",
+        "summary": "  Phantom, a leading Solana wallet, is expanding to support Ethereum and Polygon chains, allowing users to natively hop between decentralized applications and NFT marketplaces. The app will also support importing assets from MetaMask and add new safety features, including anti-phishing measures. Phantom's CEO notes that the app can hold multiple seed phrases, unlike MetaMask, and has a 24/7 customer support team to help with potential phishing incidents."
+    },
+    {
+        "title": "Solana Wallet Phantom Extends Support for Ethereum and Polygon - U.Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nSolana-based Phantom wallet will add support for Ethereum (ETH) and Polygon (MATIC) chains on May 1, according to a recent TechCrunch article. The wallet initially planned to integrate these chains in Q1 of this year, but the start date was delayed. Phantom has obtained a valuation of $1.2 billion after a $109 million fundraising round in January 2022, with leading investors Paradigm and Andreessen Horowitz participating. The integration with Ethereum and Polygon will provide Phantom users with exposure to decentralized platforms and NFTs, and allow them to move their crypto from MetaMask wallet, Solana, or EVM to Phantom. Users will also be able to trade and hold crypto on three leading blockchains, rather than just one."
+    },
+    {
+        "title": "Franklin Templeton Money Market Fund Launches on Polygon Blockchain - Yahoo Finance",
+        "summary": "  Franklin Templeton, a global investment management organization, has launched the Franklin OnChain U.S. Government Money Fund on the Polygon blockchain. This fund is the first U.S.-registered mutual fund to use a public blockchain to process transactions and record share ownership. By moving to Polygon, the fund can now be compatible with the rest of the digital ecosystem, specifically through the Ethereum-based blockchain. The fund offers a competitive yield and is a regulated 1940 Act fund that invests in government securities, cash, and repurchase agreements collateralized fully by government securities or cash. The transfer agent maintains the official record of share ownership via a proprietary blockchain-integrated system. Investors can gain exposure to the fund in digital wallets through the Benji Investments app. Franklin Templeton aims to provide better outcomes through investment management expertise, wealth management, and technology solutions."
+    },
+    {
+        "title": "New Meme Coin Could Outshine Ethereum (ETH) and Cardano (ADA) following 3000% growth prediction - Analytics Insight",
+        "summary": "  DigiToads (TOADS) is a new meme coin with potential to outperform Ethereum (ETH) and Cardano (ADA) due to its unique combination of deflationary tokenomics, P2E gaming, NFT staking, and charitable initiatives. The project has raised over $1.75 million in its presale and offers a 3000% growth prediction. DigiToads sets itself apart with its P2E game, NFT staking, and charitable initiatives, making it a promising project in the DeFi crypto space. Join the presale or community for regular updates."
+    },
+    {
+        "title": "Cambridge dons launch tool to track Ethereum electricity consumption as concerns over environmental impact grow ... - City A.M.",
+        "summary": "  Cambridge dons launch tool to track Ethereum electricity consumption as concerns over environmental impact grow. The University of Cambridge released a new open-access tool, the Cambridge Blockchain Network Sustainability Index (CBNSI), to track electricity usage from cryptocurrencies, starting with Ethereum. The tool has already tracked electricity consumption from Ethereum before and after The Merge, a recent upgrade that moved Ethereum's proof-of-work model to a proof-of-stake model, which is more energy-efficient. The CBNSI's data shows a 99.99% decrease in Ethereum's electricity usage after The Merge. The tool does not yet have data on Ethereum's greenhouse gas emissions, but work is underway to translate the consumption data into emissions. The launch of the CBNSI aims to provide policymakers with the necessary data for evidence-based debate on the environmental impact of blockchain networks."
+    },
+    {
+        "title": "Big Profit Ahead: Arbitrum Price to Rise by 500% in the Next 30 Days? - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nArbitrum (ARB) price has risen significantly in the past 30 days, gaining over 10%.\n\n$120 million in ARB tokens were distributed to 125 DAOs in the Arbitrum ecosystem, which could drive demand for the token.\n\nThe token distribution is part of a broader effort to localize community governance, giving DAOs greater autonomy to direct resources.\n\nThe incentives may benefit small market capitalization protocols the most, which could help drive ecosystem expansion.\n\nThe current price of ARB may not yet reflect its potential value, which could mean room for growth and profit potential.\n\nHowever, it's important to do your own research and assess the risks before investing in ARB or any cryptocurrency."
+    }
+]

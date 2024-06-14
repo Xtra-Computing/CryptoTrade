@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Ethereum's Shanghai upgrade could supercharge liquid staking derivatives \u2014 Here's how - Cointelegraph",
+        "summary": "  The upcoming Ethereum Shanghai upgrade could supercharge liquid staking derivatives, according to Cointelegraph. The upgrade will enable withdrawals from Ethereum staking contracts, reducing the risk of staking and increasing the attractiveness of liquid staking protocols. Leading liquid staking protocols like Lido and Rocket Pool allow Ether holders to stake without running a validator node, providing a lower entry barrier for staking and enabling liquidity provision for staked assets. The governance tokens of these protocols could benefit from the increased locked value of their staked assets, similar to DeFi tokens which benefited from a rise in total locked value (TVL) in the latest bull run. The article provides a brief overview of the performance of liquid staking protocols like Lido, Rocket Pool, Ankr, Stakewise, and Shared Stake ahead of the Shanghai upgrade, highlighting their market capitalization to staked Ether ratio and technical performance. However, the article does not contain investment advice or recommendations, and readers are advised to conduct their own research before making any investment decisions."
+    },
+    {
+        "title": "Ethereum merge - what it means for investors, users, miners, and the climate - iTMunch",
+        "summary": "  The Ethereum merge, a major event in the crypto industry in 2022, has transitioned the Ethereum blockchain from the energy-intensive proof-of-work (PoW) model to the energy-efficient proof-of-stake (PoS) model. The merge is expected to minimize Ethereum's energy consumption by 99.95%. The PoS model uses less energy than the PoW model, which is what the Bitcoin network uses. The merge is seen as a big advancement as it lays the foundation for other elements of the network's roadmap, such as improving transaction efficiency. The impact of the merge on different sets of people and the environment includes:\n\n* Investors: The merge is likely to be bullish for crypto investors in the long run, as it lays a solid foundation for ecosystem development and future upgrades. However, no outcome is certain, and it may take time to see the compounded benefits.\n* ETH miners: Miners have come up with different ways to adapt to the merge, such as investing in Ethereum Classic or rolling out staking pool"
+    },
+    {
+        "title": "Ethereum Classic achieves strong bounce back, thanks to hash rate stimulation - AMBCrypto News",
+        "summary": "  Ethereum Classic (ETC) has shown a slight increase in hash rate, potentially indicating increased network activity. The token's price surged by over 20% on January 4th, outperforming top cryptocurrencies like Ethereum (ETH) and Bitcoin (BTC). However, the upside might be limited due to the token's MA indicators, high volume, and weak development activity. The Binance funding rate also suggests limited derivatives demand. While there is a chance for a surge in demand, the bears may regain control due to the weak sentiment and high MFI levels."
+    },
+    {
+        "title": "Trader Who Sold Bitcoin at the Top Says Ethereum Is Showing Remarkable Strength Against BTC - The Daily Hodl",
+        "summary": "  Popular crypto strategist DonAlt has observed remarkable strength in Ethereum (ETH) against Bitcoin (BTC), with ETH dominating other altcoins in its price ratio. DonAlt has set a price target of $100 for Litecoin (LTC) if it breaks through the $80 resistance level. Despite selling his Bitcoin holdings at the peak, DonAlt has recently bought back Bitcoin in the low-$16,000 range for the long term."
+    },
+    {
+        "title": "Lido DAO surges 35%, BitDAO gains 22%: Why? - Forkast News",
+        "summary": "  Lido DAO surged 35% and BitDAO gained 22% in the past week due to positive developments in the Ethereum ecosystem. The upcoming March upgrade to Ethereum's Beacon Chain will enable Ether stakers to withdraw their assets, reducing uncertainty and anxiety among investors. Lido DAO provides indirect liquidity and additional rewards to ETH stakers, and its price increase is attributed to the resolution of the risk factor. BitDAO's buyback plan also attracted users seeking greater transparency and confidence in the entity's governance."
+    },
+    {
+        "title": "ETH Price Prediction for 2023 and Vitalik Buterin's Adoption of Ethereum Improvement Proposal - CoinIdol",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price prediction is bullish, but resistance at $1,260 may limit the uptrend. Vitalik Buterin has adopted Ethereum Improvement Proposal (EIP) 4844, which could help reach the \"basic roll-up scaling\" milestone. Despite low network activity, Ethereum's volatility has decreased, and the value of ETH/USD could increase. The daily technicals and price forecast are bullish, with support at $1,235 and resistance at $1,260. However, a break below $1,235 could allow further selling to $1,205."
+    },
+    {
+        "title": "Ethereum To Beat Bitcoin In 2023 - Bloomberg Analyst - Coinpedia Fintech News",
+        "summary": "  Ethereum to surpass Bitcoin in 2023, per Bloomberg analyst. Mainstream investors are turning to crypto for their portfolios, boosting blockchain networks. #Ethereum #Bitcoin #Crypto #Blockchain"
+    },
+    {
+        "title": "Solana vs. Polygon: A Developer's Perspective - Yahoo Finance",
+        "summary": "  The article compares and contrasts Solana and Polygon, two popular blockchain networks, in terms of their performance, approach to scaling, security, and community. The author, a senior blockchain developer with experience in different crypto networks, shares their perspective on the strengths and weaknesses of each network based on their technical criteria.\n\nKey takeaways from the article include:\n\n1. Performance: The author notes that Solana has faster transaction speeds than Polygon, with a maximum block size of 128MB and a theoretical minimum block time of 5 seconds. Polygon, on the other hand, has a block size of 50-120KB and a block time of ~2 seconds.\n2. Approach to scaling: Solana scales by keeping everything on a single chain, while Polygon scales by adding more sidechains that merge state periodically. The author believes that a single chain is more efficient and secure than a collection of sidechains.\n3. Security: Solana has a Nakamoto Coefficient (NC) of 32, meaning that only 32 validators would need to collude to corrupt the network. Polygon has an"
+    },
+    {
+        "title": "Binance's stablecoin BUSD hasn't always been 1:1 backed, report - Protos",
+        "summary": "  Binance's stablecoin BUSD has been found to have periods of undercollateralization, according to an investigation by Protos. The stablecoin, which is the world's third-largest with a market capitalization of over $16 billion, is supposed to be fully backed by assets on a 1:1 basis. However, on-chain data revealed that the wallet backing BUSD on Binance's blockchain did not consistently equal one dollar's worth of assets for each Binance-pegged BUSD. The investigation found that BUSD on BNB Chain was occasionally undercollateralized, and Binance had to top-up funds in the backing wallet to restore the 1:1 ratio. While Binance-peg BUSD is currently fully backed, the investigation raises questions about the stability of the stablecoin and the accuracy of Binance's claims."
+    },
+    {
+        "title": "Shiba Inu Whale Activity Surges On Hype Around The Upcoming Shibarium Launch - ZyCrypto",
+        "summary": "  Shiba Inu whales are buying up the meme cryptocurrency ahead of the anticipated launch of Shibarium, a layer-2 platform that will improve the performance of Shiba Inu. Top 2,000 Ethereum investors are purchasing Shiba Inu, with the governance and utility token BONE seeing the most gains. Shibarium will feature a decentralized exchange, blockchain games, and the metaverse, and will take most transactions off Ethereum while still using the blockchain as a security layer. The Shiba Inu burn tracker shows 410 million SHIB burned to date out of an initial supply of a quadrillion."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin, Ethereum and most other tokens edge lower - CNBCTV18",
+        "summary": "  Sure! Here's a summary of the article in 256 tokens or less:\n\nCrypto prices edge lower today: Bitcoin at $16,827, Ethereum at $1,251, Dogecoin at $0.07, Shiba Inu at $0.000015, and Solana at $13.2. Market volatility remains high after FOMC minutes, with support and resistance levels at $16,800 and $17,000 for Bitcoin, and $1,205 and $1,236 for Ethereum."
+    },
+    {
+        "title": "SHIB Killer BONK Records Over 50% More Transactions Than Ethereum in Past 3 Days - U.Today",
+        "summary": "  Bonk (BONK) cryptocurrency has surpassed Ethereum (ETH) in terms of total transactions, with 4.6 million transactions in the past 14 days compared to Ethereum's 1.8 million. Despite a 56% drop in price over the past 24 hours, BONK is still up over 2,000% in the past week and is on track to beat the return records of Shiba Inu and Dogecoin (DOGE). The BONK token has a deflationary nature and has burned over 500 billion tokens of its 56 trillion coin supply. The new Solana mobile phone Saga may also include burning BONK tokens as part of its earnings."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for January 31, 2023 - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nMachine learning algorithm predicts Ethereum price will reach $1,315 on January 31, 2023, based on technical analysis indicators. Despite recent price correction, Ethereum is performing better than other cryptocurrencies and is expected to continue its macro upswing. The Shanghai update in March 2023 is expected to be a bullish catalyst for the cryptocurrency."
+    },
+    {
+        "title": "How to Add USDC to MetaMask - Followchain",
+        "summary": "  To add USDC to MetaMask, follow these steps:\n\n1. Copy USDC's contract address from CoinMarketCap or import it from your wallet.\n2. Unlock your MetaMask wallet and select the Ethereum Mainnet network.\n3. Click on \"import tokens\" and paste USDC's contract address in the \"Token Contract Address\" field.\n4. Auto-populate the \"Token Symbol\" and \"Token Decimal\" fields, and click on \"Add Custom Token\".\n5. Send or receive USDC in your MetaMask wallet under the \"Assets\" tab.\n\nUSDC is a stablecoin pegged to the US dollar and can be used for faster and cheaper transactions than traditional payment systems. Storing your USDC in your MetaMask wallet is safer than storing it in a cryptocurrency exchange, as you own your private keys and do not store your personal information."
+    },
+    {
+        "title": "How to Add USDT to MetaMask - Followchain",
+        "summary": "  To add USDT (Tether) to MetaMask, follow these steps:\n\n1. Copy the USDT contract address from CoinMarketCap.\n2. Log in to your MetaMask wallet and import USDT as a custom token.\n3. Paste the USDT contract address into the \"Token Contract Address\" field.\n4. Click on \"Add Custom Token\" to add USDT to your MetaMask wallet.\n5. You can now send or receive USDT.\n\nAlternatively, you can add USDT by searching for it on the \"Search\" tab, or by going to the USDT token page on CoinMarketCap and clicking on the MetaMask icon under \"Contracts\".\n\nNote: You can also hold your USDT in an interest account like BlockFi, or buy USDT on Binance or Coinbase."
+    }
+]

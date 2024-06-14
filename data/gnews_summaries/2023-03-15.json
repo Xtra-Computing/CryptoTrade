@@ -1,0 +1,122 @@
+[
+    {
+        "title": "An introduction to maximal extractable value on Ethereum - EY",
+        "summary": "  In a new paper, EY explores the concept of Maximal Extractable Value (MEV) on Ethereum, a complex systemic challenge arising from overlapping preferences of market participants. MEV is defined as the value captured by participants in the Ethereum network, including Flashbots, which emerged serendipitously. The paper examines the MEV supply chain on both proof-of-work and proof-of-stake Ethereum, and discusses mitigation and redistribution strategies being developed by top researchers. The paper concludes that users may ultimately occupy the privileged position historically held by miners."
+    },
+    {
+        "title": "Filecoin Launches Ethereum-compatible Smart Contracts - The Defiant - DeFi News",
+        "summary": "  Filecoin, a blockchain for data storage, has launched Ethereum-compatible smart contracts, enabling decentralized applications (dApps) and \"data DAOs\" on its platform. This upgrade allows for on-chain analysis and perpetual storage of data, making it possible for scientists to conduct research on the blockchain. The smart contracts also bring the first decentralized finance (DeFi) applications to Filecoin, allowing users to stake and generate yield by lending FIL tokens to storage providers. This update is expected to make the network more economically sustainable and increase revenue for the protocol."
+    },
+    {
+        "title": "Ethereum price reaches lowest level relative to Bitcoin in 5 months - Cointelegraph",
+        "summary": "  Ethereum (ETH) price has been underperforming against Bitcoin (BTC) in the past six months, despite the upgrades to the Ethereum network. The ETH/BTC price ratio has been trading at around 0.068 since October 2022, with a recent breakdown below this level on March 15. This has led to a decrease in investor confidence, as seen in the decline in leverage long positions and the lack of demand for options contracts. The derivatives market indicates that professional traders are hesitant to place either bullish or bearish bets, and the 25% delta skew metric has reached its highest level of skepticism since November 2022."
+    },
+    {
+        "title": "Forget HTTP: Ethereum has a new URL standard that can't be blocked - Cointelegraph",
+        "summary": "  Ethereum has introduced a new URL standard called ERC-4804, which allows users to access decentralized applications (DApps) and non-fungible tokens (NFTs) directly without relying on centralized servers. The new standard, called \"Web3 URLs,\" uses a \"HTTP-style\" URL to directly access on-chain Web3 content, such as DApps front-ends and NFTs. This means that users can type in \"web3://\" instead of \"http://\" in their browsers to access these decentralized services. The new standard is expected to be useful for DApps or websites at risk of censorship, such as Tornado Cash, and could potentially allow for \"dynamic data\" and interaction with other blockchains. However, the costs of using this new standard are still prohibitive for many applications, according to ETHStorage founder Qi Zhou."
+    },
+    {
+        "title": "Shapella Upgrade Brings Ethereum Closer to Long-awaited Withdrawals - Blockworks",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum has completed its Shapella upgrade on Goerli testnet, enabling withdrawals before the mainnet hard fork in early April. The upgrade combines the execution layer (Shanghai) with the consensus layer (Capella). Developers have tested the upgrade on public testnets Sepolia and Zhejiang. Withdrawals have already been processed on Goerli testnet, with 58,063 withdrawals processed and 124,246.82 (fake) ETH distributed. The upgrade brings Ethereum closer to allowing validators to withdraw their locked ether. Two types of withdrawals will be possible: partial withdrawals and full withdrawals. The Ethereum Foundation notes that the size of the exit queue will vary depending on the size of the validator set. Analysts expect the upgrade to be perceived as a significant de-risking for the Ethereum network."
+    },
+    {
+        "title": "Ethereum's Network-to-Value Ratio Slides to 3-Month Low as ETH Rallies 20% - CoinDesk",
+        "summary": "  Ethereum's network value ratio has reached a 3-month low as the price of ETH has rallied 20%. This is according to CoinDesk's latest financial news. The article also mentions Consensus 2024, CoinDesk's longest-running and most influential event that brings together all sides of the crypto, blockchain, and Web3 communities. To learn more and register for the event, visit consensus.coindesk.com."
+    },
+    {
+        "title": "SEC Chairman Gensler Suggests Again That Proof-of-Stake Tokens Are Securities: Report - CoinDesk",
+        "summary": "  SEC Chair Gensler reiterates stance that proof-of-stake tokens are securities, with a recent lawsuit supporting his argument. The NYAG sues KuCoin for offering tokens without proper registration, citing potential security laws violation."
+    },
+    {
+        "title": "Ethereum's Shapella hard fork on track for mainnet launch - crypto.news",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shapella hard fork is on track for mainnet launch after successful execution on the Goerli testnet. The upgrade unlocks $30 billion worth of ETH and introduces partial and full withdrawals. However, some testnet validators failed to upgrade their client software, causing delays in processing deposits. Ethereum developers are optimistic that validators will make necessary adjustments before the fork on the mainnet. The Shanghai upgrade will enable phased validator withdrawals, allowing users to access their staked ETH and staking rewards. The Ethereum Foundation has implemented measures to prevent a flood of ETH from hitting the market. Developers will convene for their biweekly call on March 16 to set a date for the mainnet upgrade."
+    },
+    {
+        "title": "Ethereum Displays Bullish Pattern, What To Expect Next? - NewsBTC",
+        "summary": "  Ethereum has been displaying a bullish pattern, with a recent price appreciation that topped $1,600. The coin is currently consolidating, but there is potential for a breakthrough to $1,700. Technical indicators such as the Relative Strength Index and Moving Average Convergence Divergence are bullish, suggesting increased demand. However, a downtick in demand has been noted, and it is crucial for demand to climb further for ETH to reach $1,800. The Parabolic SAR also indicates a price direction and change."
+    },
+    {
+        "title": "The Peculiar Genius Behind Ethereum: Everything You Should Know - BSC NEWS",
+        "summary": "  Vitalik Buterin, the co-founder of Ethereum, has a unique mind that has been instrumental in the development of the platform. Buterin, who is on the autism spectrum, has a strong focus and dedication to computer science and mathematics, which has led to the creation of Ethereum. His intense focus and preferences for structure have been essential in the development of the platform, and his communication style has been an asset in communicating complex ideas to a broader audience. Despite facing challenges related to health and social interaction, Buterin's peculiar mind has revolutionized the world of cryptocurrency and paved the way for the development of decentralized applications."
+    },
+    {
+        "title": "Elon Musk Responds to Cathie Wood About Bitcoin (BTC), Ethereum (ETH) Rising in Current Bank Crash - U.Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nElon Musk responded to Cathie Wood's tweet about the instability in the banking system and the rise of cryptocurrencies like Bitcoin and Ethereum. Musk agreed with Wood that regulators should focus on addressing weaknesses in the traditional banking system rather than attacking decentralized financial platforms. Musk also noted similarities between the current situation and the 1929 Great Depression. Additionally, investor Robert Kiyosaki predicted the collapse of a third bank, Signature Bank, which has cooperated with crypto companies."
+    },
+    {
+        "title": "Coinbase Issues Alert to Crypto Traders, Says It Will No Longer Support Six Ethereum-Based Altcoins - The Daily Hodl",
+        "summary": "  Coinbase to delist six Ethereum-based altcoins: RLY, YFII, MIR, OMG, LOOM, and REP. No longer available for trading starting March 29. Investors can still withdraw funds. Coinbase regularly reviews assets for listing standards."
+    },
+    {
+        "title": "Mysterious Institutional Investor Scoops Up Ethereum-Based Altcoin That Rallied 126% This Year: On-Chain Data - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nMysterious institutional investor buys $10M worth of Ethereum-based altcoin SNX, which has doubled in price this year. Investor also holds $15M in Conflux and $2.1M in Yield Guild Games. SNX is a derivatives protocol allowing for crypto, stocks, and precious metals trading without actual ownership. SNX has seen a 126% price increase in 2023, but has retraced 10% in the last 24 hours."
+    },
+    {
+        "title": "What Is Ethereum 2.0 Staking? How To Earn With Eth Staking? - CoinGape",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum has upgraded to a proof-of-stake (PoS) consensus mechanism, reducing energy consumption and scalability issues.\n\nEthereum staking allows users to participate in transaction validation and earn rewards.\n\nTo stake Ethereum, users need to hold 32 ETH, worth over INR 39 lakh.\n\nStaking pools allow individuals to collaborate to meet the minimum requirement of 32 ETH.\n\nLido DAO provides liquidity for stakers, allowing them to receive stETH tokens to trade within the decentralized finance ecosystem.\n\nThe payout for Ethereum staking varies based on the number of validators participating and can range from 5% to 20% per year."
+    },
+    {
+        "title": "Ethereum whales accumulate $600M in ETH; Is the green still an anomaly? - AMBCrypto News",
+        "summary": "  Ethereum whales have accumulated $600 million in ETH despite a recent price increase. Despite the gains on the charts, whales continued to buy ETH when it was still above $1,680. The Network Value to Transaction (NVT) signal is high, indicating that investors are pricing ETH at a premium. However, the circulation of ETH has increased over the last seven days, with 3.96 million units in circulation. Active addresses have also been increasing, with 24-hour active address count of 534,000. Exchanges have seen a close contest between outflows and inflows, with outflows slightly higher. While ETH may have a slight chance of appreciation in the short term, traders should be cautious of potential negative developments and contrasting market reactions."
+    },
+    {
+        "title": "HBAR Crypto News: Top NFT Platform Migrates To Hedera From Ethereum - CoinGape",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nHedera (HBAR) network is gaining traction in the NFT space with the migration of Mynt, a prominent music NFT project, from Ethereum to Hedera. Mynt chose Hedera due to its commitment to eco-friendly NFTs and scalable nature. The move comes as the NFT market experiences a slowdown, but Hedera continues to grow with new applications and partnerships. The price of HBAR is currently $0.065, representing a 2.10% increase over the past 24 hours."
+    },
+    {
+        "title": "Coinbase Anticipates High Demand for Unstaking After Shanghai Upgrade - CryptoPotato",
+        "summary": "  Coinbase anticipates high demand for unstaking after Shanghai upgrade. Ethereum developers will enable unstaking next month, allowing users to withdraw staked Ether. Coinbase expects weeks to months for processing requests, and provides liquid staking option called cbETH to account for delay. SEC recently fined Kraken $30 million for unregistered securities offering in staking service, and Coinbase has criticized the enforcement action."
+    },
+    {
+        "title": "Ethereum: Final Testnet Upgrade Brings Shanghai Closer Than Ever - TradingView",
+        "summary": "  Ethereum's Shanghai upgrade is one step closer to activation on the mainnet blockchain after a successful testnet upgrade on Goerli. The upgrade, known as \"Shapella,\" is expected to occur sometime in April, pending finalization of the mainnet launch date. The upgrade includes a hard fork and is being closely monitored by developers and validators."
+    },
+    {
+        "title": "Ethereum Completes Goerli Testnet - CryptoDaily",
+        "summary": "  Ethereum developers have completed the final testnet for the Shapella upgrade, which is set to take place in early April. The Goerli testnet saw low validator participation, but the upgrade is still expected to go live on the mainnet. Once live, validators will be able to withdraw their staked ether and earn rewards. This is a significant milestone for the Ethereum network as it transitions to a proof-of-stake mechanism."
+    },
+    {
+        "title": "NFT Sector Keeps on Developing \u2013 Number of Unique Ethereum NFT Traders Surged 276% in 2022 - Blockchain News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nNFT trading activity on the Ethereum blockchain surged in 2022, with a 276% increase in unique active traders compared to the previous year. Despite negative market conditions, the number of active NFT traders remained stable, with a slight drop in the fourth quarter followed by a rebound in the first quarter of 2023. The number of trades initially plummeted but bounced back, indicating promising signs for the NFT sector. The report highlights the resilience of NFT traders during challenging times and the potential for increased mainstream adoption as crypto prices are expected to rise."
+    },
+    {
+        "title": "Gensler suggests staking token operators should 'seek to come into compliance' - Cointelegraph",
+        "summary": "  SEC Chair Gary Gensler has suggested that staking token operators should \"seek to come into compliance\" as he believes proof-of-stake coins may be securities. He has expressed this view multiple times, including during a commission meeting on cybersecurity issues and in a tweet. Gensler has stated that the Howey test, which dates back to 1946, is used to identify securities, and that staking is \"another indicia that the investing public is anticipating profits based on the efforts of others.\" This comes after the SEC forced cryptocurrency exchange Kraken to discontinue its staking service and pay a $30 million settlement earlier this year, which some saw as a sign of increased enforcement actions in the cryptocurrency industry."
+    },
+    {
+        "title": "'ETH is deflationary' - Why this is important under recent circumstances - AMBCrypto News",
+        "summary": "  Ethereum (ETH) is experiencing a surge in demand, which may continue in the long term due to its deflationary milestone achieved through EIP 1559 last year. The network has burned over 3 million ETH, worth $9.09 billion, reducing the post-Merge total supply by 62,000 ETH. This has led to a 0.42% deflationary rate, making ETH a preferable asset class in both the short and long term. The demand for ETH has been confirmed through exchange outflows, which have reached a 3-month high. Shorts traders have suffered losses as the price has pivoted, while leverage demand has declined since February but has recently picked up. The market may become more volatile if leverage continues to rise."
+    },
+    {
+        "title": "What Crypto Does Elon Musk Own? | Everything You Need To Know - Bankless Times",
+        "summary": "  Elon Musk owns very little cryptocurrency, only 0.25 Bitcoin given to him by a friend. His companies, Tesla and the Boring Company, have invested in cryptocurrency, with Tesla owning around 10,500 Bitcoin and the Boring Company accepting Dogecoin as payment. In 2021, Tesla invested $1.5 billion in Bitcoin, but sold 75% of it a year later, citing the need to increase liquidity. Musk has expressed his support for cryptocurrency, but has also expressed concerns about its environmental impact and has played it safe with his investments."
+    },
+    {
+        "title": "As Bitcoin and Ethereum Rebound, It's Time To Lockyourcrypto.com and Keep Those Tokens Safe - Analytics Insight",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin and Ethereum are seeing a rebound after a volatile start to the year, with Bitcoin trading at $24,671.20 and Ethereum at $1,686.02. However, the crypto industry is still plagued by hacking scandals, with Euler Finance suffering a $197m hack. To protect investments, it's important to use a secure platform like Lockyourcrypto.com, which offers a step-by-step guide to securing tokens and ensuring data protection. The article also mentions the closure of multiple US banks and the impact of regulatory bodies on the crypto market."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Ethereum Crosses $1,700 As Top Coins Continue Bull Run - ABP Live",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nCryptocurrency prices continued to rise today, with Ethereum crossing $1,700 and other popular altcoins also seeing gains. The global crypto market cap stood at $1.10 trillion, with a 24-hour gain of 1.52 percent. Bitcoin price rose 1.47 percent to $24,842, while Ethereum price jumped 1.53 percent to $1,710. Other notable gainers included SingularityNET, Stacks, Conflux, ImmutableX, and Threshold. Meanwhile, some crypto exchanges shared their insights on the current market scenario, highlighting the potential impact of inflation and regulatory factors on the market."
+    },
+    {
+        "title": "Bitcoin And Ethereum Lead Crypto Market Recovery While New DeFi Meme Coin Dogetti Launches 50% Bonus On ... - Analytics Insight",
+        "summary": "  Title: Bitcoin, Ethereum Lead Crypto Market Recovery; Dogetti Offers 50% Bonus on Tokens\n\nBitcoin (BTC) and Ethereum (ETH) are seeing a recovery in the crypto market after the Silvergate Capital crisis. BTC is trading above $25,000 and has a market cap of $501 billion, up 15% in the past week. Ethereum is also seeing a bullish run, with a price swing of 13% and a market cap of $216 billion.\n\nMeanwhile, a new meme coin, Dogetti (DETI), is gaining attention with a 50% bonus on its tokens during its presale. The community-owned DeFi token is inspired by classic mafia family tropes and has a promo code, Don50, for those interested in purchasing. However, the offer is time-limited.\n\nLinks:\n\n* Dogetti (DETI) - Presale: <https://dogetti.io/how-to-buy>\n* Website: <https://dogetti.io"
+    },
+    {
+        "title": "AVAX, AAVE attempt to match RenQ Finance\u2019s innovations but fall short - ZyCrypto",
+        "summary": "  AVAX and AAVE are attempting to match RenQ's innovations in DeFi, but experts believe they will fail due to several reasons:\n\n1. Lack of unique features: RenQ offers a combination of yield farming, liquidity mining, and staking, which is difficult to replicate.\n2. Stiff competition: RenQ has established itself as a unique and innovative platform in the DeFi space, making it challenging for AVAX and AAVE to compete.\n3. Lack of user interest: While yield farming and liquidity mining are popular, users may not be interested in AVAX and AAVE's attempts to match RenQ's innovations.\n\nRenQ has gained a dedicated user following due to its distinctive characteristics and successful presale stages. The platform's completion of the Certik audit has also instilled confidence.\n\nClick here to buy RenQ Finance (RENQ) tokens."
+    },
+    {
+        "title": "Big Eyes Coin Rewards Early Investors With NFTs For Free As Bitcoin Sees Highest Liquidations in Two Months and ... - Analytics Insight",
+        "summary": "  Big Eyes Coin (BIG) rewards early investors with NFTs for free, while Bitcoin (BTC) sees highest liquidations in two months. BTC crosses $24K after Silvergate Collapse and Silicon Valley Bank failure. Ethereum (ETH) sees 25% pullback in prices, but Buy-the-dip is popular in cryptocurrency trading. Big Eyes Coin (BIG) presale is live, and the project has raised $31.55 million so far."
+    },
+    {
+        "title": "Test: New ChatGPT-4 instantly identified Ethereum smart contract flaws - Finbold - Finance in Bold",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nNew ChatGPT-4 AI tool identified flaws in a live Ethereum smart contract, highlighting security vulnerabilities and potential exploits. Director of Coinbase, Conor Grogan, tested the tool by dumping a live contract into GPT-4, which correctly identified critical issues. However, some commenters questioned whether the tool was regurgitating existing information or actually discovering the vulnerabilities on its own. Despite this, the tool's capabilities are significant and potentially useful in auditing smart contracts and other areas of the cryptocurrency sector."
+    },
+    {
+        "title": "4 Simple Reasons That Make Ethereum (ETH) And Renq Finance (RENQ) A Necessity Of Every Portfolio - mid-day.com",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum (ETH) and RenQ Finance (RENQ) are two cryptocurrencies that are a necessity in every portfolio due to their unique features and potential for growth. Ethereum is a proven and reliable investment with smart contract capabilities, while RenQ Finance offers cross-chain capabilities, liquidity solutions, and the potential for growth in the DeFi market. Both coins have the potential to revolutionize various industries and provide investors with a safe and innovative investment option."
+    }
+]

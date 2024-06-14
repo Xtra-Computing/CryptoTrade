@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Ethereum Bot Gets Attacked for $20M as Validator Strikes Back - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEthereum bot attacked for $20M, validator strikes back. Validator funded wallet 2 weeks ago from privacy layer Aztec Network, suggesting planned attack."
+    },
+    {
+        "title": "Ethereum Validator Goes Rogue, Frontruns MEV Bots for $25M - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nA rogue Ethereum validator launched a $25 million sandwich attack on MEV bots, exploiting a vulnerability in the MEV boost relay mechanism. The attacker, who had recently become a validator, included additional transactions in the block they proposed, allowing them to front-run the MEV bot. The sandwich attack involved pushing $25 million worth of tokens across three main addresses. The incident was identified by a pseudonymous Twitter user and has prompted Flashbot developers to roll out a patch to address the vulnerability."
+    },
+    {
+        "title": "A guide to Ethereum's Shanghai Upgrade - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai Upgrade, scheduled for April 2023, will introduce a withdrawal feature for stakers, allowing them to withdraw their deposited ETH. There will be two types of withdrawals: partial and full. Partial withdrawal will keep the minimum 32 ETH on the chain, while full withdrawal will forfeit participation in the chain. Validators who staked on the 2020 \"testnet\" will need to upgrade their credentials to execute a full or partial withdrawal. The upgrade has been postponed from March to April, and deployment on the mainnet is still a few weeks away. (245 tokens)"
+    },
+    {
+        "title": "Solana (SOL) Surpasses Ethereum (ETH) in Monthly Active Addresses: Details - U.Today",
+        "summary": "  Solana (SOL) surpassed Ethereum (ETH) in monthly active addresses, according to Nansen. Solana had 5.8M active addresses in March, while Ethereum had 5.2M. Other blockchains with high active addresses include BNB Chain, Polygon, Arbitrum, and Fantom. The growth in active addresses is attributed to various entities, such as Binance and PancakeSwap on BNB Chain, and Raydium Protocol, Stepn, and Orca on Solana."
+    },
+    {
+        "title": "Here's How Cardano (ADA) Beats Ethereum (ETH), Explains Charles Hoskinson - U.Today",
+        "summary": "  Cardano (ADA) has more unique staking participants than Ethereum (ETH), with over 1.2 million wallets on Cardano compared to Ethereum's 88,400. Cardano's staking ratio is 68.11%, while Ethereum's is 15.6%. Despite this, Ethereum has a larger market staking capitalization and higher staking reward than Cardano."
+    },
+    {
+        "title": "3 Undervalued Cryptos That Could Surprise You in April - Yahoo Finance",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nThree undervalued cryptocurrencies that could surprise investors in April are Tron (TRX), Solana (SOL), and Cardano (ADA). Despite their upswing this year, these cryptos remain undervalued compared to their peers, with Tron trading 5% lower than a year ago, Solana down 85% from its April 2022 price, and Cardano 68% below its all-time high. Each cryptocurrency has its unique features and improvements, such as Tron's energy-efficient proof-of-stake protocol, Solana's fast processing speeds and low user fees, and Cardano's recent upgrade to equal footing with Ethereum in the DeFi and smart contracts sector. Investors may consider these undervalued cryptos as a potential investment opportunity."
+    },
+    {
+        "title": "Buterin weighs in on zk-EVMs' impact on decentralization and security - Cointelegraph",
+        "summary": "  Ethereum co-founder Vitalik Buterin proposes integrating zero-knowledge Ethereum Virtual Machines (zk-EVMs) on the base layer to speed up verification without compromising decentralization and security. This would involve treating the layer 1 as a \"clearinghouse\" by pushing most activity to layer 2, but zk-EVMs would need to be \"open\" with different clients having their own implementations and waiting for compatible proofs before accepting a block. Buterin believes this approach would decentralize Ethereum at the base layer, make running a full node easier, and reduce transaction costs and increased throughput of smart contract deployments. Other companies like Polygon, StarkWare, ConsenSys, Scroll, zkSync, and Immutable are also deploying similar zkEVM scaling solutions."
+    },
+    {
+        "title": "zkSync Taking Spotlight on Ethereum, Here Are Latest Metrics - U.Today",
+        "summary": "  zkSync, a scalability solution on Ethereum, is gaining traction with 59,200 ETH tokens bridged, 254,500 wallets created, and over 300,000 transactions processed. Its hyperscalability feature allows for unlimited transactions without impacting security or cost. zkSync is seen as a potential solution to Ethereum's scalability challenges and is raising the bar for Ethereum-based scalability protocols. Meanwhile, Polygon has launched zkEVM, which is backed by top Ethereum developers including Vitalik Buterin. Ethereum's price is up 3.10% in the past week to $1,807.97 according to CoinMarketCap."
+    },
+    {
+        "title": "Vitalik Buterin says ZK-EVMs Will be Crucial to Ethereum - Crypto Times",
+        "summary": "  Vitalik Buterin believes that ZK-EVMs will play a crucial role in Ethereum's security and verification process in the future. He thinks that ZK-EVMs will become a third type of Ethereum client, just as important as execution and consensus clients. Buterin aims to balance the advantages of the multi-client philosophy with the use of ZK-EVMs to increase scalability, security, and decentralization. He suggested that users could use different types of ZK-EVMs, such as single, closed, or open multi ZK-EVMs, to verify layer 1. However, he noted that there are technical challenges related to latency and data efficiency in deploying ZK technology with multiple clients. Buterin also believes that clients will start experimenting with ZK-EVMs to prove Ethereum block execution on their own, especially with the development of stateless clients."
+    },
+    {
+        "title": "Astar Network to launch smart contracts that support two virtual machines - Cointelegraph",
+        "summary": "  Astar Network, a decentralized application (DApp) protocol, will launch smart contracts supporting both Ethereum Virtual Machine (EVM) and WebAssembly Virtual Machine (WASM VM) on its mainnet on April 6. This update allows the creation of WASM or EVM projects within the network and the inception of new multichain apps. The Astar team believes that having two virtual machines simultaneously is a key success factor in an emerging layer-1 blockchain. The launch will be celebrated with a panel discussion and meetings with infrastructure partners. In other news, Polygon's zkEVM beta has been released to the mainnet, allowing developers to deploy smart contracts at lower costs. The Web3 Foundation has also restated that the Polkadot (DOT) token is not a security."
+    },
+    {
+        "title": "zkSync Era Fails to Produce Blocks for 4 Hours but TVL Keeps Climbing - DailyCoin",
+        "summary": "  zkSync Era, a zkEVM on Ethereum mainnet, experienced 4 hours of downtime on Saturday, with no transactions being completed. The issue was caused by a database failure for the block queue, and the team was unable to respond quickly due to an offsite meeting. Despite the downtime, TVL on zkSync Era has been growing exponentially, with over $107 million in TVL, surpassing zkSync Lite and StarkNet. Polygon zkEVM has $2.42 million in TVL, a 15,750% increase in the last week. Network downtime is expected as zkSync Era is still in alpha, but it's encouraging to see increased activity as users experience low gas fees on the network."
+    },
+    {
+        "title": "Is the 2023 crypto rally a bull trap or prelude to alt season? - FXStreet",
+        "summary": "  Bitcoin liquidity is stacked at $29,000, with traders cautious of a potential pullback or correction. Altcoins have seen a recovery after wiping out gains, with analysts watching for signs of an alt season. Top picks for altcoins include ARB, MAGIC, and Ethereum Layer 2 coins, with the Ethereum Layer 2 narrative heating up. Despite controversy surrounding ARB, there are on-chain wallet addresses accumulating the token, suggesting a potential recovery."
+    },
+    {
+        "title": "Sandwich trading bots lose bread and butter in $25M exploit - Cointelegraph",
+        "summary": "  Sandwich trading bots lost $25 million in digital assets after a rogue validator exploited a vulnerability in the bots' code. The bots were trying to perform \"sandwich trades\" by spotting when traders were trying to purchase tokens and getting in between the trade for a profit. However, the rogue validator replaced the reverse transactions, leading to the losses. This is one of the largest exploits on MEV bots recorded since September 2022, according to CertiK. The security firm highlighted that this could affect other MEV searchers conducting non-atomical strategies like sandwich trading. MEV bots have the potential to earn vast amounts of digital assets, but they are also prone to hacks and exploits."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin below 28k, Ethereum and other tokens edge lower - CNBCTV18",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nBitcoin fell 2.3% to $27,733.3, Ethereum slipped 2.1% to $1,773.65, and other tokens like Dogecoin, Shiba Inu, and Solana also saw declines. Investors are cautious ahead of key economic data this week, with a focus on the potential impact of bank failures, inflation, and regulation on cryptocurrency prices."
+    },
+    {
+        "title": "PancakeSwap Launches New v3 Upgrade on BNB Chain and Ethereum - Coinfomania",
+        "summary": "  PancakeSwap, a leading decentralized exchange (DEX) on the BNB Chain, has launched its much-anticipated v3 ecosystem upgrade. The upgrade is now available on both the BNB Chain and Ethereum blockchains. The new version includes several improved features such as a competitive trading fee structure with four tiers, capital efficiency, and improved smart routing. Additionally, the upgrade includes an automatic APR display and ROI calculator to enhance trading activities. Two new features, a built-in limit order and a VIP trading rewards program, will be added in the future. The v3 upgrade is built on top of Uniswap's v3, making it compatible with tools on Uniswap v3 while offering more refinements. The upgrade had minimal effect on the protocol's native token, CAKE, which traded at $3.71 at press time."
+    },
+    {
+        "title": "The highs of Bitcoin (BTC) and Ethereum (ETH) will be reached in 2023, RenQ Finance (RENQ) will still outperform ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nRenQ Finance is expected to outperform Bitcoin and Ethereum in 2023 due to its innovative approach to decentralized finance, surging price, and commitment to security and interoperability. RenQ Finance has raised $4.5 million in its presale stages and has seen a 1500% increase in price. Bitcoin and Ethereum are also expected to reach new heights in 2023, with Bitcoin potentially surpassing $100,000 and Ethereum reaching new peaks. Experts believe that RenQ Finance's relatively new status, surging price, and commitment to security and interoperability make it a promising investment option for long-term growth and stability."
+    },
+    {
+        "title": "PancakeSwap changes its recipe with the launch of Version 3 - Cointelegraph",
+        "summary": "  PancakeSwap, a decentralized finance (DeFi) protocol, has launched Version 3 of its automated market maker platform on BNB Chain and Ethereum. The upgrade includes performance improvements and lower fees, with a key aspect being enhanced capital efficiency. Liquidity providers can now select a custom price range to provide liquidity, allowing specific control over capital investments. The platform has also introduced four new trading fee tiers, with incentives for liquidity providers and traders aligned. The upgrade aims to balance between traders targeting low fees and incentivizing liquidity providers. PancakeSwap has also revealed upcoming features, including a trading rewards program and a position manager feature. Additionally, Arbitrum's highly-anticipated airdrop has seen around $3.3 million consolidated into two controlling wallets."
+    },
+    {
+        "title": "The Ultimate Guide to Buying NFTs on the ZKSync Chain - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nZKSync is a Layer 2 scaling protocol that uses zero-knowledge proofs to compress transactions and reduce gas fees for NFT buyers and sellers. It supports smart contracts and has several NFT marketplaces on the chain. To buy NFTs on ZKSync, users can create a wallet, deposit funds, browse marketplaces, and withdraw their NFTs to Ethereum if needed. ZKSync offers a faster and cheaper alternative to buying and selling NFTs on the Ethereum blockchain."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for April 30, 2023 - Finbold - Finance in Bold",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMachine learning algorithm predicts Ethereum price of $1,823 on April 30, 2023, based on technical analysis indicators. ETH is currently trading at $1,806, with a gain of 2.94% in the previous week. Despite unfavorable developments, including interest rate hikes and stricter regulations, the price of Ethereum has more than doubled since June. The sentiment on TradingView is bullish, with oscillators pointing to a 'buy' at 15. On-chain and technical indications also point to a bullish argument for the price of ETH in the short to medium term."
+    },
+    {
+        "title": "How Blockchain Technology Makes File Storage More Practical and Cost-Effective - Cryptopolitan",
+        "summary": "  Sure, here's a summary of the article in 256 words or less:\n\nStoring files directly on the blockchain is not practical due to high costs and technical limitations. An alternative is to store a document's hash on-chain while keeping the file elsewhere, saving space and ensuring integrity. Decentralized storage networks like Arweave and Filecoin offer a cost-effective and secure solution by distributing data across multiple nodes. Best practices for decentralized file storage include storing metadata on the blockchain, using a decentralized storage network, ensuring data redundancy, and protecting privacy and security. By following these practices, users can ensure their data is stored reliably and securely."
+    }
+]

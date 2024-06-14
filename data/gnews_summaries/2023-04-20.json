@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Ethereum L2s Are a Bug Masquerading as a Feature - Blockworks",
+        "summary": "  The article argues that the hype around \"layer-2\" (L2) solutions for Ethereum is misguided, as these solutions are not actual fixes for the network's scalability issues but rather temporary workarounds. The author claims that the incentives behind L2s are to promote them as a solution rather than acknowledging the limitations of these technologies. The article suggests that if L2s were seen as temporary solutions, users and investors might become less inclined to support these projects, which could lead to the development of more innovative and sustainable technologies. The author also notes that the dominant approach in the crypto space is to avoid speaking honestly about the limitations of existing solutions and instead promote them as perfect."
+    },
+    {
+        "title": "Ethereum Price Nosedives Below $2K, Here\u2019s The Next Bearish Target - NewsBTC",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum price dipped below $2K, with bearish momentum gaining. Next target is $1,860, followed by $1,820. MACD and RSI indicate further declines."
+    },
+    {
+        "title": "Staking infrastructure firm P2P.org raises $23 million shortly after upgrade to Ethereum - Fortune",
+        "summary": "  P2P.org, a blockchain infrastructure firm, raised $23 million in a funding round led by Jump Crypto, Bybit, and Sygnum. The company simplifies the process of staking on various protocols, including Ethereum, and takes a cut of the yield. With Ethereum's recent upgrades to its staking system, companies like P2P.org are well-positioned to attract both venture and institutional capital. The funding round comes as Ethereum continues to upgrade its proof-of-stake system and as the energy-intensive proof-of-work method faces criticism for its environmental impact."
+    },
+    {
+        "title": "An Overview of Ethereum Scaling - Unchained - Unchained",
+        "summary": "  Sure, here's an overview of the article in less than 256 tokens:\n\nEthereum scaling solutions are being explored to address the problem of limited throughput and network congestion. Developers are considering various approaches, including sharding, state channels, plasma, sidechains, and rollups. Sharding involves splitting the blockchain into smaller chains to increase transaction capacity, while state channels keep transactions off the main chain and tally them offchain. Plasma involves bridging Ethereum to a child chain for transaction execution, while sidechains create their own security. Rollups are built on top of the main chain and roll up multiple transactions into one for efficient execution. The future of Ethereum scaling looks promising with a combination of network upgrades, sharding, and rollups, and external interest is focused on rollups, particularly zk-rollups."
+    },
+    {
+        "title": "Societe Generale's Crypto Division Introduces Euro Stablecoin on Ethereum - CoinDesk",
+        "summary": "  Societe Generale, a French bank, has launched an euro-denominated stablecoin on the Ethereum blockchain. This is the first stablecoin issued by a European bank and marks a significant move into the cryptocurrency space. The stablecoin, called \"EuroStable,\" is backed by euros held in a reserve and aims to provide a more stable alternative to other cryptocurrencies. While JPMorgan's JPM coin has been in use since 2020, it trades only on the bank's internal network and not on a public blockchain like Ethereum."
+    },
+    {
+        "title": "Former Ethereum miner CoreWeave raises $221M in Series B - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCoreWeave, a specialized cloud provider, raised $221M in Series B funding led by Magnetar Capital. The company will use the funds to expand cloud infrastructure for AI, ML, VFX, rendering, batch processing, and pixel streaming. CoreWeave started as an Ethereum miner but ceased operations before the Merge upgrade. The company's CEO said NVIDIA's support will help scale operations."
+    },
+    {
+        "title": "Bitcoin Tumbles Toward $29K While Ethereum Bulls Battle at $2,000 (Market Watch) - CryptoPotato",
+        "summary": "  Bitcoin dropped to $29K, with longs accounting for most liquidations. Ethereum is fighting to hold $2K, with the rest of the market largely in red. SOL lost 8.5%, while Radix (XRD) is the best performer, up 10% despite losing 9.4% in the past hour. The market is uncertain, with bulls attempting to defend pivotal levels."
+    },
+    {
+        "title": "Ethereum Name Service adds fiat payments for ENS domain registrations - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Name Service (ENS) has added fiat payments for domain registrations, making it easier for new users to obtain decentralized digital identities. Fiat payment options include Apple Pay, Google Pay, debit/credit cards through MoonPay's Web3 fiat payment gateway. This upgrade aims to expand usability beyond creating human-readable names for wallets and host censorship-resistant websites. ENS has seen over 2.3 million names created from 550,000 unique addresses, and both ENS and Unstoppable Domains are leading platforms onboarding new users to Web3 and decentralized identities."
+    },
+    {
+        "title": "Ethereum Name Service to Work With MoonPay to Build Fiat On-Ramp - CoinDesk",
+        "summary": "  Ethereum Name Service (ENS) partners with MoonPay to offer fiat on-ramp for mainstream adoption of decentralized finance (DeFi) apps. The integration aims to make it easy for users to use payment options they're familiar with, such as Apple Pay and Google Pay, to access DeFi platforms. This partnership is expected to boost mainstream adoption of DeFi and Web3 technologies."
+    },
+    {
+        "title": "Decentralized Exchange Bancor Starts On-Chain Trading Platform Carbon - CoinDesk",
+        "summary": "  Bancor, a decentralized exchange (DEX), has launched an on-chain trading platform called Carbon, allowing users to buy and sell tokens with automatic liquidity rotation. This model is similar to centralized exchanges (CEXs) but has been lacking on DEXs, according to Hindman. Bringing trading functionality to DEXs is key to driving the next wave of traders on-chain."
+    },
+    {
+        "title": "Ethereum gas fee jumped due to memecoin frenzy with mixed comments on network usability - Cointelegraph",
+        "summary": "  Ethereum gas fees have surged to a new multi-month high due to a growing memecoin frenzy, with the network's daily revenue increasing 28 times that of Bitcoin. However, the high transaction fees have sparked mixed comments on the network's usability, with some users complaining about the expensive gas fees and others highlighting the growing revenue for Ethereum. The recent surge in gas fees has been attributed to a Maximal Extractable Value (MEV) trading bot, which has spent over $950,000 in gas fees in the last 24 hours alone. The bot, operated by a user named jaredfromsubway.eth, has performed over 180,000 transactions and has used 7% of the total gas on the network in the past 24 hours. The increased gas fees have raised concerns about the affordability of the network and the impact of high transaction costs on the overall usability of Ethereum."
+    },
+    {
+        "title": "Ethereum Whale Abruptly Moves Over $313,000,000 in ETH \u2013 Here\u2019s Where the Crypto Is Headed - The Daily Hodl",
+        "summary": "  An Ethereum whale transferred $313 million worth of ETH in a single transaction, with the majority going to Coinbase. This comes as Ethereum dips below $2,000 following an ecosystem upgrade called \"Shapella.\" Other notable transfers by high-net-worth traders include $33 million to Coinbase and $49 million to an unknown wallet. The move has sparked speculation about the future of Ethereum, with some predicting a potential price increase."
+    },
+    {
+        "title": "How to Buy Ethereum 2024 - Best Places to Buy ETH - CoinJournal",
+        "summary": "  How to Buy Ethereum 2024 - Best Places to Buy ETH\n\n* eToro - Best Overall Place to Buy Ethereum in the US\n\t+ Pros: Straightforward signup, access to over 75 crypto assets, access to both coins and CFDs, $10 minimum deposit, free deposits on eToro\u2019s end, well-regulated, and strong social investing features like copy trader.\n\t+ Cons: Unavailable to US citizens living outside the US, open account, and 77% of retail investor accounts lose money when trading CFDs with this provider.\n* Binance - Best Exchange with Cheap Transaction Fees\n\t+ Pros: Low trading fees at a max of 0.10%, 24/7 support but mostly through email, affordable deposit and withdrawal fees at a max of 1.80%, supports over 60 fiat currencies, provides advanced trading tools and order types, and has a mobile app.\n\t+ Cons: The array of services could be overwhelming to new users"
+    },
+    {
+        "title": "Is Ethereum Better Than Bitcoin? - CoinCodex",
+        "summary": "  In summary, Bitcoin and Ethereum have different features and uses, with Bitcoin being more valuable and seen as a safer long-term bet due to its simplicity and predictable supply dynamics, while Ethereum is more flexible and supports more use cases but has higher transaction fees. Both are good options for investors, but it's common for investors to have both in their portfolio."
+    },
+    {
+        "title": "Ethereum Staking Provider P2P.org Raises $23M Series A - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum staking provider P2P.org has raised $23M in Series A funding from investors including Jump Crypto, Bybit, and Sygnum. The company provides staking infrastructure for 49 blockchain programs and has staked over $1.3B worth of assets. P2P.org plans to expand its business model and increase institutional interest in staking Ethereum with the recent Shanghai Upgrade. Despite Bitcoin still being a priority for institutional investors, Ethereum is seeing increased inflows and is trading at $1,841.33."
+    },
+    {
+        "title": "Ethereum Staking Provider P2P.org Raises $23M Series A - Yahoo Finance",
+        "summary": "  P2P.org, a non-custodial staking provider, has raised $23M in Series A funding from investors including Jump Crypto, Bybit, and Sygnum. The company provides staking infrastructure for 49 blockchain programs, including Ethereum, and has staked over $1.3B worth of assets. The funding will be used to expand P2P.org's portfolio and business model, with a focus on building a stronger community and improving customer experience. The recent Shanghai Upgrade has increased institutional interest in staking Ethereum, with P2P.org crediting the upgrade for the successful fundraising round. Despite Bitcoin remaining a priority for institutional investors, Ethereum has seen significant growth in staking inflows."
+    },
+    {
+        "title": "Ethereum staking outflows hit $1.3bn one week after Shapella upgrade - DLNews",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum staking outflows have reached $1.3 billion after the Shapella upgrade enabled withdrawals. Investors withdrew 1.36 million Ether worth $2.6 billion and deposited only 714,290 Ether worth $1.4 billion in the past week. Despite the outflows, the price of Ethereum has remained relatively stable. The majority of the withdrawn Ether is likely to be queued for full withdrawal, with 741,750 Ether worth $1.4 billion currently in line. Meanwhile, liquid staking services such as Lido, Rocket Pool, and StakeWise have experienced significant inflows, with Lido seeing a 2.2% increase in the amount of Ether staked via its protocol."
+    },
+    {
+        "title": "Lower BTC vs ETH correlation - Coinbase",
+        "summary": "  Lower correlation between Bitcoin (BTC) and Ethereum (ETH) returns has been observed since mid-March, with the correlation coefficient dropping from 0.95 to 0.82 as of April 20. This decrease is significant at a 85-90% confidence level and below the 12-month average of 0.90 and the January low of 0.85. The correlation between the two assets has otherwise remained relatively stable and high throughout 2022 and 2023, with some idiosyncratic deviations in September and January. The falling correlation may affect quantitative strategies that rely on cross-hedging or using ETH as a hedge for less liquid altcoins, but it supports diversification arguments in favor of holding both BTC and ETH. As of April 20, around 73k ETH could be unlocked in partial withdrawals and 822k ETH could be unlocked in full withdrawals, which could take around 15 days to process."
+    },
+    {
+        "title": "SG Forge taps Ethereum for euro stablecoin, \"CoinVertible\" - CryptoSlate",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nSG Forge, a regulated crypto arm of French banking firm Societe Generale, is launching a new euro stablecoin called \"CoinVertible\" on the Ethereum blockchain. The stablecoin, EURCV, will be exclusive to investors who have undergone KYC and AML procedures and will be listed on exchanges in the coming months. SG Forge highlights the advantages of stablecoins, including enabling fresh solutions for corporate treasury, cash management, and cash pooling activities. The company emphasizes the stability and security of the stablecoin, guaranteeing the separation of assets used to secure its value from the issuer, and providing daily transparency reports."
+    },
+    {
+        "title": "Subway-themed trading bot makes millions using 'sandwich' attacks - Cointelegraph",
+        "summary": "  Subway-themed trading bot makes millions using'sandwich' attacks on meme coins. An anonymous MEV bot operator has made over $1.38 billion in profits by executing \"sandwich attacks\" on buyers and sellers of two new meme coins, Pepe (PEPE) and Wojak (WOJAK). The bot, linked to the Ethereum Name Service (ENS) domain \"jaredfromsubway.eth,\" has spent over $7 million in gas fees across 180,000 transactions. The profits came from nearly $1.2 million being spent on gas fees between April 18 and 19, with the bot accounting for 7% of all Ethereum gas fees over a 24-hour period. The sandwich attack occurs when an attacker \"sandwiches\" a victim's transaction between their own two transactions to manipulate the price and profit from the user. While some find humor in the bot's domain name and actions, others are frustrated and expressing their hatred towards the operator. Several MEV Block projects have been launched to help protect Ethereum"
+    },
+    {
+        "title": "Memecoins PEPE and WOJAK Take Ethereum By Storm - CoinGape",
+        "summary": "  PEPE and WOJAK, two popular memecoins, have taken the Ethereum blockchain by storm, with a combined transaction volume of over $370 million. PEPE has become the most popular memecoin on Ethereum, with a transaction volume of over $250 million, while WOJAK has seen a transaction volume of over $120 million. This surge in popularity highlights the growing interest in memecoins and their potential as a new asset class."
+    },
+    {
+        "title": "What's the big deal about Account Abstraction (AA) for Ethereum wallets? - The News Minute",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\n\"Account Abstraction (AA) for Ethereum wallets: The distinction between an account and a signer is redundant. Private key ownership grants access to an account at a specific address, and the EVM's logic is hardcoded to enforce this relationship.\""
+    },
+    {
+        "title": "SocGen subsidiary is first systemic bank to issue stablecoin on public blockchain - Ledger Insights - Ledger Insights",
+        "summary": "  Societe Generale Forge, a subsidiary of global systemically important bank Societe Generale, has issued the first public blockchain stablecoin, EURCV, with plans for other blockchains. This is the first time a major commercial bank has issued a stablecoin on a public blockchain. The stablecoin is backed by cash and short-term securities with credit ratings equivalent to or better than Societe Generale, and is designed for use as a settlement asset for on-chain transactions. The company received its digital asset license last year and plans to list the stablecoin on digital asset exchanges. The issuance is seen as a key step in increasing trust and confidence in the native crypto ecosystem."
+    },
+    {
+        "title": "Texans Can Now Buy A Home With Cryptocurrency - Local Profile",
+        "summary": "  Texans can now buy homes using cryptocurrency through a new platform launched by MyEListing, an Austin-based startup. The platform allows for the use of cash or cryptocurrency for property transactions, with the option to list both commercial and residential properties for sale. The company's ASAP program enables sellers to complete transactions in a single business day, and the platform utilizes Coinbase Commerce for currency conversion and Millennial Title and Championship Title for title work. Some North Texas properties are currently available on the platform, including a $499,000 home site in Grapevine and two commercial properties in D-FW, with prices ranging from $4.3 million to $3.9 million. The platform is currently only available for Texas-based properties, but the company plans to expand to two or three additional states by June."
+    },
+    {
+        "title": "tomi unveils the first privacy stablecoin on its Ethereum L2 amid U.S. crackdown - AlexaBlockchain",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nTomi, a decentralized finance (DeFi) platform, has launched TPL, an encrypted Layer 2 protocol that enables private transactions on Ethereum for the first time. TPL offers a privacy-first architecture, allowing users to access L1 applications while maintaining complete privacy. Tomi has also unveiled tpUSD, a privacy stablecoin pegged to the value of the US dollar, which is the first token on TPL. The launch of TPL and tomiNET, a privacy-preserving alternative internet ecosystem, marks a significant milestone for the project, which aims to empower individuals to transact freely and privately without interference from third parties."
+    },
+    {
+        "title": "Horizen Launches EON, its Public EVM-Compatible Sidechain, on Gobi Testnet and Offers up to $75000 in Bug Bounties - Business Wire",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nHorizen, a layer 0 public blockchain, has launched its first public proof-of-stake and Ethereum Virtual Machine (EVM) compatible smart contracting sidechain, EON, on permanent testnet Gobi. The sidechain is designed to provide more opportunities for efficient development and usage of decentralized applications (dapps) and services. Horizen has partnered with Immunefi on a bug bounty program offering up to $75,000 in bounties for reporting vulnerabilities to strengthen the security and integrity of the EON platform. Early participants and integrators have already started building on the EON ecosystem, which is supported by a network of products, integrations, and developer tools."
+    },
+    {
+        "title": "Crypto in Bloom: A Look at the April 2023 Forecast for Bitcoin, Ethereum, and Dogetti - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCryptocurrency investors are looking for new opportunities, and presale platforms are gaining popularity. Bitcoin (BTC) and Ethereum (ETH) are performing well in 2023, with price increases of 68.4% and 49.2%, respectively. A new presale coin, Dogetti (DETI), is gaining attention and has a unique 2% reflection protocol and decentralized exchange. The April 2023 market forecast for these coins looks promising, but predicting future prices is challenging. Investors can find more information on the Dogetti presale at the provided links."
+    },
+    {
+        "title": "Does the Zilliqa coin have a future? - Times of Malta",
+        "summary": "  Zilliqa (ZIL) is a cryptocurrency that has gained significant attention and popularity in recent months. According to the article, Zilliqa's current details and future price prediction are as follows:\n\n* Current details: Zilliqa has a market capitalization of $393 million, a circulating supply of 15.9 billion, and a price of $0.02478. It has a 24-hour price change of 9.52% and a 7-day price change of -7.55%.\n* Future prediction: The article predicts that Zilliqa's price will reach $0.0195 in 2023, $0.025 in 2024, and $0.05 by 2025. These predictions are based on the company's unique features, such as its liquidity, lightning-fast transaction speeds, and ability to detect fraudulent transactions.\n\nOverall, the article suggests that Zilliqa has a promising future and could potentially outperform its competitors. However, it is important to note that the cryptocurrency market"
+    },
+    {
+        "title": "Ethereum-Shibarium Bridge: Unlocking New Possibilities for the Shiba Inu Community - CryptoGlobe",
+        "summary": "  The Ethereum-Shibarium Bridge is an upcoming solution that will enhance the Shiba Inu ecosystem by providing seamless, secure cross-chain transactions for SHIB users. The bridge will allow users to transfer tokens between networks without third-party risks or liquidity impacts, and will be fast, cost-effective, and versatile. The bridge will leverage a dual consensus architecture (Plasma + PoS platform) to prioritize speed and decentralization, and will enable arbitrary state transitions on sidechains with EVM support. The beta test network for Shibarium is named PUPPYNET, and has successfully executed 4.3 million transactions and reached 13.9 million wallet addresses. Gas fees are currently 1.51 Gwei, which is virtually cost-free."
+    },
+    {
+        "title": "Best Altcoins to Buy in UAE in 2023 - Emirates Business 24/7",
+        "summary": "  The article discusses the best altcoins to buy in the UAE in 2023, including LuckyBlock, Ethereum, Solana, Binance Coin, Polkadot, Polygon, Cosmos, Fantom, and Cardano. The article highlights the unique features and potential of each altcoin, and provides information on how to buy them on cryptocurrency exchanges such as eToro. The bottom line is that there are many interesting investment opportunities in the cryptocurrency market, and it is important to trade on regulated and reliable exchanges."
+    }
+]

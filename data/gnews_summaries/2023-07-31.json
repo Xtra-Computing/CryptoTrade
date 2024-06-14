@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Celo Proposal to Migrate to Ethereum Layer 2 Passes - CoinDesk",
+        "summary": "  Celo, a decentralized finance (DeFi) platform, has proposed to migrate to Ethereum's layer 2 solution, passing the proposal at Consensus 2024. This move aims to improve scalability and reduce transaction costs for the platform. Register and buy your pass now at consensus.coindesk.com to learn more about this and other industry developments."
+    },
+    {
+        "title": "Ethereum's 8th birthday: Crypto industry shares its top moments - Cointelegraph",
+        "summary": "  Ethereum celebrated its 8th birthday on July 30, 2023, with the crypto community sharing their fond memories and looking back at its growth since inception. The network has grown to become the second-largest crypto asset with a market capitalization of $225 billion and over 1,900 monthly active developers. Ethereum has reportedly secured $400 billion in value, generated $3.6 billion in annual profits, and has a total of 17.8 million blocks of digital assets. The network has been integral to the initial coin offering boom and the explosion of decentralized finance (DeFi) protocols. Ethereum has also successfully implemented the Merge upgrade, transitioning from a proof-of-work to a proof-of-stake consensus mechanism, reducing its energy usage and unlocking staking incentives for validators and investors."
+    },
+    {
+        "title": "Ethereum Price Analysis: Will Megaphone Pattern Trigger a New Recovery Cycle to $2200? - CoinGape",
+        "summary": "  Ethereum price is consolidating within a megaphone pattern, with support at $1830. The price has failed to break out of the resistance at $1890, leading to a sideways trend. If the sellers continue to pressure the market, the price could drop to $1800. However, if the buyers can break the resistance at $1890, the price could potentially regain $2000. The Bollinger band and MACD indicators suggest uncertainty among traders."
+    },
+    {
+        "title": "Ethereum Name Service (ENS): A Guide to .ETH Domains - Unchained",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Name Service (ENS) is a decentralized naming system on the Ethereum blockchain that provides human-readable names for machine-readable addresses. It simplifies the user experience and makes the network more accessible, similar to Domain Name System (DNS).\n\nENS has three components: registry, resolver, and ENS name. The registry stores domain names and their corresponding Ethereum addresses, while the resolver updates domain names to Ethereum addresses. The ENS name is registered after a confirmation of the entry to the registry.\n\nTo get an ENS domain, you need a non-custodial Ethereum wallet and some ETH. The wallet should support ENS, and you need to pay for domain registration and transaction fees. The cost varies depending on the length of the domain name.\n\nThe steps to get an ENS domain are:\n\n1. Connect your wallet to ENS\n2. Search for your desired domain name\n3. Purchase the domain name\n4. Complete registration and set the resolver\n\n"
+    },
+    {
+        "title": "EU's MiCA rules could prohibit MEV activities on Ethereum - crypto.news",
+        "summary": "  The EU's MiCA rules could prohibit MEV activities on Ethereum and other smart contract platforms. The Markets in Cryptoassets (MiCA) regulation, adopted by the European Parliament in April 2023, aims to prevent and prohibit market abuse involving crypto-assets. Article 92 of MiCA holds potential implications for MEV participants operating within the EU, as it could deem MEV to be illegal market abuse (transaction ordering). The regulation covers all transactions, orders, or behaviors related to any crypto-asset traded on exchanges, including those that occur on-chain. MEV, the practice of extracting the maximum value from block production by manipulating transaction order, is now under scrutiny due to MiCA. The regulation allows agencies to examine certain MEV practices that could be construed as market manipulation, mainly if they involve artificial price inflation or deceptive transactions. This could impact Crypto-Asset Service Providers (CASPs) and platforms, including exchanges approved to operate in the region, ensuring market liquidity for leading tokens while concurrently complying with the stringent MiCA requirements. The"
+    },
+    {
+        "title": "Sorare is no longer an Ethereum-only platform \u2014 users can now pay with fiat - Blockworks",
+        "summary": "  Sorare, a fantasy sports platform, has expanded its payment options to include fiat currencies in addition to Ethereum. The move follows a partnership with Mangopay, a payments infrastructure provider. Users can now pay for games and digital cards in US dollars, euros, and pounds. The platform, which was founded in 2018, has attracted significant investment and now has a valuation of $4.3 billion. The CEO, Nicolas Julia, stressed that the platform remains blockchain-based but that the integration of fiat currencies enhances accessibility."
+    },
+    {
+        "title": "Ethereum\u2019s Best Months Still Yet To Come, According to Crypto Analyst Benjamin Cowen \u2013 Here\u2019s Why - The Daily Hodl",
+        "summary": "  Ethereum analyst Benjamin Cowen suggests that the best months to buy ETH are late Q4 or early Q1, based on historical data. He found that December and January have been the best months for ROI, while July was the worst. Cowen notes that there is clear seasonality associated with Ethereum, and investors who accumulate at the end of the year tend to perform better. As of writing, ETH is trading at $1,858."
+    },
+    {
+        "title": "How an Ethereum Bot Used Uniswap to Save $5.4 Million From Curve Exploit - Decrypt",
+        "summary": "  A decentralized trading bot used the Vyper programming language exploit in Curve Finance to save $5.4 million from an attack that stole $52 million from the platform. The bot, c0ffeebabe.eth, used flash loans and Uniswap to capitalize on the discrepancy in the price of Curve DAO (CRV) on Uniswap and Curve, and exchanged 70 Ethereum for over 190,000 CRV. The initial burst of CRV directed at Curve's CRV-ETH pool caused the Vyper bug to throw it out of balance, allowing the bot to exchange its remaining CRV for 2,949 Ethereum, 317 times what it would have otherwise been able to get without the exploit. The bot eventually parted with what would have been its biggest payday ever and returned the stolen funds to Curve."
+    },
+    {
+        "title": "Kraken Fixes Ethereum Funding Gateway Issues - Finance Magnates",
+        "summary": "  Kraken, a cryptocurrency exchange, has fixed an issue with its Ethereum funding gateway that was causing delays in deposits and withdrawals. The exchange did not provide details but announced the solution on its status page. Additionally, the exchange suspended trading on its futures platform for maintenance. The exchange's co-founder, Jesse Powell, is under investigation by federal law enforcement agencies for allegedly hacking a non-profit entity he founded. The IRS has also ordered the exchange to submit information related to historical transactions and users' accounts for an examination of underreported taxes."
+    },
+    {
+        "title": "Wombat Exchange's Ethereum Expansion: A New Burrow Begins August 4 - Crypto Briefing",
+        "summary": "  Wombat Exchange, a stableswap platform, is expanding to Ethereum on August 4, leveraging the network's liquidity and capitalizing on its success on BNB Chain and Arbitrum. The expansion will bring advanced functionalities such as minimal slippage, single-sided provisions, and rapid calculations to save on gas fees and time. Special rewards and incentives are planned for the launch week, and partnerships with leading protocols such as Lido are expected. The expansion aligns with Wombat's mission to build a premier multi-chain stableswap ecosystem, and the launch marks a significant moment in its growth."
+    },
+    {
+        "title": "SEC Required Coinbase to Trade Only Bitcoin, Exclude Ethereum and All Other Cryptos, Reports FT - Blockchain.News",
+        "summary": "  The US Securities and Exchange Commission (SEC) has requested that Coinbase cease trading all cryptocurrencies except Bitcoin, reports Financial Times. Coinbase CEO Brian Armstrong revealed that the SEC believes all assets except Bitcoin are securities, but the regulatory body did not clarify how this conclusion was reached. The SEC has filed a lawsuit against Coinbase for failing to register as a broker and has identified 13 smaller cryptocurrencies traded on the platform as securities. The move could establish a precedent for other US crypto companies to operate outside legal boundaries unless registered with the SEC."
+    },
+    {
+        "title": "Ethereum is about to get crushed by liquid staking tokens - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's native cryptocurrency, ETH, may soon be replaced by liquid staking tokens (LSTs) due to their advantages over traditional ETH. LSTs offer flexibility for tokenholders to engage in other activities across different networks while still earning ETH staking rewards. The cost to entry for LSTs is lower than regular ETH staking, making it appealing for reaching new audiences and smaller dollar investors. The transition to LSTs will come swiftly, but it's still early days, and LSTs have a much larger market potential than their current market share represents. The growth of LSTs could usher in an age where all ETH is staked through liquid staking protocols, and users will do all trading and other activities using LSTs. An LST takeover would be a positive thing for the industry, as it could attract new users and provide a new breath of life to the crypto industry."
+    },
+    {
+        "title": "Long-Dormant Ethereum (ETH) Wallet Awakens - U.Today",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nAn inactive Ethereum wallet has shown signs of life, transferring $1.19 million worth of ETH and beginning staking. This coincides with Ethereum's 8th anniversary and follows another large Ethereum transfer in late May. The market cap is $224.17 billion, with Ethereum ranked second after Bitcoin. Large Ethereum holders' activities have sparked speculation but are unlikely to significantly impact the market."
+    },
+    {
+        "title": "Ethereum logs $1M MEV block reward amid Curve Finance exploit - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum experienced a significant MEV (maximal extractable value) block reward of $1M due to the exploit of Curve Finance stable pools on July 30. The MEV bot generated extra revenue by reordering and inserting transactions in the block to generate arbitrage opportunities. The validator received a cut of the revenue in exchange for allowing the MEV bot to front-run the transaction. The highest MEV bot block reward was 584.05 ETH, followed by 345 ETH and 247 ETH. The article raises moral questions about the use of potentially illicit funds to pay validators for front-running transactions."
+    },
+    {
+        "title": "Curve Exploit Results in Largest MEV Block Rewards in Ethereum's History - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMEV bots on Ethereum have received large reward blocks for front running transactions in the mempool, with one bot receiving over $1 million. This is the largest MEV reward block in Ethereum's history. The rewards stem from exploits on Curve Finance's liquidity pools on Sunday. MEV bots pay block producers to move transactions up the line, earning them the rewards. While some question the morality of block producers keeping these funds, one MEV bot deployer has returned 2,879 ETH worth $5.3 million to the Curve deployer contract."
+    },
+    {
+        "title": "Ethereum Price Recovery Could Soon Fade If ETH Fails To Surpass $1,900 - NewsBTC",
+        "summary": "  Ethereum price is struggling to break above $1,880 and $1,900 resistance levels, and a fresh decline could occur if it fails to surpass $1,875. The pair is trading below $1,875 and the 100-hourly Simple Moving Average, with immediate resistance at $1,875 and the 100-hourly SMA. The first major resistance is at $1,885, followed by $1,900, $1,950, and $2,000. If Ethereum fails to clear $1,875, it could start another decline with major support levels at $1,850, $1,820, and $1,780. Technical indicators such as MACD and RSI are losing momentum in the bullish zone, indicating potential weakness in the market."
+    },
+    {
+        "title": "DeFi Exchange Curve Finance Confirms Various Ethereum Pools Hacked - Decrypt",
+        "summary": "  DeFi exchange Curve Finance confirms hack of various Ethereum pools, including Arbitrum-based liquidity pool, resulting in potential loss of $52 million. The hack is believed to be due to a vulnerability in the Vyper compiler, with the attackers likely spending weeks to months to find the exploit. Other DEXes, such as Ellipsis, have also reported stable swap pool exploits on BNB Chain. South Korean exchange Upbit has temporarily suspended deposits and withdrawals of CRV tokens as a precautionary measure."
+    },
+    {
+        "title": "Machine learning algorithm sets Ethereum price for end of August 2023 - Finbold - Finance in Bold",
+        "summary": "  Ethereum price predicted to reach $1,785 by end of August 2023 using machine learning algorithm. ETH currently trading at $1,866 with a marginal decline of 0.4% for the day. Support level at $1,811 and resistance level at $1,926. Mixed sentiment towards ETH with a neutral rating of 10 in the 1-week technical analysis. Indicators show a 'buy' signal at 10 and oscillators currently residing in the'sell' zone at 2."
+    },
+    {
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: BTC produces fresh lows at the start of new week - FXStreet",
+        "summary": "  Bitcoin (BTC) and Ethereum (ETH) prices are consolidating, with BTC potentially falling to $27,000 and ETH losing 5% to $1,782. Ripple (XRP) could drop 3% to $0.684 before reversing and climbing north."
+    },
+    {
+        "title": "8-Year Dormant Ethereum Wallet Just Moved $1.2 Million In ETH, Here\u2019s The Destination - NewsBTC",
+        "summary": "  An 8-year dormant Ethereum wallet recently moved $1.2 million worth of ETH, with the funds being staked. The wallet had received 2,000 ETH from Ethereum's Genesis in 2015, which is now worth over $3.7 million. This movement is part of a recent trend of long-dormant Ethereum ICO participants stirring, with several transferring their ETH holdings. The motives behind these transactions remain unclear, adding to the mystery. Despite this activity, Ethereum has seen a continuous downtrend in the past few weeks, with the asset currently trading at $1,866."
+    },
+    {
+        "title": "Shiba Inu More Popular Than Ethereum, Dogecoin in the U.S. - Watcher Guru",
+        "summary": "  Shiba Inu (SHIB) is more popular than Ethereum (ETH) and Dogecoin (DOGE) in the US, according to a study by Cryptobetting.com. SHIB had 484,000 search volumes, while Bitcoin (BTC) had 1,910,000. Despite its popularity, SHIB has struggled to perform in 2023 and has faced delays in its layer-2 network launch. However, the network is expected to debut sometime in August, which may help drive up demand and asset price."
+    },
+    {
+        "title": "Ethereum Records Largest MEV Reward Blocks Amid Curve Exploit - Crypto Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has seen its largest MEV reward blocks ever, with a single block generating 584 ETH in rewards. This is due to an exploit on Curve Finance, a DeFi protocol, which led to front-running transactions and substantial rewards for block producers. MEV bots are designed to make profits by analyzing mempool transactions and inserting their own transactions to generate post-execution profitable trades. The highest MEV block reward was 584.05 ETH, worth approximately $1 million, while others were 345 ETH and 247 ETH."
+    },
+    {
+        "title": "As Ethereum turns 8, here\u2019s a look at its spectacular journey - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum celebrated its 8th birthday with notable achievements, including becoming the second-largest crypto asset globally.\n\n* Ethereum's native currency, ETH, has experienced a remarkable journey, soaring from $1 to $1,865.82.\n* The network has seen significant growth in both price and holder base, with over 103 million holders.\n* Crypto celebrities like Sandeep Nailwal and Changpeng Zhao shared their thoughts on Ethereum's milestone.\n* Ethereum underwent two significant updates last year, including the Merge and Shapella upgrades.\n* An Ethereum ICO participant woke up after 8 years of dormancy and started staking, receiving $3.7 million in returns.\n* The number of Ethereum validators grew by 8.96% over the last month, with 698,924 validators on the network at press time."
+    },
+    {
+        "title": "Bitcoin, Ethereum, Dogecoin Tumble After SEC Lawsuit Against Internet Marketer Richard Heart: Analyst Say - Benzinga",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMajor cryptocurrencies (Bitcoin, Ethereum, Dogecoin) declined after the SEC sued internet marketer Richard Heart and his projects. The lawsuit may impact the DeFi ecosystem, but analysts don't expect a massive sell-off for Bitcoin. The recent exploit on the stablecoin exchange Curve also contributed to the market's decline. CRV, the token associated with Curve, experienced a 10.3% decline. The global crypto market capitalization decreased by 0.78% in the last day. Stocks saw a modest increase on Monday, with the S&P 500 and Nasdaq Composite rising by 0.15% and 0.21%, respectively."
+    },
+    {
+        "title": "Ethereum L2 War: Here's How Optimism (OP) Is Faring Now - U.Today",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum L2 scaling war continues, with Optimism (OP) leading the price resurgence. OP up 7.15% in past 24 hours to $1.70, with 10% growth in trailing 7-day period. Optimism has competitors but stands out with maximum TPS of 10.93, according to L2Beat. Popularity grows with Base scaling tool built on OP Stack. Optimism records partnerships to enhance functionalities."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin below $29,500; Ethereum holds $1,850; Tron & Shiba Inu fall 6% - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto prices were mixed today, with Bitcoin below $29,500 and Ethereum holding $1,850. Tron and Shiba Inu fell 6%, while Dogecoin and Solana shed 2%. Bitcoin Cash surged 6% and Polygon gained 2%. The global cryptocurrency market cap rose slightly to $1.19 trillion, with total trading volumes up 45%. Tech View by Giottus Crypto Platform suggests that BNB is consolidating in a horizontal channel, with resistance at $250 and support at $235."
+    },
+    {
+        "title": "EIP-6968 Set To Enable Revenue Sharing For Ethereum - CryptoDaily",
+        "summary": "  Ethereum developers propose EIP-6968 to enable revenue sharing for dApp creators through a new token, \"Contract Secured Revenue\" (CSR). This token would allow developers to claim a percentage of transaction fees generated when users interact with their smart contracts. The proposal aims to incentivize developers to create and deploy dApps on Layer 2 (L2) networks, fostering innovation and community growth. The revenue generated could be used for funding dApp development, public goods, or incentivizing developers to join a network. EIP-6968 has gained attention following a presentation at the EthCC conference in Paris and could revolutionize the Ethereum scaling sector by introducing a novel incentive for developers."
+    },
+    {
+        "title": "CZ Says He Would Not Have Started Binance Had He Bought ETH Early - U.Today",
+        "summary": "  CZ, the founder of Binance, reveals that he regrets not buying Ethereum when it launched in 2015, calling it a \"miss of a lifetime.\" He credits Ethereum with making ICOs possible, which in turn allowed Binance to be created. CZ also shares a rare photo with Vitalik Buterin, the co-founder of Ethereum, and mentions that he has known him since 2013. Meanwhile, Shiba Inu, a popular meme coin, is set to celebrate its birthday on July 31, 2023, after being created on the Ethereum chain in 2020."
+    },
+    {
+        "title": "BNB Smart Chain hit with copycat Vyper attack, $73K exploited - Cointelegraph",
+        "summary": "  BNB Smart Chain hit with copycat Vyper attack, $73K exploited - Cointelegraph\n\nA vulnerability in the Vyper programming language has led to copycat attacks on the BNB Smart Chain (BSC), resulting in the theft of around $73,000 worth of cryptocurrencies. The exploits follow a similar pattern to the one on the decentralized finance (DeFi) protocol Curve Finance, which has resulted in losses exceeding $41 million. The malfunctioning reentrancy lock on Vyper versions 0.2.15, 0.2.16, and 0.3.0 is believed to be the cause of the vulnerability. White hat and black hat hackers are currently duking it out on-chain, with one potential whitehat, c0ffebabe.eth, attempting to recover funds. Nearly 2,900 Ether worth over $5 million has been returned to Curve so far."
+    },
+    {
+        "title": "ChatGPT Picks Cosmos, Ethereum Classic, and Pomerdoge As Best Investments for 2023 - Techpoint Africa",
+        "summary": "  ChatGPT has picked Cosmos, Ethereum Classic, and Pomerdoge as the top investments for 2023 due to their strong fundamentals and growth potential. Cosmos is an interoperable and scalable blockchain, Ethereum Classic is gaining adoption for DeFi solutions, and Pomerdoge is a play-to-earn platform with enormous growth potential. The presale for Pomerdoge is currently underway, with prices starting at $0.007."
+    },
+    {
+        "title": "What Are Blue Chip Cryptos, and Are They Safe Bear Market Options? - Bybit Learn",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\n\"Blue chip cryptos\" are well-established and reputable cryptocurrencies like Bitcoin, Ethereum, and Litecoin. They are considered safe bear market options as they have a strong track record and are less likely to experience extreme price volatility. Bybit is offering up to 5,000 USDT in rewards for signing up and trading on their platform, including a 20 USDT instant coupon."
+    },
+    {
+        "title": "Layer-1 Blockchain Explained - LCX",
+        "summary": "  Layer-1 blockchains prioritize security, decentralization, and scalability, but the latter is a major limitation. Consensus mechanisms, sharding, and changing the consensus mechanism can improve scalability. Notable Layer-1 blockchains include Bitcoin, Ethereum, Polkadot, and Solana, each with unique features and use cases. Layer-1 protocols have the potential to underpin transformative applications and reshape the global economic and social landscape."
+    },
+    {
+        "title": "Ethereum (ETH) Price Gains Strength Amid Sideways Bitcoin (BTC) Chop - Analytics Insight",
+        "summary": "  Ethereum (ETH) price is gaining strength amid sideways Bitcoin (BTC) price action, with the ETH/BTC pair extending its gains despite a narrow BTC range. ETH price plunged to fresh 52-week lows against BTC but has since rebounded. Lack of volatility in Bitcoin has created buying opportunities in other cryptos, including Ethereum. However, Ethereum TVL has decreased by 77% from its all-time high, likely due to scaling issues and higher gas fees. The ETH price chart shows a massive resistance above $2,000, but as long as the price remains above an upward trendline, the outlook remains bullish. A breakdown below the 200-day moving average could flip the outlook bearish."
+    },
+    {
+        "title": "Ethereum boss in Benglauru: 'Ghevar' cake, masala dosa on 8th anniversary - Moneycontrol",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum founder Vitalik Buterin celebrated the cryptocurrency's 8th birthday in Bengaluru with local delicacies like 'ghevar' cake and masala dosa. Buterin has a personal connection with India beyond food, having donated $1 billion in Shiba Inu cryptocurrency coin to support Covid efforts in the country in 2021. However, only 5% of the original donation made it to Covid relief efforts in India, and CryptoRelief returned $100 million to Buterin to avoid conflict with Indian laws."
+    },
+    {
+        "title": "\u2018Happy Birthday, Ethereum!\u2019: Vitalik Buterin celebrates Ethereum's birthday in Bengaluru with 'ghevar' cake, masala dosa - Business Today",
+        "summary": "  Vitalik Buterin, the founder of Ethereum, celebrated the cryptocurrency's 8th birthday in Bengaluru with a traditional Indian dessert called \"ghevar\" cake. Buterin, along with other Ethereum founders, has seen the platform grow exponentially since its inception and has discussed the upcoming Ethereum 2.0 upgrades. However, a recent report indicates that only 5% of Buterin's original donation to support India's fight against COVID-19 was utilized due to the volatile nature of meme coins."
+    },
+    {
+        "title": "Ethereum L2 meme coin BALD, under Coinbase incubation, rug-pulls $68 million from investors at \u201cpresale stage\u201d - FXStreet",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBALD, an Ethereum Layer-2 meme coin, has been revealed as a rug pull, with the project developer disappearing and leaving investors with $68 million in losses. The coin was launched on Coinbase's BASE blockchain and quickly gained popularity due to its high gains, with some investors making millions in a short time. However, the developer removed nearly 70% of the liquidity, causing investors to lose their funds. The incident has highlighted the risks of investing in unvetted projects and the importance of proper due diligence."
+    },
+    {
+        "title": "Eight Years of Ethereum: A Walk Down Memory Chain | Bitcoinist.com - Bitcoinist",
+        "summary": "  Eight years ago, Ethereum was launched as a decentralized world computer with smart contract functionality, aiming to revolutionize the way we execute peer-to-peer agreements and applications. Since then, Ethereum has established itself as the leading smart contract platform, enabling a new wave of decentralized applications across various industries. Here are some key milestones in Ethereum's history:\n\n1. Origins and launch (2013-2015): Ethereum was first proposed by Vitalik Buterin, and the non-profit Ethereum Foundation was created to oversee open-source development. The Genesis block launched in July 2015, with an initial Ether supply of 72 million coins and an initial price of $0.311 per ETH.\n2. ICO boom (2017): Ethereum became the platform of choice for launching initial coin offerings (ICOs), with over $6 billion raised in 2017. However, the lack of regulation led to many sham offerings, and the ICO market partially collapsed.\n3. R"
+    },
+    {
+        "title": "Ethereum Celebrates 8th Anniversary \u2013 Crypto Twitter Reacts to The Role The Project Played in The Industry \u2013 Can ETH Continue Leading The Market? - Crypto News Flash",
+        "summary": "  Ethereum, the second-largest cryptocurrency by market capitalization, turned 8 years old on July 30, 2023. The Ethereum Foundation launched the network in 2015. The crypto community is celebrating the milestone with nostalgic moments and reflection on Ethereum's journey since its inception. Key highlights include:\n\n* Ethereum has experienced significant growth, becoming an \"unstoppable progress\" with a market capitalization of $225 billion and an impressive thriving community of 1,900 developers.\n* Ethereum's 8 years of progress include an astounding secured value of $400 billion, resulting in annualized profits of $3.6 billion.\n* The Ethereum blockchain currently comprises 17.8 million blocks of uncensorable digital property.\n* Binance CEO Changpeng Zhao shared a story on Twitter about his time with Ethereum co-founder Vitalik Buterin, highlighting the project's remarkable achievements.\n* Udi Wertheimer, a former Bitcoin enthusiast"
+    },
+    {
+        "title": "Elon Musk Reveals 22-Year Plan to Transform X into World\u2019s Most Valuable Financial Institution \u2013 Is Integration of Bitcoin, Dogecoin, XRP, and Ethereum Part of The Plan? - Crypto News Flash",
+        "summary": "  Elon Musk plans to transform Twitter into a comprehensive financial platform, potentially integrating cryptocurrencies like Bitcoin, Dogecoin, XRP, and Ethereum. Musk has a 22-year plan to make Twitter the most valuable financial institution globally. Twitter has already obtained money transmitter licenses in some US states, indicating a commitment to building a robust payment infrastructure. While some may question the impact of integrating cryptocurrencies, Musk's massive following could drive broader adoption. The integration of digital assets could open up crypto transactions to a wider audience and facilitate the use of fintech and blockchain solutions. Twitter's previous partnership with Strike, a payments startup, hinted at its initial foray into cryptocurrencies. With Musk's vision and innovation, Twitter's transformation into a financial powerhouse seems increasingly plausible."
+    },
+    {
+        "title": "ERC-223 lands among the Ethereum standards - The Cryptonomist",
+        "summary": "  ERC-223, a new token standard proposed by Dexaran in 2017, has been added to Ethereum's official standards list. The standard aims to solve security and usability issues of the classic ERC-20 standard. It prevents users from accidentally sending tokens to contract addresses and simplifies the user experience by allowing assets to be sent via a single transfer function. Additionally, ERC-223 allows developers to manage incoming token transactions on contracts, reduces unnecessary gas fee spending, and makes transactions similar to those of Ether. The standard is backward compatible with ERC-20 tokens and can be converted 1:1 at any time without cost or restriction. Dexaran will publish tutorials and guidelines on how to work with ERC-223 tokens in the coming days."
+    },
+    {
+        "title": "How To Bridge Coins Back From Base To Ethereum: A Comprehensive Guide - Captain Altcoin",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe Base chain allows users to withdraw ETH back to the Ethereum mainnet after a 7-day waiting period. This is done by visiting the L2StandardBridge contract and filling out the necessary fields, including the amount of ETH to withdraw and the transaction hash. The Optimism stack, which includes the Base chain, was designed with a built-in mechanism for bridging back from L2 to L1. A command-line tool written by the Base team can be used for withdrawals. Users can confirm that their proof went through by looking up the transaction hash on Etherscan, and they will have to wait 7 days before finalizing the withdrawal."
+    },
+    {
+        "title": "Ethereum founder Vitalik Buterin relishes \u2018Ghevar\u2019, \u2018Masala Dosa\u2019 in India - Glamsham",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, celebrated the cryptocurrency's 8th birthday in India with traditional Indian sweets such as Ghevar and Masala Dosa. Buterin was seen enjoying the sweets with Ethereum-based Blockchain platform Polygon COO Sandeep Nailwal and founder of CryptoRelief. Buterin has also made a significant donation to the India Covid-Crypto Relief Fund in 2021."
+    }
+]

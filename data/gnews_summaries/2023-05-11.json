@@ -1,0 +1,66 @@
+[
+    {
+        "title": "What is Ethereum & How Does it Work? ETH for Beginners - CoinJournal",
+        "summary": "  Eight teams are working on Ethereum development projects globally, led by Raul Jordan's ETH 2.0 project. These teams are:\n\n1. PegaSys - enterprise blockchain software development\n2. ChainSafe - blockchain consultation for Ethereum-based projects\n3. Parity Technologies - blockchain infrastructure\n4. Harmony - 2.0 update specification and implementation\n5. Prysmatic Labs - Go-based Ethereum 2.0 development\n6. Trinity - Python-based Ethereum client development\n7. Status - mobile browser and messaging platform for mass adoption\n8. Sigma Prime - Ethereum 2.0 client development (Lighthouse)\n\nThese teams are working on various projects, including Proof of Stake (PoS) protocol implementation, enterprise blockchain software development, and mobile optimization for user engagement."
+    },
+    {
+        "title": "Everything you need to know about the Ethereum Cancun upgrade - Kraken Blog",
+        "summary": "  The Ethereum Cancun upgrade is a planned improvement to the Ethereum blockchain that aims to improve scalability, security, and usability. The upgrade includes the highly anticipated Ethereum Improvement Proposal (EIP) 4844, which introduces Proto-Danksharding, a stopgap solution to reduce rollup gas fees ahead of full sharding implementation. Proto-Danksharding includes the introduction of blob-carrying transactions, which allow rollups to store transaction data in a more cost-effective manner. The upgrade also includes other EIPs, such as EIP-663 for unlimited SWAP and DUP instructions, EIP-5920 for PAY opcode, and EIP-1153 for transient storage. The Cancun upgrade is expected to go live in the second half of 2023, with the goal of preparing the network for full data sharding and reducing the implementation work needed later."
+    },
+    {
+        "title": "Ethereum failed to finalize transactions for 25 minutes but avoided full outage - CryptoSlate",
+        "summary": "  Ethereum experienced a 25-minute transaction finalization failure but avoided a full outage. Developers said the issue has been resolved, and the cause is under investigation. Ethereum contributors Superphiz and terence.eth mentioned that the chain is designed to be resilient and avoided forking due to lack of diversity of clients. Currently, two consensus clients dominate Ethereum, with only three other clients having a notable presence. This is not the first time Ethereum has experienced outages, including a DDOS attack in 2016 and partial Infura-related outages in 2020."
+    },
+    {
+        "title": "Ethereum Could Be Heading to \u2018Opportunity Zone\u2019 Amid One Historically Bearish Signal: Santiment - The Daily Hodl",
+        "summary": "  Sure! Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) could be heading towards an \"opportunity zone\" according to Santiment, a crypto analytics firm. The 30-day market value to realized value (MVRV) metric is out of the \"danger zone\" and moving towards the \"opportunity zone,\" which has historically been a sign of bottoming out. The Ethereum Foundation recently moved 14,999 ETH to the crypto exchange Kraken, which could be a sign of a local price top. The last three times a significant amount of ETH left the Ethereum Foundation wallet, it marked local price tops. Ethereum is currently trading at $1,831 and is up 1.86% in the past 24 hours."
+    },
+    {
+        "title": "Meet \u2018Dencun.\u2019 Ethereum Developers Are Already Planning Next Hard Fork - CoinDesk",
+        "summary": "  Ethereum developers are planning the next hard fork, called Dencun, with details to be determined in the coming weeks. They are testing other Ethereum Improvement Proposals (EIPs) before finalizing the next hard fork."
+    },
+    {
+        "title": "Ethereum's Beacon Chain Temporarily Stops Finalizing: Chain Consultant - Blockworks",
+        "summary": "  Ethereum's Beacon Chain temporarily stopped finalizing transactions due to a consensus issue, according to a community health consultant. The chain resumed finalization after a brief downtime. The incident highlights the importance of client diversity among validators to ensure decentralization and prevent tampering with user transactions. Developers are investigating the cause of the issue."
+    },
+    {
+        "title": "Bitcoin and Ethereum Down 3%, Top Altcoins Fall as Market Sees Red - Decrypt",
+        "summary": "  Bitcoin and Ethereum have fallen by 3% in the last 24 hours, along with other major altcoins, as the global cryptocurrency market cap has dropped by 2.5%. The sudden price drop could be due to a decrease in Bitcoin fees or investors selling off after inflation numbers came in lower than expected. Major altcoins such as Cardano, Dogecoin, and Polygon are seeing losses within the 2-5% range, while Litecoin and Monero have not seen any significant drops in their prices."
+    },
+    {
+        "title": "Ethereum's Vitalik Buterin May Get His Way on Ether Supply Cap \u2014 5 Years Late - Blockworks",
+        "summary": "  Ethereum co-founder Vitalik Buterin's proposal for a hard cap on ether supply in 2018 was met with skepticism, but the current supply of ether is now projected to have peaked and is declining due to the burn. The total supply of ether is estimated to have reached 120.5 million in March, and has since decreased by around 100,000 ETH. The introduction of EIP-1559 and the London hard fork have contributed to the deflation of ether's supply. The value of ether is tied directly to the intensity of network usage, and the current price is around half of what it was when the London hard fork took effect. The amount of ether staked has been trending higher, reaching an all-time high of around 566,000 validators. The inflation rate of ether has fallen 1.07% since the burn began, while Bitcoin's inflation rate stands at 1.74%."
+    },
+    {
+        "title": "Ethereum Mainnet Was Unable to Fully Finalize Transactions for 25 Minutes - CoinDesk",
+        "summary": "  Ethereum's mainnet experienced a 25-minute outage, failing to fully finalize transactions. Developers are investigating the cause and will provide updates soon. Transactions are now being finalized again."
+    },
+    {
+        "title": "How to Buy Ethereum on MetaMask with Paypal - Watcher Guru",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nMetaMask now allows US users to buy Ethereum (ETH) directly through the crypto wallet using PayPal. This integration makes MetaMask the first web3 wallet to offer PayPal purchases for ETH. To buy ETH on MetaMask, users must log in, click \"BUY,\" select country and state, choose PayPal as the payment method, enter the amount to purchase, sign in to PayPal, and confirm the purchase. Currently, ETH is the only cryptocurrency available for purchase through PayPal on MetaMask, but more options may be added soon."
+    },
+    {
+        "title": "Ethereum (ETH) Tremendously Undervalued at Current Prices, Prominent Trader Says - U.Today",
+        "summary": "  Prominent trader Bob Loukas believes Ethereum (ETH) is significantly undervalued due to its usage, adoption, dominance, and comparison to market caps in the crypto space, as well as its technology. ETH is currently trading at $1,804, below the key $2,000 level it briefly reached after the Shapella upgrade. Analyst @TheMoonCarl predicts ETH could retest $1,550 if the current correction continues, while Binance.US now supports ETH unstaking and withdrawals following the successful completion of the Shapella upgrade."
+    },
+    {
+        "title": "From Bitcoins to \u201cShitcoins,\u201d Meet the Latest Crypto-Currency Craze and the Scams It Is Spawning - The Indypendent",
+        "summary": "  Title: From Bitcoins to \u201cShitcoins,\u201d Meet the Latest Crypto-Currency Craze and the Scams It Is Spawning\n\nSummary: The latest crypto craze is a token on the Ethereum blockchain celebrating the meme \u201cPepe the Frog\u201d and has reached $1.5 billion in market capitalization in less than a month. However, the Ethereum blockchain has become a platform for fraud, gambling, and scams, with thousands of new tokens launched daily with the intention of deceiving and harming users. The Pepe meme\u2019s association with the online alt-right raises questions about why this particular meme is striving for cultural hegemony on the blockchain. The token distribution of ETH is highly centralized, giving big holders the ability to manage and orchestrate Ponzi schemes easily. The federal government has given its clique of owners, or \u201cwhales,\u201d unimaginable amounts of wealth to use to finance and propel their endeavor. Serious crypto regulation is needed to address the root cause of crypto\u2019s popularity and starve fraud and financial"
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin, Ethereum fall, other tokens slide lower after a brief upside - CNBCTV18",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nCrypto prices fell today, with Bitcoin and Ethereum down 0.6% and 0.9% respectively. Other tokens like Dogecoin, Solana, Shiba Inu, and Polygon also saw declines, with some falling by 1-2%. Market capitalization and trade volume were also lower across the board."
+    },
+    {
+        "title": "Memecoin Army Extracts Coinbase Apology After Botched Pepe Newsletter - Ethereum World News",
+        "summary": "  Coinbase faced backlash from the Pepe memecoin community after its newsletter labeled the frog-themed meme as a \"hate symbol.\" Thousands of users threatened to delete their accounts and switch to competitor Gemini. Coinbase apologized, acknowledging that its presentation of the meme culture did not provide the full picture. This is the latest in a series of backlashes for the crypto exchange, which has faced similar issues on at least two other occasions. The apology is a victory for meme-coiners, who have been enjoying a surge in memecoin mania and high gas fees on Bitcoin and Ethereum."
+    },
+    {
+        "title": "Crypto community with 90% historical accuracy sets Ethereum price for May 31, 2023 - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto community sets Ethereum price for May 31, 2023 at $1,834.52 with a historical accuracy of 90.24%. The prediction represents a modest increase of +0.75%. Ethereum is currently trading at $1,821, down 0.95% on the day and 4.28% across the previous week. The digital asset has cumulative losses of 5.11% on its monthly chart."
+    },
+    {
+        "title": "Understanding Ethereum Forks: Hard Forks Vs Soft Forks - Inventiva",
+        "summary": "  Understanding Ethereum Forks: Hard Forks vs Soft Forks\n\nEthereum forks are upgrades or changes to the underlying protocol of a blockchain network. There are two types of forks: hard forks and soft forks.\n\nHard Forks:\n\n* Significant changes to the rules of the blockchain result in a split from the original chain.\n* Nodes that do not upgrade to the new rules will be unable to validate transactions on the new chain.\n* Examples include the DAO fork and the Constantinople fork.\n* Can result in the creation of two separate chains with different rules and features.\n* Can bring about improvements and enhancements to the network.\n\nSoft Forks:\n\n* Backward-compatible upgrade to the blockchain.\n* Nodes that have not upgraded to the new rules can still validate transactions on the network.\n* Examples include the Homestead fork and the Byzantium fork.\n* Less disruptive than hard forks, but can still have a significant impact on the network and its users.\n* Important for members of the community to stay"
+    }
+]

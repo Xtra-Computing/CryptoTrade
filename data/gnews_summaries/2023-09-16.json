@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum developers approve change to slow down \u2018staking\u2019\u2014despite reliable crypto returns - Fortune",
+        "summary": "  Ethereum developers have approved a change to slow down the growth of \"staking,\" or the process of earning a yield on Ether tokens used to help the network run, due to concerns that the increasing demand for staking could bog down the network. Currently, about 20% of all Ether in circulation is staked, and this could balloon to 50% by May and 100% by December 2024 if the current pace continues. To slow down the staking influx, developers plan to cap the number of new validators allowed to join the network every six minutes, which will be implemented in the next major software upgrade later this year. This will give developers time to figure out longer-term solutions, such as adjusting validator rewards to discourage staking beyond a certain point. Most people do not stake their Ether directly, but instead give their tokens to staking services operated by the likes of Kraken, Lido, and Coinbase Global Inc."
+    },
+    {
+        "id": 4,
+        "title": "Could This New Move From Cathie Wood and Ark Invest Send Ethereum Soaring? - The Motley Fool",
+        "summary": "  Ark Invest, led by Cathie Wood, has filed an application for the first-ever spot Ethereum exchange-traded fund (ETF), which could send the price of Ethereum soaring. Institutional demand is a key factor, as many investors are unable or unwilling to purchase crypto directly due to regulatory constraints. The approval of a spot Ethereum ETF would make the asset \"safe\" for institutional investors, potentially leading to a tsunami of new money flowing into Ethereum. The decision comes after the successful launch of a spot Bitcoin ETF this summer, which saw a significant increase in Bitcoin's price. However, the SEC's approval process for spot ETFs is uncertain, and there may be regulatory challenges ahead. Despite these risks, the decision by Ark Invest is seen as a positive sign for Ethereum's future prospects."
+    },
+    {
+        "id": 8,
+        "title": "Bitcoin Dominates Ethereum In Daily Active Addresses Despite Lagging In TX Count - NewsBTC",
+        "summary": "  Bitcoin has more daily active addresses than Ethereum, despite Ethereum's dominance in smart contracts and DeFi activity. Bitcoin had over 800,000 daily active addresses on September 15, while Ethereum had slightly over 378,000. Ethereum processes over 1 million transactions daily, while Bitcoin processes less than 600,000. Despite this, Ethereum's drop in TVL and trading volume has negatively impacted DeFi and NFT activity."
+    },
+    {
+        "id": 9,
+        "title": "New Coinbase Ethereum Layer-2 Surges to New All-Time High in Daily Transactions, Outpacing Arbitrum and Optimism - The Daily Hodl",
+        "summary": "  Coinbase's new Ethereum layer-2 scaling solution, Base, has reached a new all-time high in daily transactions, surpassing its rivals Arbitrum and Optimism. Base processed over 1.8 million transactions on September 14th, while Arbitrum and Optimism saw around 500,000 and 378,000 transactions, respectively. Base is powered by Optimism and is designed to be compatible with Ethereum, Ethereum layer-2s, and alternative layer-1 blockchains. No plans have been announced for a network token associated with Base."
+    },
+    {
+        "id": 13,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: CPI jump by was expected to stir the BTC price, and it has - FXStreet",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin (BTC) price could fall 10% before a potential upside move, while Ethereum (ETH) price could follow suit. Ripple (XRP) price is bouncing after escaping a descending parallel channel, but could correct if the RSI reaches 100. The article also mentions that September has historically been a bad month for BTC, increasing the odds of a slump."
+    },
+    {
+        "id": 14,
+        "title": "Ethereum (ETH), BUSD Historic Dormant Movement Sparks Speculation - U.Today",
+        "summary": "  Ethereum (ETH) and Binance USD (BUSD) are seeing dormant coin movements, according to on-chain analytics firm Santiment. The average age of ETH tokens in wallets has decreased by 26 days, while the average age of BUSD tokens has decreased by 378 days. This movement is speculated to be related to the FTX-triggered liquidations and sell-offs that began earlier in the week. Additionally, Binance is ending support for BUSD by burning idle Binance-pegged tokens."
+    },
+    {
+        "id": 16,
+        "title": "Tether (USDT) Movement Signals \u2018Future Buy Interest\u2019 As Bitcoin and Ethereum Supply on Exchanges Dips: Santiment - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nTether (USDT) movement indicates potential future buying interest as the stablecoin's supply on exchanges increases, while Bitcoin and Ethereum's supply on exchanges decreases. This trend is seen as bullish. However, traders are selling their Bitcoin holdings at a small profit, and the recent rally may be an opportunity to unload holdings. The issue of defunct exchange FTX selling its massive crypto holdings is also being monitored."
+    },
+    {
+        "id": 18,
+        "title": "Ethereum Merge Is One: Here Are The Highlights So Far - NewsBTC",
+        "summary": "  Here are the highlights from the article in less than 256 tokens:\n\nEthereum has undergone significant changes since its Merge a year ago, including:\n\n* Burning of 980,000 ETH since the Merge\n* Implementation of a fee-burning mechanism\n* Staking of over 11.6 million ETH to secure the network\n* Increase in the number of validators on the network\n* Increase in Ethereum's price by close to 11%\n* Decrease in ETH's annual inflation rate\n* Increase in trading activity on Ethereum's layer-2 chains\n* Interest from traditional financial institutions (TradFi) in ETH."
+    },
+    {
+        "id": 19,
+        "title": "Did Ethereum accomplish its objectives, one year into the Merge? - AMBCrypto News",
+        "summary": "  Ethereum's Merge event, which transitioned the network from proof-of-work to proof-of-stake, has led to significant improvements in the network's carbon footprint and deflationary pressures. According to data, Ethereum's annual carbon footprint has decreased by 99% since the Merge, with a reduction in electricity consumption from 0.00731 terawatt-hours (TWh) to less than Bitcoin's annual consumption of 120.31 TWh. Additionally, Ethereum's annual carbon footprint has fallen by more than 99% to 2,659 tons of CO2. The network has also experienced deflation, with a net supply reduction of roughly 300,000 ETH as of the writing, and the supply is expected to hover around 120 million until August 2024 before steadily declining. However, some concerns remain around decentralization of Ethereum's core infrastructure, with a significant portion of blocks being built by only three block builders. Despite these improvements, Ethereum's price has only"
+    },
+    {
+        "id": 20,
+        "title": "Bitfinex Unveils Support for Forked Ethereum Proof-of-Work (ETHW) - Bitfinex blog - Bitfinex",
+        "summary": "  Bitfinex, a digital token trading platform, has announced support for the Ethereum Proof-of-Work (ETHW) fork. Deposits and withdrawals for ETHW are now open on the platform, and customers with an ETH balance at the time of the Merge snapshot will receive ETHW. Financed positions will be affected, and customers have until October 15 to settle any negative balances. Bitfinex is committed to providing optimal trading experiences for its users."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Developers Debut New Testnet Holesky On The \u2018Merge\u2019 Anniversary - ZyCrypto",
+        "summary": "  Ethereum developers have launched a new testnet called Holesky, one year after the Merge event that transitioned the mainnet to a proof-of-stake consensus algorithm. Holesky is twice as large as the main testnets and will become the largest test net with 1.4 million validators. The testnet will have a supply of 1.6 billion test network ether, intended to address issues with procuring testnet ETH on the main testnets. The launch of Holesky does not seem to have affected the price of Ether (ETH), which remains around $1,636."
+    },
+    {
+        "id": 25,
+        "title": "Ethereum Classic (ETC) Price Predictions 2023-2030 - Coin Culture",
+        "summary": "  Ethereum Classic (ETC) is a cryptocurrency that emerged in 2016 as a result of a hard fork from the original Ethereum blockchain. Ethereum Classic (ETC) stands apart because it preserves the original Ethereum blockchain, using the proof-of-work protocol to validate transactions, requiring substantial computational resources for ETC mining. Ethereum Classic's native token is also named Ether, which can create confusion, but it has a distinct Ethereum Classic token with a maximum supply of 230,000,000 tokens.\n\nIn this article, we will provide an overview of Ethereum Classic (ETC) and its price predictions for 2023-2030. We will also discuss the history of Ethereum Classic, its price history, and the factors that could impact its future price.\n\nEthereum Classic (ETC) Price Predictions 2023-2030:\n\nThe article provides Ethereum Classic (ETC) price predictions for 2023-2030 based on expert analysis and technical indicators. The predictions"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "ETH Goes up in Flames: Dive into Fiery Depths of Ethereum's 'Fire Sale' - U.Today",
+        "summary": "  Ethereum (ETH) is currently experiencing a \"fire sale\" according to the rainbow chart, a logarithmic price chart that predicts price growth over time. The chart indicates that ETH could be undervalued at its current price levels, but investors should be aware of Ethereum's unique monetary policy changes and other technical indicators before making investment decisions. The shift from proof of work (PoW) to proof of stake (PoS) has altered Ethereum's inflation rate and introduced a deflationary mechanism through the burning of transaction fees, making the rainbow chart calculations different from those used for Bitcoin (BTC)."
+    },
+    {
+        "title": "Staked Ethereum Now Accounts for 20% of the Total Supply - Decrypt",
+        "summary": "  Staked Ethereum now accounts for 20% of the total supply, reaching a milestone of $45 billion. The majority of staked Ethereum is held by Lido Finance, a liquid staking protocol, and cryptocurrency exchanges such as Coinbase, Kraken, Binance, and OKX. However, regulatory issues have arisen in the US, with regulators alleging that staking services offered to customers may violate securities laws. Despite this, financial institutions are exploring the potential of staking to bolster their products."
+    },
+    {
+        "title": "DeFi protocol Arcadia Finance hacked on Ethereum and Optimism for $455K - Cointelegraph",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nArcadia Finance, a noncustodial DeFi protocol, was hacked for $455,000 due to a code vulnerability. The hacker exploited the lack of untrusted input validation in the protocol. Arcadia Finance confirmed the hack and paused the contracts to prevent further losses. The team also stated that another vulnerability exists, which could be catastrophic if exploited. This is the second major hack in the crypto space in the second quarter of 2023, with a cumulative loss of over $300 million."
+    },
+    {
+        "title": "Macro Guru Raoul Pal Outlines Dream Scenario for Solana, Unveils Massive Price Target for Ethereum Rival - The Daily Hodl",
+        "summary": "  Macro guru Raoul Pal predicts a massive price increase for Ethereum rival Solana (SOL), saying it could reach 20x its current price. Solana is currently trading at $21.84, which would put its potential price target at $436. Pal also believes Bitcoin (BTC) could double or triple from its all-time high, which is currently at $30,000. However, he notes that it's difficult to predict where prices will go and that the upside is possible but not guaranteed."
+    },
+    {
+        "title": "Vitalik Buterin wants Bitcoin to experiment with layer-2 solutions, just like Ethereum - Cointelegraph",
+        "summary": "  Vitalik Buterin urges Bitcoin to adopt layer-2 solutions like Ethereum's zero-knowledge rollups to increase scalability and become more than just a payment network. Ethereum has successfully implemented scaling solutions like Optimism and Arbitrum, which could serve as case studies for Bitcoin. Buterin believes Bitcoin needs more scaling solutions to achieve its full potential. Meanwhile, Bitcoin's Lightning Network and Ordinals have also contributed to its scalability and popularity."
+    },
+    {
+        "title": "Appealing Bitcoin, Ethereum Discounts on Binance.US But Not for Everyone - CryptoPotato",
+        "summary": "  Binance.US is offering discounts on Bitcoin and Ethereum, but only for users with USD holdings. The discounts are due to a disparity between the exchange's prices and global spot prices. However, Binance.US has suspended USD deposits, leaving only users with existing USD on the platform to take advantage of the arbitrage opportunity. The situation has raised concerns and sparked a debate on social media, with some users terming it a \"depeg\" of cryptocurrencies. The CTO of Tether, the issuer of the world's largest stablecoin, has addressed the issue, explaining that the lack of market makers willing to arbitrage could be behind the disparity."
+    },
+    {
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: CPI could give BTC direction - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin (BTC) price is bullish on lower timeframes but lacks actionable price action in higher timeframes. The CPI report on July 12 could trigger a rally if it comes in positive. BTC could break the $30,500 mark and record a new range high.\n\nEthereum (ETH) price is gaining momentum against the USDT, with momentum indicators pointing to rising momentum. ETH could breach the $2,000 level if it continues to gain traction.\n\nRipple (XRP) price is moving within a steady range, with investors reluctant to make moves due to the long-overdue judgment in the network's case against the US SEC. XRP could extend further toward the $542 level if buyer momentum increases, but the $0.506 range could also be the ideal exit points for investors booking profits."
+    },
+    {
+        "title": "Bitcoin, Ethereum, Dogecoin Rise Amid Uptick In BTC Wallets To All-Time High: Analyst Says This Is How Lo - Benzinga",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin, Ethereum, and Dogecoin rose on Monday as the number of wallets holding at least one Bitcoin reached an all-time high of 1,008,737, according to Glassnode data. The growing distribution of wallets indicates a surge in decentralization within the network. The global crypto market capitalization increased by 1.67% to $1.19 trillion. US stocks rebounded after a challenging week, with the S&P 500 and Nasdaq Composite showing gains of 0.24% and 0.18%, respectively. Analysts believe that Bitcoin may be locked in a range for the next few months, but a potential bull run could occur in eight months."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin holds $30,000; Ethereum below $1,900; Litecoin, Tron drop up to 4% - Business Today",
+        "summary": "  Bitcoin and other top cryptocurrencies were down on Friday, with traders cautious ahead of key economic data and rate hike cues by central banks. Bitcoin held around $30,000, while Ethereum declined slightly below $1,900. Other altcoins saw significant drops, with Litecoin and Tron falling up to 4% each. The global cryptocurrency market cap declined by almost 1% to $1.17 trillion, but total trading volumes surged 9% to $22 billion. Technical analysis suggests that BNB may continue to move sideways within a horizontal channel, with potential upside momentum driving the price towards resistance levels of $265 and $280. However, if BNB fails to hold the $225 support level, it could encounter renewed selling pressure."
+    },
+    {
+        "title": "Bitcoin Ordinals keep Ethereum NFTs on their heels with BRC-69 - AMBCrypto News",
+        "summary": "  Bitcoin Ordinals are gaining popularity in the NFT space, with higher volumes registered on the Bitcoin network compared to Ethereum. BRC-69, a proposed standard, aims to address the challenges faced on the Bitcoin network due to the increasing demand for Ordinals. The total number of inscriptions reached an all-time high of 385,920 on July 9. While Ethereum NFTs still have higher sales overall, Bitcoin Ordinals are closing in on their Ethereum counterparts in terms of dominance."
+    },
+    {
+        "title": "What Are Ethscriptions? A Beginner's Guide - Unchained - Unchained",
+        "summary": "  Ethscriptions are a new type of NFT on the Ethereum blockchain that use transaction calldata to store digital artifacts. They differ from traditional Ethereum NFTs in that they are stored on-chain, which can save on costs and offer greater decentralization. Ethscriptions are created by converting an image into a base64-encoded data URI and then adding it to a 0 ETH transaction. The creator plans to expand beyond images and include other file formats in the future. Ethscriptions compare to Bitcoin Ordinals in some ways, but they have limitations such as file size and type, and storage vulnerability to pruning. The introduction of Ethscriptions may shift the conversation around NFT innovation back to the Ethereum network and offer Ethereum a chance to maintain its leading position in the NFT market."
+    },
+    {
+        "title": "Crypto.com launches on-chain staking for Ethereum, Solana, and Polkadot - FinanceFeeds",
+        "summary": "  Crypto.com has launched on-chain staking for Ethereum, Solana, and Polkadot, allowing users to earn rewards by staking their coins on the blockchain. This feature is initially available in select markets and will be expanded to include more protocols in the future. On-chain staking supports the network and is rewarded, while off-chain staking is purely financially motivated and does not have any technical purpose for the blockchain. Crypto.com also recently announced the suspension of its institutional exchange service in the US due to a decline in demand, but will continue to operate its retail mobile application and platform as usual."
+    },
+    {
+        "title": "Vitalik Buterin says BTC's 'really weird politics' holding back adoption - CoinGeek",
+        "summary": "  Vitalik Buterin criticizes BTC's scaling limitations and political infighting, suggesting that Lightning Network is not a viable solution. He believes that BTC needs to expand its block size to increase transaction capacity, but the \"laser-eye\" crowd won't allow it. Buterin also discusses the limitations of Ethereum's scaling solutions and the importance of privacy in blockchain transactions. He proposes a \"proof of innocence\" system to distinguish between criminal and legitimate transactions, but acknowledges the difficulty of achieving this goal politically."
+    },
+    {
+        "title": "As Crypto Giants Like Ethereum (ETH) Experience Steady Growth, InQubeta (QUBE) Could Bring 100X ROI to its ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nInQubeta is a crypto crowdfunding platform that allows fractional investment in AI startups using $QUBE tokens. The platform is powered by Ethereum and offers a secure and transparent investment ecosystem. InQubeta aims to bridge the gap between investors and AI startups, providing more opportunities for everyone to be a part of the technological advancement. Ethereum is a pioneering platform for decentralized applications and smart contracts, and its secure infrastructure makes it an ideal choice for InQubeta's investment ecosystem. The article concludes that the future of InQubeta and Ethereum looks bright, promising exciting opportunities for investors and AI startups alike."
+    },
+    {
+        "title": "Tron vs. Arbitrum: A Comparative Analysis of Ethereum's Layer-2 Solutions, with BEASTS Coin as a Promising Addition - Analytics Insight",
+        "summary": "  Tron and Arbitrum are two prominent layer-2 solutions in the Ethereum ecosystem, with Tron boasting fast transaction speeds and low fees, while Arbitrum leverages optimistic rollup technology to enhance Ethereum's scalability. BEASTS Coin, a new meme coin, has emerged, offering decentralization, locked liquidity, and a referral scheme that rewards participants. The crypto space is dynamic, with underdogs rising and incumbents stumbling, and the outcome will depend on technological advancements, user preferences, and market dynamics. Tron and Arbitrum have established themselves as significant players, while BEASTS Coin offers an exciting twist to the meme coin market."
+    },
+    {
+        "title": "When Is the Next Bull Run? Are We Having a Defi Summer? How Will Bitcoin, Apemax, and Ethereum Be Affected - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nThe next crypto bull run is anticipated for summer 2023, but the exact timing is uncertain. ApeMax, a new cryptocurrency, is generating excitement with its presale launch. The ApeMax presale offers discounted token acquisition, but it's important to exercise caution and conduct thorough research before participating. During a bull run, we can expect increased network activity, new project developments, and greater adoption of cryptocurrencies. However, it's crucial to approach claims about guaranteed gains with caution, as the market is inherently volatile and unpredictable."
+    },
+    {
+        "title": "Ethereum Price Prediction Daily (10-July): ETH Setting Up For One Last Dump Before This Massive Rally! - Bitcoinsensus",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) is testing a key support zone in the 4-hour timeframe, but there is a high chance of a last sell-off before a massive rally. A Bearish Head and Shoulders Pattern is forming, indicating a potential deep drop into the $1,755 support zone. The bulls must defend this key support region to prevent a further price dump. Claim up to $30,030 in bonus by signing up to Bybit with our link."
+    },
+    {
+        "title": "New crypto hack on Ethereum and Optimism - The Cryptonomist",
+        "summary": "  A new crypto hack was discovered on the Ethereum and Optimism chains, targeting the DeFi Arcadia Finance protocol. The hackers were able to net around $455,000 by exploiting a bug in the smart contract that managed the reserves of two wrapped tokens, darcWETH and darcUSDC. The bug allowed the attackers to drain funds from the reserves without proper checks, and the hackers were able to move the stolen funds through Tornado Cash to make them difficult to trace.\n\nThe Arcadia Finance protocol is a non-custodial DeFi solution that allows users to collateralize their wallets and access up to 10 times more capital than their initial collateral value. However, the hack highlights the risks involved in using wrapped tokens, as the custody of the collateral is not done by the users themselves but by the managers of the wrapped tokens.\n\nThe impact of the hack on the crypto markets has been minimal, with Optimism's native token OP and other similar tokens not suffering significant losses. However, the incident serves as a reminder of"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Ethereum Goerli Testnet Just Replaced by Holesky: What You Need to Know - U.Today",
+        "summary": "  Ethereum has replaced its Goerli testnet with a new one called Holesky. Holesky is the first PoS-by-design testnet and has 1.46 million validators, which is almost twice as many as Ethereum's mainnet. This will allow developers to mimic \"real-world\" Ethereum operations closely. Holesky is designed to address the issues faced by Goerli, such as a shortage of test tokens and validators. It also has its own set of validators, block explorer, and ecosystem of faucets. Holesky is the first long-standing public Ethereum testnet that is \"merged from genesis\" and does not have a proof-of-work version. It works together with Sepolia, which is a platform for testing smart contracts and decentralized applications."
+    },
+    {
+        "id": 2,
+        "title": "It's been one year since the Ethereum merge. Here's how the network is doing on its goals. - CNBC",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has been thriving since its \"merge\" last year, despite a recent price drop. The network's staking yield has increased, and the amount of staked ether has been rising. The merge aimed to improve Ethereum's security and energy efficiency, and it has succeeded in reducing the supply of ether. However, the price of ether has been affected by regulatory uncertainty and low liquidity in the crypto market. The next upgrade, EIP-4844, is expected to improve transaction speeds and reduce fees, making Ethereum more competitive."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum Holesky testnet launch flops, relaunch is expected in coming weeks - CryptoSlate",
+        "summary": "  Ethereum's Holesky testnet launch failed due to a misconfiguration issue caused by a developer entering incorrect data in the network's genesis files. The error will require another launch attempt, which is expected to happen in the coming weeks. The exact date is still unclear, but developers have suggested relaunching the testnet on September 22 or 28. The issue does not affect Ethereum's mainnet, which is responsible for transactions with real value."
+    },
+    {
+        "id": 8,
+        "title": "Ethereum unveils new testnet called 'Hole\u0161ky' - crypto.news",
+        "summary": "  Ethereum has launched a new testnet called \"Hole\u0161ky\" to facilitate staking, infrastructure, and protocol development. The testnet has an initial supply of 1.6 billion Hole\u0161ky testnet Ether (HETH) compared to the main Ethereum network's 10 billion Ether. This allocation is intended to support the development and testing of new features. The launch of Hole\u0161ky marks a critical juncture in Ethereum's journey, as it prepares to implement transformative features such as proto-danksharding, danksharding, and Verkle trees. These innovations aim to reduce transaction fees and make running a node more cost-effective. The simplification of token launches on Ethereum is also a significant development, as it allows broader token innovation within the Ethereum ecosystem. The price of Ethereum (ETH) stands at $1,628, with a 0.07% increase over the past seven days."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum\u2019s Holesky Testnet Fails to Launch, in Rare Tech Misstep for the Blockchain - CoinDesk",
+        "summary": "  Ethereum's Holesky Testnet launch failed, a rare tech misstep for the blockchain. Holesky is crucial for Ethereum's next hard fork, Dencun, which includes a scaling feature called proto-danksharding. Despite the setback, the launch of Dencun is not expected to be affected."
+    },
+    {
+        "id": 15,
+        "title": "Ether Trading at 27% Discount to Fair Value, New Research Shows - CoinDesk",
+        "summary": "  Ether's value is 27% lower than its fair value, according to new research. The Metcalfe law (ML) shows the value of a network is directly proportional to the square of the number of users. Ether enables users to transact, earn interest, and participate in network security through staking, store non-fungible tokens, and more. However, ether's value proposition is closely tied to Ethereum's network usage, which may explain the discount."
+    },
+    {
+        "id": 20,
+        "title": "Will Ethereum\u2019s price turn volatile soon? - AMBCrypto News",
+        "summary": "  Ethereum's (ETH) exchange supply has decreased, indicating investor contentment with their holdings. This is accompanied by a rise in Tether's (USDT) supply on exchanges, which could lead to increased accumulation. ETH's funding rate is green in the derivatives market, and its MVRV ratio has improved, suggesting a possible price uptick. However, most market indicators remain bearish, and ETH's price could go down further. The MACD remains in the bulls' favor, but the RSI is below 50, and the Chaikin Money Flow (CMF) and Money Flow Index (MFI) have registered downticks. As of writing, ETH is trading at $1,635.63 with a market capitalization of over $196 billion."
+    },
+    {
+        "id": 22,
+        "title": "Ethereum devs to reboot Holesky testnet after botched launch - crypto.news",
+        "summary": "  Ethereum developers are rebooting the Holesky testnet after a botched launch caused network issues. The testnet, which was meant to celebrate the one-year anniversary of The Merge, encountered major problems due to misconfigurations. The Ethereum Foundation has not provided a definite date for the reboot. Holesky is one of three testnets for Ethereum, and its large token supply is expected to incentivize use of the network. The Merge, which marked a significant upgrade for Ethereum, introduced staking and reduced the net token supply by 0.24%. Nearly 25% of ETH's supply is currently staked, and the staking market has a $40 billion value."
+    },
+    {
+        "id": 23,
+        "title": "What Does Ripple (XRP) Need to Catch up to Ethereum? - CryptoPotato",
+        "summary": "  Ripple (XRP) is expanding beyond its reliance on cross-border payments and exploring new use cases like institutional custody, derivatives, CBDCs, and carbon credit markets. However, some argue that XRP needs more than just Ripple to prosper long-term. Ripple has made recent announcements, including expanding its liquidity hub to two new countries and acquiring a crypto-focused financial institution. Despite these efforts, Ripple still lags behind Ethereum in terms of development, according to a blockchain analyst. Another user suggests that XRPL is not a SC-centered chain and different use cases will create different values."
+    },
+    {
+        "id": 24,
+        "title": "Ethereum\u2019s Holesky Testnet Faces Delay Due to Configuration Error - CoinTrust",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum's Holesky testnet has been delayed due to a configuration error in the genesis files. The error, caused by an incorrect placement of data in the network's genesis files, resulted in a critical misalignment that prevented the testnet from launching smoothly. The exact relaunch date is uncertain, but the Ethereum community is committed to resolving the issues and refining the test environment. The setback has no impact on Ethereum's fully operational mainnet, which continues to support transactions of real value."
+    },
+    {
+        "id": 25,
+        "title": "Bounce to $2K or More Pain for Ethereum? (ETH Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum's price has been in a downtrend, breaking multiple support levels and reaching a multi-month low at $1,531. However, the price encountered a critical support zone and rebounded, providing hope for a consolidation phase. The 100-day moving average crossed below the 200-day moving average, forming a death cross event, but there is still hope for a support and consolidation phase around the 200-day and 100-day moving averages. The price has been in a consolidation phase between $1.6K-$1.8K, and a bearish flag pattern formed. The price broke below the lower trendline of the flag, but buying pressure intensified near $1.5K, leading to a rebound. The upcoming price action will determine Ethereum's mid-term trajectory. The Taker Buy Sell Ratio metric has been negative for the past few months, reflecting a bearish sentiment in the ETH futures market, but there has been a recent surge in this metric, suggesting a potential change in sentiment among market participants. If this metric continues to rise"
+    },
+    {
+        "id": 32,
+        "title": "Solana's #1 NFT Marketplace Beats Whole NFT Industry on Ethereum - U.Today",
+        "summary": "  Solana's leading NFT marketplace has surpassed all Ethereum-based NFT platforms in terms of daily traders, signifying a growing popularity and mass appeal. Solana's blockchain is fast, accessible, and affordable, making it an attractive option for NFT enthusiasts. As of now, Solana's TVL stands at approximately $306.8 million, and the coin's price has shown resilience despite potential FUD. Solana's rise in the NFT space is a wake-up call for Ethereum and a reminder that the crypto space is constantly evolving."
+    },
+    {
+        "id": 39,
+        "title": "Cryptocurrency Price Today: Bitcoin Sees Losses As Toncoin Becomes Top Gainer - ABP Live",
+        "summary": "  Bitcoin and Ethereum saw minor losses, while Toncoin emerged as the biggest gainer with a 24-hour jump of over 2.38%. Other losers include VeChain, Compound, Optimism, Filecoin, and Axie Infinity. The global crypto market cap stood at $1.06 trillion, registering a 24-hour loss of 0.43%."
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "title": "The SEC\u2019s Crackdown on Ethereum Staking Has a Silver Lining - CoinDesk",
+        "summary": "  The SEC has filed a complaint against Kraken for offering staking services without proper registration. The complaint states that Kraken pools and stakes crypto assets on behalf of investors, but investors lose control of their tokens and take on risks associated with the platform with little protection. While some investors may appreciate these services, the SEC does not recognize them as legitimate."
+    },
+    {
+        "title": "Only 0.04% of Ethereum validators have been slashed since 2020, says core dev - Cointelegraph",
+        "summary": "  Only 0.04% of Ethereum validators have been slashed since 2020, according to an Ethereum core developer. As of February 2023, 226 validators have been slashed out of 524,060, with most slashings occurring due to attestation violations. The developer highlighted four emerging best practices to reduce the odds of being slashed, including wiping existing chain data on old staking machines, using doppelganger detection, watching buffers and logs on the Beacon Chain, and unplugging everything if something feels wrong. The majority of slashing events have come from attestation violations, and since the Beacon Chain merged with the Ethereum proof-of-work chain in September 2022, only 35 of the total 226 slashings have taken place."
+    },
+    {
+        "title": "Coinbase Is Building Its Own Ethereum Layer-2 Network Called 'Base' - Decrypt",
+        "summary": "  Coinbase has announced the launch of Base, its own Ethereum layer-2 network. Base aims to be an open ecosystem for decentralized apps and will not launch a network token. Instead, the company plans to focus on building great products that are useful to users. Base has already been live in a testnet since the start of the month and has dozens of partners committed to building in and supporting the ecosystem. Coinbase will gradually transition into a contributor role and join the open-source OP Stack as a core developer. The company hopes that Base will help enable the next million dapps and bring in the next billion users, with the goal of launching mainnet in the next few months."
+    },
+    {
+        "title": "Coinbase\u2019s layer-2 blockchain may help expand scaling on Ethereum - TechCrunch",
+        "summary": "  Coinbase, a major cryptocurrency exchange, has launched a new layer-2 (L2) blockchain called Base, focused on the Ethereum blockchain. Base aims to provide a secure, low-cost, developer-friendly chain for building decentralized applications (dApps) on-chain. The launch of Base reinforces the importance of L2s in growing the blockchain ecosystem, as they can reduce bottlenecks and constraints on the main chain, making the network faster and more user-friendly. Base is built on the MIT-licensed OP Stack in collaboration with the layer-2 blockchain Optimism, which is also focused on the Ethereum blockchain. Coinbase's involvement in the L2 space validates the vision for L2 technologies as the future of the Ethereum ecosystem, and Arbitrum, the biggest L2 scaling system, has seen explosive organic growth, outpacing the number of transactions on Ethereum. While Base is incubated inside of Coinbase, the team plans to decentralize it \"in the years ahead.\" However, regulation looms in the background for the"
+    },
+    {
+        "title": "Plan to Boost ETH Staking Rewards May Grow $152B Sector - The Defiant - DeFi News",
+        "summary": "  EigenLayer, a \"restaking\" protocol, aims to boost the $152B staking sector in the DeFi community by enabling stakers to perform additional tasks and earn higher returns. The protocol allows stakers to add new applications and offerings to Ethereum's Proof of Stake consensus process, such as cross-chain bridges, oracle networks, and trusted execution environments. EigenLayer supports staking through delegation and also offers a veto committee for slashing risks. The protocol compares the role of validators to venture capital firms backing early-stage startups, accelerating open innovation of blockchain applications while increasing profit from contributing to the growth of pooled security."
+    },
+    {
+        "title": "Ethereum Foundation announces Q4 2022 funding of $4.37m - crypto.news",
+        "summary": "  The Ethereum Foundation has announced $4.37 million in funding for various projects and research initiatives in Q4 2022. The grants are focused on advancing the Ethereum network and enabling developers, with a particular emphasis on community and educational activities in various countries. The funds will also be used for research projects on the consensus layer, cryptography, and trustless proofs. Additionally, the Ethereum Foundation's Ecosystem Support Program (ESP) has awarded financial aid and other forms of assistance to qualified projects and academic studies aimed at improving Ethereum's architecture. The total value of decentralized finance (DeFi) on the Ethereum network has declined by 42% from Q4 2021 to Q1 2022, reaching $89.5 billion."
+    },
+    {
+        "title": "Coinbase Drops Free Ethereum NFT via Zora to Mark Base Network Launch - Yahoo Finance",
+        "summary": "  Coinbase has launched a free Ethereum NFT project called \"Base, Introduced\" through Zora, an NFT minting platform, to mark the launch of its layer-2 scaling network Base. The NFT is an open edition, meaning anyone can claim one until the minting window ends on Sunday, with a limit of one per wallet. Over 24,000 NFTs have been minted so far, with the smart contract accumulating $271,000 in gas fees. Coinbase's own NFT marketplace has gained little traction, with less than $8,000 in trading volume, compared to Blur's $596 million. The free Base NFT nods towards the \"open edition meta\" in the NFT world, where creators launch low-priced mints with gamification elements to incentivize holders to burn them for rarer versions. While Coinbase hasn't promised any future utility or benefits, the NFTs are finding some traction on secondary markets, with early-numbered and vanity number editions commanding higher prices."
+    },
+    {
+        "title": "Ethereum adds support for Euro Coin [EUROC]: All you need to know - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has added support for a new Euro-based stablecoin called EUROC, which will be an ERC20 token on the Ethereum network. Circle, the issuer of the stablecoin, aims to tap into the European market with this launch. Coinbase will also support EUROC, with initial pairs available in regions where the exchange is supported. The launch is expected to have a positive impact on Ethereum's network growth and on-chain metrics, including active addresses and volume. However, the article notes that the impact may be limited by current market conditions and potential sell pressure. As of press time, ETH is trading at $1,623."
+    },
+    {
+        "title": "Ethereum\u2019s Regens Tend to Ethereum\u2019s Public Goods - CoinDesk",
+        "summary": "  Ethereum's Regens Tend to Ethereum's Public Goods - CoinDesk\n\nIn the post-World War II era, definitions of public goods were created during a time of nationalism. However, in the post-internet age, the conversation around global public goods has expanded, highlighting the broader degrees of excludability and rivalry. For example, a road may only be accessible if you're allowed into a particular city, and a park might be locked during nighttime hours."
+    },
+    {
+        "title": "Coinbase Jumps Into Ethereum Scaling Race With New Rollup - The Defiant - DeFi News",
+        "summary": "  Coinbase, the largest US-based cryptocurrency exchange, is launching its own Layer 2 blockchain, Base, to provide faster and cheaper transactions on the Ethereum blockchain. Base is an optimistic rollup, meaning it assumes transactions are valid and provides a seven-day dispute window. It will compete with other rollups like Arbitrum and Optimism, which use zero-knowledge (ZK) technology to improve on existing rollups in terms of speed and security. Base will differentiate itself by catering to developers and providing a grants program for software engineers building on the platform. Major DeFi projects are already building on Base, including Aave, Ribbon, and Balancer."
+    },
+    {
+        "title": "'Stupid money' Ether investor loses over $2M in six months \u2014 3 lessons to learn - Cointelegraph",
+        "summary": "  An anonymous Ethereum investor lost over $2 million in six months due to poor trading decisions. The investor bought ETH at a high price and sold it at a lower price, resulting in a significant loss. The article highlights three key lessons that can be learned from the investor's mistakes:\n\n1. Don't blindly follow trends and buy ETH after it has risen in value for a period of time.\n2. Don't panic sell after the price of ETH drops.\n3. Hedge with put options to mitigate risk.\n\nThe article also suggests that investors should not put all their eggs in one basket and should enter a position in increments while keeping some funds on the sidelines. Additionally, investors should use multiple technical indicators, such as the relative strength index (RSI), to make informed trading decisions."
+    },
+    {
+        "title": "Coinbase launches Ethereum L2 network, Base - crypto.news",
+        "summary": "  Coinbase launches Ethereum L2 network, Base, in partnership with Optimism. Base offers a secure, low-cost platform for decentralized app development and aims to onboard 110 million verified users and $80 billion in assets within the Coinbase ecosystem. Coinbase will not issue a new network token and will use ETH as the native gas token. The launch of Base has led to a slight price increase in Optimism's token, OP."
+    },
+    {
+        "title": "What the Ethereum Shanghai Upgrade Will Mean for ETH Liquidity - CoinDesk",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Shanghai upgrade aims to increase liquidity by promoting decentralization in the staking industry. This could lead to more competition and better products, driving innovation and UX improvements. The Ethereum Foundation should focus on enhancing the user experience for single stakers to create a more resilient staking network."
+    },
+    {
+        "title": "Coinbase Launches Layer 2 Blockchain Base to Provide On-Ramp for Ethereum, Solana and Others - CoinDesk",
+        "summary": "  Coinbase launches Base, a layer 2 blockchain to onboard users to Ethereum, Solana, and other chains. Base serves as a bridge for users to access the cryptoeconomy with an easy-to-use onchain experience."
+    },
+    {
+        "title": "Coinbase Joins the Ethereum Layer 2 Rat Race \u2013 Can It Grow? - CoinDesk",
+        "summary": "  Coinbase joins Ethereum layer 2 race, but faces challenges in scaling and incentivizing use without issuing tokens. Ethereum's complex roadmap and regulatory constraints make it difficult for Coinbase to compete with other layer 2 solutions."
+    },
+    {
+        "title": "Coinbase Drops Free Ethereum NFT via Zora to Mark Base Network Launch - Decrypt",
+        "summary": "  Coinbase has launched a free Ethereum NFT, \"Base, Introduced,\" in collaboration with Zora, an NFT minting platform. The NFT is open edition, meaning anyone can claim one until the minting window ends on Sunday, with a limit of one per wallet. Over 24,000 NFTs have been minted so far, with the smart contract accumulating $271,000 in gas fees. Coinbase has not promised any future utility or benefits for the NFT, but it is finding some traction on secondary markets, with some early-numbered or vanity edition NFTs selling for hundreds or thousands of dollars. Despite the lack of traction on its own NFT marketplace, Coinbase is not giving up on its NFT ambitions."
+    },
+    {
+        "title": "Coinbase launches its own layer-2 network for building decentralized apps - Cointelegraph",
+        "summary": "  Coinbase launches Base, an Ethereum layer-2 network for building decentralized apps. Offers low-cost, secure, and developer-friendly environment for DApps. No plans for new network token. Base will be built on OP Stack, starting centralized but decentralizing over time. Fully open source and freely available. Coinbase integrates with other networks, encouraging users to explore beyond Base. Working with Op Labs and Optimism Collective to decentralize Optimism ecosystem by creating a Superchain of connecting networks."
+    },
+    {
+        "title": "Ethereum Price To Hit $2,000? Analyst Predicts Best Level To Buy - CoinGape",
+        "summary": "  Ethereum price is moving upward, driven by a dovish stance from the US Federal Reserve and increasing interest among short-term buyers. Analyst Michael van de Poppe predicts the price could reach $2000, driven by the upcoming Shanghai upgrade. The upgrade is expected to increase trading volume and staking, leading to a potential price increase. However, there are concerns about a significant sell-off in the crypto market due to withdrawals from validators."
+    },
+    {
+        "title": "DeGods and y00ts Are Leaving Solana\u2014Here\u2019s How It\u2019s Going to Work - Decrypt",
+        "summary": "  DeGods and y00ts are leaving Solana to move to Ethereum and Polygon, respectively. DeLabs and Dust Labs are migrating the NFTs to take advantage of the larger market and broader audience on Ethereum. The move is seen as a way to grow the network's NFT scene and collaborate with sizable brands. The bridging process will be optional and will involve burning and minting the NFTs on the new chain. Holders can choose to keep their existing Solana NFTs or migrate them to the new chain, but will lose access to ongoing incentives and future benefits if they do not bridge. The move is seen as a new challenge for DeLabs and Dust Labs, but also an opportunity to take big swings and make exciting moves in the NFT space."
+    },
+    {
+        "title": "Coinbase Enters Phase 3.5 of 'Secret Master Plan' With L2 Launch - Blockworks",
+        "summary": "  Coinbase is launching a testnet for its Ethereum layer-2 network, Base, in phase 3.5 of its \"Secret Master Plan.\" Base will be powered by Optimism's OP stack and will use ether as its native asset. The network aims to provide a more powerful and decentralized platform for developers to build useful decentralized applications (dApps) and bring a billion users into the crypto economy. Coinbase is partnering with multichain bridge providers to allow interoperability with Ethereum layer-1 and other layer-2s, and the modularity of the technology stack will allow for easy upgrades. The initiative also aims to create a unified network with interoperability between chains, and the long-term vision is to have powerful interoperability between chains."
+    },
+    {
+        "title": "Crypto Analyst Argues Why Bitcoin and Ethereum Are Top Assets, Breaks Down Popular ETH-Based Altcoin - The Daily Hodl",
+        "summary": "  Crypto analyst Micha\u00ebl van de Poppe predicts substantial returns on investment (ROI) for Bitcoin (BTC) and Ethereum (ETH) in the coming years. He argues that BTC is on its way to $30,000 and ETH is a solid area for long trades, with the potential to reach $10. Van de Poppe also highlights the strong bounce of Chainlink (LINK) with a possible increase to $10. He emphasizes that investments in cryptocurrencies are high-risk and advises readers to do their due diligence before making any investment decisions."
+    },
+    {
+        "title": "Vitalik Buterin: Co-founder of Ethereum | #2 | The Cointelegraph Top 100 - Cointelegraph",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has shared his thoughts on the current state of the blockchain and crypto ecosystem. He believes that the world has changed significantly since he first started talking about the potential of blockchains and Ethereum 10-5-2 years ago. Today, he sees a world where the technology is no longer abstract, but is being used to solve real-world problems.\n\nIn 2022, Buterin was critical of cross-chain bridge applications in DeFi, predicting security losses due to their vulnerability to hackers. His predictions were unfortunately proven true, with DeFi security losses increasing by 47.2% to $3.64 billion. He also suggested that NFTs should be made \"soulbound\" to demonstrate achievements such as winning GameFi tournaments or attending invitation-only crypto conferences.\n\nButerin and his team completed the long-awaited Ethereum Merge upgrade in September, transforming the blockchain's consensus mechanism from proof-of-work to proof-of-stake. The upgrade made mining largely obsolete and"
+    },
+    {
+        "title": "FOMO in 4D, The Legendary Ethereum Game Gets a New Life on Arbitrum - GlobeNewswire",
+        "summary": "  FOMO3D, a legendary Ethereum game, is getting a new life on Arbitrum, a high-speed, low-fee Layer-2 Ethereum rollup network. The game, which was originally released in 2018, has seen a resurgence in popularity due to the current market conditions and the growth of the Arbitrum network. The game's developers are leveraging the network's advantages to create a new version of the game, called FOMO3D Arbitrum, which will be launched this weekend. The token for the game, PoSH4D (P4D), has already seen significant growth in its marketcap, driven by the excitement around the game's release. The game's themes of FOMO and DeFi continue to resonate with developers and investors, and the game's revival on Arbitrum is seen as a sign of the network's growing popularity."
+    },
+    {
+        "title": "Coinbase Unveils Ethereum L2 Blockchain \"Base\" - Crypto Times",
+        "summary": "  Coinbase unveils Ethereum L2 blockchain \"Base\" for decentralized app development. Secure, low-cost, and developer-friendly, Base aims to onboard 1B+ users into the cryptoeconomy. Coinbase commits to decentralization, plans to launch mainnet in next few months. No new network token planned, focus on building great products. Partnerships with crypto firms, including Blockdaemon, Chainlink, and more."
+    },
+    {
+        "title": "Retro-Style Ethereum NFT Metaverse Game Worldwide Webb Raises $10M - Decrypt",
+        "summary": "  Worldwide Webb, a retro-style Ethereum NFT metaverse game, has raised $10M in funding from VC firm Pantera Capital. The game allows players to use their NFT avatars from popular collections and interact with other players in a browser-based, fully online experience. The game's founder, Thomas Webb, plans to use the funding to expand the development team and innovate faster, with ambitions to double the current headcount of 30 people. The game will also introduce a new player-vs.-player (PvP) competitive mode called Blockbusterz, which will allow teams of five to battle it out, and will introduce a \"compete-to-mint\" mechanic that rewards players with NFTs for excelling in the competitive mode. The game's unique 2D pixel character conversion of supported avatars has yielded over $80 million in trading volume, and the game's goal is to create a \"massive, sprawling universe\" with native iOS and Android apps and potential console platforms if friendly."
+    },
+    {
+        "title": "DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum - Yahoo Canada Shine On",
+        "summary": "  Synthetix, a DeFi liquidity protocol, has deployed version 3 (v3) on the Ethereum mainnet after security audits. v3 allows for more efficient creation of decentralized financial applications, including liquid markets for diverse financial derivatives. The protocol has over $450 million in locked tokens and aims to simplify staking and debt pools for network stakers. The native SNX tokens saw minimal price changes in the past 24 hours."
+    },
+    {
+        "title": "Polygon co-founder sees no future for Solana, Aptos, Avalanche, Cardano - CryptoSlate",
+        "summary": "  Polygon co-founder Sandeep Nailwal predicts Ethereum will emerge as the dominant smart contract protocol, with other layer 1s falling by the wayside. He believes user activity will happen on layer 2s interacting with the Ethereum base layer. Nailwal dismisses the multi-chain future and states that none of the current layer 1s, including Solana, Aptos, Avalanche, and Cardano, have demonstrated significant traction. Polygon recently cut 20% of its workforce due to macroeconomic conditions, but remains in a strong financial position. A delay in block production lasted two hours on Feb. 22, and Nailwal recommends using OKLink in the meantime."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin, Ethereum climb higher, other tokens mirror gains - CNBCTV18",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nBitcoin rose 1.6% to $24,564.2, with a market value of $470.3B and trade volume of $28.9B. Ethereum climbed 2% to $1,678.1, with a market capitalization of $202.5B and trade volume of $8.8B. Other tokens like Dogecoin, Shiba Inu, and Solana also mirrored the gains, with increases ranging from 1.9% to 0.6%."
+    },
+    {
+        "title": "Rollup provider Eclipse launches software to allow Solana apps to be compatible with Polygon - TechCrunch",
+        "summary": "  Rollup provider Eclipse launches software to enable Solana apps to be compatible with Polygon, allowing for faster and cheaper transactions. Eclipse's customizable rollup solution allows for the choice of base level (Polygon or Solana) and virtual machine (EVM or SVM), enabling decentralized applications to migrate or become multichain. The launch aims to increase throughput speed and interoperability for crypto subsectors such as gaming and DeFi, with high demand seen in the gaming and physical infrastructure application spaces. In the long term, Eclipse sees this launch as just the beginning for scaling, with the potential for virtual machines to proliferate across different base layers."
+    },
+    {
+        "title": "Crypto Twitter went wild speculating about Coinbase\u2019s blue dot. Here\u2019s what it meant - Fortune",
+        "summary": "  Coinbase, a publicly traded cryptocurrency exchange, caused a stir on Twitter with a six-second video of a blue dot fading into black. The company later announced the launch of Base, an ecosystem built on top of the Ethereum blockchain to make it easier for developers to build decentralized applications (dapps). Base is secure, low-cost, and developer-friendly, and Coinbase is partnering with Optimism to reduce gas fees. To celebrate the announcement, Coinbase released a new non-fungible token (NFT) collection of blue dots. Despite the excitement, Coinbase's business took a hit in 2022 due to the collapse of several prominent crypto companies and a decline in revenue."
+    },
+    {
+        "title": "DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum - Yahoo Sport Australia",
+        "summary": "  Synthetix, a DeFi liquidity protocol, has deployed version 3 (v3) on the Ethereum mainnet after security audits. v3 enables the creation of more complex and efficient decentralized financial applications, including products with liquid markets for various financial derivatives. The protocol has over $450 million in locked tokens and aims to simplify staking and debt pools for network stakers. The native SNX tokens saw nominal price changes in the past 24 hours."
+    },
+    {
+        "title": "Optimism Pumps 16% Amid Coinbase Layer-2 Launch - Decrypt",
+        "summary": "  Coinbase's launch of a layer-2 network, called \"Base,\" has boosted the price of Optimism's native token, OP, by 16%. The partnership between Coinbase and Optimism aims to make transactions faster and cheaper on the Ethereum blockchain. Optimism has also announced that it will receive a portion of transaction fee revenue from Base, furthering its vision for a sustainable future. Other popular Ethereum scalers, such as Arbitrum, have seen their market share remain steady despite Base's entry into the fray."
+    },
+    {
+        "title": "What is Algorand? Is it Halal? - Islamic Finance Guru",
+        "summary": "  Summary:\n\nAlgorand is a relatively new cryptocurrency and open-source blockchain platform that aims to provide fast transaction speeds and smart contract capabilities, competing with Ethereum. It uses a unique consensus mechanism and has a small market cap and market dominance. While it has advantages over Ethereum, it faces challenges in gaining trust and momentum due to its small size compared to larger competitors. The platform is open-source and allows developers to build decentralized applications, but it remains to be seen if it can successfully differentiate itself from larger competitors.\n\nKey points:\n\n* Algorand is a cryptocurrency and open-source blockchain platform that aims to provide fast transaction speeds and smart contract capabilities.\n* It uses a unique consensus mechanism called \"Pure Proof-of-Stake\" (PPoS) that allows it to achieve high transaction speeds and low fees without sacrificing security or decentralization.\n* Algorand has a small market cap and market dominance compared to larger competitors like Ethereum.\n* The platform is open-source and allows developers to build decentralized applications, but it faces challeng"
+    },
+    {
+        "title": "Cryptocurrency price in India 23 February 2023: Bitcoin increase 1.16%, Ethereum & other top tokens in the green - India Today",
+        "summary": "  Cryptocurrency prices in India saw a green day on Thursday, with Bitcoin and other top tokens rising. Bitcoin increased by 1.16%, Ethereum by 1.20%, and other top tokens like Solana, XRP, Litecoin, and Polkadot also saw gains. The market cap of the global cryptocurrency market advanced by 1.21% to $1.11 trillion, while the total crypto market volume fell by 9.34% to $61.80 billion. Meme coins like Shiba Inu and Dogecoin also saw improvements in price, and metaverse tokens like The Sandbox, Axie Infinity, and Decentraland continued to rise."
+    },
+    {
+        "title": "Save the Sea With Big Eyes Coin, Solana, and Ethereum! - Punch Newspapers",
+        "summary": "  Big Eyes Coin (BIG) has donated $1.5M to ocean charities through its 5% charity wallet, with $29M raised in investments. The coin uses blockchain technology to track illegal fishing and criminal behavior on the high seas, addressing a $23.5B annual problem. World Wide Fund for Pandas suggests using blockchain to mandate fishermen tag fish with a scannable code for transparency in the supply chain. The presale for Big Eyes Coin is ongoing at https://buy.bigeyes.space/."
+    },
+    {
+        "title": "Introducing D5 Exchange: A revolutionary on-chain order book DEX built on Ethereum - AMBCrypto News",
+        "summary": "  Introducing D5 Exchange, a revolutionary on-chain DEX that combines the best of both worlds - the convenience of a CEX and the safety of a DEX. Powered by Gridex Protocol, the beta version will be released in March, offering a secure, seamless, and complete trading experience. D5 Exchange features:\n\n* Permissionless listing and incentivized orders\n* Best rate from multiple liquidities\n* Complete decentralization, giving users control over their assets\n* No impermanent loss or slippage\n* Low costs and high order fill rate\n\nD5 Exchange provides the user experience of a CEX with the decentralization and transparency of a DEX. Join the DeFi revolution and stay tuned for updates and campaigns. Visit the website, join the Discord, and follow on Twitter for more information. (Disclaimer: This is a paid post.)"
+    },
+    {
+        "title": "AI predicts Ethereum price for the end of 2023 - Finbold - Finance in Bold",
+        "summary": "  AI predicts Ethereum price to reach $2,146 by end of 2023, marking a 31% increase from today. CoinPriceForecast uses machine self-learning technology to make long-term forecasts. Ethereum's technical indicators on TradingView are bullish, with the summary aligning with the'strong buy' sentiment at 17. Crypto trading expert Michael van de Poppe suggests $1,600 as a solid level for long positions, and the Shanghai upgrade on Sepolia may cause a price surge. However, investing is speculative, and your capital is at risk."
+    },
+    {
+        "title": "Ethereum's Q4 2022 grants empower global blockchain revolution | - Cryptopolitan",
+        "summary": "  Ethereum has announced grants for over 50 projects in Q4 2022, ranging from community education and cryptography research to developer experience and tooling. The grants aim to promote Ethereum's growth and contribute to its continued success. Projects include:\n\n* Community and education: eSatya (Nepal), CryptoStats (community-driven), Devcon Satellite Events Grants (global), Tech4Democracy Bogot\u00e1 (Colombia)\n* Consensus layer: Codex (double-layer Kademlia protocol), Metacraft Labs (ZK circuits), Open Zeppelin, Sigma Prime, Puffer\n* Cryptography and zero-knowledge proofs: Modulus Labs (ZK proofs for AI use cases), BlockWallet (privacy-focused browser extension), Uncloak (knowledge base for cryptography), Zero-Knowledge Machine Learning (zkML)\n* Developer experience and tooling: Hazim Jumali and John Rising (independent audits and modular Go implementation), Protofire (Solhint for standardized smart contract code),"
+    },
+    {
+        "title": "Coinbase NFT: crypto trading volumes low and below 5 Ethereum in last 7 days - The Cryptonomist",
+        "summary": "  Coinbase NFT has recorded low trading volumes of less than 5 Ethereum in the past 7 days, according to Dune Analytics data. Despite this, Coinbase President and COO Emilie Choi remains optimistic about the project's viability, citing medium and long-term opportunities. Coinbase NFT is redefining its mission to cater to creators instead of competing with market leaders OpenSea and Blur. While OpenSea has implemented 0% fees to attract users, Coinbase is focusing on features and tools requested by NFT creators."
+    },
+    {
+        "title": "LayerZero's Testnet Bridge Between Ethereum And Goerli Sparks Community Backlash - Crypto Mode",
+        "summary": "  LayerZero's testnet bridge between Ethereum and Goerli has sparked backlash from the community. The bridge allows users to convert mainnet Ethereum liquidity into Goerli-based ETH, but has been criticized for introducing another ETH-based ticker on Uniswap, potentially causing confusion among novice users. Additionally, the community is concerned that the bridge will drain the faucet and restrain developers from using the testnet, as well as create monetary incentives that shouldn't exist. Some have also expressed that the liquidity on Goerli could be used for the Uniswap pool instead of being tied to a premium feature."
+    }
+]

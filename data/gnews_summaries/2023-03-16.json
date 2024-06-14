@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Ethereum's Shanghai Upgrade to Enable Withdrawals Set for April - Bloomberg",
+        "summary": "  Ethereum's Shanghai upgrade, set for April 12, will enable withdrawals of staked Ether tokens, worth $29B. Currently, 17.5M staked Ether can't be accessed on the network, earning owners a yield. This upgrade aims to make Ethereum more attractive to investors and developers."
+    },
+    {
+        "title": "Ethereum\u2019s Shanghai Hard Fork Now Has Official Target Date - CoinDesk",
+        "summary": "  Ethereum's Shanghai Hard Fork has an official target date. Despite reduced participation, all client types produced valid blocks, and participation increased over time, reassuring developers that the delay was due to late upgraders rather than a fundamental issue."
+    },
+    {
+        "title": "Ethereum core developers set April 12 for Shanghai hard fork - Cointelegraph",
+        "summary": "  Ethereum core developers have set April 12 as the target date for the highly anticipated Shanghai hard fork. The upgrade will feature five Ethereum Improvement Proposals, including the enablement of staked Ether (ETH) withdrawals on the Beacon Chain, marking the completion of Ethereum's transition from proof-of-work to proof-of-stake (PoS) consensus. The upgrade could trigger a sell-off in the short term, with regulatory implications for ETH and the crypto space. The switch to PoS consensus has brought ETH under the regulators' radar, with recent crackdowns on crypto firms providing staking services in the U.S. Ethereum's roadmap includes several updates after Shanghai, including the \"Surge,\" \"Verge,\" \"Purge,\" and \"Splurge.\""
+    },
+    {
+        "title": "What Are Smart Contract Wallets? A Beginner's Guide - Blockworks",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nSmart contract wallets provide self-custody of crypto assets and enable customizable transactions, privacy, and security. ERC-4337 account abstraction offers a universal standard for smart contract wallets to remove reliance on centralized relayers and EOAs, but lacks infrastructure and faces centralization risks. Third-party relayers and layer-2 solutions also exist, but have their own risks. The article discusses the benefits and limitations of each approach and the need for a universal standard to address security concerns."
+    },
+    {
+        "title": "Ethereum Devs Confirm ETH Staking Withdrawals Date - DailyCoin",
+        "summary": "  Ethereum developers have confirmed the date and time for the Shapella upgrade, which will enable staked ETH withdrawals. There is currently $29.45 billion worth of ETH staked, and the upgrade is expected to significantly affect the price of ETH. Some observers believe that unlocking the staked ETH will lead to massive ETH sales, while others believe that most stakers will move to liquid staking. The Shapella upgrade is one of the most important Ethereum blockchain upgrades in history, and those who believe there will be significant sell-offs should consider hedging their positions or having another plan to avoid losing investment value."
+    },
+    {
+        "title": "Is Ethereum a Security? \u2022 What Does the S.E.C. Think in 2024 - Benzinga",
+        "summary": "  Title: Is Ethereum a Security?\n\nEthereum, a decentralized blockchain platform, has sparked debate on whether it qualifies as a security under US securities laws. The Securities and Exchange Commission (SEC) has not provided a clear ruling, but the Howey Test can be applied to determine if Ethereum meets the criteria of an investment contract.\n\nKey points:\n\n1. Investment of money: Ethereum's validators deposit ETH as collateral to participate in the proof of stake (PoS) mechanism, which can be viewed as an investment of money.\n2. Common enterprise: There are two tests of commonality: horizontal commonality (pooling of funds and proportional distribution of profits) and vertical commonality (relationship with the investor and the promoter). Ethereum does not have a promoter, and the actions depend on the codes of the smart contract.\n3. Reasonable expectations of profits: There is a reasonable expectation of profits derived solely from the efforts of others, as the value of Ethereum can increase and holders can profit from the efforts"
+    },
+    {
+        "title": "Arbitrum, a leading scaling solution for Ethereum, will finally have a native cryptocurrency - Fortune",
+        "summary": "  Arbitrum, a popular scaling solution for Ethereum, is launching its own cryptocurrency, $ARB, to govern its two blockchains. Offchain Labs, the developer behind Arbitrum, will airdrop $ARB to select users and establish a DAO for decentralized governance. The new token will allow holders to vote on proposals and further decentralize control of Arbitrum. With $1.6 billion in total assets locked on the chain, Arbitrum outperforms its competitor Optimism, and Offchain Labs plans to onboard developers to create their own layer-3 blockchains on top of Arbitrum's network."
+    },
+    {
+        "title": "Breaking: Ethereum Shanghai Upgrade Date Officially Announced - CoinGape",
+        "summary": "  Ethereum Shanghai upgrade officially set for April 12, according to core developers. Date revealed during ACDE meeting. Staked Ethereum withdrawals delayed until May due to V2 audits. Ethereum price up 1% in last 24 hours, trading at $1,664."
+    },
+    {
+        "title": "Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs - Decrypt",
+        "summary": "  Arbitrum, an Ethereum scaling solution, is launching its native governance token ARB, giving holders the ability to vote and propose changes to the project. The token drop will be available to early users, determined by an internal eligibility criterion, and will also be distributed to other projects built on Arbitrum. This move marks a shift towards token-governed development, with the community having control over the direction of the chain and technology. Offchain Labs, the dev team behind Arbitrum, will be giving these controls over to the community, with the responsibility to update the code simultaneously with DAO votes. This move is seen as a middle ground, giving the community the licensing regime to bestow on other developer teams, and spurring innovation in the Arbitrum ecosystem."
+    },
+    {
+        "title": "Ethereum Devs Finally Set Date for ETH Withdrawals - Blockworks",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum developers have set Apr. 12 as the date for deploying the Shapella hard fork on mainnet, which will allow validators to withdraw their locked-up ether for the first time since Nov. 2020. The upgrade combines the execution layer (Shanghai) with the consensus layer (Capella) and will enable offline validators to reclaim their principal stake and claim earned fees. The upgrade also reduces the gas cost applied to earning this fee. There are no major roadblocks ahead of the hard fork, according to a researcher at Arbitrum, and client teams are gearing up for the main release. Tooling and user interface are receiving last-minute bug fixes and documentation is being reviewed to ensure a smooth withdrawal process for stakers."
+    },
+    {
+        "title": "Coinbase expects high demand for ETH unstaking with Shanghai upgrade - Cointelegraph",
+        "summary": "  Coinbase expects high demand for ETH unstaking after Ethereum's Shanghai upgrade, which will enable users to withdraw staked ETH. Coinbase anticipates a flood of staking withdrawal requests and warns of a significant wait time for unstaking requests, which will be processed on-chain and queued based on receipt. To account for the inconvenience, Coinbase offers a liquid staking option called \"cbETH\" for users to trade staked ETH while it is still locked up, with the promise of redeemability at a later date."
+    },
+    {
+        "title": "SEC Boss Suggests Ethereum (ETH) Might Be Security Once Again - U.Today",
+        "summary": "  SEC Chair Gary Gensler suggests Ethereum (ETH) may be considered a security again, as he believes proof-of-stake tokens should be regulated as securities due to promotional activities on social media. His view contradicts with the CFTC Chairman's classification of Ether as a commodity. Crypto firms aim to avoid being regulated as securities, but increasing regulatory scrutiny. NY Attorney General Letitia James sued KuCoin for selling unregistered securities, with Ethereum being a rare instance of a token being given legal security status. Gensler declined to comment on specific tokens."
+    },
+    {
+        "title": "Euler Finance Hacker Mixes $1.6M in Ethereum on Tornado Cash - Decrypt",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nHacker moves $1.6M in Ethereum from Euler Finance exploit to Tornado Cash.\n\nAddress sent 10 transactions worth $100 each, totaling $1M, to Tornado Cash.\n\nHacker also holds $1.5M in \"Fake Phishing\" at the same address.\n\nEuler Finance fell victim to flash loan exploit, losing $8.7M in DAI, $18.5M in WBTC, $135.8M in stETH, and $33.8M in USDC.\n\nCompany working with law enforcement, but suggests criminal investigation could be dropped if funds are returned.\n\nHacker transferred 100 ETH to an address allegedly belonging to one of the victims."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Developers Target April 12 for Shanghai Hard Fork - Decrypt",
+        "summary": "  Ethereum developers aim to launch Shanghai hard fork on April 12, enabling staked ETH withdrawals after testing. Although testnet participation was low, developers are optimistic about the mainnet upgrade."
+    },
+    {
+        "title": "Ethereum Layer 2 Arbitrum to Airdrop 1.16 Billion ARB Native Token: Details - U.Today",
+        "summary": "  Arbitrum, an Ethereum Layer 2 scaling solution, has launched its native token ARB and introduced DAO governance. 1.16 billion ARB tokens will be airdropped to eligible users, with the majority of the token supply (56%) owned by the community. ARB holders can vote on governance proposals and delegate their voting power to delegates. The airdrop is set to begin on March 23, and users are advised to follow the official website for details."
+    },
+    {
+        "title": "Backed with $3M, Soul Wallet aims to bring self-hosted crypto wallets to the next billion - TechCrunch",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nSoul Wallet, a new crypto wallet startup, has raised $3M to bring self-hosted wallets to the next billion users. The wallet is built on top of the new ERC-4337 standard, which allows for smart contract capabilities and does away with the need for seed phrases. Soul Wallet aims to provide a better user experience than existing custodial wallets like MetaMask, while also offering more advanced features like social recovery and customized functions. The startup is targeting developing countries like South America and Africa, where cryptocurrency adoption is high due to currency inflation, and developed countries where adoption hinges on the evolution of decentralized applications (dApps) and non-fungible tokens (NFTs). Soul Wallet is currently undergoing internal testing and will launch in Q3 or Q4 after audits."
+    },
+    {
+        "title": "Is Ether a Security? - CoinDesk",
+        "summary": "  In a recent court ruling, the SEC was unable to provide clear guidance on whether Ether (ETH) is a security. The judge noted that the SEC did not argue that the Debtors (the parties involved in the case) were violating securities laws or that Binance.US (a cryptocurrency exchange) was not complying with registration requirements for brokers. The SEC also did not provide any explanation as to why the Debtors' operations or Binance.US's operations might raise legal issues. The judge concluded that the SEC's position was unclear and lacked evidence to support their claims."
+    },
+    {
+        "title": "Here\u2019s the Target Date for Ethereum\u2019s Shanghai Hard Fork - CryptoPotato",
+        "summary": "  Ethereum's Shanghai hard fork is set for April 12, according to core developers, with a target date of March 2023 initially set but delayed by a month. The upgrade will enable stakers to withdraw their locked Ether (ETH) for the first time since December 2020. The upgrade, called \"Shapella,\" combines the Shanghai and Capella changes to the network's execution and consensus layer, respectively. The move to proof of stake in September allowed ETH owners to earn yield on their holdings, reducing the network's energy footprint and creating a $29.4 billion wall of economic security against a potential 51% attack. However, the Merge may have given market regulators more reason to clamp down on Ethereum, with New York Attorney General Letitia James suing KuCoin for listing securities on its platform, including ETH."
+    },
+    {
+        "title": "Tether: How Its $2 Billion USDT Minting Impacts Ethereum\u2019s Success In The Bull Market - NewsBTC",
+        "summary": "  Tether, a stablecoin issuer, has recently minted over $2 billion in USDT on the Ethereum and Tron blockchains, contributing to the growing demand for stablecoins. This development could potentially benefit Ethereum, as investors seek safe-haven assets during times of market volatility. Despite the recent collapse of major banks, Tether's USDT has shown resilience, and its recent minting may drive up demand for the stablecoin. The increased supply of USDT on the Ethereum blockchain could give Ethereum a much-needed boost in the medium to long term. However, the outcome of the upcoming US CPI and retail sales data release will likely have a significant impact on the overall market sentiment and could potentially affect Ethereum's value."
+    },
+    {
+        "title": "Playboy Lost $4.9M on Ether It Accepted as NFT Payments - CoinDesk",
+        "summary": "  Playboy lost $4.9 million due to fluctuations in the value of Ether (ETH) it accepted as payment for NFTs. According to the company's filing, the market price of ETH ranged from $964 to $3,813 in 2022, but the carrying value of the ETH held in the balance sheet reflected the lowest price quoted on the active exchange at any time. This means that negative swings in the market price of ETH could impact the company's earnings and carrying value, while only a rise in prices will positively impact the company's earnings when the ETH is sold at a gain."
+    },
+    {
+        "title": "\u2018Ethereum and Stablecoins Are Commodities\u2019: CFTC Clashes With the SEC - ZyCrypto",
+        "summary": "  The Commodity Futures Trading Commission (CFTC) is challenging the Securities and Exchange Commission's (SEC) classification of Ethereum and stablecoins as securities. CFTC chair Rostin Behnam argues that these digital assets are commodities, not securities, and that the CFTC is the appropriate regulatory body to oversee them. Behnam cites the CFTC's settlement with stablecoin issuer Tether, which fined the platform $41 million for misleading investors about the backing of its USDT stablecoin. The CFTC's stance on stablecoins is that they are commodities, despite a regulatory framework, and the commission will police the market and companies accordingly."
+    },
+    {
+        "title": "Uniswap v3 Launches On BNB Chain After Months of Infighting - The Defiant - DeFi News",
+        "summary": "  Uniswap, a leading decentralized exchange, has launched on BNB Chain after months of infighting. The v3 protocol on BNB Chain offers faster and cheaper transactions than Ethereum, making the exchange more accessible to a broader user base. The launch was announced by Uniswap Labs and was met with support from the community. However, Andreessen Horowitz (A16z), a major Uniswap investor, was unable to participate in the vote to determine the bridging infrastructure provider for BNB Chain due to a technical issue. Despite this, the proposal passed with two-thirds support, and Uniswap is set to move forward with the deployment."
+    },
+    {
+        "title": "Ethereum's use cases and adoption rate in various industries - - Canarian Weekly",
+        "summary": "  Ethereum is gaining traction in various industries due to its smart contract functionality. The finance industry has seen the most significant adoption, with decentralized finance (DeFi) applications surpassing $200 billion in value. Ethereum-based gaming platforms are also gaining popularity, with NFTs enabling unique in-game assets. Supply chain management, real estate, and healthcare are other industries exploring Ethereum's potential. However, the network faces challenges such as scalability, regulatory uncertainty, and user-friendliness. Despite these challenges, Ethereum's adoption rate is expected to continue to rise as more industries explore its potential for innovation and disruption."
+    },
+    {
+        "title": "How Can You Earn Free Ethereum? Best Ways to Earn for 2023 - Cryptopolitan",
+        "summary": "  Here are the main points from the article on how to earn free Ethereum:\n\n1. Faucets: Ethereum faucets give away small amounts of ETH for free in exchange for completing tasks such as clicking links or solving captchas.\n2. Airdrops: Participating in airdrops can give you free Ethereum tokens from projects conducting an Initial Coin Offering (ICO).\n3. Online Games: Playing online games can reward you with Ethereum tokens for completing tasks or winning competitions.\n4. Freelancing: Offering skills or knowledge on freelance websites can earn you Ethereum tokens.\n5. Trading: Trading cryptocurrencies can earn you Ethereum without investment, but requires knowledge and experience.\n6. Microtasks: Completing microtasks on platforms like Microworkers can earn you small amounts of ETH without investment.\n7. Referrals: Many services and companies offer referral programs that reward you with Ethereum for each new user you sign up.\n8. Bots: Using trading bots like 3Commas can"
+    },
+    {
+        "title": "Banking contagion sparks crypto frenzy: investors rush to 'HODL' Bitcoin and Ethereum - Finbold - Finance in Bold",
+        "summary": "  Investors are flocking to cryptocurrencies like Bitcoin and Ethereum as a safe haven amid the recent banking crisis. The collapse of Silicon Valley Bank and two other major institutions has sparked fears of a potential spread to the crypto industry. As a result, investors are withdrawing their digital assets from exchanges and \"HODLing\" them instead. According to Glassnode, the amount of Bitcoin and Ethereum reserves on exchanges has decreased by 0.144% and 0.325%, respectively. This trend is seen as a sign of growing investor confidence in cryptocurrencies, despite the recent price consolidation. Bitcoin is trading at $24,674, up 13.64% and 13.14% in the last week and month, respectively. Ethereum, on the other hand, has lost 1.17% in the last 24 hours but is still up 8.97% and 11.02% in the last week and month, respectively. The article concludes that the developing situation in the banking sector"
+    },
+    {
+        "title": "Ethereum ($ETH) Supply Dropped By More Than $100 Million Since the Merge, Data Shows - CryptoGlobe",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's ($ETH) supply has decreased by over $100 million since its network transitioned to a Proof-of-Stake (PoS) consensus algorithm. The supply drop is attributed to transfers from major DeFi applications, including Uniswap, Tether, and other projects burning tokens through transaction fees. Ethereum staking has become a source of revenue for both cryptocurrency holders and exchanges, with Coinbase reporting over $200 million in revenue through its staking, earn, and custody products. The highly anticipated Shanghai upgrade is one step closer to activation, which will complete Ethereum's full transition to a PoS network and allow validators to withdraw their staked ether and rewards."
+    },
+    {
+        "title": "Use VAULT PIN 300 To Become A Crypto Millionaire! - Big Eyes Coin Winks At Bitcoin & Ethereum - Outlook India",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nBig Eyes Coin is offering a limited-time opportunity for investors to earn 300% extra on their initial investment in the form of BIG tokens. The vault pin 300 provides investors with a chance to get thrice the value of their initial investment in the BIG coin. This offer is only available for a short time, so investors are advised to act quickly to join the fastest-growing meme coin community and potentially become a crypto millionaire."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Ethereum's Buterin Proposes 'Stealth Addresses' to Enhance Privacy Protections - CoinDesk",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has proposed a new feature called \"stealth addresses\" to enhance privacy protections in the Ethereum network. This feature would allow users to hide their identity and transaction amounts when making transactions, providing greater anonymity and privacy. According to Ethereum researcher, Alex Wahrst\u00e4tter, the proposed system would be similar to how people handle their personal finances, such as not wanting to disclose their employer or spending habits to a supermarket."
+    },
+    {
+        "title": "Ethereum (ETH) Founder Vitalik Buterin Considers Private Transaction System - Bloomberg",
+        "summary": "  Ethereum co-founder Vitalik Buterin proposes private transaction system. Users can create \"stealth addresses\" for private transactions, including money and NFT transfers. This provides more privacy for user activities on the network."
+    },
+    {
+        "title": "Could Ethereum Make You a Millionaire in 2023? - The Motley Fool",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum could make you a millionaire in 2023, but nobody knows for certain. It's a speculative investment, and there are no guarantees that the crypto market will exist in the future. However, Ethereum has several advantages, including smart contracts, NFTs, the metaverse, and hosting other cryptocurrencies. The article suggests keeping a long-term outlook and being willing to take on high risks, as Ethereum has potential for lucrative returns. Despite its drawbacks, such as slow transaction times and high gas fees, Ethereum could be a profitable investment in the long run."
+    },
+    {
+        "title": "Explained: How Ethereum\u2019s token burns are making it a deflationary cryptocurrency - CNBCTV18",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has transitioned to a deflationary cryptocurrency due to its burning rate, with almost 2.8 million ETH worth $4.6 billion burnt since the launch of the EIP-1559 protocol. The burning rate is estimated to be 1.62 ETH per minute. This transition is attributed to Ethereum's switch from Proof-of-Work to Proof-of-Stake and the attractiveness of staking ETH for yields. The massive burning of ETH has positively affected the coin's economy, with prices going up significantly this year. Experts believe that if Ethereum maintains a lower circulation supply than the number of tokens burnt, ETH prices will continue to rise."
+    },
+    {
+        "title": "Ethereum devs create 'shadow fork' to test conditions for Ether withdrawals - Cointelegraph",
+        "summary": "  Ethereum developers have created a testing environment called a \"shadow fork\" to test conditions for Ether withdrawals. The new testnet, called \"Withdrawal-Mainnet-Shadow-Fork-1,\" is intended to simulate malicious attacks on the mainnet and see if the upgrade can prevent them. The test comes after devs expressed urgency to make Ether staking withdrawals a reality, with over 14.5 million ETH currently deposited in the staking contract. The Shanghai upgrade is scheduled for March, but devs are still working on implementing Ether withdrawals."
+    },
+    {
+        "title": "Vitalik Buterin proposes 'stealth addresses' to enhance Ethereum privacy - The Block",
+        "summary": "  Vitalik Buterin proposes'stealth addresses' to enhance Ethereum privacy. New system would provide privacy benefits by generating unique, anonymous addresses for each transaction, making it difficult to track transactions or determine who is sending/receiving assets. Buterin also suggests using ZK-SNARKs to boost privacy. This proposal addresses privacy concerns on Ethereum, where transactions are public by default, and could potentially avoid regulatory issues like those faced by cryptocurrency mixers like Tornado Cash."
+    },
+    {
+        "title": "Today in 2014: Ethereum Was Announced by Vitalik Buterin on Bitcointalk - CryptoPotato",
+        "summary": "  In 2014, Vitalik Buterin announced Ethereum on Bitcointalk, seeking to create a blockchain with a built-in programming language and platform for decentralized applications. Buterin challenged the idea of \"Bitcoin Dominance Maximalism\" and called for a new ecosystem with a philosophy of simplicity, universal accessibility, and generalization. Ethereum has since become the second-largest cryptocurrency by market cap, despite criticism from Bitcoin Maximalists."
+    },
+    {
+        "title": "Ethereum creator Vitalik Buterin describes his vision for stealth addresses - CryptoSlate",
+        "summary": "  Ethereum creator Vitalik Buterin has proposed a new approach to stealth addresses, which would conceal the recipient of certain transactions on the blockchain. Stealth addresses aim to provide privacy benefits while also reproducing the benefits of creating a new address for every transaction. However, they do not provide a way to pay transaction fees, and Buterin suggested two potential solutions. He also distinguished stealth addresses from Tornado Cash and noted that existing proposals for stealth addresses on Ethereum are likely to change in the future. Various blockchains already use stealth addresses, and lesser-known projects are also incorporating the feature."
+    },
+    {
+        "title": "Crypto community with 80% historical accuracy sets Ethereum price for January 31, 2023 - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price is predicted to reach $1,424 on January 31, 2023, according to a crypto community with an 80% historical accuracy rate. The community's projections for the past six months have set the price of ETH with an accuracy rate of 77.77%. Meanwhile, machine learning algorithms at PricePredictions predict a price of $1,315, while Ethereum's technical analysis on TradingView indicates a'strong buy' sentiment. Ethereum is currently up 0.55% in the past 24 hours and has a market capitalization above $200 billion. The price may reach $1,750 if demand grows, but could fall to $1,560 if prices drop below $1,600. (Note: The content on this site should not be considered investment advice.)"
+    },
+    {
+        "title": "Vitalik Buterin divulges the 'largest remaining challenge' for Ethereum - Cointelegraph",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has proposed a solution to the largest remaining challenge for Ethereum: privacy. He has introduced the concept of \"stealth addresses,\" which can potentially anonymize peer-to-peer transactions, NFT transfers, and Ethereum Name Service (ENS) registrations. Stealth addresses work by generating a spending key for the receiver, which is then used to generate a stealth meta-address. The sender can then transfer assets to the receiver's stealth address, along with a temporary key to confirm ownership. However, Buterin noted that implementing stealth addresses may lead to problems of its own, such as social recovery issues, and that zero-knowledge proofs may be necessary in the long term to fully address privacy concerns."
+    },
+    {
+        "title": "Crypto Gaming Project Explodes 185% in Two Weeks As Layer-2 Ethereum Ecosystem Heats Up - The Daily Hodl",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nCrypto gaming project MAGIC has surged 185% in two weeks, driven by growth in the Ethereum layer-2 ecosystem. Treasure, the gaming-focused altcoin, has launched a new program to incentivize game builders and has seen big gains. Other Ethereum scaling solutions, such as Optimism and Polygon, are also experiencing growth."
+    },
+    {
+        "title": "Harmony Hackers Cover Tracks by Bridging Portion of $100M Loot to Avalanche, Ethereum and Tron - CoinDesk",
+        "summary": "  Harmony hackers move $100M loot to other chains. They converted a portion of the stolen bitcoin to stablecoins and sent them to USDT addresses on Ethereum and Tron. This move aims to make it harder to trace the funds."
+    },
+    {
+        "title": "Ether Turns Deflationary Again, Led by Spike in NFT Sales - CoinDesk",
+        "summary": "  Ether (ETH) has turned deflationary again due to a spike in Non-Fungible Token (NFT) sales on the Ethereum platform. Daily burn rates have soared from 1,000 to 2,000 ETH over the past six months to a high of 2,700 ETH on January 18, according to Etherscan data. This indicates a decrease in the total supply of ETH, potentially leading to an increase in its value."
+    },
+    {
+        "title": "Ethereum (ETH) Price Can Hit $3K In The Short Term - Here's Why - CoinGape",
+        "summary": "  Ethereum (ETH) price may reach $3K in the short term due to increased buying confidence and a potential surge in USD stablecoin supply. Despite a slight pullback, the overall trading activity has increased, and the price of Ethereum has breached the macro downward trendline. However, the price of ETH is currently being traded at $1,634, representing a decrease of 0.44% in the past 24 hours. The price may continue to rise if Bitcoin bulls make a strong return, potentially reaching $3,000."
+    },
+    {
+        "title": "Norway government to use public blockchain to track SME stock ownership - Ledger Insights - Ledger Insights",
+        "summary": "  Norway is set to become the first government to use a public blockchain to track stock ownership of small and medium-sized enterprises (SMEs). The BR\u00d8K project, which moved into the sandbox phase earlier this month, aims to provide a current and immutable view of the \"cap table\" - who owns stock, how much they own, and when they bought it. The solution combines blockchain, an open database, and custom software, and is GDPR compliant. The project has been in development for three years and is now making its software development kit available. This innovative approach to cap table management could pave the way for the tokenization of stocks and provide a more efficient and secure way to manage share ownership."
+    },
+    {
+        "title": "CRV becomes the most traded token among Ethereum whales but\u2026 - AMBCrypto News",
+        "summary": "  CRV, the native token of Curve Finance, has become the most traded token among Ethereum whales, according to WhaleStats. This surge in whale activity may indicate strong demand for CRV, potentially leading to more upside. Despite being deeply overbought, CRV's price action has continued to extend its upside, with a 7.40% increase in the last 24 hours. However, the MVRV ratio and mean coin age are currently in the upper monthly range, suggesting that CRV holders are in profit. This may indicate that investors, including whales, are focused on long-term gains and are not in a rush to secure short-term profits. While there are still risks that may trigger a retracement, the current trend suggests that whales continue to demonstrate confidence in the market, potentially favoring the upside."
+    },
+    {
+        "title": "Ancient Ethereum ICO Era Wallet Starts Moving Almost $60 Million Suddenly - U.Today",
+        "summary": "  A wallet that has been dormant for six years has started moving almost $60 million worth of Ethereum (ETH) to staking contracts, signaling a potential increase in staking activity on the Ethereum network. The wallet received 120,000 ETH at Genesis with three addresses and then transferred $53 million worth of funds to a new address 5 hours ago. This movement of funds is significant as it could reduce selling pressure on the market and lead to a rapid spike in ETH sales and high volatility when funds are unlocked."
+    },
+    {
+        "title": "FBI Confirms North Korea Behind $100 Million Harmony Hack - Yahoo Finance",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nFBI confirms North Korea's Lazarus Group hacked Harmony Protocol, stealing $100 million.\nLazarus Group used RAILGUN privacy protocol to launder funds.\nFBI identified and froze $60 million of the stolen funds.\nRemaining $40 million was sent to 11 Ethereum addresses.\nNorth Korean hackers have stolen $1.2 billion in cryptocurrency since 2017.\nFBI will continue to expose and combat North Korea's cybercrime."
+    },
+    {
+        "title": "Vitalik Buterin Weighs in on Stealth Address to Bring Privacy to Blockchain Transactions - CryptoPotato",
+        "summary": "  Vitalik Buterin proposed a stealth address system to improve privacy on the Ethereum network. Stealth addresses use elliptic curve cryptography to obscure transaction details and provide the same privacy properties as generating a fresh address for each transaction. This system is different from Tornado Cash, which can hide transfers of mainstream fungible assets but is weak at adding privacy to transfers of obscure ERC20s and cannot add privacy to NFT transfers. Buterin emphasized that privacy is a significant challenge in the Ethereum ecosystem and that stealth addresses can help address this issue."
+    },
+    {
+        "title": "Ethereum Co-Founder Vitalik Buterin Says \u2018Stealth Addresses\u2019 Could Bring Privacy to Blockchain Transa... - Gadgets 360",
+        "summary": "  Ethereum co-founder Vitalik Buterin believes that \"stealth addresses\" could enhance privacy on the blockchain. Stealth addresses are registered on Ethereum Name Services (ENS) and allow for anonymity in peer-to-peer transactions of digital assets. Buterin notes that using stealth addresses would maintain transaction records on the public blockchain while keeping privacy intact. However, he warns that executing stealth addresses could increase gas fees for each transfer. The Ethereum blockchain has successfully transitioned to an energy-efficient PoS model and will implement the Shanghai update in March to allow staked Ether token holders to withdraw their tokens."
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin above 22,000, Ethereum and other tokens trade mixed - CNBCTV18",
+        "summary": "  Sure! Here is a summary of the financial news in less than 256 tokens:\n\nBitcoin is up 7.4% in the past week, trading at $22,747.6 with a market cap of $438.2B. Ethereum rose 1.5% to $1,640 with a market cap of $200.6B. Dogecoin jumped 7.3% and Solana fell 0.5%. Other tokens like Shiba Inu also saw mixed trading."
+    },
+    {
+        "title": "Crypto prices today: Bitcoin at $22,675.24; Ethereum up by 0.56% & meme coins increase - India Today",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto prices today: Bitcoin at $22,675.24; Ethereum up by 0.56%. Meme coins increase, metaverse tokens remain up. Top gainers and losers include Axie Infinity, STEPN, Osmosis, and Flow, while OKB, Kava, Frax Share, and Casper are the top losers."
+    },
+    {
+        "title": "Ethereum Network Security Is at Risk Claims Vitalik Buterin - Analytics Insight",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has proposed a solution to the network's largest remaining challenge: privacy. Buterin acknowledged the need for a privacy solution due to the public nature of information on public blockchains. He suggested \"stealth addresses\" to anonymize transactions, including peer-to-peer transactions, NFT transfers, and ENS registrations. Stealth addresses involve generating a \"spending key\" and a \"stealth meta-address,\" then passing the meta-address to the sender to generate a new stealth address for each transaction. However, Buterin noted that a Diffie-Hellman key exchange and key blinding mechanism are required to ensure privacy, and that ZK-SNARKs could be used to pay transaction fees. Despite being addressed since 2014, few solutions have reached the market."
+    },
+    {
+        "title": "Ethereum Staking Services Make Up 70% Of Staked ETH Supply - Bitcoinist",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum staking services account for 70% of the total staked ETH supply, with Lido being the largest player. Lido has contributed 4.7 million ETH, which is over 29% of the total coming from staking services. Coinbase, Kraken, and Binance are the next biggest providers, with combined dominance of 26.6%. The total value locked into the Ethereum staking contract is around 16.1 million ETH, or 13.4% of the total circulating supply. Ethereum is trading around $1,600, up 6% in the last week."
+    },
+    {
+        "title": "Highest Developers Activity on Ethereum and Cardano in 2022 - The Coin Republic",
+        "summary": "  Highest developer activity on Ethereum and Cardano in 2022, with 223 and 151 average daily developers respectively. Ethereum takes the lead, followed by Cosmos and Cardano. Polkadot, Kusuma, and Cosmos are among the top 5 in the chart for active developers, with a surge in activity. Despite a slight decline in the last 30 days, Solana still attracts an average of 69 daily active developers. Ethereum and Cardano price analysis shows ETH trading at $1,632.17 with a slight jump, while Cardano ADA is trading at $0.3765 with a drop."
+    }
+]

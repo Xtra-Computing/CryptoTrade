@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Into The Next Chapter: Ethereum's Proto-Danksharding - Blockonomi",
+        "summary": "  Ethereum developers are moving on to the next stage after the successful Shanghai (Shapella) upgrade, focusing on proto-danksharding, a feature essential to the network's rollup-centric roadmap. Proto-danksharding introduces a new transaction type to reduce user transaction costs on layer-2 rollups, aiming to boost the speed of the network and take place in 2023. Cancun also aims to deactivate the SELFDESTRUCT opcode to make way for statelessness, and the EVM Object Format (EOF) will be the focus of the next major upgrade, called Prague. Despite the hype surrounding Shanghai, the upgrade is not expected to significantly affect the network's performance, and new ETH continues to be deposited into staking, with over 18 million ETH still deposited. Institutional staking providers have deposited over 224,000 ETH in the last month, and Lido has shown remarkable growth, with nearly 5.9 million ETH deposited in staking, making it the king of staking on Ethereum. However, the"
+    },
+    {
+        "title": "Phantom Solana Wallet Adds Ethereum and Polygon Support - Decrypt",
+        "summary": "  Phantom, a popular Solana wallet, has expanded its support to include Ethereum and Polygon networks, allowing users to interact with dApps across multiple blockchains from a single wallet. This move aims to simplify the management of multiple accounts and assets across different blockchains, and Phantom claims to be the premier choice for users as crypto goes multichain. The wallet has onboarded over 100,000 users since its beta launch last fall and has stepped up security measures to protect NFT holders from phishing and scam attacks. Future plans include the introduction of instant NFT sales and a bridge for asset transfer between Solana and Ethereum networks."
+    },
+    {
+        "title": "Ethereum Price Indicators Show Vulnerability to Bigger Correction - NewsBTC",
+        "summary": "  Ethereum price is showing vulnerability to a bigger correction as it faces resistance at $1,900. The cryptocurrency has been trading below $1,880 and the 100-hourly Simple Moving Average, with a break below a key bullish trend line. The price could continue to move down if it fails to clear $1,900, with potential support levels at $1,825 and $1,800. Technical indicators, such as MACD and RSI, are gaining momentum in the bearish zone."
+    },
+    {
+        "title": "Cardano Founder Responds to Criticism of 'Building Nothing for Ethereum' - The Crypto Basic",
+        "summary": "  Charles Hoskinson, co-founder of Ethereum, responded to Fabian Vogelsteller's criticism that he built nothing for Ethereum. Hoskinson sarcastically thanked Vogeller for his opinion and expressed gratitude for the opportunity to meet the people behind Cardano, a project he helped self-manifest. Hoskinson also mentioned his contributions to Ethereum, including launching the Ethereum Foundation and ICO in 2014, which raised 31,000 BTC. The incident is not the first public disagreement between two Ethereum co-founders, with Hoskinson and Vitalik Buterin also having subtle jabs at each other in the past."
+    },
+    {
+        "title": "What is layer 3, and why is it key to blockchain\u2019s future - Forkast News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nLayer 3s are a new layer of blockchain technology that offers higher levels of customizability than layer 1s or 2s. They can help scale applications more efficiently and cost-effectively by allowing developers to create customized solutions. However, there are still challenges to be overcome, such as a lack of standardized infrastructure and the need for more development in zero-knowledge technology. Despite these challenges, the future of L3s looks promising, with the potential to drive innovation and widespread adoption across every industry."
+    },
+    {
+        "title": "Ethereum concludes April with a new ATH for ETH 2.0 deposit contracts - AMBCrypto News",
+        "summary": "  Ethereum (ETH) has reached a new all-time high for ETH 2.0 deposit contracts, according to Glassnode. This indicates increased confidence in the network and more ETH being staked. However, ETH's price has not correlated with the growth in deposit contracts, as whales have been selling pressure since the second week of April. This has led to a 10.8% discount from the current 2023 high. Despite this, there has been a slight recovery in open interest and demand for leverage in the last five days, suggesting a gradual improvement in market conditions."
+    },
+    {
+        "title": "More TPS, less gas: Ethereum L2 Starknet outlines performance upgrades - Cointelegraph",
+        "summary": "  Starknet, a layer-2 blockchain protocol, is set to improve its performance through higher throughput and reduced latency, with a focus on delivering significantly higher transactions per second (TPS) at lower gas costs. The protocol's roadmap for 2023 includes the release of v0.12.0, which will transition Starknet's development stack to a Rust-based Sequencer and open-source a Rust-Cairo virtual machine. Additionally, StarkWare, the technology firm behind Starknet, aims to reduce transaction costs by allowing users to opt for off-chain data storage and implementing a fee market to prioritize network resources. Other Ethereum layer-2 protocols, such as Polygon and ConsenSys, are also rolling out ZK-rollups to improve transaction speeds and costs."
+    },
+    {
+        "title": "You Can Now Use Your JPEGs to Borrow Ethereum on NFT Marketplace Blur - Decrypt",
+        "summary": "  Blur, an NFT marketplace, has launched a peer-to-peer perpetual lending protocol called Blend, allowing NFT collectors to take loans against their assets and liquidity providers to earn interest. Blend does not rely on oracles and has no fees for borrowers or lenders, but BLUR token holders can vote to enable fees after 180 days. The protocol was built in collaboration with Dan Robinson and Transmissions11 from Paradigm and has already topped $1 billion in NFT-backed loans across various protocols. Blur has taken the lead in NFT trading volume, with about 58% share over the past week, despite a decline in trading hype since February."
+    },
+    {
+        "title": "Ethereum Price Analysis & Prediction (May 1st) \u2013 ETH Rolls Back Inside Channel as Upper Boundary Stops Recovery - NullTX",
+        "summary": "  Ethereum price rolled back inside a channel after reaching a new high, failing to sustain momentum. The price tested $2,150 as a ten-month high and fell off after entering an oversold area. The bulls are trying to return but the bears are creating a strong wall around the crucial $2,000 level. The immediate resistance levels are $1,948 and $2,030, while the key support levels are $1,788.4 and $1,678.9. The trend is bearish, and volatility is moderate."
+    },
+    {
+        "title": "ChatGPT Predicts Future Ethereum Price - the 5 cryptos it recommends over ETH in 2023 - Analytics Insight",
+        "summary": "  ChatGPT predicts future Ethereum price and suggests 5 cryptos to invest in over ETH:\n\n1. AiDoge (Ai) - a meme-generating platform using AI technology\n2. DeeLance (DLANCE) - a platform with low fees for freelancers and employers\n3. Metropoly (METRO) - a real estate investment platform combined with crypto\n4. Ecoterra (ECOTERRA) - a green crypto for eco-conscious investors\n5. RobotEra (TARO) - a metaverse crypto with P2E, NFT sales, and mining options\n\nAccording to ChatGPT, these cryptos have a higher chance of growth than ETH, so investors may want to consider them over ETH."
+    },
+    {
+        "title": "What is Immutable, explained - Cointelegraph",
+        "summary": "  Immutable is a game development platform that simplifies building Web3 games on the Ethereum blockchain. It aims to bring digital ownership to players by making it easy to build Web3 games for mainstream adoption. The platform empowers gaming studios and developers with a powerful suite of products, delivering clear solutions that amplify their capabilities and transform the way they create, launch, and distribute games. Immutable uses zero-knowledge (ZK) scaling solutions, including Immutable X and Immutable zkEVM, to achieve layer-2 scalability and reduce transaction costs. The platform also offers a decentralized governance system via IMX, the native utility token, to incentivize traders, creators, and markets. Additionally, Immutable has its own marketplace as the default home for trading NFTs on the protocol, with partnerships with leading NFT marketplaces."
+    },
+    {
+        "title": "Is Dogetti Destined to Reach Ethereum and Polygon's Level of Success? - Analytics Insight",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nDogetti (DETI) is a new meme coin that has gained popularity due to its upcoming launch date. Compared to successful altcoins like Ethereum and Polygon, Dogetti has similarities in terms of successful presales and potential utility in the industry. While it's difficult to predict Dogetti's future success, the hype and FOMO leading up to its launch suggest it may achieve great levels of success. Interested individuals can learn more about Dogetti through the provided links."
+    },
+    {
+        "title": "Gary Gensler Faces Backlash As Old MIT Video Surfaces - Crypto Times",
+        "summary": "  Gary Gensler, current SEC chairman, faces backlash after a 2018 video resurfaced of him saying Ethereum is \"not a security\" during a MIT course. The cryptocurrency community is outraged, believing he abused his power and suppressed crypto innovations. US Representative Warren Davidson introduced legislation to terminate Gensler and restructure the SEC. Gensler was also slammed by Representative McHenry for not answering if Ethereum is a commodity or security. The SEC has been dubious about cryptocurrencies, but their methods have been exposed as regulatory by enforcement. XRP token holders may benefit from Gensler's past in the ongoing legal battle between the SEC and Ripple. The SEC's approach has caused harm to crypto investors and industries, with many feeling their actions are overly aggressive and unnecessary."
+    },
+    {
+        "title": "Ethereum (ETH) Price Prediction (March 15) - InsideBitcoins.com - Inside Bitcoins",
+        "summary": "  Ethereum (ETH) price prediction:\n\n* Experts predict a possible price increase to $2,117.339 by the end of 2023\n* ETH may trade between $1,100 and $1,600 price marks from 2024 to 2025\n* Long-term predictions from ICOcreed show ETH reaching over $14,600 in 2028 and $32,300 in 2030\n* Factors that could influence the price of Ethereum include the Ethereum 2.0 upgrade, broader market forces, and the price of Bitcoin.\n\nNote: These predictions are based on technical indicators and expert opinions, but the cryptocurrency market is highly volatile, and prices can fluctuate rapidly. It is important to do your own research and consider your own risk tolerance before investing in Ethereum or any other cryptocurrency."
+    }
+]

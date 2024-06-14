@@ -1,0 +1,262 @@
+[
+    {
+        "id": 3,
+        "title": "BlackRock files for spot Ethereum ETF with SEC - The Block",
+        "summary": "  BlackRock, the world's largest asset manager, has filed for a spot Ethereum ETF with the SEC, seeking to track the price of ether. The ETF, called iShares Ethereum Trust, has selected Coinbase Custody Trust Company as its custodian and the CME CF Bitcoin Reference Rate as its benchmark. This comes after BlackRock filed for a spot Bitcoin ETF in June, which is currently awaiting SEC approval. Big trading firms are reportedly in talks to provide liquidity for BlackRock's proposed spot bitcoin ETF if it obtains regulatory approval. The price of ether jumped nearly 2% on the news of the ETF filing."
+    },
+    {
+        "id": 4,
+        "title": "BlackRock files for spot Ethereum ETF with U.S. regulators - ReadWrite",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an application with the SEC for an exchange-traded fund (ETF) that would directly hold Ethereum, the second-largest cryptocurrency by market capitalization. The proposed ETF, called the iShares Ethereum Trust, aims to track the price of Ethereum similarly to how gold ETFs track the price of gold. This filing comes after BlackRock filed for a spot bitcoin ETF earlier this year, which is still awaiting approval. The ETF could provide mainstream investors with easy access to Ethereum through traditional brokerage accounts, but the SEC has rejected several bitcoin ETF applications in the past due to concerns over volatility and potential manipulation in the underlying crypto markets. BlackRock's filing suggests the company sees potential for an SEC approval soon, given the maturation of the Ethereum market and increasing client interest in crypto. Approval of a spot Bitcoin or Ethereum ETF could unlock significant institutional demand and provide regulatory clarity, which BlackRock's size and influence"
+    },
+    {
+        "id": 7,
+        "title": "BlackRock applies for spot Ethereum ETF - crypto.news",
+        "summary": "  BlackRock has filed an application with the SEC to create a spot Ethereum ETF, with the goal of \"broadly reflecting the price performance of Ethereum.\" This comes after the company registered the iShares Ethereum Trust with the Delaware Division of Corporations and the Nasdaq exchange applied to register the proposed exchange-traded fund. The news has led to a nearly 1.4% increase in Ethereum's price. Additionally, the SEC has postponed decisions on applications for Bitcoin and Ethereum futures ETFs."
+    },
+    {
+        "id": 10,
+        "title": "BlackRock Ethereum ETF Filing Prompts Quick ETH Price Reaction - Milk Road",
+        "summary": "  BlackRock, a major asset manager, has filed an application with the SEC for a spot Ethereum exchange-traded fund (ETF) that would track the price of Ether. The proposed ETF, called the iShares Ethereum Trust, would be benchmarked against the CME CF Ether Reference Rate and custodied by Coinbase Custody Trust. The news caused a near 2% increase in Ether's price, but it quickly dropped back down. BlackRock is also seeking approval for a spot bitcoin ETF, and major trading firms are reportedly preparing to support it. The SEC has yet to approve any spot crypto ETFs, but BlackRock's filings signal its intent to lead the industry in this area as universal adoption momentum builds."
+    },
+    {
+        "id": 11,
+        "title": "BlackRock files spot Ethereum ETF application with the SEC - CNBC",
+        "summary": "  Sure! Here is a summary of the financial news in less than 256 tokens:\n\nBlackRock has filed an application with the SEC to launch a spot Ethereum ETF. This comes as the digital asset market continues to grow in popularity and institutional investors show increasing interest in crypto investments. The ETF would allow investors to gain exposure to the Ethereum market without actually holding the underlying assets, providing a more convenient and accessible option for those looking to invest in the space."
+    },
+    {
+        "id": 13,
+        "title": "BlackRock Files Spot Ethereum ETF Application with SEC - Decrypt",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an S-1 registration for a spot Ethereum ETF with the SEC. The ETF aims to track the price of Ethereum and will be custodied by Coinbase. This follows BlackRock's previous application for a spot Bitcoin ETF, which was rejected by the SEC. The filing comes as Ethereum's price stands at $2,069, up 2.7% on the day. The SEC has yet to confirm whether Ethereum is considered a security or a commodity under its regulations."
+    },
+    {
+        "id": 14,
+        "title": "Ethereum L2 Starknet aims to decentralize core components of its scaling network - Cointelegraph",
+        "summary": "  Starknet, an Ethereum layer-2 scaling network, aims to decentralize three core components of its zero-knowledge (ZK) proof rollup solution to improve security and robustness. Starknet operates as a validity rollup using ZK-proof technology to bundle transactions and submit cryptographic proofs to Ethereum for security and finality. While Starkware, the firm behind Starknet, remains a centralized gateway for entering the network, it cannot steal money or perform invalid state transitions due to Ethereum's layer-1 blockchain. Starknet aims to decentralize block production, the proving layer, and the process of L1 state updates to achieve full decentralization. Decentralizing these components will require varying degrees of difficulty and will be tested through a series of interconnected testnets."
+    },
+    {
+        "id": 19,
+        "title": "Coinbase launches new protocol to improve Commerce, supports Ethereum, Polygon and Base - The Block",
+        "summary": "  Coinbase has launched an open-source \"Onchain Payment Protocol\" to improve its Commerce product, which now supports Ethereum, Polygon, and Base blockchain ecosystems. The protocol aims to provide instant settlement, low fees, and broad asset support, making it easier for merchants to accept crypto payments. The update also helps merchants avoid crypto volatility by automatically converting customers' crypto to the USDC stablecoin. Coinbase has also announced that it will support more networks in the future."
+    },
+    {
+        "id": 21,
+        "title": "Dogecoin Leaves Bitcoin, Ethereum In The Dust After This Space Company Literally Plans To Take It 'To The Moon' - Nasdaq",
+        "summary": "  Dogecoin (DOGE) has surged 5% in value despite a flat cryptocurrency market, driven by an announcement that it will be sent to the moon aboard a lunar lander. Astrobotic, a space robotics company, will transport a physical representation of DOGE to the moon as part of its Peregrine Lunar Lander mission, funded by the Dogecoin community in 2015. This mission embodies the collective effort of the Dogecoin community. The decision to send DOGE to the moon is a literal translation of the popular 'To the Moon' rallying cry within the cryptocurrency community. On-chain analytics firm Santiment reports that DOGE has seen a notable amount of long positions opening as traders bet on price increases. At the time of writing, DOGE is trading at $0.081, up 5.33% in the last 24 hours."
+    },
+    {
+        "id": 22,
+        "title": "Cardano's Hydra and Ethereum's Plasma: Who Copied Who? - CCN.com",
+        "summary": "  Cardano's Hydra and Ethereum's Plasma are two scaling solutions being developed to address the issue of slow transaction times on blockchain networks. While both solutions share some similarities, they have distinct architectures and security assumptions. Cardano's Hydra uses state channels to manage security and state progression between channel participants, while Plasma uses sidechains to move data and computation off the main chain. Ethereum's latest proposal for Plasma includes improvements using zero-knowledge proofs, which could resolve issues around data availability and withdrawal game complexity. The debate around copying between the two projects highlights the ongoing quest for scalability solutions in the blockchain and crypto industry."
+    },
+    {
+        "id": 23,
+        "title": "MEV Explained: The Invisible Force Driving Ethereum! - hackernoon.com",
+        "summary": "  In a recent article on Hackernoon, Adam Boudj explains the concept of MEV (Maximum Extractable Value) and its role in driving the Ethereum ecosystem. MEV refers to the maximum amount of value that can be extracted from a smart contract without compromising its security. The invisible force of MEV drives the development of decentralized applications (dApps) and the growth of the Ethereum network. Understanding MEV is crucial for developers, investors, and users of the Ethereum ecosystem."
+    },
+    {
+        "id": 24,
+        "title": "ETH Soars as BlackRock Files for Ethereum Spot ETF with SEC - U.Today",
+        "summary": "  BlackRock, a large investment management firm, has filed an application with the SEC to launch a spot Ethereum exchange-traded fund (ETF). This news has caused the price of Ethereum (ETH) to surge, reaching $2,079 at the time of writing. BlackRock had previously filed a similar application through Nasdaq, which led to a price increase for ETH. The SEC is currently reviewing around a dozen spot Bitcoin ETF requests, including BlackRock's, and has delayed decisions on three of them. Despite some delays, the price of Bitcoin (BTC) reached a high of $37,774 on Wednesday."
+    },
+    {
+        "id": 27,
+        "title": "What Is Validium in Ethereum? A Beginner's Guide - Unchained - Unchained",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nValidium is a L2 scaling solution for Ethereum that uses zk-proofs to verify off-chain transactions, improving scalability, privacy, and security. It bundles sidechain transactions into batches and generates zk-proofs for each batch, which are then submitted to the Ethereum mainnet for verification. Validium can handle thousands of transactions per second, making it ideal for high-throughput applications like DeFi and gaming platforms. It also reduces transaction fees and speeds, making Ethereum more affordable and efficient. However, Validium also has challenges and limitations, such as centralization concerns and dependence on data providers. Despite these challenges, Validium is an innovative solution that can redefine the Ethereum network's experience."
+    },
+    {
+        "id": 31,
+        "title": "Solana Price Outperforms Bitcoin, Others as Cathie Wood Rates it Higher Than Ethereum - CCN.com",
+        "summary": "  Cathie Wood, CEO of ARK Invest, has praised Solana's performance, citing its faster transaction speeds and lower costs compared to Ethereum. Solana's native token, SOL, has surged over 400% in 2023, reaching new highs. Wood believes Solana is a crucial infrastructure component in the blockchain ecosystem and has highlighted its potential for real-world applications. However, she cautions against focusing solely on short-term price movements and emphasizes the importance of staying focused on Bitcoin's long-term potential. Solana's price has spiked 20% after Wood's comments, and some speculate it may reach $80 by the end of the week."
+    },
+    {
+        "id": 35,
+        "title": "BlackRock filing confirms Ethereum ETF plan with Coinbase as custodian - DLNews",
+        "summary": "  BlackRock has filed an S-1 prospectus for a spot Ethereum exchange-traded fund (ETF) with Coinbase as the custodian. The filing is a key step towards the ETF's launch, which would provide US investors with exposure to Ether without the need for crypto-specific infrastructure. BlackRock has already established a strategic partnership with Coinbase and is using the exchange as the custodian for its iShares Bitcoin spot ETF, which is currently in review by the SEC. Other financial firms have also filed Ethereum spot ETF applications, and analysts at Bloomberg predict a high chance of approval before January 10."
+    },
+    {
+        "id": 38,
+        "title": "Aave Companies rebrands to Avara, acquires Ethereum self-custody 'Family Wallet' - Cointelegraph",
+        "summary": "  Aave Companies, a decentralized finance (DeFi) group, has rebranded to Avara and acquired Ethereum self-custody wallet Family Wallet. The rebrand marks the beginning of a new era in blockchain technology, with a focus on creating products that appeal to a wide user base. Avara's founder, Stani Kulechov, notes that the company will continue to innovate in DeFi and build tools for developers while creating new, intuitive products that attract mainstream users. The acquisition of Family Wallet includes its flagship self-custodial Ethereum wallet and developer library ConnectKit, and the team will join Avara. Avara hopes to tap into the experience of building the messaging application Honk to continue the development of Lens Protocol, a social layer for the wider Web3 ecosystem."
+    },
+    {
+        "id": 39,
+        "title": "BlackRock Files for a Spot Ethereum ETF With the SEC Months After Applying for a Similar Bitcoin Product - The Daily Hodl",
+        "summary": "  BlackRock, the world's largest investment firm, has filed for a spot Ethereum ETF with the SEC, months after applying for a similar Bitcoin product. The ETF would grant retail investors exposure to Ethereum through traditional stock exchanges, and aims to reflect the performance of the price of Ether before expenses and liabilities. This move comes after BlackRock registered an Ethereum Trust in Delaware, similar to its Bitcoin trust, and after the SEC rejected numerous attempts by other firms to create Bitcoin ETFs, but approved futures BTC ETFs. The regulatory agency has been inconsistent in its stance on approving spot market BTC ETFs, but a federal judge recently ruled that the SEC must reconsider its stance on Grayscale's BTC ETF."
+    },
+    {
+        "id": 40,
+        "title": "BlackRock Officially Files for Spot Ethereum ETF - nft now",
+        "summary": "  BlackRock, a leading asset management firm, has filed an application with the SEC to launch a spot Ethereum exchange-traded fund (ETF). The proposed ETF, iShares Ethereum Trust, aims to mirror the performance of Ethereum. BlackRock has chosen Coinbase Custody Trust Company as the custodian and CME CF Bitcoin Reference Rate as the ETF benchmark. The filing comes after BlackRock registered the iShares Ethereum Trust entity with the Delaware Department of State Division of Corporations and follows the recent court rulings that have fueled optimism for potential approvals. Other ETF prospects are also being considered, including a spot Bitcoin ETF application currently under review by the SEC."
+    },
+    {
+        "id": 42,
+        "title": "What did we learn from BlackRock's Ethereum SEC S-1 filing today? - CryptoSlate",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an S-1 registration statement and prospectus with the SEC for an Ethereum exchange-traded fund (ETF). The ETF, called the iShares Ethereum Trust, will directly hold Ethereum and seek to track the price of Ethereum before fees and expenses. The trust will be structured as a grantor trust and will issue shares representing fractional undivided beneficial interests in its net assets, consisting primarily of Ethereum. The management fee and additional expenses will be left blank in the current filing. The ETF will periodically sell Ethereum to cover fees, creating taxable events for shareholders. The sponsor has discretion over how to handle network forks, airdrops, and other events that may entitle it to new assets. The ETF plans to list on the Nasdaq under an unnamed ticker and will continuously issue shares to authorized participants in exchange for Ethereum deposits. No launch date is provided."
+    },
+    {
+        "id": 43,
+        "title": "BlackRock Files for a Spot Ethereum ETF - Watcher Guru",
+        "summary": "  BlackRock, a $9 trillion asset manager, has filed for an S-1 application for a Spot Ethereum ETF. If approved, BlackRock will offer Ethereum ETF services to institutional clients, potentially leading to increased investment in the cryptocurrency market. The development could drive up the prices of Ethereum and Bitcoin, with institutional investors viewing Ethereum as the new silver and Bitcoin as the new gold. The last time BlackRock received SEC approval for a Spot Gold ETF in 2004, gold prices surged nearly 350%."
+    },
+    {
+        "id": 44,
+        "title": "Spot Ethereum ETF: BlackRock Files For Spot Ethereum ETF, ETH Price To Rally? - CoinGape",
+        "summary": "  BlackRock, the world's largest asset manager, has filed for a spot Ethereum exchange-traded fund (ETF) with the US Securities and Exchange Commission (SEC). This move could reshape the cryptocurrency investment landscape and potentially drive more institutional investment in the space. The ETF, known as the iShares Ethereum Trust, aims to mirror the performance of Ether, with Coinbase serving as the custodian for the underlying ETH. BlackRock's entry into the Ethereum market follows its recent registration of the iShares Bitcoin Trust, and the company's CEO has acknowledged the significant interest in cryptocurrency. The approval of this ETF could lead to more gains in the crypto market, with experts anticipating a potential rally in Ethereum's price. As of writing, Ether's price has surged 2.63% to trade at $2,060.16, with its volume declining 2.61% to $13.41 billion over the past 24 hours."
+    },
+    {
+        "id": 48,
+        "title": "Former advisor Steven Nerayoff hypes Ethereum scandal expos\u00e9 - Protos",
+        "summary": "  Steven Nerayoff, a former legal advisor to the Ethereum Foundation, has made several claims about Ethereum's early days, including that Vitalik Buterin asked him to help rescue the Ethereum Foundation and that he invented the idea of issuing utility tokens through ICOs. Nerayoff also alleges that the Ethereum Foundation and Slock.it were behind the hack of The DAO, and that the SEC, DoJ, and FBI fabricated charges against him. Additionally, Nerayoff and TruthLabs have questioned Ethereum's decentralization and called out ex-SEC Director Bill Hinman for potential conflicts of interest. Finally, Nerayoff claims that Vitalik Buterin could have shorted Ethereum at some point. However, it's important to note that these are just allegations and have not been proven in court."
+    },
+    {
+        "id": 50,
+        "title": "BlackRock Ether ETF Prospectus Gets Filed With SEC - CoinDesk",
+        "summary": "  BlackRock filed a prospectus for an Ether ETF with the SEC, signaling growing institutional interest in cryptocurrencies. CoinDesk's Consensus 2024 conference will bring together industry leaders to discuss the future of blockchain and Web3. Register and buy your pass now at consensus.coindesk.com."
+    },
+    {
+        "id": 51,
+        "title": "BlackRock files S-1 form for spot Ether ETF with SEC - Cointelegraph",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an S-1 form with the SEC to launch a spot Ether ETF, dubbed the iShares Ethereum Trust. The ETF aims to reflect the performance of Ether's price and appoints Coinbase as the custodian. This move comes after BlackRock registered the iShares Ethereum Trust with Delaware's Division of Corporations and nearly six months after it filed its spot Bitcoin ETF application. The SEC has acknowledged several institutional giants' applications for crypto spot ETFs, with market pundits predicting high chances of approval by early 2024. This filing marks the beginning of the institutional rush into cryptocurrency-based spot ETFs, as the crypto market recovers from the last bear market."
+    },
+    {
+        "id": 52,
+        "title": "What is Plasma and why is Vitalik Buterin into it all over again? - Blockworks",
+        "summary": "  Vitalik Buterin is reviving the Plasma scaling solution for Ethereum as a way to reduce transaction fees without compromising security. Plasma networks are \"child\" chains of the Ethereum mainnet that execute transactions off-chain and periodically post final states back to the mainnet. This approach reduces the amount of data that needs to be stored on-chain, making it less costly and time-consuming for network participants to verify transactions. However, the previous implementation of Plasma, known as Plasma Cash, had issues with misbehaving operators and defragmentation protocols.\n\nTo address these concerns, Buterin is proposing the use of zk-SNARKS and validity proofs to prove the validity of each Plasma block without revealing the contents of the transactions. This would allow for instant withdrawals and eliminate the need for complex ownership structures. However, there are still limitations to the Plasma design, such as the challenge of handling state objects without clear economic owners.\n\nButerin believes that Plasma remains an underrated design in the blockchain technology space and could help ease Ethereum transaction fees. While roll-ups are the"
+    },
+    {
+        "id": 54,
+        "title": "Solana jumps 20% as Cathie Wood lauds its speed and cost over Ethereum - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nSolana (SOL) surged 20% after ARK Invest CEO Cathie Wood praised its speed and cost-effectiveness compared to Ethereum. Wood believes Solana is a major infrastructure player in the blockchain ecosystem and has been doing a good job in recent market conditions. Solana has gained 197% in the last month, significantly outpacing other major cryptocurrencies. Wood also addressed the current market anticipation for Bitcoin exchange-traded fund products, advising investors to focus on the underlying significance of Bitcoin as the \"money revolution\" rather than getting caught up in short-term price action."
+    },
+    {
+        "id": 56,
+        "title": "Trader Predicts Ethereum Rival That\u2019s Surged Over 150% in a Month Will \u2018Keep Going\u2019, Updates Outlook on Bitcoin - The Daily Hodl",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nPopular crypto analyst Altcoin Sherpa predicts that Avalanche (AVAX) will continue to surge, potentially reaching $29. AVAX has already gained over 150% in the past month. Sherpa also believes that Bitcoin (BTC) will likely drop to $35,000 after failing to break $38,000, and that decentralized oracle network Chainlink (LINK) will retest lower Fibonacci levels."
+    },
+    {
+        "id": 57,
+        "title": "Ethereum Price Prediction as 24-Hour Trading Volume Surges to $24 Billion \u2013 Time to Buy the ETH Dip? - Cryptonews",
+        "summary": "  Ethereum (ETH) price is consolidating around $1,980, down 3.5% on the day. Despite the pullback, there are signs of optimism for Ether's future, including:\n\n1. Increased trading volume: Ethereum's 24-hour trading volume has surged to $24 billion, indicating high market activity.\n2. Dovish macroeconomic conditions: With the US Federal Reserve expected to cut interest rates in 2024, Ether could benefit from a \"dovish pivot.\"\n3. Deflationary supply: Ethereum's supply is turning deflationary again, with a higher token burn rate.\n4. Positive chart analysis: Ether has broken above a downtrend line earlier this month, and a retest of this line could lead to a new bullish trend.\n5. Alternative investment opportunities: Cryptonews suggests considering crypto presales as a high-risk, high-reward strategy, as many upstart projects have delivered exponential gains to early investors.\n\nThe list of 15 best"
+    },
+    {
+        "id": 58,
+        "title": "Ethereum Slammed as Cardano Wannabe by Former ETH Advisor - DailyCoin",
+        "summary": "  Former Ethereum advisor Steven Nerayoff has accused the project of copying Cardano's approach to scaling, claiming that Ethereum's decision to ditch Charles Hoskinson was a \"major mistake.\" Nerayoff has also accused Ethereum of being a fraudulent project with corrupt ties to federal agencies. Meanwhile, Cardano YODA has pointed out similarities between Ethereum's Plasma proposal and Cardano's Hydra scaling approach. While Ethereum has more real-world adoption and deployed dApps, Cardano's methodical approach may ultimately prevail. The accusations of fraud against Ethereum refuse to fade away, casting a shadow of uncertainty over the project, especially in light of the FTX scandal."
+    },
+    {
+        "id": 61,
+        "title": "Grayscale ETH futures ETF a 'trojan horse' for spot Ethereum ETF: Analyst - Cointelegraph",
+        "summary": "  Grayscale Investments is using its Ether (ETH) futures exchange-traded fund (ETF) application as a \"trojan horse\" to pressure the US Securities and Exchange Commission (SEC) into approving its spot Ether ETF, according to Bloomberg ETF analyst James Seyffart. If the SEC approves Grayscale's application, it could pave the way for the approval of its spot Ether ETF. However, if the SEC denies the bid, Grayscale could argue that the SEC is treating Bitcoin (BTC) and Ether futures ETFs differently, which could be seen as unfair. Seyffart and other analysts believe that the SEC's delay in making a decision on Grayscale's Ether futures ETF is a sign that the regulator is struggling to reconcile the differences between spot and futures ETFs."
+    },
+    {
+        "id": 62,
+        "title": "ETH To The Moon? BlackRock Officially Files For Spot Ethereum ETF With SEC - ZyCrypto",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an S-1 form with the SEC to list a spot-based Ethereum exchange-traded fund (ETF). The fund, iShares Ethereum Trust, aims to reflect the performance of Ether, the second-largest cryptocurrency by market capitalization. BlackRock has already made waves in the crypto and traditional finance worlds by aspiring to list a spot Bitcoin ETF, which could potentially open the door for billions of dollars of new capital. The move by BlackRock signals a huge step towards offering its customers exposure to the performance of Ethereum. The price of Ether jumped 2% on the news before settling at $2,030. Other institutional giants, including Grayscale Investments, Ark Invest, and Valkyrie, have also submitted applications for spot Ethereum ETFs. Any approval could take months, but there is a high probability of a greenlight no later than January 10, 2024, according to Bloomberg Intelligence analysts. An Ethereum spot ETF would"
+    },
+    {
+        "id": 65,
+        "title": "Aave rebrands to Avara, acquires software developer behind Ethereum wallet Family - The Block",
+        "summary": "  Aave, a blockchain technology firm, has rebranded to Avara and acquired a Los Angeles-based web3 startup, Los Feliz Engineering, behind the Ethereum crypto wallet Family and developer library ConnectKit. The acquisition marks Avara's second purchase, expanding its ecosystem of Lens, a decentralized social media platform. Benji Taylor, the founder of Family, will join Avara as senior vice president of product and design. The entire Los Feliz engineering team will also join Avara. Avara's transformation and integration of Family are significant steps towards its ultimate mission of an open, decentralized internet."
+    },
+    {
+        "id": 69,
+        "title": "Bitcoin (BTC), Ethereum (ETH) Rally Continues, Resistance Levels Come Under Pressure - DailyFX",
+        "summary": "  Bitcoin and Ethereum prices are rising, with Bitcoin reaching an 18-month high and Ethereum nearing a 7-month high. The altcoin market is performing well, with some coins (e.g. Solana, Cardano, Avalanche) outperforming Ethereum in the last 30 days. However, over the last 18 months, Ethereum has underperformed these L1 coins. The author's view on Bitcoin's price is unknown, but readers can share their opinions through the form at the end of the article or via Twitter."
+    },
+    {
+        "id": 70,
+        "title": "Giant Asset Management Firm BlackRock Files for Spot Ethereum ETF - Unchained - Unchained",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBlackRock, the world's largest asset management firm, has filed for a spot Ethereum ETF with the SEC. The proposed ETF, named iShares Ethereum Trust, aims to mirror Ethereum's price performance. BlackRock has chosen Coinbase Custody Trust Company as the custodian and will use the CME CF Bitcoin Reference Rate as the benchmark. The move aligns with BlackRock's growing focus on digital assets, as indicated by its earlier Bitcoin ETF proposal and CEO Larry Fink's appearances. The announcement led to a 2% increase in Ether's value."
+    },
+    {
+        "id": 71,
+        "title": "How to Claim the Pyth Airdrop for Ethereum, Solana, Aptos Users - Decrypt",
+        "summary": "  Pyth Network, a decentralized finance (DeFi) oracle network, is launching an airdrop of 255 million PYTH tokens to its users and community members starting on November 20. The airdrop is part of the network's retrospective airdrop and will be open for 90 days. Users of dApps that rely on Pyth network data across 27 blockchains, as well as Pyth Network Discord administrators and holders of Pyth NFTs, are eligible to receive a token allocation. However, residents of certain countries, including the United States and the United Kingdom, will be ineligible to participate due to legal factors. The initial circulating supply of PYTH tokens will be 1.5 billion, with an additional 8.5 billion unlocking between six and 42 months from launch."
+    },
+    {
+        "id": 72,
+        "title": "Ethereum Insider Accuses Vitalik Buterin of Copying Innovative Ideas from Cardano Charles Hoskinson - The Crypto Basic",
+        "summary": "  Ethereum insider Steven Nerayoff accused Vitalik Buterin of copying ideas and functionality from Cardano's Charles Hoskinson and Ripple. Nerayoff claimed that Buterin made a mistake by getting rid of Hoskinson and that Ethereum's smart contract functionality and ICO were the only successful aspects of the project. He also alleged that Ethereum co-founder Joseph Lubin stole his idea on ICOs and utility tokens. Nerayoff has made similar allegations in the past, accusing the Ethereum team of secretly dealing with the SEC and conducting fraudulent ICOs. However, neither Buterin nor Lubin has responded to these allegations."
+    },
+    {
+        "id": 74,
+        "title": "Ethereum (ETH) Price Analysis for November 16 - U.Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price has risen 1% since yesterday, according to CoinStats. The local chart shows a false breakout of the support level of $2,022, with a potential bounce back to the interim zone of $2,050 tomorrow. The daily candle has not affected the technical picture, with ongoing sideways trading in the $2,000-$2,100 range likely for the current week. ETH is trading at $2,031 at press time."
+    },
+    {
+        "id": 75,
+        "title": "Solana vs Ethereum: The Crypto Showdown Of The Next Bull Run - NewsBTC",
+        "summary": "  Solana (SOL) and Ethereum (ETH) are two popular cryptocurrencies that are gaining traction as the crypto market prepares for a potential bull run. Solana has seen a significant surge in price, up 50% in the past 30 days, due to a combination of factors including broader market trends and increased interest in spot Bitcoin and Ethereum ETFs. On-chain metrics, such as the number of active addresses and TVL, are also showing growth. Ethereum, the largest layer-one blockchain, has shown resilience and growth despite a minor loss in price, and is expected to continue its upward trajectory in the coming weeks. Meme Moguls, a meme-backed stock market/exchange, is also gaining attention as a unique and emerging contender in the crypto market."
+    },
+    {
+        "id": 76,
+        "title": "BlackRock files for a spot Ethereum ETF with SEC - Finbold - Finance in Bold",
+        "summary": "  BlackRock, the world's largest asset manager, has filed an Ethereum ETF application with the SEC under the iShares brand. The ETF aims to track the price of ether and follows BlackRock's June application for a Bitcoin ETF. Major trading firms are reportedly discussing liquidity for the proposed Ethereum ETF, which could contribute to a surge in Ethereum's price. This move indicates BlackRock's growing interest in digital assets beyond Bitcoin, with ETFs offering a convenient and streamlined entry point for institutional investors."
+    },
+    {
+        "id": 81,
+        "title": "BlackRock\u2019s spot Ethereum ETF filing fails to catalyze ETH price sustained rally - FXStreet",
+        "summary": "  BlackRock, the world's largest asset manager, filed for a spot Ethereum ETF with the US SEC but the filing failed to spark a sustained rally in Ethereum's price. The asset traded sideways above $2,100 early Thursday. BlackRock's custodian for the ETF is Coinbase Custody Trust Company, and the proposed ETF's benchmark is provided by Kraken subsidiary CF Benchmarks. While the filing doesn't mention whether the Trust will actively stake Ether and distribute dividends, trading firms Jane Street and Jump Trading are working on providing liquidity for BlackRock's proposed Bitcoin ETF if approved. BlackRock CEO Larry Fink views Bitcoin's price rally as a sign of \"pent-up interest in crypto,\" but the update has failed to catalyze ETH price gains so far."
+    },
+    {
+        "id": 82,
+        "title": "Ubisoft Will Give Away Free Ethereum NFTs for 'Champions Tactics' Game - Decrypt",
+        "summary": "  Ubisoft, a major gaming publisher, will give away free Ethereum NFTs for their upcoming game, Champions Tactics: Grimoria Chronicles. The NFTs are profile pictures (PFPs) that will offer early access to holders to mint the eventual in-game Champions figurines, which will also be free. A total of 9,999 Warlords NFTs will be made, with 8,000 available through the mint and 1,000 reserved for the Oasys community. Ubisoft will also keep 999 NFTs for future marketing purposes and giveaways. The company is encouraging Twitter users to like, retweet, and comment on their announcement tweet to be added to the allowlist to mint the NFTs. Champions Tactics is set to launch on PC in early 2024."
+    },
+    {
+        "id": 84,
+        "title": "BlackRock's Ethereum ETF Bet Slammed by Bitcoin Evangelist Adam Back - U.Today",
+        "summary": "  BlackRock, the world's largest asset manager, has filed for an Ethereum-focused exchange-traded fund (ETF), drawing criticism from Bitcoin advocate Adam Back. Back views the move as \"bearish\" and \"impacts credibility,\" likening Ethereum and other altcoins to \"scammers clawing at the gate like a horde of zombies.\" BlackRock's venture into Ethereum signifies a shift for the cryptocurrency, which is yet to attain regulatory clarity in the U.S. Despite this, BlackRock has also applied for a spot Bitcoin ETF and views its interest in crypto as not confined to Bitcoin alone."
+    },
+    {
+        "id": 85,
+        "title": "Spot Ethereum ETF Styled ETHETF Token Starts Mammoth Burn Program, Price to Pump 10x? - Cryptonews",
+        "summary": "  Sure, here is a summary of the article in 256 tokens or less:\n\nETHETF Token, a spot Ethereum ETF styled token, has announced a 21 million token burn program, reducing total supply by 21%. This program is expected to boost the price of the remaining tokens and demonstrate the team's commitment to the project. The token has a market cap of $1.35 million and 405 holders, and traders are optimistic about the token's potential for upside growth. BlackRock's application for a spot Ethereum ETF has also been filed, which could further drive interest in the token. The article concludes that $ETHETF presents a solid way to leverage the spot Ethereum ETF frenzy and that buying the token could be a good investment opportunity."
+    },
+    {
+        "id": 86,
+        "title": "Ethereum Price Prediction As Double-Top Pattern Threatens ETH Rally, How To Stay Profitable - CoinGape",
+        "summary": "  Ethereum (ETH) price is trading at $2,010, with investors eyeing the critical support level of $2,000. The approval of a spot ETF by the SEC could lead to a bullish outcome, but the double-top pattern at $2,130 poses a threat to the uptrend. If ETH slides below $2,000, it could lead to a sell-off and potential decline to $1,900 or $1,800. Meanwhile, network fees have reached a 4-month high, indicating increased on-chain activity. The correlation between ETH price and transaction fees remains positive, with a rally in price leading to increased on-chain activity."
+    },
+    {
+        "id": 88,
+        "title": "BlackRock taps Coinbase custodian for its Ethereum ETF - FinanceFeeds",
+        "summary": "  BlackRock, the world's largest asset manager, has filed with the SEC to launch an Ethereum ETF, named \"iShares Ethereum Trust,\" which will be custodied by Coinbase Global. The ETF aims to provide exposure to Ethereum's price movements through traditional stock exchange channels. This is the second cryptocurrency ETF filing by BlackRock, following its June filing for a bitcoin ETF. The announcement has had a muted impact on the price of ether, which experienced a small increase. The approval of the ETF would provide retail investors with a regulated way to gain exposure to Ethereum's price without directly holding the cryptocurrency."
+    },
+    {
+        "id": 89,
+        "title": "Cryptocurrencies Price Prediction: Shiba Inu, Ethereum & Decentraland \u2014 Asian Wrap 16 November - FXStreet",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price recovered some losses after a steep fall, but might face challenges from the SEC. Shiba Inu (SHIB) price found strength after a recent announcement, nurturing an uptrend. However, investing in open markets involves a great deal of risk, including the loss of all or a portion of your investment. The author does not have any position in any stock mentioned and has not received compensation for writing the article. No personalized recommendations are provided, and the author and FXStreet will not be liable for any errors, omissions, or losses."
+    },
+    {
+        "id": 90,
+        "title": "BlackRock Ventures into Ethereum with New ETF Filing - Crypto Times",
+        "summary": "  BlackRock, a leading asset manager, has filed for an Ethereum exchange-traded fund (ETF) with the US Securities and Exchange Commission (SEC). This marks BlackRock's expansion into the crypto space and could have significant implications for the broader market. The proposed ETF, called iShares Ethereum Trust, aims to replicate the price movement of ether. The SEC is reviewing several spot bitcoin ETF applications, including BlackRock's, and major trading firms are reportedly preparing to provide liquidity for the anticipated spot bitcoin ETF. This development highlights the growing recognition of digital assets as a valuable component of diversified investment portfolios."
+    },
+    {
+        "id": 91,
+        "title": "GameStop Memes a future challenger against Bitcoin and Ethereum - Techpoint Africa",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nGameStop Memes Coin is a new meme-based cryptocurrency that has gained popularity due to its association with internet memes and the GameStop stock market frenzy. While it offers a unique approach to digital currency, it faces significant challenges in terms of market capitalization, popularity, and functionality compared to established cryptocurrencies like Bitcoin and Ethereum. While it's entertaining and intriguing, GameStop Memes Coin is unlikely to challenge the dominance of these giants in the foreseeable future."
+    },
+    {
+        "id": 93,
+        "title": "Why Cathie Wood Is Bullish on Solana - Decrypt",
+        "summary": "  Cathie Wood, CEO of ARK Invest, is bullish on Solana due to its efficiency and cost-effectiveness compared to Ethereum. Solana saw a 15% price increase after Wood's comments and has gained an additional $10 since then, reaching $62 according to CoinGecko. Wood has previously praised Solana's efficiency and potential to outpace Ethereum, despite regulatory hurdles in the US. She projects the cryptocurrency market could grow to $25 trillion by 2030 with institutional adoption driving growth."
+    },
+    {
+        "id": 95,
+        "title": "GameStop Memes, TRON, Cardano: Crypto Insights with Ethereum Price - Techpoint Africa",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nGameStop Memes, TRON, and Cardano are popular cryptocurrencies with unique features. GameStop Memes leverages meme culture and Ethereum price volatility, while TRON offers a versatile platform for dApp development. Cardano emphasizes academic research and development. Investors can consider these entities based on their investment goals and risk tolerance. The Ethereum price impacts these cryptocurrencies, with presale events potentially leading to significant gains. Learn more at [insert links]."
+    },
+    {
+        "id": 97,
+        "title": "Ethereum Insider Big Reveal Expected To Happen Today, Here\u2019s What You Should Know | Bitcoinist.com - Bitcoinist",
+        "summary": "  Ethereum insider Steven Nerayoff is set to reveal evidence of fraud accusations against Ethereum founders Vitalik Buterin and Joseph Lubin today. Nerayoff has promised to release several documents and a possibly damning recording of a conversation between him and Buterin. The insider has been accusing the founders of fraud for months, but they have remained silent, leading Nerayoff to challenge their silence. The Ethereum price has fallen to $2,039 in response to the news."
+    },
+    {
+        "id": 98,
+        "title": "Solana Vs. Ethereum: Helius CEO Outlines Why SOL Is Superior - Bitcoinist",
+        "summary": "  Solana (SOL) is gaining ground in the blockchain space, with CEO Mert Mumtaz highlighting several key performance aspects where Solana outperforms Ethereum (ETH). Solana has consistently achieved higher transaction speeds, with an average of 400 milliseconds compared to Ethereum's 15 minutes. Additionally, Solana's transaction fees are significantly lower, averaging $0.00025 compared to Ethereum's range of $1.5 to $20. Solana's network size is also smaller than Ethereum's, with approximately 3,000 nodes compared to 8,000 nodes. While Ethereum is more decentralized, Mumtaz questions the practical impact of this difference beyond a certain threshold, suggesting that balance is needed between decentralization and performance. Joe McCann of Asymmetric highlights data from Galaxy Digital that shows Solana's growing prominence in the decentralized finance (DeFi) sector, with Solana representing 1.15% of all active DeFi addresses, significantly ahead of Ethereum and other Layer"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 2,
+        "title": "MetaMask's Secret Project Could Shake Up How Ethereum Works - CoinDesk",
+        "summary": "  MetaMask is working on a secret project that could revolutionize how Ethereum works. The project is focused on creating a safe, feature-rich, and high-performing system that will give users more control over their Ethereum transactions. Once completed, the project will be made available to the industry, allowing users to adopt it and use it in the way they see fit."
+    },
+    {
+        "id": 4,
+        "title": "Dencun upgrade goes live on Ethereum's Goerli testnet - crypto.news",
+        "summary": "  The Dencun upgrade, a major update to Ethereum's Goerli testnet, has gone live despite low participation among validators. The upgrade, which includes \"proto-danksharding\" to reduce layer-2 transaction fees, resulted in a chain split and is currently being investigated by client teams. The next phase of the upgrade will take place on the Sepolia and Holesky testnets in January and February, followed by a rollout on the Ethereum mainnet by the end of Q1 2024. The Dencun upgrade aims to increase blockchain space for data blobs and slash layer-2 rollup fees, scaling Ethereum's blockchain without hiking gas fees."
+    },
+    {
+        "id": 13,
+        "title": "Ethereum Blockchain In A Nutshell - FourWeekMBA",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEthereum Blockchain in a Nutshell: FourWeekMBA provides an overview of the Ethereum blockchain, including its history, architecture, and potential uses. The article highlights the benefits of using Ethereum, such as its decentralized nature, smart contract capabilities, and the vast number of decentralized applications (dApps) built on the platform. The article also discusses the potential challenges facing Ethereum, including scalability issues and competition from other blockchain platforms. To access the full archive of FourWeekMBA's content, subscribe now."
+    },
+    {
+        "id": 14,
+        "title": "Ethereum Dencun upgrade goes live on testnet after 4-hour delay - Cointelegraph",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nEthereum's Dencun upgrade has gone live on the Goerli testnet after a 4-hour delay due to a bug. The upgrade aims to lower transaction costs on Ethereum layer 2s and limit self-destruct operations. The team implemented a quick fix and the network is now running smoothly. The upgrade will next be tested on the Sepolia and Holesky testnets before being implemented on the mainnet."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum Price Grinds Higher, Is This The Start Bulls Were Waiting For? - NewsBTC",
+        "summary": "  Ethereum price is attempting to break above $2,550, with a potential rise to $2,620 and beyond. The price is currently correcting gains but remains above $2,520 and the 100-hourly Simple Moving Average. Technical indicators, such as MACD and RSI, are losing momentum in the bullish zone. However, the main breakout zone is forming near $2,710, with a potential rise to $2,880. If Ethereum fails to clear $2,620, it could start another decline with potential support at $2,550 and $2,500."
+    },
+    {
+        "id": 17,
+        "title": "3 reasons why Ethereum (ETH) price is strengthening against Bitcoin - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) price is strengthening against Bitcoin (BTC) due to several factors. Firstly, there were $15.03 million of ETH shorts liquidated against $5.3 million long liquidations on January 16, which coincided with the ETH/USD pair rising to highs of $2,614. Secondly, data from on-chain analytics firm Glassnode shows that Ether's share of open interest has increased from 21.8% to 26.5% since the start of the year, indicating a growing demand for ETH. Finally, on-chain metrics from Santiment show that ETH's supply on exchanges is nearing an all-time low, which could signal a move towards self-custody and staking, reducing the risk of an impending selloff. These factors suggest that ETH may outperform BTC in the short term."
+    },
+    {
+        "id": 18,
+        "title": "Bitcoin and Ethereum to Lead Altcoins Higher in 2024 - CoinDesk",
+        "summary": "  Bitcoin and Ethereum are expected to lead altcoins higher in 2024, with a flood of cash flowing into the majors. Crypto native investors will take profits on Bitcoin and Ethereum and allocate capital into smaller tokens, leading to a rise in bitcoin dominance."
+    },
+    {
+        "id": 19,
+        "title": "Here Are The Most Bullish Predictions For ETH Price As Ethereum Dominance Rises Against Bitcoin - NewsBTC",
+        "summary": "  Here are the most bullish predictions for Ethereum's price:\n\n* Ethereum analyst Ali Martinez predicts ETH could reach $3,400.\n* Crypto analyst Mayne believes ETH betas (native tokens of Ethereum's layer-2 networks) could surge alongside ETH.\n* Ash Crypto predicts ETH will trade above $3,200.\n* Micha\u00ebl van de Poppe, CEO of MN Trading, predicts ETH will reach $3,500 in the first quarter of 2024.\n* ColdBloodedShill predicts ETH will break out above $2,400.\n* Bluntz Capital highlights the $2,495 price range as an important support level.\n\nMeanwhile, Ethereum's dominance is surging against Bitcoin, with new ETH addresses being created daily and supply on exchanges reducing drastically. Market intelligence platform Santiment reports 89.4 thousand new ETH addresses created daily, indicating long-term holdings."
+    },
+    {
+        "id": 20,
+        "title": "Ethereum's Dencun Upgrade Goes Live, But Fails to Finalize on Testnet - Yahoo Finance",
+        "summary": "  Ethereum's Dencun upgrade, which went live on the Goerli testnet, failed to finalize as expected. The issue was due to a bug in Prysm nodes, but was later patched. The upgrade is part of a three-phase approach to improve the main Ethereum blockchain's data storage capacity and reduce transaction costs. The next phase will occur in the next few weeks on the Sepolia and Holesky testnets. This is the biggest upgrade for Ethereum since the Shapella upgrade last March, which enabled staked ether withdrawals."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Dencun Testnet Upgrade Fails to Finalize As Expected - Milk Road",
+        "summary": "  Ethereum's Dencun testnet upgrade failed to finalize as expected on the Goerli test network. The upgrade, which aims to boost network capacity, was initiated but did not complete transactions as planned. The failure is attributed to a lack of nodes upgrading the necessary components to facilitate consensus. This setback highlights potential validation and software shortcomings ahead of deploying major network changes. Developers are now working to diagnose and resolve the issues before initiating further trials. The next test phases will involve the Sepolia and Kintsugi testnets. The Dencun upgrade is a significant change for Ethereum since last year's Merge and rigorous testing is crucial to minimize mainnet disruptions."
+    },
+    {
+        "id": 22,
+        "title": "Bitcoin Backs Down: Ethereum Steals The Spotlight With Surge In Market Dominance - NewsBTC",
+        "summary": "  Ethereum is surging in market dominance, with a 22.4% increase in price dominance within a week, according to Santiment data. The platform is attracting 89,400 new addresses daily, with an unprecedented 96,300 joining the Ethereum community in a single day. This momentum is driven by retention, as Ethereum's exchange supply is approaching historical lows, signaling a move towards self-custody and staking. The on-chain strength is translating into tangible market action, with Ethereum turning a once-resilient level into a launchpad. However, caution is advised, as a breach below a recent \"hammer\" formation could send Ethereum plummeting towards the 20-Day EMA. Despite this, Ethereum is carving out its unique path and laying the groundwork for future expansion. Altcoins may outperform in the near future, as Bitcoin's dominance is peaking before the halving and potentially marking a cycle top."
+    },
+    {
+        "id": 23,
+        "title": "What Is Immutable? The Ethereum Network for Crypto and NFT Games - Decrypt",
+        "summary": "  Immutable X is a layer-2 scaling network built on top of Ethereum, designed for crypto and NFT games. It provides fast and low-cost transactions, using StarkWare's ZK rollup technology, and supports all Ethereum wallets. Immutable X is expanding with another new zkEVM scaling network, in partnership with Polygon. The platform has attracted numerous NFT marketplaces and game developers, including Rarible, Mintable, and GameStop. As of January 2024, the IMX token is the most valuable gaming token, with a market cap of nearly $2.7 billion."
+    },
+    {
+        "id": 27,
+        "title": "The Protocol: MetaMask's Secret Weapon and Ethereum's Dencun Debacle - Yahoo Finance",
+        "summary": "  Title: The Protocol: MetaMask's Secret Weapon and Ethereum's Dencun Debacle - Yahoo Finance\n\nSummary:\n\n* MetaMask, the popular crypto wallet on Ethereum, is testing a new transaction routing technology that could radically change how users interact with blockchains.\n* The new technology, called \"intents,\" allows users to specify the outcome they want without specifying how to achieve it.\n* This could lead to a shift in how value flows through blockchains, with users interacting more directly with the network rather than through neutral crypto wallets.\n* The technology is being developed by Special Mechanisms Group (SMG), a blockchain infrastructure firm acquired by MetaMask's parent company, Consensys, last year.\n* Other developments in the blockchain space include:\n\t+ HashKey Group, a Hong Kong-based crypto exchange, has raised nearly $100 million in funding and reached a valuation of $1.2 billion.\n\t+ Bitfinity Network, a Web3 infrastructure firm, has raised over $7 million in funding from notable backers.\n\t+ The Hed"
+    },
+    {
+        "id": 28,
+        "title": "Ethereum's Dencun Upgrade Deployed Successfully on Goerli Testnet - Yahoo Finance",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum's Dencun upgrade was successfully deployed on the Goerli testnet, marking a significant step towards improving network scalability. The upgrade introduces ephemeral blobs or proto-danksharding, which reduces storage demands and lowers transaction costs. The phased rollout approach minimizes risks and allows for thorough testing before the final mainnet release in Q1 2024."
+    },
+    {
+        "id": 29,
+        "title": "Ethereum Price Forecast \u2013 Ethereum Pulls Back on Wednesday - FX Empire",
+        "summary": "  Ethereum price forecast: Ethereum pulled back on Wednesday, with the price falling to $120. Analysts attribute the drop to profit-taking and a lack of clear catalysts for the recent rally. Despite the pullback, the long-term outlook for Ethereum remains positive, with many experts predicting a move towards $200. However, caution is advised due to the high volatility of cryptocurrencies and the potential for unexpected price swings."
+    },
+    {
+        "id": 30,
+        "title": "Vitalik Buterin Makes Important Statement About Ethereum Layer 2s - U.Today",
+        "summary": "  Vitalik Buterin recently discussed the importance of understanding the different types of L2 (layer 2) solutions for the Ethereum network. He highlighted the distinction between \"security-favoring\" solutions like rollups and \"scale-favoring\" solutions like validiums. Rollups offer higher security but are more expensive, while validiums provide cheaper scalability with a slight security tradeoff. Buterin proposed using terms like \"strong L2\" for rollups and \"light L2\" for validiums to help users navigate their choices better. He also acknowledged that the architecture of L2 solutions is not solely about security levels, with a complex intermediate space between rollups and validiums."
+    },
+    {
+        "id": 31,
+        "title": "QCP: Ethereum likely to surpass Bitcoin in midterm - crypto.news",
+        "summary": "  Ethereum (ETH) is expected to surpass Bitcoin (BTC) in the midterm due to market anticipation of potential spot ETH ETF approvals, according to QCP Capital. Ethereum's value has been upticking, while Bitcoin's has been declining, following the approval of multiple spot Bitcoin ETFs. The potential for a spot Ether ETF gained momentum after BlackRock CEO Larry Fink acknowledged the value of such a product in the US. The percentage of Ether's circulating supply in profit has also risen to a multi-year high of 91.8%."
+    },
+    {
+        "id": 40,
+        "title": "Ethereum price could rise further as supply on exchanges nears all-time low - FXStreet",
+        "summary": "  Ethereum's price could continue to rise as the supply of the cryptocurrency on exchanges reaches a near-record low. The number of new addresses created on the Ethereum blockchain has been increasing, signaling growing demand for the asset. Additionally, the ratio of Ethereum to Bitcoin is up 18% in the past week, suggesting further gains for ETH. With only 8.06% of Ethereum supply on exchanges, a decline in exchange supply is supporting price increases. At the time of writing, ETH is trading at 0.059 against BTC and has climbed 12.23% in the past month."
+    },
+    {
+        "id": 43,
+        "title": "ETH News: Ethereum Price Dominance Over Bitcoin Grows - CoinGape",
+        "summary": "  Ethereum (ETH) price is up 1.44% to $2,564 with a market cap of $308B, closing the gap with Bitcoin (BTC). Ethereum's price dominance has surged 22.4% in the past week, with 89.4K new addresses created daily. Supply on exchanges is nearing an all-time low, indicating reduced risk of an imminent selloff. The ETH price action suggests a potential consolidation phase, with a breakthrough above $2,700 potentially leading to a market surge. Conversely, a downside scenario could unfold if ETH breaks below $2,300."
+    },
+    {
+        "id": 44,
+        "title": "Ethereum-Based Altcoin Leaps 15%+ in Hours After Announcement of a Free-To-Play Game for the Ecosystem - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum-based altcoin ApeCoin (APE) surged 15%+ after announcement of free-to-play game for the ApeCoin ecosystem. Game, \"Dookey Dash Unplugged,\" is a racer involving avatars speeding vehicles through plumbing pipes and sewage drains. ApeCoin DAO owns and operates Yuga Labs, the maker of the game. APE stabilized at $1.59, up 10% in 24 hours. Don't Miss a Beat - subscribe for email alerts. Follow on Twitter, Facebook, and Telegram. Disclaimer: Opinions expressed are not investment advice."
+    },
+    {
+        "id": 46,
+        "title": "Ethereum-Based Altcoin That\u2019s Surged 245% in Three Months Looks \u2018Incredibly Bullish\u2019 Versus Bitcoin, Says Trader - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCrypto trader The Crypto Dog predicts a surge in an Ethereum-based altcoin called Injective (INJ) against Bitcoin (BTC), with a potential flip of a key resistance level into support. INJ has gained 245% in three months, and the trader expects a breakout after a period of consolidation. The trader also predicts a trend reversal for the fan engagement token Chiliz (CHZ)."
+    },
+    {
+        "id": 48,
+        "title": "Ethereum: Will Dencun, Inscriptions spur ETH\u2019s price? - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum saw a surge in activity due to Inscriptions, with 77% of transactions consisting of the feature. This led to an increase in gas usage and potentially positive impact on the network. However, significant staked ETH redemptions could challenge Ethereum's staking ecosystem. The Dencun upgrade is upcoming, which aims to reduce Layer 2 transaction fees. Despite these advancements, Ethereum's price saw a decline, but the MVRV ratio grew, indicating profitable positions for some addresses. The Long/Short difference also suggested a higher number of long-term holders compared to short-term holders."
+    },
+    {
+        "id": 49,
+        "title": "Vitalik Buterin Interestingly Sheds Light on Ethereum Layer 2 - Coinpedia Fintech News",
+        "summary": "  Vitalik Buterin, founder of Ethereum, discussed the importance of layer 2 (L2) solutions for improving transaction capacity and speed on the Ethereum blockchain. He engaged in a debate about L2s, including rollups and validiums, and suggested using terms like \"strong L2\" for rollups and \"light L2\" for validiums to help users make informed choices. Vitalik also emphasized that L2 solutions are not only about security, as both rollups and validiums have an \"intermediate space.\""
+    },
+    {
+        "id": 52,
+        "title": "Laser-Eyed Franklin Templeton Sets Sights on Ethereum, Solana After Bitcoin - Decrypt",
+        "summary": "  Franklin Templeton, a global investment firm, has expressed interest in Ethereum and Solana after approving its spot Bitcoin ETFs. The company believes that improving blockchain fees and performance will unlock more use cases, and they are impressed by Solana's single atomic state machine and Ethereum's ecosystem despite its midlife crisis. Franklin Templeton also highlighted factors contributing to Ethereum's momentum, such as EIP 4844 and community revitalization. The company believes other layer-one blockchains outside of Bitcoin, Ethereum, and Solana have potential, and they are continuously monitoring developments in the digital assets and ETF ecosystems for opportunities to diversify their off."
+    },
+    {
+        "id": 55,
+        "title": "Frax Finance's Layer 2 Fraxtal to Debut in February: Founder - CoinDesk",
+        "summary": "  Frax Finance's Layer 2 solution, Fraxtal, will debut in February with a unique blockspace incentives feature called Flox. Users and developers can earn a constant yield through an incentive program and weekly point gauge system by paying for blockspace on the chain."
+    },
+    {
+        "id": 58,
+        "title": "Ripple CTO Addresses Concerns Behind XRP Ledger Missing Genesis Block, Cites Ethereum Example - The Crypto Basic",
+        "summary": "  Ripple CTO David Schwartz addressed concerns about the missing genesis block on the XRP Ledger (XRPL), comparing it to the similar case of Ethereum. Schwartz explained that the choice of what to consider the genesis block is arbitrary and that Ethereum has transactions predating its official start that are not publicly documented. He also pointed out that Ethereum's genesis block has 40,000 ETH tokens that are not publicly visible, just like the missing genesis block on the XRPL. Schwartz emphasized that the source of these tokens is not publicly visible due to deliberate decisions in defining the genesis block. He confirmed that the XRPL genesis block had no transactions, but there were 534 transactions in the first 32,570 ledgers, which are now lost. Schwartz has consistently debunked concerns about the distribution scheme of XRP and reassured users that the missing ledgers hold no significance for average XRPL users."
+    },
+    {
+        "id": 62,
+        "title": "Best Crypto Credit Cards - NerdWallet",
+        "summary": "  NerdWallet offers unbiased financial guidance, free tools, and objective recommendations. They earn revenue through partnerships, but do not accept payment for favorable reviews. See their list of partners for more information."
+    },
+    {
+        "id": 63,
+        "title": "Ethereum Completes Dencun Network Upgrade on Goerli Testnet - Cryptonews",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum has successfully completed the Dencun network upgrade on the Goerli testnet, featuring the implementation of EIP-4844 (proto-danksharding). This upgrade is expected to lower transaction fees for decentralized applications (dApps) and benefit Layer 2 rollup chains. The upgrade will be the last for Goerli testnet before developers stop supporting it, and teams are encouraging migration to other testnets. Vitalik Buterin has also sparked a debate about the classification of layer 2 scaling solutions, with validiums facing challenges in terms of data availability compared to ZK-rollups."
+    },
+    {
+        "id": 64,
+        "title": "QCP Capital Forecasts ETH\u2019s Dominance Over Bitcoin To Persist, Ethereum ETFs In Focus - NewsBTC",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nQCP Capital predicts ETH will continue to outperform BTC in the medium term due to potential ETH spot ETF approvals. ETH has seen an upward trend against BTC, with ETHBTC reaching 0.06. BTC forward contract yields have decreased, with ETH forwards offering 11-13% annualized returns. Selling ETH 1-month 2200 puts presents a viable option with yields above 21% annually. The forthcoming BTC halving and potential ETH Spot ETF approvals are anticipated to be significant events for the crypto market."
+    },
+    {
+        "id": 66,
+        "title": "Dencun Upgrade Goes Live on Ethereum's Goerli - Crypto Times",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nEthereum's Dencun upgrade went live on Goerli testnet, but didn't complete as expected. The team is assessing the situation and will deploy the update on Sepolia and Holesky testnets by the end of January and February 7, respectively. The mainnet upgrade is expected by the end of the first quarter. Ethereum's price was not significantly affected by the update."
+    },
+    {
+        "id": 68,
+        "title": "Ethereum flippening: Trading firm expects ETH to outperform Bitcoin - Finbold - Finance in Bold",
+        "summary": "  QCP Capital, a trading firm specializing in digital assets and cryptocurrencies, expects Ethereum (ETH) to outperform Bitcoin (BTC) in price appreciation in 2024. The firm cites positive results from a previous report on ETH paired against BTC and expects ETH to continue outperforming due to potential ETH spot ETF approvals. While ETH would still be below Bitcoin's current market cap, QCP Capital is optimistic about ETH's medium-term outperformance. However, the firm notes that investing in this market is unpredictable and caution is crucial while deploying capital for price speculation."
+    },
+    {
+        "id": 69,
+        "title": "Ethereum\u2019s Dencun Upgrade is Live on Goerli Testnet, But There is a Catch - CryptoPotato",
+        "summary": "  Ethereum's highly anticipated Dencun upgrade has gone live on the Goerli testnet, but there are issues with finality. The upgrade, which aims to reduce transaction costs on layer 2 (L2) networks, failed to reach consensus and finality, with only 80% of validators participating. Developers believe this may be due to validators being offline, and they will conduct a non-finality test over the next few days to evaluate the status. Despite the setback, the upgrade is expected to significantly enhance Ethereum L2 rollup efficiency and slash transaction costs by 10x or more."
+    },
+    {
+        "id": 71,
+        "title": "Ethereum Developers Deploy Testnet for Dencun Upgrade - Coinspeaker",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum developers have deployed a testnet for the Dencun upgrade on the Goerli test network. The upgrade aims to increase Ethereum's data processing abilities and scalability. However, the testnet faced challenges, including low participation rates and a chain split. Developers are working to resolve the issues and plan to deploy Dencun on additional testnets in January and February. The upgrade is expected to go live by the end of the first quarter of the year, bringing proto-danksharding to increase Ethereum's capacity for data handling and make it cheaper to use."
+    },
+    {
+        "id": 74,
+        "title": "Crypto Developers Dropped 24% in 2023 as Builders Look Beyond Bitcoin, Ethereum - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto developers have dropped by 24% in the last year, according to a new report from Electric Capital. However, the majority of these developers were fair-weather builders who had little prior experience in the industry. Developers with one to two years of experience only saw a marginal decline, while those with over two years of experience grew by 33%. The geographic diversity of developers has also increased, with non-Western countries accounting for a larger share. Ethereum remains the most popular blockchain for developers, but other networks such as Polygon, Solana, and Base are seeing an uptick in activity. Bitcoin's developer ecosystem has shrunk, with less than 10% of developers working on Ordinals, but these digital assets account for a significant portion of transaction traffic on the network."
+    },
+    {
+        "id": 83,
+        "title": "Ethereum Moves One Step Closer Toward Major Scalability Upgrade - Decrypt",
+        "summary": "  Ethereum has taken a step closer to improving its scalability with the launch of the Dencun upgrade on a testnet. The upgrade, which includes the proto-danksharding feature, aims to increase the network's capacity to handle over 100,000 transactions per second. This is a significant improvement for Ethereum, which has long struggled with scalability issues. The upgrade is expected to be fully live on the mainnet soon, and will require validators to upgrade to the newest software in order to participate."
+    },
+    {
+        "id": 84,
+        "title": "Ethereum Dencun Q1 Release at Risk? Ethereum Dencun Upgrade Hits Snags in First Testnet Outing - DailyCoin",
+        "summary": "  Ethereum's Dencun upgrade, which aims to improve the network's scalability, has faced delays after encountering issues during its first testnet outing on Goerli. Despite months of preparation, the upgrade failed to achieve finality, and low network participation was cited as a reason. Developers are now investigating the causes and testing the upgrade on two more testnets before launching it on the mainnet. The delay may affect the previously announced Q1 launch date, and the full danksharding vision, which aims to address Ethereum's scalability concerns, is still years away."
+    },
+    {
+        "id": 88,
+        "title": "How to Buy Ethereum in 2024 with a Card - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum (ETH) is a decentralized blockchain system used for various applications, including smart contracts and decentralized apps. It has potential as an investment in 2024 due to its versatility and updates. Bitget is a recommended cryptocurrency broker for buying ETH in 2024, offering low fees and a user-friendly interface. The step-by-step guide on how to buy ETH with a card on Bitget is as follows: create a Bitget account, complete identity verification, and buy ETH with a card."
+    },
+    {
+        "id": 90,
+        "title": "$10m in Ethereum burned; Decentraland and Borroe Finance bullish - crypto.news",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum burned $10 million in ETH as part of a major upgrade, potentially leading to a deflationary state. Decentraland is gaining popularity as a metaverse for virtual land ownership, while Borroe Finance is innovating on Polygon with CrossFi and Liquidity Pools. The ongoing presale of Borroe Finance has raised over $2.5 million. The article concludes that the cryptocurrency world is full of groundbreaking ideas and rising trends, but users must do their own research before investing."
+    },
+    {
+        "id": 93,
+        "title": "Developer Hails ETH Burning, Will Ethereum Break $3,000? - NewsBTC",
+        "summary": "  Developer P\u00e9ter Szil\u00e1gyi praises EIP-1559, which has leveled the playing field between validators and regular users by introducing a base fee that is burned or sent to an irretrievable wallet. Since its implementation, over 3.9 million ETH have been destroyed, and the network has automatically sent over 21,100 ETH out of circulation in the last week alone. This has made Ethereum deflationary, with the potential to increase prices in the long term. However, prices are currently bullish in the short to medium term, with upsides capped at around $3,000."
+    },
+    {
+        "id": 95,
+        "title": "Ripple CTO Exposes XRP and Ethereum (ETH) Genesis Block Secrets - U.Today",
+        "summary": "  Ripple CTO David Schwartz revealed that the genesis block of Ethereum (ETH) has undisclosed transactions that determine the allocation of funds, similar to XRPL. In XRPL, 534 transactions are missing in the first 32,570 ledgers, with specific ownership percentages known for individuals and entities like Jed McCaleb, Chris Larssen, and OpenCoin. The revelation raises questions about transparency and decision-making processes in blockchain ecosystems."
+    }
+]

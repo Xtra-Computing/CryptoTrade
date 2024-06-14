@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Avalanche DEX favorite Trader Joe is launching on Ethereum - Blockworks",
+        "summary": "  Trader Joe, a decentralized exchange (DEX) on the Avalanche blockchain, has launched on the Ethereum mainnet. The DEX's decision to expand to Ethereum was driven by the opportunity to capture the stablecoin market following the exploit on Curve, a well-known stablecoin DEX. Trader Joe's initial launch on Ethereum will include stablecoin pools USDC/USDT and USDC/DAI. Unlike Uniswap v3, Trader Joe offers dynamic fee components, with a base fixed fee and a variable component dependent on volatility. Trader Joe is currently deployed on Avalanche, Arbitrum, and BNB chains, with a total TVL of $57.45 million on Avalanche, making it the largest DEX on the network."
+    },
+    {
+        "title": "Ethereum and Bitcoin Futures ETF Count Grows to Twelve with Bitwise's New Entries - U.Today",
+        "summary": "  Bitwise, a leading provider of crypto funds, has filed for two Ethereum and Bitcoin futures ETFs, bringing the total number of ETF applications to 12. The new ETFs offer market capitalization-weighted exposure to Bitcoin and Ether futures contracts without directly investing in the assets. The filings indicate a strong possibility of Bitcoin ETF approval, with analysts revising the probability to 65%."
+    },
+    {
+        "title": "SEC flooded with 12 Ethereum ETF applications in less than a week - CryptoSlate",
+        "summary": "  The US Securities and Exchange Commission (SEC) has received 12 Ethereum exchange-traded fund (ETF) applications in less than a week, with Bitwise, ProShares, and Grayscale submitting new applications. This comes after Volatility Shares filed its submission on July 28. The SEC has not approved an Ethereum futures ETF filing and Chair Gary Gensler has declined to answer if the Commission considers Ethereum a security, increasing regulatory uncertainty. Meanwhile, a deluge of Spot Bitcoin ETF applications has been submitted by traditional financial institutions, with a 65% chance of approval according to Bloomberg analysts."
+    },
+    {
+        "title": "Trader Joe Debuts on Ethereum; JOE Jumps 3% - CoinDesk",
+        "summary": "  Trader Joe, a popular grocery store chain, has launched its own cryptocurrency token on the Ethereum blockchain. The token, called JOE, has jumped 3% in value since its debut. CoinDesk's Consensus 2024 event will bring together industry leaders and enthusiasts to discuss the future of crypto, blockchain, and Web3. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "title": "US SEC Approval Of Ethereum ETF More Likely Than Bitcoin This Year: Bloomberg - CoinGape",
+        "summary": "  The US Securities and Exchange Commission (SEC) is expected to approve multiple Ethereum exchange-traded funds (ETFs) by the end of this year, with a total of 12 Ether futures ETF filings received. ProShares and Bitwise have filed three applications each for Bitcoin and Ethereum ETFs, with Bitwise filing for both equal weight and market weight versions of their dual Bitcoin and Ethereum futures ETFs. The odds of the SEC approving a spot Bitcoin ETF have increased to 65% from 50% a few weeks ago, while the odds for an Ethereum ETF approval are 75%. However, Bloomberg analysts believe the odds for an Ether futures ETF approval are higher at 95%. The Bitcoin price has increased by 0.5% in the last 24 hours, while the Ethereum price has traded at $1835, up 0.35%."
+    },
+    {
+        "title": "Ether ETF applications flood the SEC as ProShares files the 11th - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nThe Securities and Exchange Commission (SEC) has received a surge of applications for Ether (ETH) futures exchange-traded funds (ETFs), with 11 filings in less than a week. ProShares has filed four separate Ether-based ETFs, including a dual Bitcoin and Ether futures strategy ETF and a short Ether strategy ETF. The last seven days have seen a total of 11 Ether-related ETF filings, all for futures ETFs. The SEC has yet to approve an Ether ETF, but if none are denied, the ETFs will launch 75 days after their filing dates. The flurry of Ether-focused applications comes as major asset management firms seek to launch spot Bitcoin ETFs, including BlackRock's proposed first spot Bitcoin ETF in the US."
+    },
+    {
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: Penultimate moves for BTC, ETH as volatility grows for XRP - FXStreet",
+        "summary": "  Bitcoin, Ethereum, and Ripple prices are experiencing bearish movements as they approach the weekend. Bitcoin is testing a lower boundary of a triangle pattern and may break below $29,182 if selling pressure increases. Ethereum is following Bitcoin's bearish trend and could reach $1,836 if the downward momentum continues. Ripple's price is also declining and could reach $0.657 if liquidity is collected. However, if bulls enter the market, Ripple could potentially bounce north and confirm an uptrend."
+    },
+    {
+        "title": "Ethereum Classic Price Analysis: Will This Launch Help ETC Price Exceed $20 Or Crash Under $17? - Coinpedia Fintech News",
+        "summary": "  Ethereum Classic (ETC) price is in a downtrend, with a bearish flag pattern forming on the chart. The price has been rejected at the resistance trendline, leading to a 5% drop in the past five days. The price action is struggling to take support at the 50% Fibonacci level at $17.83, but the bullish flag pattern and double bottom formation increase the chances of a reversal. The RSI and MACD indicators are not displaying any bullish divergence, but a doji candle at the support confluence could lead to a bull cycle to $18.75. If the price breaks below the 50% Fibonacci level, it could plunge to $17."
+    },
+    {
+        "title": "Learn why Ethereum Classic and Monero Miners switching to Bitcoin Spark - CoinCodex",
+        "summary": "  Bitcoin Spark (BTCS) is a new cryptocurrency that has gained attention from Ethereum Classic (ETC) and Monero (XMR) miners. It uses a unique PoP consensus mechanism that allows for fair reward distribution and efficient use of processing power. Bitcoin Spark is developing a user-friendly mining program compatible with various devices, and its ICO phase one is set to kick off in August with a 20% bonus for early adopters. The platform aims to foster security and decentralization, preventing any single entity from dominating the network. ETC and Monero miners can mine using GPUs, CPUs, and ASIC mining rigs, with each method having pros and cons. Bitcoin Spark offers a sweet deal for miners to consider, with potential returns of 800%. However, it is important to always do your own research before investing in any cryptocurrency."
+    },
+    {
+        "title": "Could Ethereum help stop museums from hoarding stolen artifacts? These researchers think so - Blockworks",
+        "summary": "  Researchers are developing an Ethereum-based blockchain tool called Salsal to help museums and cultural institutions organize and keep track of valuable historical collections. The tool aims to address the issue of stolen artifacts by providing a decentralized and transparent platform for recording and verifying the ownership of cultural objects. The Salsal network will include a partially-private version of Ethereum, where experts will examine artifacts and determine their condition, provenance, and legality. If an artifact is deemed to be ethically and legally legitimate, it can be turned into an NFT, which will be publicly visible and can be monetarily supported through the sale of NFTs. The tool also aims to prevent future acts of cultural vandalism by providing a permanent and immutable record of museum collections."
+    },
+    {
+        "title": "Ethereum (ETH): Update on Status of Upcoming Deneb Upgrade - U.Today",
+        "summary": "  Ethereum is set to undergo an upgrade called Deneb Cancun, which will improve scalability and security. The upgrade includes 5 Ethereum Improvement Proposals (EIPs), including EIP-4844, which sets the groundwork for DankSharding. Other EIPs include those that decrease storage costs, enhance cross-chain bridges and stake pools, and make minor code changes to the Ethereum Virtual Machine. The upgrade is expected to happen by the end of 2023, but no specific date has been set. Developers are currently testing and preparing for the upgrade, and have decided to use a standard contract rather than a precompile for one of the EIPs."
+    },
+    {
+        "title": "Ethereum Is 'Ticking Bomb,' Analyst Explains What It Means - U.Today",
+        "summary": "  Ethereum is being called a \"ticking bomb\" by analysts, indicating potential for explosive growth in the future. The ETH/BTC trading pair may be a good time to shift investments from Bitcoin to Ethereum due to recent market behavior. Ethereum is consolidating between 50 and 200 EMAs, with descending volume and RSI. Analysts recommend focusing on stable investments and avoiding high-beta plays, with a potential \"spectacular run\" for Ethereum."
+    },
+    {
+        "title": "Odds of Ethereum ETF Approval Surge: Analysts - U.Today",
+        "summary": "  Odds of Ethereum ETF approval surge to 75%, according to analysts James Seyffart and Eric Balchunas. Number of applications for Ethereum and Bitcoin futures ETFs has increased to 12, thanks to recent submissions by Bitwise. First leveraged Bitcoin ETF was approved last month, attracting over $4 million in trading volume. SEC Chairman Gary Gensler's more receptive stance and strategic moves by leading crypto investment firms may influence the approval of spot Bitcoin ETF, with odds revised upwards to 65% from 50%."
+    },
+    {
+        "title": "Ethereum ETF Incoming? Odds of ETH ETFs Skyrocket 75% - CryptoPotato",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum ETF approval odds have skyrocketed to 75% according to Bloomberg analysts, with the first product potentially launching this year. This comes after the SEC approved Bitcoin futures ETFs, leading analysts to believe the regulator may be changing its stance on crypto ETFs. There are currently 13 Ethereum ETF applications pending approval, with the first one due on October 11. Meanwhile, Bitcoin spot ETF approval odds have also increased to 65%, with Grayscale vying to convert its trust into a spot ETF through court action."
+    },
+    {
+        "title": "Ethereum Price Doldrums: How to Survive Second Stage Capitulation - CoinGape",
+        "summary": "  Ethereum price is struggling to hold support at $1,830, with the entire crypto market experiencing a long-standing lull. Bears have the upper hand, with Ethereum below major moving averages. Support at $1,830 is critical for a potential resumption of the uptrend, but if declines intensify, the next level of support is at $1,800. The crypto winter has lasted over two years, with regulatory pressure and legal issues affecting the industry. However, there are signs of accumulation, with institutions like Blackrock entering the market. In the short term, the bearish outlook is expected to continue, with potential declines to $1,800. If bulls can hold the current level, a break above the 100-day EMA could signal a stronger uptrend."
+    },
+    {
+        "title": "ProShares and Bitwise Join Race for Bitcoin and Ethereum ETFs - Coinspeaker",
+        "summary": "  ProShares and Bitwise have filed applications with the SEC to launch ETFs focused on bitcoin and ether. ProShares has submitted four Ether-related ETF proposals, including a dual Bitcoin and Ether futures strategy ETF and a short Ether strategy ETF. Bitwise has also filed an ETF application for an equally weighted exposure to Bitcoin and Ether. The recent influx of ETF applications comes amid speculation about the SEC's stance towards digital assets and the potential for mainstream adoption. The regulatory decisions could shape the future of digital asset investments and broaden accessibility to retail investors."
+    },
+    {
+        "title": "How to Burn an NFT? - Watcher Guru",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nHow to Burn an NFT? Mastering the Art of NFT Annihilation\n\n\ud83d\udd0d Burning an NFT: What Does It Entail?\n\n\ud83d\udd1d The Void Address: Understanding the Token Burn Address\n\n\ud83d\udcb0 The Price of NFT Annihilation: Does Burning an NFT Cost Anything?\n\n\ud83d\udd12 The Step-by-Step Guide: How to Burn an NFT\n\n\ud83d\udcb0 Monetary Compensation for Burning an NFT: Is It Possible?\n\n\ud83e\udd14 Reasons to Burn an NFT: Why Would You Do It?\n\n\ud83d\udd12 Security Measures: Can Someone Else Burn My NFT?\n\n\ud83d\udd25 The Permanence of Burning: Can a Burned, Non-Fungible Token Be Recovered?\n\n\ud83d\udcad The Aftermath: What Happens to Tokens?\n\n\ud83d\udd25 Conclusion: Burning a Token Might Seem Counterintuitive, But It\u2019s a"
+    },
+    {
+        "title": "Trader Joe Debuts on Ethereum; JOE Jumps 3% - Yahoo Movies Canada",
+        "summary": "  Trader Joe, a decentralized crypto exchange, has launched its stablecoin pools on the Ethereum blockchain. The exchange's Liquidity Pool, an automated market maker (AMM), is now live on Ethereum. Trader Joe's AMM was previously available on other blockchains such as Arbitrum, BNB Chain, and Avalanche. The exchange will initially offer only stablecoin pools to demonstrate the efficiency of its liquidity pool. Trader Joe's tokens (JOE) increased by nearly 3% to 31 cents following the announcement."
+    },
+    {
+        "title": "Bitcoin, Ethereum Edge Higher Following Jobs Data; XDC Network Emerges As Top Gainer - Benzinga",
+        "summary": "  Bitcoin and Ethereum edged higher following strong jobs data, with XDC Network emerging as the top gainer. The global crypto market cap rose to $1.17 trillion, with BTC up 0.2% and ETH up 0.2%. The top gainers over the past 24 hours included XDC Network, OKB, Shiba Inu, GMX, and Optimism, while the biggest losers were Conflux, Compound, Stacks, Litecoin, and Kava."
+    },
+    {
+        "title": "A Look At Bitcoin, Ethereum And Dogecoin Into The Weekend As Stock Market Turns Lower - ProShares Trust U - Benzinga",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin, Ethereum, and Dogecoin are consolidating ahead of the weekend as the stock market turns lower. Non-farm payrolls showed a weaker-than-expected gain of 187,000 jobs, which could impact the Federal Reserve's decision on interest rate hikes. The crypto market remains muted, with traders watching for a break up or down from recent patterns to determine future direction. Bitcoin and Ethereum are trading in shallow downtrends, while Dogecoin has fallen through a descending triangle pattern and is consolidating with an inside bar. Resistance and support levels are provided for each cryptocurrency."
+    },
+    {
+        "title": "Trader Joe Debuts on Ethereum; JOE Jumps 3% - Yahoo News Australia",
+        "summary": "  Trader Joe, a decentralized crypto exchange, has launched its stablecoin pools on the Ethereum blockchain. The exchange's Liquidity Pool, an automated market maker (AMM), is now live on Ethereum after previously being on Arbitrum, BNB Chain, and Avalanche. Trader Joe's AMM has been upgraded to version 2.1, which includes \"auto-pools\" that automatically manage depositors' active positions in high-yield liquidity pools to mitigate risk. The announcement caused JOE tokens to jump nearly 3% to 31 cents."
+    },
+    {
+        "title": "Matter Labs Denies Polygon's Allegations Of Open-Source Code Plagiarism - Ethereum World News",
+        "summary": "  Matter Labs has denied allegations of copying part of Polygon's open-source code without proper attribution. Polygon accused Matter Labs of copying a significant amount of code from its Plonky2 library for its new proving system, Boojum. Matter Labs responded by stating that only 5% of Boojum's code was derived from Plonky2 and that it had properly attributed the code. The CEO of Matter Labs expressed disappointment in Polygon's allegations and emphasized the team's commitment to integrity and transparency. The tension between the two firms comes as they race to deliver the first zero-knowledge Ethereum Virtual Machine (zkEVM) to offer cheaper and more efficient transactions on the Ethereum network."
+    },
+    {
+        "title": "Alchemix Curve Exploiter Returns $9 Million In ETH - Ethereum World News",
+        "summary": "  Alchemix Curve exploiter returns $9 million in ETH after on-chain negotiations. The exploiter transferred 4,820 ETH to Alchemix's multi-sig wallet. This represents a portion of the $61 million drained from Curve Finance. Curve, Metronome, and Alchemix previously offered a 10% bounty for the returned funds. CRV token price gained 5% after the news. Curve founder offloads 106 million CRV tokens in OTC deals to balance debts on DeFi lenders. The sales total $42 million USDT and seemingly went into balancing debts amid concerns of a DeFi implosion."
+    },
+    {
+        "title": "Ethereum is a 'ticking bomb' primed for 'spectacular run', says expert - Finbold - Finance in Bold",
+        "summary": "  Ethereum (ETH) is seen as a \"ticking bomb\" primed for a \"spectacular run\" according to a crypto market expert, despite underperforming Bitcoin (BTC) this year. The ETH/BTC chart shows a potential reversal signal, with the pair inking lower highs since and currently near a 1-year low. This could indicate a possible breakout for Ethereum. The growth in the Ethereum blockchain network, with over 450,000 addresses at the end of July, is also seen as a positive sign. However, it's important to note that investing in cryptocurrency is speculative and carries risk."
+    },
+    {
+        "title": "Developer: blocked $9000 in Ethereum (ETH) - The Cryptonomist",
+        "summary": "  A developer on the Ethereum blockchain accidentally locked 5 ETH (worth $9,000) for 100 years while creating a new token, according to a tweet. However, some users on 4chan are questioning the story, suggesting it may be a publicity stunt. The developer allegedly created a post on 4chan asking for help in creating an ERC-20 token and then blocked it, leading to the creation of the TEST token on the Ethereum mainnet. After the token's price surged to $0.006, it dropped to $0.0014 with a market cap of $1.5 million. The story has sparked discussion among Ethereum developers and predictions for the price of ETH, with some forecasting a peak of $2,700 in 2023."
+    },
+    {
+        "title": "Double Impact: Valkyrie Files To Convert BTF To Bitcoin And Ether ETF | Bitcoinist.com - Bitcoinist",
+        "summary": "  Valkyrie, an asset management firm, has filed to convert its Bitcoin Strategy exchange-traded fund (BTF) into a Bitcoin and Ether Strategy ETF. The firm has filed a form 497 with the Securities and Exchange Commission (SEC) for the conversion. This means that BTF, which primarily invests in BTF futures contracts, will also include an Ether Futures ETF. This is the 14th Ether Futures ETF application submitted to the SEC, with other major players like ProShares and VanEck also submitting applications. While there is rising interest in Ethereum Futures ETFs, many crypto analysts are not optimistic about their chances of being approved by the SEC."
+    }
+]

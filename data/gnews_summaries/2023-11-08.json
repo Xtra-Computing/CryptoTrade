@@ -1,0 +1,117 @@
+[
+    {
+        "id": 8,
+        "title": "Ethereum's Justin Drake is unconcerned despite ether's middling year pricewise: Q&A - Blockworks",
+        "summary": "  Sure, here's a summary of the interview in less than 256 tokens:\n\nJustin Drake, a researcher at the Ethereum Foundation, spoke with Blockworks about Ethereum's current standing and future prospects. Despite the middling price of ether in 2023, Drake remains unconcerned, highlighting the network's deflationary aspect and its ability to generate fees as key strengths. He also emphasized the importance of memes in shaping public perception of Ethereum, with the 21 million meme being particularly influential. Additionally, Drake discussed the validator queue and staking yields, noting that lower yields are not a cause for concern as they indicate Ethereum is already extremely secure. Finally, he touched on the potential for a \"flippening\" in the next bull run, where ether could surpass bitcoin in dominance."
+    },
+    {
+        "id": 15,
+        "title": "Near Foundation Joins Celestia in Race to Provide 'Data Availability' for Ethereum Rollups - CoinDesk",
+        "summary": "  Near Foundation, a layer-2 scaling solution, has announced partnership with Celestia to provide \"data availability\" for Ethereum rollups. Near's technology allows for faster and cheaper data transfer on Ethereum, with costs of $0.0033 per 100 kilobytes of calldata, compared to $26.22 for Ethereum's current cost. This partnership aims to improve the scalability and affordability of Ethereum rollups, a type of layer-2 network."
+    },
+    {
+        "id": 17,
+        "title": "Why an Ether Staking Rate Will Increase Crypto Adoption - CoinDesk",
+        "summary": "  In a move to boost cryptocurrency adoption, the Ether staking rate is expected to increase due to the emergence of a fixed vs floating swap market and a forward curve for the ETH staking rate. This development provides opportunities for speculators to gain exposure to future rates, reflecting their views on network demand, volatility, or macro events. Over-the-counter (OTC) dealers and DeFi protocols can create marketplaces for these contracts, ensuring that settlement values are independently calculated and well understood."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum scaling startup Stackr raises $5.5 million in seed round - The Block",
+        "summary": "  Stackr, an Ethereum scaling startup, raised $5.5 million in a seed funding round led by Archetype with participation from a16z Crypto Startup School, Lemniscap, Scalar Capital, and other investors. The startup is developing a micro-rollups infrastructure to help developers launch scalable web3 applications using web2 programming languages. With the fresh capital, Stackr plans to expand its team, launch a testnet, and set up a grant program to attract developers. The startup is focused on scaling Ethereum but is open to integrating other chains in the future."
+    },
+    {
+        "id": 31,
+        "title": "Founder of Estonia's LHV Bank Lost Access to $472M of Ether - CoinDesk",
+        "summary": "  The founder of Estonia's LHV Bank, Mart Liimets, has lost access to his $472 million worth of Ether due to forgetting the details needed to access his wallet. This incident highlights the risk of permanently losing crypto assets if users cannot remember their wallet details. Wallet makers are developing solutions to prevent this, but they have not been widely adopted by the crypto community."
+    },
+    {
+        "id": 40,
+        "title": "Cardano (ADA) and One Additional Ethereum Rival Leading in Development Activity: Santiment - The Daily Hodl",
+        "summary": "  Cardano (ADA) and Polkadot (DOT) are leading in blockchain development activity, according to Santiment. Cardano had 502.57 GitHub commits in the past 30 days, followed by Polkadot with 484.23 commits. Other top blockchains include Hedera (HBAR), Aptos (APT), Status (SNT), Chainlink (LINK), and Cosmos Hub (ATOM). Ethereum (ETH) sits at number nine with 287.67 commits. The analytics firm notes that heavy development activity is a positive indicator for a project's success."
+    },
+    {
+        "id": 44,
+        "title": "Nil Foundation CEO on New Ethereum Rollup With Zero-Knowledge Proofs, Sharding - CoinDesk",
+        "summary": "  The CEO of Nil Foundation, Misha Komarov, discusses the new Ethereum rollup that combines zero-knowledge proofs and sharding. The rollup aims to solve the issue of modularity in Ethereum rollups, which can lead to liquidity fragmentation and security issues. The new rollup will enable developers to build decentralized applications that are not possible on traditional rollups, such as high-load and data-intensive applications. The CEO also mentions that the foundation is considering a partnership with Crack to help build their layer two, but declines to comment further as it is too early to say anything."
+    },
+    {
+        "id": 46,
+        "title": "$163,000,000 in Ethereum (ETH) To Be Distributed to Token Holders of Aragon (ANT) As Project Gets Handed Off - The Daily Hodl",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nAragon, a decentralized governance platform on Ethereum, is dissolving its association and distributing $163 million in Ethereum to token holders. The Aragon Association (AA) will deploy 86,343 ETH at a fixed rate of 0.0025376 ETH per ANT, allowing holders to redeem their coins. The decision was made due to legal constraints and regulatory risks, as well as tensions within the project. The AA will also commit $11 million to cover its outstanding obligations and combat regulatory issues, and plans to continue the mission in a product-focused structure."
+    },
+    {
+        "id": 49,
+        "title": "The Protocol: Kraken Awakens \u2013 as Ethereum L2 Candidate - CoinDesk",
+        "summary": "  Kraken, a popular cryptocurrency exchange, has announced its entry into the data availability market with a new protocol called Celestia. This move comes as several other projects, such as Avail and Near Foundation, also launch their own data availability networks. Despite the interest in these solutions, early adoption of Celestia appears to be modest. The true value of the protocol will be determined by the ecosystem that develops around it in the coming months and years. The success of these rollups will ultimately decide the revenue and long-term success of the protocol, and whether it proves or disproves the blockchain modularity thesis."
+    },
+    {
+        "id": 50,
+        "title": "Unmasking Owner of Ethereum Wallet with 250,000 Lost ETH - The Crypto Basic",
+        "summary": "  Unknown owner of a cryptocurrency wallet containing $450 million in Ethereum (ETH) has been identified as Rain Lohmus, co-founder of LHV Bank. Lohmus lost the keys to the wallet and is seeking help to recover the funds. Despite the daunting task, Lohmus is open to any offers from the public and plans to split the funds as compensation if recovered. This is the only untouched Ethereum ICO wallet discovered so far, with the wallet acquiring $75,000 worth of ETH at the 2014 ICO and receiving a bonus worth $6.5 million for holding onto the ETH."
+    },
+    {
+        "id": 54,
+        "title": "Ethereum, Ripple and Toncoin Price Forecast: Price Trends Unveiled - FX Empire",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum, Ripple, and Toncoin price forecasts are provided by FX Empire. The website's analysts predict a possible increase in prices for these cryptocurrencies. However, it is important to note that the content provided is for educational and research purposes only and should not be taken as investment advice. It is recommended to perform thorough research and consult with a competent advisor before making any investment decisions."
+    },
+    {
+        "id": 59,
+        "title": "Ethereum Failed Transactions: You Won\u2019t Believe How Much Users Have Lost - NewsBTC",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum users have lost over $100,000 due to failed transactions, according to a recent post by a Blockstream executive. The top 10 failed transactions shown in the post resulted in losses of thousands of dollars in gas fees, with one user losing over $38,000. The failed transactions occurred in May during a period of high network activity, and are believed to be caused by users falling short of the required gas fee to process their transactions. Two Bitcoin maximalists have recently criticized the Ethereum network, with one suggesting it is a scam and the other calling out the network's failed transactions. At the time of writing, Ethereum is trading above $1,800."
+    },
+    {
+        "id": 67,
+        "title": "Bitcoin, Ethereum, Dogecoin Surge As Dozen BTC ETFs Have 'Brief Window' For SEC Approval: Analyst Predicts Apex ... - Nasdaq",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin, Ethereum, and Dogecoin surged on Wednesday evening as the Securities and Exchange Commission (SEC) is set to decide on 12 pending Bitcoin ETF applications. The BlackRock iShares Spot Bitcoin ETF and the conversion of the Grayscale Bitcoin Trust could potentially receive approval. Analysts predict that the SEC may approve multiple funds on the same day, with some expecting a brief window of opportunity for approval. The global crypto market cap increased by 0.92% in the past 24 hours, with the S&P 500 and Nasdaq Composite also experiencing gains. An analyst predicts that Bitcoin could reach $37-38K, while another analyst predicts a possible target of $200,000."
+    },
+    {
+        "id": 72,
+        "title": "Ethereum Price Prediction as $2,000 Level Comes into Play \u2013 Best Time to Buy? - Cryptonews",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum price has risen to $1,885, up 4.6% in the past week.\n\nETH indicators suggest it could continue rising in the short- and medium-term.\n\nEthereum remains one of the strongest altcoins in the market due to its fundamentals.\n\nBig companies tend to use Ethereum when trialing blockchain technology.\n\nNew altcoins like Bitcoin Minetrix (BTCMTX) are gaining popularity due to their potential for profit.\n\nBitcoin Minetrix is a stake-to-mine platform that allows users to mine actual Bitcoin by staking the platform's native token.\n\nIts presale is doing well, with new investors able to join by visiting the official Bitcoin Minetrix website."
+    },
+    {
+        "id": 74,
+        "title": "Ethereum's Failed Transactions Result in Major User Losses \u2014 What's Going On? - Cryptonews",
+        "summary": "  Ethereum users are losing thousands of dollars in gas fees due to failed transactions, with over $100,000 lost so far this year. Despite the network's structure making gas fees non-refundable, the top 10 failed transactions have resulted in losses of over $17,000 each. Critics, including Fernando Nikoli\u0107 and Bit Paine, have called out Ethereum's structural limitations and questioned proper token registration. As activity on the network spikes again, the Ethereum community must address the issue of failed transactions to prevent preventable losses."
+    },
+    {
+        "id": 75,
+        "title": "Ethereum Returns Outperforms Gold by Close to 40% in 2023 - Bankless Times",
+        "summary": "  Ethereum has outperformed gold by nearly 40% in 2023, according to Bankless Times data. This is attributed to growing investor sentiment and the pull of blockchain technology, as well as its adoption in DeFi and the surge in NFTs on the Ethereum network. Upgrades to the network, including its transition to Ethereum 2.0, have also enhanced scalability and security. Global economic trends have favored digital assets, and Ethereum's versatility and liquidity make it a more attractive store of value than gold."
+    },
+    {
+        "id": 76,
+        "title": "Ethereum Gaming Sidechain Ronin Is On Fire\u2014Here's Why - Decrypt",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nRonin, the Ethereum sidechain network behind Axie Infinity, is experiencing a surge in activity following the launch of a new game called Pixels. The number of active wallet addresses on Ronin has tripled in recent days, and the native token RON is pumping with a 13% increase in the last 24 hours. Other gaming tokens have also seen substantial jumps in recent weeks. Ronin has onboarded additional games onto the network, including The Machines Arena, Zoids Wild Arena, and the CyberKongz Play and Kollect game. However, the network experienced a $622 million hack in March 2022, which was attributed to the North Korean state-sponsored hacking group, Lazarus. Despite this, Sky Mavis, the creator of Axie Infinity, has reimbursed stolen user funds and recovered about 10% of the stolen funds."
+    },
+    {
+        "id": 80,
+        "title": "Ethereum Price Prediction as the Market Stagnates...Will ETH GO UP? - CryptoTicker.io - Bitcoin Price, Ethereum Price & Crypto News",
+        "summary": "  Ethereum price has been trending upwards in the past two weeks, with a 2.31% increase in the last seven days. The recent rumors of Bitcoin ETF approval have contributed to the price surge, despite the lack of confirmation. The support price of $1,800 appears to be a strong foundation for ETH, making it a potential buy opportunity. The Ethereum price prediction suggests that it could reach $2,000 in the near future. Bitget is a viable platform for buying Ethereum, and the platform's security and user-friendly interface make it easy to start a cryptocurrency investment journey. Ethereum is more than just a cryptocurrency; it's a platform for decentralized applications, offering financial products that are accessible to anyone in the world."
+    },
+    {
+        "id": 81,
+        "title": "Protocol Village: Fidelity Acknowledges Risk of Bug in Bitcoin's Code - CoinDesk",
+        "summary": "  Fidelity acknowledges risk of bug in Bitcoin's code, but believes probability is lower due to network resilience and open source nature. They assign a non-zero chance of severe bug impacting value, but note that large holders may incentivize quick fix."
+    },
+    {
+        "id": 83,
+        "title": "Bitcoin Fees Soar Nearly 1,000% Since August as Ordinals Are Back in Vogue - CoinDesk",
+        "summary": "  Bitcoin fees have surged nearly 1,000% since August as the popularity of \"Ordinals\" has increased. This is significant for miners as the quadrennial halving event in April 2024 approaches, which will cut block rewards in half."
+    },
+    {
+        "id": 92,
+        "title": "Best Undervalued Tokens to Outpace Ethereum: SUI, GALA, and QUBE - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nBest undervalued tokens to outpace Ethereum: SUI, GALA, and QUBE. Low-cap projects have the greatest chance of yielding large rewards. InQubeta (QUBE) is a unique blend of blockchain and AI, with potential to skyrocket by 3,000%. Sui (SUI) is a unique smart contract and blockchain platform that allows for quick, private, and secure ownership of digital assets. Gala (GALA) is a blockchain-based gaming platform that rewards players with more control and freedom. These tokens have significant room for growth and are priced competitively, making them promising altcoins to invest in."
+    },
+    {
+        "id": 94,
+        "title": "What Crypto is Next to Explode? Analyzing the Best Cryptocurrencies including Ethereum, ApeMax, Bitcoin, Solana ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nTop cryptocurrencies for 2023 include Ethereum, Bitcoin, Solana, Shiba Inu, Dogecoin, and Cardano.\n\nApeMax is a new presale coin with a unique \"Boost-to-Earn\" model that's gaining popularity.\n\nCrypto presales allow early adopters to purchase new tokens before they become widely available.\n\nApeMax has a transparent tokenomics and a growing presale, but it's important to approach the crypto market with caution and only invest what you can afford to lose.\n\nJoin the ApeMax community on WhatsApp and Telegram for regular updates."
+    },
+    {
+        "id": 97,
+        "title": "Ethereum Gains BlackRock's Support: Asset Manager Registers Trust As ETH Tops $2,000 | Bitcoinist.com - Bitcoinist",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBlackRock, a prominent asset manager, has registered an Ethereum Trust in Delaware, signaling potential support for the cryptocurrency. This move comes after BlackRock's successful registration of a Bitcoin Trust and suggests the firm's confidence in the long-term potential of Ethereum. The registration of the Ether Trust could lead to a spot Ether ETF, which would provide investors with a regulated and accessible investment vehicle. The article also mentions that Ethereum has surged 7.4% in the past 24 hours, reaching $2,023, and that market participants will closely monitor regulatory developments."
+    }
+]

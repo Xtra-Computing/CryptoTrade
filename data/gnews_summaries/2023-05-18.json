@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Ethereum: Payment Giant Visa Deploys First Paymaster Smart Contract on ETH Testnet - U.Today",
+        "summary": "  Visa, a payment giant, has deployed its first paymaster smart contract on the Ethereum Goerli testnet. This development comes as Visa continues to research and experiment with account abstraction and ERC-4337. The paymaster contract allows users to pay transaction fees with alternative tokens, such as stablecoins or even central bank digital currencies (CBDCs). Visa's experiment with account abstraction aims to explore how the current paradigm on Ethereum can provide creative solutions for dealing with transaction fees. The findings of the experiment may help further mainstream crypto adoption."
+    },
+    {
+        "title": "NFT Lending Platform Blend Surges Past 100,000 Ethereum in Total Volume - Decrypt",
+        "summary": "  Blend, a lending platform for NFTs, has surpassed $181 million in total volume in just 17 days since its launch. Blend allows users to take out Ethereum loans by putting their NFTs up as collateral, and liquidity providers receive interest. The platform has facilitated over 3,000 loans from 900 unique lenders, with Bored Apes Yacht Club (BAYC) and Mutant Ape Yacht Clube (MAYC) collections added on Monday. Blur, the parent platform of Blend, has become the most popular NFT marketplace, but has faced accusations of wash trading. Despite this, the success of Blend strengthens Blur's position in the NFT ecosystem."
+    },
+    {
+        "title": "With ETH Remaining Dominant, Does ETC Have a Future? - Securities.io",
+        "summary": "  Ethereum (ETH) remains the dominant force in the cryptocurrency market, with a large community, extensive ecosystem, and ongoing development. While Ethereum Classic (ETC) has a small community and offers similar blockchain technology, it faces challenges in terms of market adoption and developer support. ETC's future depends on its ability to differentiate itself and attract users and developers, but it may struggle to compete effectively against ETH's established position in the market. Despite this, ETC has seen some investment and development, with projects building on the network and attempts to grow its network and join the latest trends of DeFi and NFT. However, ETC's development and usage activity is nowhere near Ethereum, with less than $240k in total value locked (TVL) compared to Ethereum's impressive $27.22 billion TVL."
+    },
+    {
+        "title": "Is 2023 a good time to buy Ethereum, and how do investors feel about it? - Financial IT",
+        "summary": "  Ethereum (ETH) is considered a safe long-term investment despite the market turbulence in 2022. The switch to Proof-of-Work in September 2022 and the upcoming Shanghai Upgrade in April 2023 are positive developments for the network. The Merge upgrade has already reduced energy consumption by over 99.99%. Investors are optimistic about Ethereum's future due to improved scalability and efficiency. However, it's important to note that nothing can guarantee financial returns, and investing in cryptocurrency requires thorough research and a deep understanding of long-term goals and risk tolerance. Buying at a discount can be a smart move for those believing in the potential of digital currency, but nothing can guarantee similar returns."
+    },
+    {
+        "title": "Why Ethereum is so dominant \u2014 and why it's not going anywhere - DLNews",
+        "summary": "  Ethereum continues to dominate the DeFi space despite a decline in its share of value locked in protocols from 90% to 49% in April 2022. The rise of \"layer 2\" protocols and improvements to Ethereum have made it a more attractive option for users, leading to a consolidation of DeFi onto the platform. Ethereum's share of TVL has grown since April 2022, and its rollups handle more transactions than the main Ethereum chain. The poor design of Terra's dollar-pegged stablecoin and multibillion-dollar scandals involving competing blockchains have weakened their appeal. Ethereum is getting better, and some developers have built separate Ethereum-based blockchains that offer a cheaper and faster user experience. However, there is a \"huge liquidity problem\" as most users' money is still locked up in Ethereum, and creating a bridge between Ethereum and competing blockchains may not help."
+    },
+    {
+        "title": "Ethereum Genesis Whale Emerges - U.Today",
+        "summary": "  Sure! Here is a summary of the article in less than 256 tokens:\n\nEthereum \"whale\" emerges after 2.4 years of inactivity, staking 4,032 ETH (worth $7.4 million) according to Lookonchain data. The investor is an early participant in Ethereum's ICO and received 60,000 ETH during the genesis event. This activity has sparked excitement and speculation within the crypto community, but it's unclear if it's a larger trend."
+    },
+    {
+        "title": "Visa Deepens Crypto Payments Presence With Ethereum Account Abstraction - CoinGape",
+        "summary": "  Visa is exploring Account Abstraction on Ethereum to improve crypto payments. They have deployed two sets of Paymaster contracts on the Ethereum Goerli testnet to redesign gas fees and improve user convenience. The head of crypto at Visa, Guy Sheffield, tweeted about the deployment of the first paymaster smart contract on the Ethereum testnet. Ethereum co-founder Vitalik Buterin has also expressed interest in Account Abstraction, calling it something the developer community has always wanted. He recommends using social recovery wallets and multisignature wallets for self-custody of crypto funds."
+    },
+    {
+        "title": "Ethereum, Bitcoin users rush to Solana [SOL] as they seek\u2026 - AMBCrypto News",
+        "summary": "  Ethereum and Bitcoin users are turning to Solana due to high transaction fees on those networks. Solana saw a 113% increase in daily active addresses in April, with 7 million active addresses recorded so far in May. New address creation on Solana has grown significantly, with 4.19 million new addresses created in May alone. However, other ecosystem metrics, such as TVL and DEX volume, have experienced a decline. Solana's native coin SOL is trading at $20.73, down 17% in the last month."
+    },
+    {
+        "title": "How to Use Etherscan and Other Blockchain Explorers - CoinDesk",
+        "summary": "  Etherscan and other blockchain explorers, such as CoinDesk, allow users to track the movement of cryptocurrencies on the blockchain. With the ability to tag certain wallets, users can track the wallet that drained balances from FTX accounts after the exchange went bankrupt. While exchanges typically do not process trades on the blockchain, they can be tracked through Etherscan to see how much ETH they hold in their wallets."
+    },
+    {
+        "title": "ChatGPT\u2019s Ethereum (ETH) Price Prediction is $3,500, Will HedgeUp (HDUP) and Shiba Inu (SHIB) Hit $1? - NewsBTC",
+        "summary": "  ChatGPT predicts Ethereum (ETH) price to reach $3,500 by 2023, but the likelihood of HedgeUp (HDUP) and Shiba Inu (SHIB) reaching $1 is uncertain. HedgeUp (HDUP) has potential for growth due to its blockchain technology and backing by physical assets, while Shiba Inu (SHIB) lacks fundamentals for sustainable growth."
+    },
+    {
+        "title": "Best Cross-Chain Bridges in Crypto - DailyCoin",
+        "summary": "  Here are the main points from the article in less than 256 tokens:\n\n* Cross-chain bridges are essential for DeFi toolboxes in the expanding cryptocurrency industry.\n* Being able to transfer funds across different blockchain networks securely helps users explore new ecosystems.\n* Despite the popularity of Bitcoin and Ethereum, no single chain will rule them all, and hundreds of different networks exist in the Web3 world.\n* Staying fixated on just one chain can significantly limit opportunities within the crypto market.\n* Cross-chain bridges are permissionless, meaning anyone with a crypto wallet can use them.\n* The most popular and reputable bridges can still make mistakes, and blockchain security audits are not foolproof.\n* Bridging tokens can help users explore dApps and NFT collections on different blockchain networks, but the Web3 world has user experience issues.\n* Bridge hacks are the most common exploit in the crypto space, so it's essential to revoke token approvals after bridging to protect your wallet's integrity.\n* The variety of innovative dApp"
+    },
+    {
+        "title": "Australian CBDC trials execute first FX transaction - Ledger Insights",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nAustralian central bank conducted a trial for its digital currency (eAUD) to test foreign exchange (FX) transactions using blockchain technology. The trial was successful, demonstrating the benefits of tokenized settlements, including 24/7 trading and atomic payments without counterparty risk. The project is part of a larger pilot program by the Reserve Bank of Australia, involving 15 use cases with partners like Mastercard and ANZ. The trial used a Layer 2 Ethereum solution, CANVAS Connect, which is privacy-enabled and designed for financial services, incorporating KYC and AML. The project aims to transform finance and markets over the next decade."
+    },
+    {
+        "title": "Ganache Blockchain: All you need to Know - Blockchain Council",
+        "summary": "  Ganache is a personal blockchain for testing smart contracts, while Truffle is a development environment, testing framework, and asset pipeline for blockchains.\n\nGanache provides a personal blockchain network for testing smart contracts, allowing developers to test their contracts without incurring the costs of deploying and testing them on the main network. It offers advanced mining controls and a built-in block explorer, making it easier for developers to test and inspect their smart contracts during development.\n\nTruffle, on the other hand, provides a framework for developers to sculpt their projects, but it does not have the same level of control as Ganache over the main network. Truffle offers different control over Ganache's blockchain network, which can be a disadvantage for developers who require a more customized testing environment.\n\nThe choice between Ganache and Truffle depends on the needs of the developer and the requirements of the smart contract project. Developers who require more customized testing environment with advanced mining controls may find that Ganache is the better option, while developers who need a more streamlined development process with a robust project structure may find Truffle more suitable.\n\nIn"
+    }
+]

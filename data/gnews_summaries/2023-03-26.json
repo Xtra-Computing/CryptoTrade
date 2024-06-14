@@ -1,0 +1,38 @@
+[
+    {
+        "title": "A Bull Market Is Coming: One Crypto to Buy Now - The Motley Fool",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nA Bull Market Is Coming: One Crypto to Buy Now - The Motley Fool\n\n\ud83d\udcc8 Ethereum (ETH) is a strong investment in a speculative industry, despite the crypto market's struggles.\n\n\ud83d\udcaa Ethereum has proven to withstand market volatility and has a clear advantage in the crypto market.\n\n\ud83d\udcb0 Ethereum's developers are committed to improving the blockchain, which could lead to increased adoption and higher prices.\n\n\ud83e\udd14 Investing in crypto is risky, as there are no guarantees in the sector.\n\n\ud83d\udcc8/\ud83d\udcc9 The crypto market is in its infancy, and its long-term success is uncertain.\n\n\ud83d\udcb0 Ethereum is a risky investment, but it remains one of the strongest players in the field.\n\n\ud83d\udca1 Consider Ethereum as a potential investment, but be aware of the risks involved."
+    },
+    {
+        "title": "Bitcoin and Ethereum Investors Are Not Flinching, US Pressure on Crypto Will Backfire: Chris Burniske - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nInvestors are not deterred by US government's crackdown on crypto, says Chris Burniske. Bitcoin and Ethereum are maintaining their value despite regulatory pressure. Burniske believes the strategy will backfire and more people will shift into Bitcoin as confidence in traditional banking system declines. Bitcoin was created for moments like this, offering an alternative to the existing system. Burniske highlights the benefits of diversifying into Bitcoin and Ethereum, with no solvency risk and algorithmic supply. Investors should do their due diligence before investing in cryptocurrencies."
+    },
+    {
+        "title": "What Are Stealth Addresses? - Decrypt",
+        "summary": "  Stealth addresses provide enhanced privacy protections for Ethereum transactions by concealing the recipient's identity. They work by generating a secret spending key, which is used to create a stealth meta-address that is shared with the sender. The sender then publishes cryptographic data on-chain to help the recipient find the assets, while the recipient uses their spending key to claim the assets. While the technology is still in its early stages, it offers a method of privacy similar to generating a new address for each transaction without the hassle of manually creating them. However, there are still challenges to be addressed, such as gas fees and the need for significant changes to Ethereum-based wallets."
+    },
+    {
+        "title": "Ethereum holders might be elated to know this about exchange balance - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum exchange balance has hit a five-year low, with more holders moving their assets to self-custody options and DeFi platforms. The decline can be attributed to factors such as the rise of DeFi, the switch to PoS, and the downturn in the crypto market. The exchange balance has been steadily decreasing, with few exceptions of inflow spikes. Possible reasons for the decline include the rise of DeFi platforms, a more long-term investment approach, and the crypto market downturn. Despite experiencing losses, the 365-day MVRV indicates that Ethereum holders are now profitable on average."
+    },
+    {
+        "title": "EUL Jumps 35% as Euler Finance Hacker Returns Another $100M Worth of Ethereum - CryptoPotato",
+        "summary": "  Hacker returns $100M+ worth of Ethereum to Euler Finance after exploit, positively impacting token price (EUL up 35%). Hacker rejected $20M bounty and laundered proceeds via TornadoCash. First transaction returned 51K ETH, second returned 7.7K ETH."
+    },
+    {
+        "title": "NFT Trader Accidentally Burns $129K CryptoPunk - Decrypt",
+        "summary": "  An NFT trader accidentally burned a rare CryptoPunk worth $129,000 after sending it to a burn address in an attempt to wrap it for a loan. The CryptoPunk, #685, was permanently removed from circulation, and the trader, Brandon Riley, cannot recover it. Riley had planned to post the CryptoPunk to NFTfi.com to earn a yield of around 7% per year. This incident highlights the complex and irreversible nature of digital asset transactions, and the importance of careful self-custody."
+    },
+    {
+        "title": "Are the winds of change blowing for cryptos as Bitcoin spikes 65% this year, ETH 46%? - MintGenie",
+        "summary": "  Title: Cryptos See Surge in India Despite Tax, Trading Volumes Decline\n\nBitcoin spikes 65% in 2023, Ethereum 46%\n\n* India's crypto sector sees increasing investor interest despite high tax rates and declining trading volumes\n* Experts attribute the surge to the collapse of Silicon Valley Bank and the growing awareness of blockchain technology\n* Trading volumes have increased by 182% and 356% for Bitcoin and Ethereum, respectively\n* India's large IT population and growing tech infrastructure can turn into an advantage for the country in the blockchain industry\n* Upcoming global blockchain conference in India is seen as a validation of the country's growing importance in the field\n* Despite the recent price increase, Bitcoin still trades nearly 60% lower than its all-time high\n\nToken count: 255"
+    },
+    {
+        "title": "Bitcoin & Ethereum Bounce Bank Following Fed's Interest Rate Hike \u2013 Big Eyes Coin Joins The Bull Run With 250 ... - Analytics Insight",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCryptocurrency prices rebounded following a sharp dip after the US Federal Reserve raised interest rates. Bitcoin and Ethereum prices surged after the hike, with Bitcoin reaching $28,000 and Ethereum reaching its highest price since August 2022. Big Eyes Coin, a new meme coin, launched a 250% bonus code for purchases of its tokens, joining the bull market. The project raised over $32 million in presale tokens and plans to go live on the market soon."
+    },
+    {
+        "title": "Shiba Inu: These Are The Key Takeaways From Shibarium Docs - Bitcoinist",
+        "summary": "  Here are the key takeaways from the article:\n\n1. Shibarium, the layer-2 technology of Shiba Inu, has published its documentation, revealing how it works and its features.\n2. Shibarium's Proof-of-Stake (PoS) chain uses side chains to process transactions, while the Ethereum Shibarium Bridge enables a bidirectional transaction environment between Shibarium and Ethereum.\n3. The PoS algorithm requires users to stake their BONE tokens as gas for Shibarium.\n4. The platform's blockchain technology allows users to create programmable tokens and smart contracts for various applications, including ICOs of fungible tokens and NFTs.\n5. Transaction fees are expected to be less than $0.01.\n6. The Shibarium Staking Manager is the primary contract for validation-related activities, such as managing stakes, distributing rewards, and verifying signatures.\n7. The burn mechanism involves dividing the transaction fee into two parts, with the base fee being burned and the priority fee being paid to the validator.\n8. Unification,"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Ethereum Developers Propose Raising Validator Limit to 2,048 Ether From 32 Ether - CoinDesk",
+        "summary": "  Ethereum developers propose increasing validator limit from 32 Ether to 2,048 Ether, driven by strong demand from large ether holders seeking passive income. This move aims to meet the growing demand for validators on the network, offering a nearly 5% annual yield."
+    },
+    {
+        "title": "Ethereum devs discuss increasing staking limit of validators by 64x - Cointelegraph",
+        "summary": "  Ethereum developers are considering a proposal to increase the staking limit for validators by 64 times, from 32 ETH to 2048 ETH. The proposal was made by Ethereum Foundation researcher Michael Neuder during a recent consensus meeting. The increase would help the network become more efficient and allow validators to earn more money, according to Neuder. However, the proposal has received mixed reactions from the crypto community, with some users expressing concerns that it could lead to fewer validators and more centralization."
+    },
+    {
+        "title": "Ethereum Validator Limit to Increase from 32 to 2,048 ETH - Crypto Times",
+        "summary": "  Ethereum validators may soon be able to hold up to 2,048 ETH, a significant increase from the current limit of 32 ETH. This change aims to improve network efficiency and enable auto-compounding validator rewards. However, it also carries risks such as increased penalties for accidental double attestations or proposals. The proposal is currently under debate among core developers and will be evaluated thoroughly before implementation."
+    },
+    {
+        "title": "Watch out, Ordinals \u2014 30,000 'Ethscriptions' land on Ethereum - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum users can now create non-fungible tokens (NFTs) and other digital assets on the blockchain with a new protocol called Ethscriptions. Developed by Tom Lehman, the protocol allows for a cheaper and more decentralized minting process compared to conventional smart contract-based methods. Nearly 30,000 Ethscriptions have been created within the first 18 hours of the protocol going live, with users limited to image-only inscriptions for now. The project's launch garnered so much user activity that the API interface for the official Ethscriptions website temporarily crashed. It remains to be seen if Ethscriptions will achieve the same level of popularity as Bitcoin Ordinals, which has seen a surge in activity in less than six months."
+    },
+    {
+        "title": "Ethereum Scanner Etherscan Adds OpenAI-Based Tool to Analyze Smart Contract Source Code - CoinDesk",
+        "summary": "  Etherscan, a popular Ethereum scanner, has introduced a new tool called Code Reader powered by OpenAI. This tool allows users to analyze the source code of smart contracts by connecting to OpenAI's API. However, users need to have sufficient usage limits and can only query the tool through one-off prompts, without the ability to engage in conversation threads with the chatbot."
+    },
+    {
+        "title": "Ethereum Eyes Dramatic Shift: Proposes Validator Limit Increase From 32 To 2048 ETH - NewsBTC",
+        "summary": "  Ethereum is proposing to increase the maximum validator limit from 32 to 2,048 ETH to alleviate pressure caused by the growing validator set size. This change would enable validators to compound rewards and simplify operations for major node managers. However, it could also lead to steeper penalties for inadvertent double attestations or proposals. The proposal is part of a broader conversation about Ethereum's future, as the platform continues to evolve. Ethereum is down 1% in the past week, but the proposed change in the validator limit is a critical discussion point in the industry."
+    },
+    {
+        "title": "Crypto Bear Reveals Price Targets for Ethereum (ETH) and Polygon (MATIC), Updates Outlook on Binance Coin (BNB) - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nA well-known crypto trader has shared his price targets for Ethereum (ETH), Polygon (MATIC), and Binance Coin (BNB). The trader expects ETH to drop to $550-650, a 62% decrease from current prices. MATIC is predicted to reach $0.04, a 93% decline. BNB is expected to reach $40, an 83% drop. The trader emphasizes that these are not investment advice and that investors should do their own research before making any high-risk investments."
+    },
+    {
+        "title": "Ethereum Price Prints Bullish Technical Pattern, Why Close Above $1,780 Is Critical - NewsBTC",
+        "summary": "  Ethereum price is recovering above $1,700, with the potential to continue moving up if it clears the $1,780 resistance zone. The price is currently trading above $1,700 and the 100-hourly Simple Moving Average, with immediate resistance at $1,740 and the next major resistance at $1,770. A proper move above $1,770 and $1,780 could start a steady recovery wave, potentially leading to gains towards $1,820 and beyond. However, if Ethereum fails to clear $1,780, it could start another decline, with initial support at $1,710 and further losses potentially leading to $1,620 or lower. Technical indicators, such as MACD and RSI, are losing momentum in the bullish zone, indicating a potential reversal in the short-term trend."
+    },
+    {
+        "title": "Ethereum Cancun Upgrade: Why Arbitrum, Optimism Will Profit Massively - NewsBTC",
+        "summary": "  Ethereum's Cancun upgrade, set for autumn, will significantly benefit layer-2 rollup technologies like Arbitrum and Optimism. The upgrade, based on EIP 4844, introduces a new transaction type called \"blobs,\" which increases data and storage requirements for Ethereum blocks, creating a new fee market. This will allow rollups to process large amounts of data more efficiently, leading to a 100-fold increase in capacity. The upgrade does not improve Ethereum's scalability for executing transactions and smart contracts, but it reduces the cost of transferring large amounts of data to Ethereum, making it more cost-effective for rollups. Arbitrum (ARB) is at a crucial resistance level, with the potential to rise to mid-range resistance at $1.15 or face a price discovery to the downside."
+    },
+    {
+        "title": "ETH Enters 7-Day Consolidation but is a Huge Move Imminent? (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum (ETH) has seen a brief bullish rally after a period of correction, but the market remains uncertain. The price found support at a significant region comprising the 200-day moving average and the lower trendline of a flag pattern, which aligns with a static support level of $1.6K. However, the positive momentum weakened upon reaching the previous minor swing on the daily chart, leading to decreased volatility and small candles. The 4-hour chart shows that ETH reached a crucial Fibonacci level of 61.8% after breaking below the lower trendline of an extended ascending channel. The recent rebound could be a retracement towards the broken level, and the next move will depend on future price action. On-chain analysis shows that Ethereum's Exchange Netflow metric exhibited a downtrend during the consolidation correction phase, and the recent lawsuit involving Binance, Coinbase, and the SEC contributed to the bearish trend in the market. A robust and sustainable bullish rally is unlikely until fear and uncertainty disappear from the market and sufficient demand returns."
+    },
+    {
+        "title": "Ethereum core devs consider raising limit on maximum effective validator balance - CryptoSlate",
+        "summary": "  Ethereum core developers are considering a proposal to raise the maximum effective validator balance cap from 32 ETH to 2,048 ETH, while retaining the minimum staking amount at 32 ETH. This change could significantly impact the decentralization and efficiency of the Ethereum network. Proponents argue that increasing the maximum effective balance would unblock future upgrades, enhance the consensus mechanism and p2p layer, and improve operational efficiency for validators. However, critics may argue that the upgrade could introduce complexity and security risks to the ecosystem."
+    },
+    {
+        "title": "Update Withdrawal Keys for Ethereum Validator with the new BTEC Nano X App - Ledger",
+        "summary": "  Ledger Nano X users can now update their withdrawal credentials with the new BTEC Embedded App, making them eligible for withdrawals on Ethereum. The app was developed by the Embedded Software team at Ledger and is available for use. This feature was long awaited and follows the addition of full BLS support to the Ledger Nano X firmware in February. Previously, only validators with updated credentials to 0x01 would be eligible for withdrawals after the Shanghai Upgrade in June."
+    },
+    {
+        "title": "Ethereum Layer 2 Network zkSync Era's Locked Value Surpasses $500M - CoinDesk",
+        "summary": "  Ethereum's zkSync Layer 2 network has reached over $500M in locked value, according to CoinDesk. The upgrade to Ethereum's Cancun/Deneb upgrade this fall/winter will prioritize EIP 4844, a rollup solution for long-term scalability. dApps built on Ethereum will need to migrate to more cost-effective rollups."
+    },
+    {
+        "title": "Why Ethereum\u2019s gas prices dropped to 5-month low - AMBCrypto News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEthereum gas prices have dropped to a five-month low, with the median gas price decreasing to around 18 GWEI and the mean gas price standing at around 19 GWEI. Despite this reduction, key network metrics such as active users, volume, and fees have remained steady, indicating sustained activity on the network. The decrease in gas prices may be attributed to the emergence of Layer 2 solutions (L2s), which are gaining traction and mitigating congestion on the Ethereum network."
+    },
+    {
+        "title": "Core Ethereum Developers Mull Extending Validator Balance To Over 2000 ETH - Ethereum World News",
+        "summary": "  Core Ethereum developers are considering a proposal to increase the validator balance cap from 32 ETH to 2,048 ETH. This would allow validators to stake more Ether and earn greater rewards, while also optimizing network efficiency. The current balance cap has led to a rapid increase in the number of validators, which could negatively impact network efficiency. Increasing the cap could also allow for auto-compounding of rewards, reducing operational costs for larger node operators. However, the proposal is not without risk and will be weighed alongside other upgrades in the upcoming Deneb and Cancun."
+    },
+    {
+        "title": "Ethscriptions Shake Up the Crypto Community - NFTevening.com",
+        "summary": "  Ethscriptions, Ethereum's response to Bitcoin's Ordinal inscriptions, are digital artifacts generated through unique transaction data on the Ethereum blockchain. Tom Lehman, co-founder of Capsule 21 and former CEO of genius.com, brought this concept to life. Ethscriptions offer a fresh approach to digital artifacts, with the potential for lasting impact in the crypto community. Users have created thousands of Ethscriptions and made them available for trading on platforms like OpenSea. The introduction of Ethscriptions has set the crypto community abuzz, and their unique approach to creating and sharing digital artifacts may have a lasting impact on the crypto landscape."
+    },
+    {
+        "title": "Litecoin adoption outdoes Ethereum; LTC reacts by\u2026 - AMBCrypto News",
+        "summary": "  Litecoin (LTC) has surpassed Ethereum (ETH) in terms of addresses, with 200.7 million LTC addresses compared to ETH's 181 million. LTC's market cap in BTC terms is $5.6 billion, and its price has increased by 1% in the last week. However, LTC's whale activity remains high, and its open interest has declined since June, indicating a possible price hike in the near future. The daily chart shows several bullish market indicators, including a possible bullish crossover in the MACD, an uptick in the RSI, and an increase in the MFI, suggesting a potential price increase in the coming days."
+    },
+    {
+        "title": "Ethereum Price Forms Bullish Pattern, US$1,780 Close Crucial - Analytics Insight",
+        "summary": "  Ethereum price is forming a bullish pattern, with a close above the crucial $1,780 level. The cryptocurrency has seen a 49% increase in price over the past 6 months, and the bulls are looking to push the price higher. The next significant support level is at $1,750, and a break below that could lead to a new collapse. Some experts predict that Ethereum's price will continue to increase, while others predict a fall in the long term. The transition to Ethereum 2.0 is currently underway, which could boost the scalability and security of the network and raise interest in Ethereum."
+    },
+    {
+        "title": "News Explorer \u2014 Ethereum Core Developers Float 64x Increase in Staked ETH Requirement to Become a Validator - Decrypt",
+        "summary": "  Ethereum core developers are considering a 64-fold increase in the minimum amount of staked Ether required to become a validator. This change aims to improve network efficiency and increase revenue for validators, but has received mixed reactions from the crypto community due to potential impact on the number of validators and centralization."
+    },
+    {
+        "title": "ChainGPT Token (CGPT) is Launching on Ethereum - Bridging Web3 AI - CryptoPotato",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nChainGPT token (CGPT) is launching on Ethereum, bridging its on-chain presence and expanding its access to the robust Ethereum network. The token will be supported by several exchanges, including KuCoin, BitGet, and Uniswap, and will have a token pool opened on Ethereum for instant listing and liquidity. The bridge is enabled through a partnership with ChainPort and will allow for seamless transfers of $CGPT between the Binance Smart Chain and Ethereum networks. $CGPT is the native token of the ChainGPT ecosystem, serving as a utility and governance tool for AI-powered Web3 tooling."
+    },
+    {
+        "title": "What are Ethscriptions and how they work compared to Bitcoin Ordinals - crypto.news",
+        "summary": "  Ethscriptions is a new protocol on the Ethereum network that allows users to inscribe non-financial data, such as images, directly onto the blockchain. The protocol has gained significant attention and acceptance within the Ethereum community, with over 30,000 inscriptions created within 18 hours of its launch. Ethscriptions leverages Ethereum's calldata to enable this functionality, making it a more decentralized and cost-effective approach than traditional contract storage. The protocol has been compared to Bitcoin's Ordinals, which also allow for non-financial data inscriptions, but use a different method. The community response to Ethscriptions has been overwhelmingly positive, with the launch of Ethereum Punks, a collection of non-contract punks similar to those on the Bitcoin network. However, the high activity level resulting from the launch has caused occasional downtime, and there are concerns about the potential rise in transaction fees. The future of Ethscriptions remains to be seen, but its potential ramifications are significant, and it continues to illustrate the ongoing push for innovation within the blockchain"
+    },
+    {
+        "title": "Web3 usernames may see greater adoption due to recent advancements - Cointelegraph",
+        "summary": "  Web3 usernames may see greater adoption due to recent advancements in wallet and messaging app integration. Free usernames are now available from some wallets, and instant messaging integration allows users to send messages to Ethereum addresses or usernames. Cross-chain names are also becoming more accessible, allowing users to register a single name for multiple chains. Despite the slow adoption so far, these advancements may pave the way for greater adoption of Web3 usernames in the future."
+    },
+    {
+        "title": "zkSync Era: Locked Value Surpasses $500M on Ethereum Layer 2 - Crypto Times",
+        "summary": "  zkSync Era, an Ethereum layer 2 scaling solution, has seen rapid growth in locked value, surpassing $500M in TVL. The platform provides scalability while maintaining Ethereum compatibility and supports native account abstraction. As of now, zkSync has locked over 220k ETH and 14.43M MUTE tokens, with a growing number of daily active addresses. The increasing demand for rollups is attributed to Ethereum core developers' focus on EIP 4844, which aims to reduce transaction fees on layer 2 platforms."
+    },
+    {
+        "title": "Etherscan launches AI-powered Code Reader - Cointelegraph",
+        "summary": "  Etherscan launched Code Reader, an AI-powered tool that retrieves and interprets Ethereum smart contracts' source code. Users can input a prompt, and the tool generates an AI-generated explanation of the contract's code. Use cases include gaining deeper insight into contracts' code and understanding how they interact with decentralized applications. Despite the AI boom, experts caution on the feasibility of current AI models, particularly in decentralized computing power networks. Training large models requires significant data transmission and optimization, and small AI models are still more feasible in most scenarios."
+    },
+    {
+        "title": "'Ethscriptions' Ordinals Arrive On Ethereum - CryptoDaily",
+        "summary": "  Ethscriptions, a new protocol on the Ethereum blockchain, allows users to create non-fungible tokens (NFTs) and other digital assets using Ethereum's calldata for a cheaper and more decentralized minting process. The protocol has seen high enthusiasm, with over 30,000 Ethscriptions created within the first 18 hours, and has already generated significant interest in the community. However, the long-term success of this novel approach to asset creation remains to be seen, and infrastructure challenges may arise as the project grows."
+    },
+    {
+        "title": "Tether Mints 1 Billion of USDT on Ethereum, Tradecurve Price Set To Reach $0.018 - CryptoDaily",
+        "summary": "  Tether, the issuer of USDT, has minted an additional 1 billion USDT on the Ethereum blockchain, bringing the total minted in 2023 to over $16 billion. The new tokens were part of the company's inventory replenishment program to ensure stablecoin liquidity across all chains. Meanwhile, Tradecurve, a new trading platform, has gained attention in the DeFi space due to its potential to connect the crypto market with the global derivatives market. The platform's presale has already started, with experts predicting that the price of Tradecurve (TCRV) could jump to $1.5 by the end of 2023."
+    },
+    {
+        "title": "XRP edges up as hedge fund manager sees $30 target achievable - FXStreet",
+        "summary": "  XRP price has increased by 6% over the weekend, reversing some of the losses from last week. Crypto fund manager Thomas Kralow set a bullish target of $30 for XRP, citing the altcoin\u2019s potential for higher market activity. XRP has seen a 200% gain in value against Bitcoin since the SEC filed its lawsuit against Ripple at the end of 2020. The release of Hinman documents could push XRP price up to the $30 target in the short term, according to Kralow. However, XRP has declined significantly from its June 13 peak and is currently undervalued at the current price, according to on-chain indicators. The next key support is at $0.4518, a level that represents its 200-day Exponential Moving Average (EMA)."
+    },
+    {
+        "title": "Cryptocurrency Price Today: Bitcoin, Ethereum, Top Coins Trade Sideways KAVA Becomes Top Gainer - ABP Live",
+        "summary": "  Bitcoin and Ethereum were little changed over the weekend, while other altcoins saw minor dips and gains. KAVA became the top gainer, with a 24-hour jump of nearly 4%, while KCS emerged as the top loser, with a 24-hour dip of over 7%. The global crypto market cap stood at $1.07 trillion, with a 24-hour dip of 0.25%. Exchanges are cautious about the current market scenario, with some predicting a possible recovery and others warning of potential risks."
+    },
+    {
+        "title": "Inscriptions for NFT coming to Ethereum - The Cryptonomist",
+        "summary": "  Inscriptions for NFTs are coming to the Ethereum blockchain through a new protocol called \"Ethscriptions.\" This protocol allows users to mint NFTs at a lower cost and in a more decentralized manner than traditional data storage on smart contracts. The new protocol has gained attention and popularity, with over 30,000 inscriptions registered in just under 18 hours since its launch. The first NFT collection created with Ethscriptions is a recreation of the famous \"Crypto Punks\" collection. The volume of NFT trading on the Ethereum network has reached 77.57 ETH in the last day, with a total of 1237 owners of Ordinals-style digital artifacts on the network. The protocol has been seen as both innovative and obsolete, with some viewing it as a game changer and others as a step backward for the Ethereum ecosystem. Meanwhile, inscriptions on Bitcoin have already reached the height of their popularity, with over 222,000 inscriptions registered yesterday."
+    },
+    {
+        "title": "Bitcoin, Ethereum Remain Online, Hackers Cripple A Leading European Bank - Bitcoinist",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nEuropean Investment Bank (EIB) under attack by hackers, facing cyber-attack that has affected some of its key websites. Bitcoin and Ethereum remain immune to cyber-attacks and continue to operate with nearly 100% reliability and uptime. EIB is a triple-A-rated credit institution secured by the European Union (EU) and plays a vital role in the EU's financial infrastructure. The bank is involved in financial operations revolving around climate change, funneling over $82 billion to projects fighting climate change in the last eight years. Despite the attack, Bitcoin and Ethereum remain resilient and process millions of dollars worth of transactions daily."
+    },
+    {
+        "title": "Weekly Market Watch: Bitcoin & Ethereum Struggles, Altcoins On The Path To Recovery - TronWeekly",
+        "summary": "  The cryptocurrency market experienced a downturn last week, with Bitcoin and Ethereum struggling. However, altcoins have shown signs of recovery, with KuCoin Token (KCS) leading the gains. Uniswap (UNI) and Maker (MKR) are also among the top gainers. The upcoming v4 of Uniswap is expected to introduce custom liquidity pools, while Maker's price surge can be attributed to its notable increase of about 10%. Other coins like SHIB, ICP, and FIL are also experiencing gains. Despite the volatility, the exchange supply of Bitcoin has reached its lowest point since February 2018, with traders opting to move their holdings to self-custody due to legal actions initiated by the SEC. Ethereum experienced a tight range of trading similar to Bitcoin, with a low point of $1,624.14 causing concern among investors and traders."
+    },
+    {
+        "title": "Ethereum core developers deliberate raising validator balance limit to boost network efficiency - Cryptopolitan",
+        "summary": "  Ethereum core developers are debating raising the validator balance limit from 32 ETH to 2,048 ETH to boost network efficiency. The current limit was implemented to promote decentralization, but it has led to an exponential growth in validators, causing strain on the network. Increasing the limit would allow validators to accumulate more ETH and compound their earnings, benefiting major node operators like exchanges. However, the proposal also carries risks, such as heightened penalties for inadvertent multiple attestations or proposals. The core developers are gathering opinions from the broader Ethereum community and must strike a delicate balance between efficiency and security."
+    },
+    {
+        "title": "How Long Does it Take to Send Ethereum in 2024? - Captain Altcoin",
+        "summary": "  Ethereum transfer times can vary depending on the type of transaction and network congestion, with hot wallet transfers taking anywhere from 16 seconds to 5 minutes, and cold wallet transfers taking slightly longer. Exchanges often require more confirmations for transactions, which can add security but also increase transfer times. Confirmations on the Ethereum network take around 16 seconds, and the number of confirmations required can vary depending on the destination wallet. Transfer times to bank accounts can take anywhere from a few minutes to 5 days, depending on the exchange platform used. Gas fees are required for each transaction to keep the network secure and prevent spam. The upcoming Ethereum 2.0 upgrade is expected to significantly improve transaction speeds."
+    },
+    {
+        "title": "Proposal Seeks Ethereum Validator Balance to Reach 2048 ETH - The Coin Republic",
+        "summary": "  Ethereum validators may soon be able to stake up to 2,048 ETH, up from the current limit of 32 ETH, according to a proposal pushed by Ethereum Core Developers. This increase aims to expand the set of active validators, leading to improved network efficiency. However, larger validator node operators may face penalties for mistakes during transaction validation, and the proposal is still in development."
+    },
+    {
+        "title": "Ethereum Validators May Stake Up To 64X More ETH Moving Forward - Inside Bitcoins",
+        "summary": "  Ethereum developers plan to increase the minimum amount of staked Ether required to become a validator by 64 times, from 32 ETH to 2048 ETH. This proposal aims to improve the network's efficiency and reduce inflation, but may receive mixed reactions from current validators and the crypto community. The increase could benefit large node operators like exchanges, but may centralize the network and go against the core principles of cryptocurrency. Meanwhile, JP Morgan has analyzed the impact of recently released Hinman documents on Ethereum's price, which could reshape the crypto landscape and elevate Ether's position in the market."
+    },
+    {
+        "title": "Etherscan code reader to use AI to unlock Ethereum contracts - here is what you need to know - Cryptopolitan",
+        "summary": "  Etherscan, a popular Ethereum block explorer and analytics platform, has launched a new tool called \"Code Reader\" that uses artificial intelligence (AI) to extract and interpret the source code of specific Ethereum contract addresses. The tool, powered by OpenAI's large language model (LLM), provides comprehensive responses and valuable insights into the contract's source code files. To use the tool, users must have a valid OpenAI API Key and sufficient usage limits. Code Reader offers various use cases, including obtaining extensive lists of functions associated with Ethereum data, modifying source code directly within the user interface, and sharing it with the AI for experimentation and iteration. However, some experts have raised concerns about the feasibility of current AI models, particularly in distributed computing power networks, due to challenges such as complex data synchronization, network optimization, and data privacy and security. In light of these constraints, researchers suggest that smaller AI models may still be a more viable choice in many scenarios."
+    }
+]

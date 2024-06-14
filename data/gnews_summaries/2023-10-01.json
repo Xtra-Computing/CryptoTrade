@@ -1,0 +1,52 @@
+[
+    {
+        "id": 24,
+        "title": "Ethereum Gearing Up To Outperform Bitcoin Once More, Predicts Top Trader That Called May 2021 Crypto Collapse - The Daily Hodl",
+        "summary": "  Ethereum (ETH) is expected to outperform Bitcoin (BTC) in the long term, according to a top trader who correctly predicted the May 2021 crypto collapse. The trader, Dave the Wave, analyzed the ETH/BTC pair and found that it is printing lower highs and lower lows, but a larger wedge pattern suggests a potential breakout to the upside in the next year or so. Meanwhile, Bitcoin is on track to outperform traditional assets for at least another decade, according to the trader's logarithmic growth curves (LGCs). The trader cautions that investors should do their own due diligence and notes that any losses incurred are the responsibility of the investor."
+    },
+    {
+        "id": 39,
+        "title": "Trader Calls Ethereum-Based Altcoin \u2018Most Obvious Play\u2019 Amid Bear Market, Predicts Rally for Bitcoin and ETH - The Daily Hodl",
+        "summary": "  A cryptocurrency trader, Inmortal, has identified an Ethereum-based altcoin, Chainlink (LINK), as a potential long-term play in the midst of the ongoing bear market. Inmortal believes that LINK has been building a solid base since May 2022 and could generate big gains once it breaks out of the accumulation range. The trader also predicts a surge in Bitcoin and Ethereum, with Bitcoin potentially reaching $40,000 and Ethereum witnessing a burst to the upside against both the US dollar and Bitcoin. However, Inmortal emphasizes that investing in cryptocurrencies is risky and investors should do their due diligence before making any investment decisions."
+    },
+    {
+        "id": 45,
+        "title": "REALITY CHECK | A Look at Developments on Ethereum \u2013 One Year After Transitioning to Full Proof-of-Stake (PoS) - bitcoinke.io",
+        "summary": "  Here is a summary of the article in 256 tokens or less:\n\nEthereum marked one year since its transition to full Proof-of-Stake (PoS) on September 15, 2023. Since the Merge, Ethereum's carbon footprint has decreased by 99.99% due to the shift from Proof-of-Work (PoW) to PoS. The amount of Ethereum staked has nearly doubled, reaching 26.5 million ETH valued at nearly $43 billion. Concerns about centralization and censorship have arisen due to two entities controlling 46% of validator nodes. Lido and Coinbase dominate the top ten list of staking pools and centralized exchanges. Scaling solutions have become more impactful, with layer-2 networks exceeding 50 transactions per second. The total number of transactions on popular layer-2 networks has surpassed 61 million in the past 30 days. Ethereum's overall supply has decreased by 0.25%, impacting its scarcity and economic dynamics. Ethereum"
+    },
+    {
+        "id": 50,
+        "title": "Why Is Lido Finance \u201cCentralizing\u201d Ethereum? - Altcoin Buzz",
+        "summary": "  Lido Finance, a Liquid Staking Derivative (LSD) protocol, has become the largest player in the Ethereum staking space, controlling 73.4% of all staked $ETH on LSD protocols. This has raised concerns about centralization, as Lido's voting power could potentially give it significant control over Ethereum. Danny Ryan, a founder of the Ethereum Foundation, has expressed concerns that Lido's centralization could lead to a \"disaster scenario,\" as only three people control the vote. The Ethereum community is discussing the issue and hoping to find a solution to maintain decentralization."
+    },
+    {
+        "id": 52,
+        "title": "Ethereum Co-Founder Vitalik Buterin Explores Protocol Enhancements and Ecosystem Trade-Offs - U.Today",
+        "summary": "  Vitalik Buterin explores integrating more features into Ethereum protocol, balancing simplicity and user convenience. Buterin cautions against over-enshrining, which could complicate governance and not align with user needs. Maintaining a minimalist philosophy while enhancing user experience is crucial."
+    },
+    {
+        "id": 57,
+        "title": "How Ethereum Layer 2s have outperformed Layer 1s - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Layer-2s have outperformed Layer-1s in terms of total value locked (TVL). Ethereum's TVL has surpassed Solana and Avalanche, and could potentially challenge their market cap as well. Layer-2s process transactions and batch them together before sending them to the main network, allowing them to operate efficiently and cost-effectively. While Layer-1s have been around longer, Layer-2s have shown rapid growth, making it possible for them to close the gap with Solana and Avalanche."
+    },
+    {
+        "id": 59,
+        "title": "Major Exchange Experienced $116 Million in Outflow in Ethereum, Bitcoin and USDT - U.Today",
+        "summary": "  KuCoin, a major cryptocurrency exchange, experienced an $116 million outflow in Bitcoin, Ethereum, and USDT assets in the past month, according to a recent asset reserve certificate. This decrease is significant and could be due to various market dynamics, including investor uncertainty and volatility, complex regulatory landscapes, and the rise of decentralized finance platforms offering higher returns. Competition from new exchanges and trading platforms may also be a factor."
+    },
+    {
+        "id": 60,
+        "title": "FTX Exploiter Bridges $8M in Ethereum (ETH) to Bitcoin (BTC) - U.Today",
+        "summary": "  Sure! Here is a summary of the financial news in less than 256 tokens:\n\nFTX hack: $8M in Ethereum transferred to Bitcoin. Hacker used Thorchain to convert ETH holdings. FTX suffered $600M security breach last year, believed to be inside job. Founder Sam Bankman-Fried faces trial in Oct. for fraud and conspiracy charges. Possible maximum sentence is 115 years."
+    },
+    {
+        "id": 69,
+        "title": "Cryptocurrency Price Today: Bitcoin, Ethereum See Gains As XDC Network Becomes Top Gainer - ABP Live",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin and Ethereum prices rose slightly, while XDC Network was the top gainer with a 7.38% increase. Other notable gainers included GMX, Maker, Solana, and Chiliz. On the other hand, Frax Share was the biggest loser with a 3.25% decline. The global crypto market cap stood at $1.08 trillion, with a 24-hour gain of 0.40%."
+    },
+    {
+        "id": 71,
+        "title": "Ethereum Has Over 10x Full-Time Developers Than Cardano: Will ADA Ever Catch Up? - Bitcoinist",
+        "summary": "  Ethereum has over 10 times more full-time developers than Cardano, according to a recent report from GitHub. As of October 1, Ethereum had 1,889 full-time developers, while Cardano had only 153. This disparity suggests that Ethereum may be cementing its position as the go-to platform for developers, while Cardano may struggle to catch up. Despite Cardano's efforts to improve performance and scale through its Basho phase, Ethereum continues to dominate decentralized finance (DeFi) activity and price charts."
+    }
+]

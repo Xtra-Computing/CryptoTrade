@@ -1,0 +1,77 @@
+[
+    {
+        "id": 0,
+        "title": "Ethereum Node and Client: A Complete Guide - crypto.news",
+        "summary": "  Ethereum nodes and clients are crucial components of the Ethereum network, responsible for validating transactions, executing smart contracts, and ensuring the network's security and decentralization. Nodes are computers that run the software required to interact with the network, while clients are programs that enable nodes to read blocks on the blockchain and interact with smart contracts. There are different types of clients, including full, light, and remote clients, each with varying levels of functionality and data storage requirements. Understanding the difference between nodes and clients is essential for using the Ethereum network effectively."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum's proto-danksharding to make rollups 10x cheaper \u2014 Consensys zkEVM Linea head - Cointelegraph",
+        "summary": "  Ethereum's proto-danksharding, a proposed upgrade, could drastically reduce the cost of rollups by 10 times, according to Nicolas Liochon, head of zkEVM Linea at Consensys. Rollups are currently limited by the fact that transactions are posted in call data in Ethereum blocks, which is expensive and represents 95% of the cost. Linea's prover only represents a fifth of the cost. The upgrade, EIP-4844, will introduce data blocks that can be sent and attached to blocks, reducing the cost of transactions. Linea aims to be a general-purpose ZK-rollup for various decentralized applications and solutions within the Ethereum ecosystem."
+    },
+    {
+        "id": 4,
+        "title": "Vitalik Buterin Addresses Ethereum's Major Issues Right Now - U.Today",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, addressed the platform's ongoing issues, including privacy, consensus, smart contract security, and scalability, in a recent keynote speech. While progress has been made in these areas since 2017, challenges remain, such as legal and acceptance issues surrounding privacy tokens. Buterin introduced the concept of proof-of-innocence to validate tokens without revealing transaction origins. Ethereum has embraced a consensus mechanism but faces centralization concerns and simplifying the protocol. Smart contract security has improved, but hacking incidents remain. Ethereum's focus is on practical solutions, mainstream adoption, and enhancing user benefits."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum's Buterin Reveals Issues Impeding ETH's Potential - DailyCoin",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, revealed that the network is still facing several issues that were present six years ago, including privacy, consensus, smart contract security, and scalability. Despite the progress made, these challenges persist, and smart contract security has made slower progress than other issues. However, the developer community is actively working on innovating and delivering new solutions. Additionally, Buterin stakes only a small portion of his ETH holdings due to security concerns, and a high-profile developer compared Ethereum's staking to sausage manufacturing, implying less appealing aspects of the network's staking mechanism. Ethereum's inability to solve these issues is a concern for the network and its community of developers, as it is the second-largest blockchain project in the industry."
+    },
+    {
+        "id": 7,
+        "title": "Grayscale Ethereum Trust Discount Drops to Lowest in a Year Amid Spot Ether ETF Push - CoinDesk",
+        "summary": "  Grayscale Ethereum Trust discount drops to lowest in a year amid spot Ether ETF push. Discount narrowed after BlackRock filed for a spot bitcoin ETF and Grayscale's court victory over SEC. Momentum continued after Cboe BZX filed to launch spot ether ETFs."
+    },
+    {
+        "id": 8,
+        "title": "The race to launch a spot Ethereum ETF begins - AMBCrypto News",
+        "summary": "  Ark Investment and 21Shares have filed for regulatory approval to launch an exchange-traded fund (ETF) that tracks the price of Ethereum (ETH). This is the first attempt to introduce such a fund in the US. The ETF would hold actual ETH as its underlying asset, closely following the spot price of ETH. This could simplify gaining exposure to ETH for a wider range of investors and potentially stimulate greater demand for the cryptocurrency. The filings have triggered a countdown for a final decision by the SEC. This differs from futures-based Ethereum ETFs, which use derivative contracts rather than actual ETH as their underlying asset. The introduction of an Ethereum ETF could enhance liquidity in the Ethereum market and draw in more traders and investors, potentially leading to elevated trading volumes. As of writing, the news had a minimal impact on ETH's price trend, but this could change once ETF approval emerges."
+    },
+    {
+        "id": 11,
+        "title": "OnChainMonkey Embarks on a Bold Migration from Ethereum to Bitcoin, Citing Enhanced Security - NFT Culture",
+        "summary": "  OnChainMonkey NFT collection is migrating from Ethereum to Bitcoin, with 99% of tokenholders approving the shift. The move is driven by Bitcoin's enhanced security and decentralization mechanisms, according to Metagood CEO Danny Yang. The transition involves tracing the legacy of each OnChainMonkey NFT back to its Ethereum counterpart, and holders will receive a corresponding Bitcoin Ordinal. While Ethereum still dominates the NFT market, Yang is optimistic about Bitcoin's prospects, envisioning a vibrant Bitcoin-centric NFT ecosystem. The move is facilitated by the inception of Ordinals and BRC-20 tokens, which followed the successful Taproot soft fork."
+    },
+    {
+        "id": 13,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: Crypto markets continue its unpredictability - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin (BTC) price is trading without directional bias, with a key support level at $24,995. If BTC slips below this level, the odds of a bearish breakdown increase.\n\nEthereum (ETH) price is testing a support level at $1,621, which is shaky ground considering momentum is fading. If ETH drops below this level, it could reach $1,529.\n\nRipple (XRP) price has broken out from a descending parallel channel, which could indicate that the downtrend has finished. XRP could reach $0.5547 and $0.5580 resistance levels, or potentially extend to the psychological $0.7000 level. However, there is still a risk of XRP slipping back below the upper boundary of the descending channel and extending to the July 13 lows at $0.4600."
+    },
+    {
+        "id": 14,
+        "title": "Crypto Price Today: Bitcoin regains $2,600; Ethereum nears $1,650; Altcoins trade higher - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin regained $2,600, Ethereum nears $1,650, altcoins trade higher. IMF and FSB jointly published a policy roadmap, warning against blanket bans on cryptos and recommending targeted restrictions and sound monetary policy instead. The paper also suggested that banning cryptos wouldn't work in the long term. Other top crypto tokens gained mildly, with Solana, BNB, Polkadot, and Litecoin adding around 1%. The global cryptocurrency market cap rose to $1.05 trillion, but total trading volumes dropped. The fear and greed index jumped 5 points to 46/100, indicating a fearful sentiment. Tech View by Giottus Crypto Platform suggests that Ethereum may consolidate around $1,650 levels for a while if it fails to break the $1,700 barrier this week. Major levels for Ethereum are $1,625, $1,585"
+    },
+    {
+        "id": 15,
+        "title": "Why Bitrock Is One of Best Scaling Solutions for Ethereum Network - Coinspeaker",
+        "summary": "  Bitrock is a promising sidechain for the Ethereum network, offering several advantages over other options. It utilizes the proof-of-authority consensus algorithm, which makes it faster, cheaper, and more secure. Bitrock has completed a CTDSEC audit and has gone through KYC verification, providing a secure and trustworthy platform. Its tokenomics are simple and transparent, with no locked or vested tokens, and it has a user-friendly token builder for launching tokens. The platform also offers impressive staking yields and has completed integrations with several tools and platforms. With its original design, fast transactions, and security measures, Bitrock is a strong competitor in the ETH scaling space."
+    },
+    {
+        "id": 16,
+        "title": "Crypto Price Today: Bitcoin rises above $26,200; Ethereum holds above $1,600 level - The Economic Times",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin rose 2% to $26,259, while Ethereum was trading near $1,650. The global cryptocurrency market cap rose 1.32% to $1.06 trillion. The IMF and G20's Financial Stability Board paper suggested targeted restrictions and a comprehensive monetary strategy for cryptocurrencies. Other top crypto tokens surged over 1%, with Solana, Polkadot, and Litecoin leading the gainers. Bitcoin's dominance fell to 48.57%, and the volume of all stablecoins reached $24.11 billion. The market cap of Bitcoin was around $512 billion, and BTC volume stood at $12.18 billion. Resistance at $26,000 and $26,200 could challenge Bitcoin's upward momentum."
+    },
+    {
+        "id": 18,
+        "title": "Ethereum Creator Vitalik Buterin Co-Authors Paper Detailing Method for Weeding Out \u2018Dishonest\u2019 Crypto Users - The Daily Hodl",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum co-creator Vitalik Buterin and four others have published a paper detailing a method for identifying and removing dishonest crypto users from mixing protocols. The mechanism uses privacy pools, which are smart contract-based privacy projects that allow users to generate new addresses without revealing their transaction history. Users can publish zero-knowledge proofs demonstrating their compliance with regulations, while maintaining their privacy. The authors believe that privacy and regulation can coexist, and they plan to meet with regulators to discuss the potential of privacy pools in bolstering national security and combating money laundering."
+    },
+    {
+        "id": 20,
+        "title": "Ether Whales\u2019 Offloading Sparks Concerns of Asset\u2019s Price Trajectory - ZyCrypto",
+        "summary": "  Ethereum whales are offloading their holdings, sparking concerns about the asset's price trajectory. Renowned crypto analyst Ali Martinez notes a correlation between the number of whales holding 10,000+ ETH and the overall price movement, suggesting that established investors' liquidation of portions of their holdings may indicate a potential downward trajectory. However, Martinez also highlights the importance of the $1,630 support level and the potential for a successful close above the $1,700 mark to propel Ethereum's value beyond $2,000."
+    },
+    {
+        "id": 21,
+        "title": "GenZ Investor Who Invested In Bitcoin, Ethereum, Dogecoin And Shiba Inu Reflects On $80K Mistake: 'Only Invest ... - Zenger.News",
+        "summary": "  A 22-year-old software engineer, Ethan Nguonly, made a $80,000 mistake in margin investing in cryptocurrencies, including Bitcoin, Ethereum, Dogecoin, and Shiba Inu. Despite having invested $40,000 in these cryptocurrencies, he decided to invest an additional $15,000 on margin, hoping to capitalize on Bitcoin's price surge. However, the cryptocurrency market took an unfavorable turn, resulting in Bitcoin's price plummeting by over 70% by the summer of 2022. Nguonly now advises others to exercise caution and only invest money they have, avoiding speculative investments."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum And Cosmos Compatible With A City, South Korea Wants To Make It Happen - Bitcoinist",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBusan, South Korea's second-largest city, plans to use Ethereum and Cosmos for its \"Blockchain City\" project. The city aims to double down on its blockchain capabilities and offer services like digital vouchers and tokenized assets. The project is expected to be completed by 2026 and will cost around $74 million. The city will also launch a blockchain innovation fund to support the development of blockchain technology. (238 tokens)"
+    }
+]

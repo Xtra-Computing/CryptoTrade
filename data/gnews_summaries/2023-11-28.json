@@ -1,0 +1,127 @@
+[
+    {
+        "id": 3,
+        "title": "Ethereum 'smart account' adoption is low \u2014 the first rollup proposal wants to change that - Blockworks",
+        "summary": "  Ethereum's \"smart account\" adoption is slow, with low retention rates and limited user activity. Despite this, industry participants remain optimistic and are working on proposals to increase usage. The ERC-4337 standard aims to provide a more flexible and secure way for users to interact with crypto wallets, but it is considered a \"semi-native+\" account, meaning users don't need a private key. A new proposal, RIP-7560, aims to move towards a \"native\" smart account, allowing users to specify their own validation logic and removing the need for a private key. However, this proposal has raised concerns about complexity and consensus layer changes."
+    },
+    {
+        "id": 13,
+        "title": "Why Ethereum is a growing base for institutional capital - AMBCrypto English",
+        "summary": "  Institutional investors are increasingly investing in Ethereum-related trusts and ETFs, with a surge in fund flow observed since November 23rd. This growth is attributed to Ethereum's transition to Proof-of-Stake (PoS), deflationary supply, and the Shapella upgrade, which have improved security and trust in the protocol. The Total Value Locked (TVL) of Ethereum has also increased by 19.31% in the last 30 days, signaling a growing interest from both retail and institutional investors. The Long-Term Holder Net Unrealized Profit and Loss (LTH-NUPL) indicator has moved from hope to optimism, indicating that long-term holders are no longer fearful but instead believe in ETH's future potential. If the ETH price reaches $2,000 in the coming weeks, this belief could lead to significant accumulation and an extended rally."
+    },
+    {
+        "id": 14,
+        "title": "It\u2019s been a year since Ethereum completed its switch to proof of stake. Vitalik Buterin on what\u2019s new, what\u2019s next, and how he\u2019s using AI - Fortune",
+        "summary": "  Vitalik Buterin, the co-founder of Ethereum, shared his thoughts on various topics in an exclusive interview with Fortune, including:\n\n1. Use cases for blockchain that excite him the most: Currency applications in developing countries, identity, reputation, and decentralized social applications.\n2. His focus now and next: Account abstraction, scalability, and improving decentralization in proof of stake.\n3. Views on the intersection of AI and blockchain: While there are a few areas where AI and crypto intersect, such as zero-knowledge machine learning, the intersection is relatively small. AI's rapid growth makes it important to solve certain problems, like proof of personhood.\n4. Books he's read recently: He's been reading blogs and things on the internet, such as podcasts and science fiction, but hasn't read any books in the last year.\n5. People who inspire him: Akira Fuyuno, Volodymyr Zelensky, Eliezer Yudkowsky, Scott Alexander, Steve Wozniak, Audrey Tang, and Milojko Spaji\u0107"
+    },
+    {
+        "id": 15,
+        "title": "Wake: New Open-Source Tooling on Ethereum to Stop Bugs - Yahoo Finance",
+        "summary": "  Wake, a new open-source tool for Ethereum, was released by Ackee Blockchain to help stop bugs in smart contracts. The tool is a Python-based development and testing framework for Solidity and cross-chain fuzzing, and it has a proven track record of stopping bugs. Wake includes features such as a development and testing framework, fuzzer, vulnerability detectors, and printers. The tool is free to use and can be customized to suit individual needs. Ackee Blockchain, the creator of Wake, is a team of security researchers who have audited top-tier protocols and received grants from various organizations. The release of Wake is timely, as it allows application developers to expertly test smart contracts in a bull market when projects are rushing to ship product updates and security risks are increasing."
+    },
+    {
+        "id": 16,
+        "title": "Vitalik Buterin's 'Defensive Accelerationism' Fits Squarely Into the Ethos of Ethereum - Unchained - Unchained",
+        "summary": "  Vitalik Buterin, the creator of Ethereum, has published an essay titled \"My techno-optimism\" where he outlines his vision for the future of technology and society. He argues that the current divide between \"Effective Altruists\" and \"Effective Accelerationists\" is misguided and proposes a new framework called \"defensive accelerationism.\"\n\nButerin's main argument is that both sides of the debate are flawed because they rely on centralized power and ignore the importance of decentralization and democratic decision-making. He believes that a society that develops in a \"defensive\" way is more just and fair, as it discourages attacking others and allows democracy to flourish.\n\nHe also emphasizes the importance of privacy, autonomy, cybersecurity, and infosecurity in the development of technology. He praises systems like prediction markets and community notes for their ability to usefully integrate feedback from any member of the public.\n\nButerin's \"D\" does not stand for \"deceleration,\" but rather \"defensive,\" as he believes technological progress"
+    },
+    {
+        "id": 18,
+        "title": "Ethereum Bears Keep Pressing, Why ETH Price Might Revisit This Key Support - NewsBTC",
+        "summary": "  Ethereum (ETH) bears are maintaining pressure on the price, which might lead to a revisit of a key support level around $1,920. The price is currently trading below $2,060 and the 100-hourly Simple Moving Average, with a bearish trend line forming resistance near $2,040 on the hourly chart. If ETH fails to clear the $2,040 resistance, it could start a fresh decline towards $2,000, $1,985, and potentially $1,885 or lower. Technical indicators, such as the MACD and RSI, are losing momentum in the bullish zone, suggesting a potential reversal in the market."
+    },
+    {
+        "id": 20,
+        "title": "Ethereum turns deflationary as validators exit and defi transactions drop 57% - crypto.news",
+        "summary": "  Ethereum's supply has turned deflationary due to a decrease in validator participation and declining NFT and DeFi transactions. The growth rate of ETH issuance has slowed, and validators are voluntarily exiting the staking pool. This trend correlates with the broader bullish sentiment across digital asset markets. Additionally, increased network activity has led to increased ETH burn via EIP1559, and token transfers and stablecoins have seen a surge in gas usage. These developments underscore Ethereum's responsiveness to market activity and adoption trends."
+    },
+    {
+        "id": 21,
+        "title": "\u2018One of Most Bullish Charts I\u2019ve Seen\u2019 \u2013 Ex-Goldman Sachs Executive Details Ethereum Outlook As ETH Prints New Pattern - The Daily Hodl",
+        "summary": "  Ex-Goldman Sachs executive Raoul Pal says Ethereum's price action is printing bullish patterns, with a potential cup-and-handle pattern forming in the short term. Pal is long-term bullish on Ethereum after it broke out of a wedge pattern on the weekly chart. Key indicators are flashing bullish for Ethereum as it remains above $2,000."
+    },
+    {
+        "id": 22,
+        "title": "Ethereum\u2019s Vitalik Buterin: If AI Turns on Us 'Even Mars May Not Be Safe' - Decrypt",
+        "summary": "  Ethereum co-founder Vitalik Buterin has expressed concerns about the potential dangers of artificial intelligence (AI), including the possibility of it turning against humanity and causing extinction. Buterin believes that AI development should be led by a security-focused open-source movement, rather than closed and proprietary corporations and venture capital funds. He also emphasized the need for active human intention to choose AI's direction and outcome, rather than relying on the formula of \"maximize profit.\" Buterin believes that transformative technology has the potential to improve humanity's lot, but rejects the notion of simply slowing down the negative impacts of technology without addressing its underlying problems. He also cautioned against giving too much power to a small group of people, preferring a philosophy of \"d/acc\" (defense, decentralization, democracy, and differential)."
+    },
+    {
+        "id": 25,
+        "title": "Ethereum would trade at this price if ETH hits its all-time high market cap - Finbold - Finance in Bold",
+        "summary": "  Ethereum (ETH) would trade at $4,855 if it reaches its highest market cap of $575.899 billion, according to Finbold's analysis. This is based on the tokenomics and supply inflation of Ethereum, which has a circulating supply of 118.619 million ETH and a supply inflation of 559,000 ETH in two years. However, it's important to note that the forecast requires the same demand as in 2021, and there are no guarantees that this demand will be seen again."
+    },
+    {
+        "id": 26,
+        "title": "Ethereum price may lose $2,000 level as ETH becomes deflationary again due to validator exit - FXStreet",
+        "summary": "  Ethereum price may fall below $2,000 due to decreased bullishness and validator exit. ETH issuance has slowed down, and validators have begun exiting, leading to a decline in staked ETH. This could result in a bearish turn for Ethereum, potentially reaching lows of $1,900 or testing the support at $1,795. However, if the broader market turns bullish, ETH could make another attempt at breaching the resistance at $2,124."
+    },
+    {
+        "id": 31,
+        "title": "Here is When Ethereum (ETH) Might Reach Its ATH Again: This Analyst Chips in - CryptoPotato",
+        "summary": "  Ethereum (ETH) is expected to reach its all-time high of over $4,800 in the near future, according to analyst FieryTrading. The analyst predicts that ETH will reach nearly $5,000 by early 2025, driven by a long-term bullish pattern. Additionally, FieryTrading believes that Cardano's (ADA) price will increase significantly, reaching $35 in two years, based on parallel channels that hint at the beginning of a bull run."
+    },
+    {
+        "id": 32,
+        "title": "What is e/acc? Ethereum's Buterin Weighs in on Silicon Valley's Latest Trend: Effective Accelerationism - CCN.com",
+        "summary": "  Vitalik Buterin, the founder of Ethereum, has weighed in on the latest trend in Silicon Valley, known as \"effective accelerationism\" or \"e/acc.\" Buterin is sympathetic to the techno-optimistic views of Marc Andreessen, but he differs with Andreessen on the issue of Artificial Intelligence (AI). While Andreessen believes that any attempts to slow or curb technological progress will result in loss of life, Buterin distinguishes AI from other technologies and argues that it requires a uniquely cautious approach due to its capacity for self-improvement. Buterin also raises concerns about the potential risks of contemporary AI, including the threat to human freedom posed by managerial technologies. The debate over e/acc has created a growing rift among AI developers, with some advocating for unbridled growth and others supporting exercising restraint."
+    },
+    {
+        "id": 36,
+        "title": "15 BEST Ethereum Wallets of 2023 - Bybit Learn",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\n\"Grab up to 5,000 USDT in rewards by signing up for the best Ethereum wallets of 2023, according to Bybit Learn. Get a 20 USDT coupon instantly and earn more bonuses by signing up today.\""
+    },
+    {
+        "id": 37,
+        "title": "How To Earn Free Ethereum? A Step by Step Guide - CoinGape",
+        "summary": "  Here are the key takeaways from the article on how to earn free Ethereum:\n\n1. Sign-up bonuses: Several crypto wallets and exchange platforms offer free Ethereum as a sign-up bonus. To earn free ETH, join platforms like BuyUCoin or AQRU.io and follow the instructions in the promotions section.\n2. Ethereum staking: With at least 32 ETH, you can join a staking pool and earn free ETH by participating in the validation process. Choose a secure staking platform and follow the instructions to start earning.\n3. Ethereum trading: You can earn free ETH by trading Ethereum on a reliable crypto exchange platform. Make sure you have some ETH in your wallet and follow the steps to start trading.\n4. Referrals: Many crypto platforms offer free Ethereum or other crypto coins on successful referrals. Sign up on a platform with a referral program, get your unique link, and share it with friends or on social media to earn rewards.\n5. Airdrops: Keep"
+    },
+    {
+        "id": 39,
+        "title": "Top 3 Price Prediction Bitcoin, Ethereum, Ripple: $40,000 in the cards for BTC as this bullish call executes - FXStreet",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin (BTC) price is up 5% to $38,000, with the Relative Strength Index (RSI) and Awesome Oscillator (AO) indicating a bullish bias. BTC could reach $40,000 if the RSI crossover is decisive.\n\nEthereum (ETH) price is coiling up for a 5% move to $2,141, with the RSI about to cross above the signal line. However, if sellers push through, ETH could fall to $1,935.\n\nRipple (XRP) price is testing $0.6582 for a 10% gain, but must hold above $0.5981 to confirm the uptrend. If the bears take control, XRP could fall to $0.5853."
+    },
+    {
+        "id": 41,
+        "title": "NEAR Protocol Overtakes Ethereum and Bitcoin in Key Activity Metrics - The Defiant - DeFi News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nNEAR Protocol is surpassing Ethereum and Bitcoin in key network metrics, with 838,000 daily active addresses and 1.7M daily transactions. Gaming and payments apps like KAIKANOW and SWEATCOIN are driving growth, with KAIKAI leading in unique active wallets. Despite trailing BTC and ETH in token price, NEAR's growth is expected to be more sustainable with a larger number of popular dapps."
+    },
+    {
+        "id": 42,
+        "title": "Ethereum's Vitalik Buterin Says AI Could Pose \"Existential Risk\" - U.Today",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, warns of AI's potential to pose an \"existential risk\" due to its rapid advancement and potential to outsmart humans. He cautions that a superintelligent AI could view humans as a threat, leading to catastrophic outcomes. While some experts estimate a 5-10% chance of AI leading to human extinction, others envision a future where humans coexist with powerful AIs, offering longevity and entertainment but potentially sacrificing control. Buterin invites consideration of this future and the question of whether humans will be partners or passengers in a world driven by machine intelligence."
+    },
+    {
+        "id": 43,
+        "title": "Ethereum: Imminent explosion with EIP 4844 - Cointribune EN",
+        "summary": "  Ethereum is set to undergo a significant upgrade called EIP 4844, which will reduce layer 2 (L2) transaction fees by a factor of seven and increase network throughput by sixfold. The upgrade will not impact gas costs on the main layer (L1), ensuring the stability of execution costs. This will lead to increased profitability and scalability for the Ethereum network. The upgrade is expected to strengthen Ethereum's position in the crypto market, with the potential for increased revenue growth due to improved network efficiency and reduced gas costs. The price of Ethereum is currently facing resistance at the annual peak of $2,138, with a decline of 5.5% since Friday."
+    },
+    {
+        "id": 47,
+        "title": "Ethereum Co-Founder Vitalik Buterin: AI Poses Serious Threat to Humanity's Dominance - Cryptonews",
+        "summary": "  Ethereum co-founder Vitalik Buterin warns of the potential dangers of super-advanced AI surpassing human intelligence and becoming the dominant species on Earth. He emphasizes the importance of human intention in guiding AI towards beneficial outcomes for humanity and proposes the integration of brain-computer interfaces as a means to give humans greater control over AI-based computation and cognition. Buterin highlights the significance of AI regulation and cautions against prioritizing profit maximization, stressing the need for conscious decision-making that aligns with human values and aspirations."
+    },
+    {
+        "id": 50,
+        "title": "Ethereum Co-Founder Vitalik Buterin Thinks If AI Turns Against Us, It May 'Well Leave No Survivors And En - Benzinga",
+        "summary": "  Ethereum co-founder Vitalik Buterin expressed concern about the potential risks of superintelligent AI turning against humanity, suggesting that it could lead to complete annihilation. Buterin advocated for a future that preserves \"human\" traits and agency, and disclosed that two of his greatest fears are the stagnation of cryptocurrency and AI-related issues. At the time of writing, ETH was trading at $1,999, down 1.12% in the last 24 hours."
+    },
+    {
+        "id": 51,
+        "title": "Cryptocurrencies Price Prediction: Ripple, Ethereum & Terra Classic \u2014 American Wrap 28 November - FXStreet",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nTerra Luna Classic (LUNC) and Terra Classic USD (USTC) are gaining popularity after a surge in price. Ethereum is experiencing a fear of unstaking due to the Shanghai hardfork. Ripple is pulling higher after a prolonged slump, with a key date approaching for an update on its legal battle with the SEC. The article warns that investing in open markets involves a great deal of risk, and the author and FXStreet are not registered investment advisors."
+    },
+    {
+        "id": 54,
+        "title": "Vitalik Buterin: AI may surpass humans as the 'apex species' - Cointelegraph",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, has expressed concerns that advanced artificial intelligence (AI) could surpass humans and become the next \"apex species\" on Earth. According to Buterin, AI is fundamentally different from other recent inventions as it can create a new type of \"mind\" that can turn against human interests. He cited a survey of machine learning researchers that estimated a 5-10% chance of AI killing humanity. To prevent this, Buterin suggested integrating brain-computer interfaces to offer humans more control over powerful forms of AI-based computation and cognition. He also emphasized the importance of active human intention to take AI in a direction that benefits humanity, rather than relying solely on profit-driven motives. Buterin concluded that humans are the \"brightest star\" in the universe and that technology can expand upon human potential for thousands of years to come."
+    },
+    {
+        "id": 56,
+        "title": "Trending Altcoins before the Crypto Bull Run | Deep Dive into the Top Alt Coins of 2023 including Ethereum, Celestia ... - Finbold - Finance in Bold",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nTrending altcoins in 2023 include ApeMax, Ethereum, Celestia, Skale, Kaspa, Solana, Cardano, and Ripple.\n\nApeMax stands out with its innovative \"Boost-to-Earn\" staking model and immediate token access during its presale.\n\nThe article highlights ApeMax's growing popularity, community engagement, and positive market response.\n\nThe altcoin market is diverse and vibrant, with new tokens offering fresh perspectives and solutions.\n\nIt is important to approach any crypto with caution and thorough research, as all cryptocurrencies carry high risks.\n\nPlease note that the article is not a substitute for professional financial advice, and always check for the most thorough information and compliance requirements on the official websites of the respective coins."
+    },
+    {
+        "id": 58,
+        "title": "Vitalik Buterin To Redesign Ethereum From The Ground Up - Blockzeit",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, plans to redesign the network from the ground up to address performance issues and the heavy reliance on liquid staking in a Proof-of-Stake (PoS) model. He aims to integrate private mempools, ERC-4337 for account abstraction, faster and cheaper smart contract deployment through code precompilation, and rectify the liquid staking issue, which has fallen into the control of a few players. As of writing, Ethereum is trading at $2,024, down 1.6% on the 24-hour timescale with a voluminous transaction noted."
+    }
+]

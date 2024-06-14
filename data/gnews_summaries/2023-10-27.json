@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "title": "Detection of Ponzi scheme on Ethereum using machine learning algorithms | Scientific Reports - Nature.com",
+        "summary": "  The article discusses the detection of Ponzi schemes on Ethereum using machine learning algorithms. The study highlights the growing threat of Ponzi schemes in Nigeria and the need for effective detection methods to prevent investors from falling victim to these scams. The authors use a combination of feature engineering and machine learning algorithms to develop a detection model that can identify Ponzi schemes on Ethereum. They test their model on a large dataset and achieve promising results, demonstrating the potential for the model to detect Ponzi schemes in real-time and reduce investor risks in Nigeria.\n\nThe article begins by summarizing the growth of Ponzi schemes in Nigeria and the devastating effects they have had on investors. The authors emphasize the importance of detecting Ponzi schemes early to prevent investors from losing their savings. They then provide an overview of the machine learning algorithms used in the study, including feature selection optimization methods and large datasets for training the models.\n\nThe authors then delve into the details of their detection model, which involves using machine learning algorithms to analyze the transactions of Ponzi scheme operators on Ethereum. They use a combination of feature engineering techniques, such as text classification and data imbalance"
+    },
+    {
+        "id": 1,
+        "title": "Bitcoin and Ethereum Options Worth $4.5 Billion Set To Expire Today - Yahoo Finance",
+        "summary": "  Today, $4.5 billion worth of Bitcoin and Ethereum options are set to expire, leading to potential increased volatility in the crypto market. As these options reach their expiration date, holders must decide whether to exercise or let them expire worthless, leading to a possible spike in trading volume and activity. This comes after a period of positive price movement for top cryptocurrencies, driving increased options trading. The impact of this historic options expiration will be closely watched by traders and investors."
+    },
+    {
+        "id": 4,
+        "title": "Ethereum\u2019s Dencun Upgrade Is a Step Toward a Scalable Settlement Layer: Goldman Sachs - CoinDesk",
+        "summary": "  Sure, here's a summary of the financial news in less than 256 tokens:\n\nGoldman Sachs says Ethereum's Dencun upgrade is a step towards a scalable settlement layer. Learn more at Consensus 2024, CoinDesk's longest-running event bringing together crypto, blockchain, and Web3 communities. Register and buy passes now at consensus.coindesk.com."
+    },
+    {
+        "id": 5,
+        "title": "How an Ether Futures ETF Works - Investopedia",
+        "summary": "  How an Ether Futures ETF Works:\n\n* Ether futures ETFs are investment funds that track the price of ether, a cryptocurrency used in the Ethereum network.\n* They allow investors to gain exposure to ether without directly holding the cryptocurrency, providing a more regulated and accessible way to invest in ether.\n* Ether futures ETFs hold a portfolio of ether futures contracts traded on exchanges, rather than directly owning ether tokens.\n* Authorized participants (APs) create shares of the ETF and contribute them to the fund in exchange for a basket of ether futures contracts.\n* The ETF shares can be bought and sold on a stock exchange like any other stock.\n* The price of the ETF shares will fluctuate based on the market price of the ether futures contracts held by the ETF.\n* Ether futures ETFs offer a more convenient and regulated way to invest in ether, but they also come with risks, such as volatility and regulatory uncertainty.\n\nKey Takeaways:\n\n* Ether futures"
+    },
+    {
+        "id": 6,
+        "title": "Why Bitcoin, Ethereum, and Dogecoin Surged Higher This Week - The Motley Fool",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nBitcoin, Ethereum, and Dogecoin surged this week, driven by hints of a spot Bitcoin ETF launch. Bitcoin led the pack with a 14.7% gain, followed by Ethereum at 10.4% and Dogecoin at 15.4%. The launch of a spot Bitcoin ETF could bring in institutional investors and drive capital inflows into the sector. Other altcoins may also benefit from the momentum. However, the sustainability of this rally beyond a few days remains uncertain, and investors may want to take a cautious approach."
+    },
+    {
+        "id": 7,
+        "title": "Fireblocks, UniPass Wallet tackle Ethereum ERC-4337 account abstraction vulnerability - Cointelegraph",
+        "summary": "  Fireblocks and UniPass Wallet addressed an account abstraction vulnerability in the Ethereum ecosystem, which could have allowed an attacker to take control of UniPass wallets and drain their funds. The vulnerability was found in hundreds of mainnet wallets and was exploited during a white hat hacking operation to patch the issue. Account abstraction, which allows for a shift in the way transactions and smart contracts are processed, introduces the idea of abstracted accounts that are not tied to a specific private key and can initiate transactions and interact with smart contracts. However, the vulnerability showed that an attacker could gain control of an account by replacing the trusted EntryPoint of the wallet, leading to a full account takeover. Ethereum co-founder Vitalik Buterin has highlighted the challenges in expediting the proliferation of account abstraction functionality, including the need for an Ethereum Improvement Proposal (EIP) to upgrade EOAs into smart contracts and ensure the protocol works on layer-2 solutions."
+    },
+    {
+        "id": 9,
+        "title": "Ethereum Devs Not Ready to Fork Mainnet in 2023 - Unchained - Unchained",
+        "summary": "  Ethereum developers have decided not to proceed with a full client fork on the mainnet in 2023 due to consensus issues on devnets and concerns about the varying levels of work required. The Dencun upgrade, which includes the highly anticipated Proto-danksharding feature, is expected to take place in the latter half of November, although no date has been agreed upon. Execution layer clients are ready to move forward with the fork, while consensus layer client teams have expressed hesitation due to the depth of changes still being pushed in the codebase."
+    },
+    {
+        "id": 11,
+        "title": "Over $4.5B Worth of Bitcoin and Ethereum Options Set to Expire - Watcher Guru",
+        "summary": "  Over $4.5 billion worth of Bitcoin and Ethereum options contracts are set to expire today, with the former surging in price due to ETF hype. Despite a slight drop in both assets, the expiration could lead to a volatile response from the market."
+    },
+    {
+        "id": 13,
+        "title": "What Is Lido Finance, Ethereum's Largest Liquid Staking Project? - Decrypt",
+        "summary": "  Lido Finance is a liquid staking protocol that allows users to stake their Ethereum holdings without having to lock them up for the entire duration of the staking period. Instead, Lido issues a liquid staking derivative (LSD) or liquid staking token (LST) that holds a 1-to-1 price peg with Ethereum. This token can be used for various DeFi purposes, such as minting DAI on Maker or earning extra yield on lending platforms like Aave. Lido Finance operates as an additional layer between users and the Ethereum blockchain, with rigorous onboarding processes for node operators and an insurance fund to protect users from penalties. With Lido, users can participate in Ethereum's staking process without having to hold a large amount of ETH."
+    },
+    {
+        "id": 14,
+        "title": "Crypto Analyst Highlights Diminishing Returns For Bitcoin And Ethereum - Zenger.News",
+        "summary": "  Crypto analyst Guy Turner analyzed the historical gains of Bitcoin and Ethereum using key zones of support and resistance. He found that Bitcoin's gains have diminished over time, with a 3x gain predicted from its current key zone to the next peak. Ethereum is also following a similar pattern, with a 7x gain predicted from its current zone of around $2,500."
+    },
+    {
+        "id": 15,
+        "title": "Ethereum is Facing Crucial Support, Will the ETH Price Hold Above $1750? - Coinpedia Fintech News",
+        "summary": "  Ethereum (ETH) is facing crucial support at $1750 as the bulls and bears battle for control. The price has been violently breaking past resistance levels, but the rising selling pressure could cause notable hindrances. The latest upswing enabled the price to pierce through the pivotal resistance at $1750, but the ongoing retest is encountering challenges in advancing further. The Ethereum funding rates have been positive for some time, indicating bullish sentiment, but a probable correction or reversal could cause a small pullback. The market is due for a consolidation phase, and a flash crash could occur soon."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum Developers Reveal New Timeline for Dencun Upgrade Launch - U.Today",
+        "summary": "  Ethereum developers have revealed a new timeline for the Dencun upgrade launch, with a possible activation on Goerli testnet in late November or early December. A shadow fork of Goerli will be initiated alongside Devnet-11, and two more testnet upgrades are projected to take place on Sepolia and Holesky in early and mid-December, respectively. The mainnet activation of Dencun is likely to occur after the holidays in late December, according to Tim Beiko."
+    },
+    {
+        "id": 17,
+        "title": "South Korean Investors Prefer Altcoins to Majors, Tron to Ethereum: DeSpread Research - CoinDesk",
+        "summary": "  South Korean investors are flocking to altcoins over majors, with Tron surpassing Ethereum in popularity, according to a recent survey by DeSpread Research and CoinDesk. The number of crypto investors in the country has reached 6 million, or 10% of the population, with the majority of them focused on centralized exchanges."
+    },
+    {
+        "id": 19,
+        "title": "Chainlink Jumps 6% While Bitcoin and Ethereum Hold Steady - Decrypt",
+        "summary": "  Chainlink's token (LINK) has surged 6% in the past day, trading at $11.01 with a market capitalization of $6.1 billion. This increase can be attributed to the debut of its Cross-Chain Interoperability Protocol (CCIP) in July, which has gained early adopters such as Avalanche, Ethereum, and DeFi lending protocols. Meanwhile, Bitcoin and Ethereum prices have held steady, with Bitcoin down 4% from its high but still up 14% from last week, and Ethereum down 1.6% but still optimistic about its Dencun upgrade."
+    },
+    {
+        "id": 20,
+        "title": "Ethereum Dencun News: Ethereum Developers Delay the Security Enhancing Dencun Hardfork - CoinGape",
+        "summary": "  Ethereum developers have delayed the Dencun hardfork upgrade due to ongoing consensus issues among client developers. The upgrade, which aims to enhance security for Ethereum's scaling improvement called Proto-Danksharding, has been delayed until further notice. The developers cite persistent consensus issues on ten testnets established to test the upgrade, with some clients expressing reservations about transitioning to a broader test on the Goerli testnet. Meanwhile, the Ethereum scaling project Scroll has seen success, with over $15 million in DeFi TVL."
+    },
+    {
+        "id": 21,
+        "title": "ETH Facing Critical Support at $1750, Will it Hold? (Ethereum Price Analysis) - CryptoPotato",
+        "summary": "  Ethereum's price is facing critical support at $1750 as it continues to surge. The daily chart shows a decisive breakout above $1750 and the 200-day moving average, positioned around $1800. However, the 4-hour chart indicates choppiness and overbought conditions, raising the possibility of a retracement to $1750 or lower."
+    },
+    {
+        "id": 22,
+        "title": "Goldman Sachs Analysis: Ethereum's Path to Scalability - Cryptonews",
+        "summary": "  Goldman Sachs analysis highlights Ethereum's (ETH) Dencun upgrade as crucial for scalability, reducing transaction costs for rollups through proto-danksharding. Dencun will also improve gas fees, network security, and introduce housekeeping updates. Ethereum co-founder Vitalik Buterin acknowledges centralization of nodes as a challenge, with majority of active full nodes run on centralized platforms. To address this, prominent liquid staking providers have implemented self-limit rules to ensure decentralization."
+    },
+    {
+        "id": 23,
+        "title": "US PCE: Bitcoin, Ethereum Retrace Ahead Of Inflation Data; Wall Street Estimates - CoinGape",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nUS PCE inflation data to be released today, expected at 3.4% annual rate and 0.3% monthly basis. Fed Chair Jerome Powell cautious on further tightening, but notes improving labor market and cooling inflation. Wall Street estimates in line with market consensus. Bitcoin and Ethereum retrace ahead of data, BTC down 2% and ETH below $1,800. Meme coins move markets, Pepe Coin rallies 22% in 24 hours."
+    },
+    {
+        "id": 25,
+        "title": "Crypto Price Today: Bitcoin holds $34,000; Ethereum slips below $1,800; most altcoins down - Business Today",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nBitcoin and other cryptos took a breather on Friday before the weekend, with Bitcoin holding around $34,000 and Ethereum slipping below $1,800. Analysts expect buying interest to remain in the digital asset market in the next few days. The crypto fear and greed index is at 70/100, indicating bullish sentiments. UDPN, a system that enables blockchain, stablecoins, and CBDCs to interact like SWIFT, is being tested by Deutsche Bank and Standard Chartered's SC Ventures. Most top crypto tokens were trading lower, with Polkadot and Toncoin down 3% each, while Solana and BNB added 1% each. The global cryptocurrency market cap fell to $1.26 trillion, with total trading volumes down 7%."
+    },
+    {
+        "id": 26,
+        "title": "Polygon Initiates POL Token Upgrade on Ethereum Mainnet - Coinspeaker",
+        "summary": "  Polygon, a blockchain scaling platform, has launched the POL token upgrade on the Ethereum mainnet, replacing the existing MATIC token. The new token allows holders to become validators within the network and earn protocol rewards and transaction fees across multiple chains. Existing MATIC holders have a four-year migration window to transition to POL without any specific actions required. The upgrade includes enhancements to the native gas token system and the Intelligent Bridge MATIC contract, supervised by a decentralized governance structure. Polygon aims to transition its PoS chain to zkRollup, improve scalability and efficiency, and establish a new interoperability standard for its chains. Following the announcement, MATIC experienced a 4% price drop, resulting in a reduced market capitalization of $5.8 billion."
+    },
+    {
+        "id": 27,
+        "title": "Ethereum crosses $1800 as bulls extend control - AMBCrypto News",
+        "summary": "  Ethereum (ETH) surpassed $1800, extending its bullish rally. Supply on exchanges decreased, indicating strong buying pressure. The Relative Strength Index (RSI) reached 74, signaling high buying momentum. The On Balance Volume (OBV) also accelerated the bullish move. Long-term ETH holders (3 months+) are in profit, with 9.2% unrealized gains. Bulls aim to reach $1900, with potential for more profits if Bitcoin (BTC) extends its bullish run."
+    },
+    {
+        "id": 29,
+        "title": "Crypto Trader Takes Another Look at Bitcoin (BTC), Breaks Down Top Ethereum (ETH) Competitor Solana (SOL) - The Daily Hodl",
+        "summary": "  Crypto analyst Rekt Capital is reassessing Bitcoin (BTC) after it failed to reach a range high, suggesting it may not have found its peak yet. He also breaks down Solana (SOL) and identifies a potential support range of $32-$45. BTC is currently worth $33,924, up 14.5% in the past week, while SOL is worth $32.10, up 18.5% in the same time frame."
+    },
+    {
+        "id": 32,
+        "title": "ETH Price | Ethereum Price Prediction: ETH Consolidates Dates Below $1,800 - CoinGape",
+        "summary": "  Ethereum price consolidates gains after a week of ups and downs, with the cryptocurrency trading around $1,781. The price broke out above a falling wedge pattern, which could signal a potential breakout. However, traders are advised to proceed with caution and monitor the Relative Strength Index (RSI) as signs of a pullback are possible. Additionally, the Ethereum community is looking forward to the Dencun upgrade, which is expected to increase the blockchain's scalability and stability."
+    },
+    {
+        "id": 34,
+        "title": "Goldman Sachs: Dencun Upgrade Improves Ethereum Scalability - Bankless Times",
+        "summary": "  Goldman Sachs: Dencun Upgrade Improves Ethereum Scalability - Bankless Times\n\nEthereum's Mainnet will undergo an upgrade called Dencun, which will enhance scalability using rollups, improve security, and optimize gas fees. The upgrade is expected to take place in Q1 next year. Rollups process transactions on a separate chain, then port data back to the main chain at a minimal cost. The Dencun upgrade will also set the infrastructure for future scalability upgrades, including danksharding, which divides the network into shards to increase capacity and throughput. The upgrade will improve network security and optimize gas fees, and will execute important housekeeping updates."
+    },
+    {
+        "id": 35,
+        "title": "Privacy on Ethereum: V. Buterin Supports a Unique Project! - Cointribune EN",
+        "summary": "  Vitalik Buterin, co-founder of Ethereum, invests in Nocturne Labs, a startup aiming to bring private accounts to Ethereum. Nocturne's protocol will provide anonymous crypto transactions on the blockchain, allowing users to keep their cryptocurrency assets confidential. The $6 million funding round was led by Bain Capital Crypto, Bankless Ventures, Robot Ventures, Polychain Capital, and Vitalik Buterin. The initiative aligns with Buterin's approach of expanding Ethereum by all means and integrating various features into the blockchain."
+    },
+    {
+        "id": 36,
+        "title": "Crypto wrap: Bitcoin rallies 14%, Ethereum up 11% amid ETF optimism - Business Standard",
+        "summary": "  Bitcoin surged 14% in a week, reaching its highest level since May 2022, amid optimism around Bitcoin ETFs. Ethereum also gained 11%. Investment firms such as BlackRock and Fidelity have pending applications for Bitcoin ETFs in the US, and a recent court victory for Grayscale Investments has fueled market optimism. However, the market saw a sell-off on Friday due to profit booking. Analysts expect Bitcoin to reach $39,000-$40,000 if it breaks through $35,000, with potential support at $31,000-$32,000. For Ethereum, the $1,740 level may act as a support, and crossing $1,860 could push it towards $2,000."
+    },
+    {
+        "id": 37,
+        "title": "$XRP Price Could Surpass $100 and Has 'No Ceiling', Says Early Ethereum Advisor - CryptoGlobe",
+        "summary": "  Early Ethereum advisor Steven Nerayoff believes XRP has \"no ceiling\" and could surpass $100 in price. He suggests that Ripple's potential to become the global reserve currency could drive up the price of XRP. Nerayoff also notes that a lower XRP price could make Ripple's offering more attractive, but the company is the odds-on favorite to win in a \"network effects\" model."
+    }
+]

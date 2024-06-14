@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Ethereum's 'Shanghai' Upgrade: What Does It Mean for Crypto and Ether? - Bloomberg",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum is set to undergo a technical upgrade on April 12, allowing users to withdraw tens of billions of dollars in Ether. Known as the \"Shanghai\" upgrade, it follows the shift to a less power-hungry process for ordering transactions. Investors burned by recent crypto market turmoil may withdraw their Ether, but the appeal of Ethereum's underlying technology has endured despite a tumble in value during the \"crypto winter\" of 2022."
+    },
+    {
+        "title": "Staked Ethereum Withdrawals Could Take Weeks After Shanghai Upgrade: Analyst - Decrypt",
+        "summary": "  Staked Ethereum withdrawals could take weeks after Shanghai upgrade, according to an analyst at crypto data platform Nansen. The upgrade, which is scheduled for April 12, will allow users to withdraw their staked ETH, but the process may take several weeks to complete due to the high demand. As of now, over 18 million ETH, worth $33.6 billion, has been staked across 564,000 validators. The current annual percentage yield for validators is 4.4%. While the exact timeline for withdrawals is uncertain, it's expected to take several days to process all withdrawals, with demand requests potentially extending the timeline. Institutional staking providers like P2P.org are not expecting a massive withdrawal spike, as many stakers have a high risk tolerance and are willing to hold onto their staked assets for the growth expected from the Ethereum ecosystem and ETH strength over the next year."
+    },
+    {
+        "title": "Building on Linea: A Step-By-Step Guide - hackernoon.com",
+        "summary": "  Sure! Here's a summary of the article in less than 256 tokens:\n\nConsenSys launched Linea, a public testnet for its zkEVM chain, which reduces data storage and processing on blockchains. The testnet allows developers to deploy contracts cheaply and take advantage of Linea's EVM-equivalency."
+    },
+    {
+        "title": "Ethereum's Scaling Race: Which Layer 2 Crypto Is the Best Buy Right Now? - The Motley Fool",
+        "summary": "  Ethereum's scalability issues have led to the development of Layer 2 scaling solutions, which aim to improve transaction speeds and reduce fees. Three front-runners in this space are Arbitrum, Optimism, and Polygon. Each solution has its own strengths and weaknesses, but Polygon stands out due to its partnerships with recognizable brands and verifiable usage. However, Polygon also has higher levels of centralization, which may be a concern for some. Arbitrum and Optimism are also viable options, with Arbitrum gaining ground on Polygon due to its recently released token. Ultimately, the best choice will depend on an individual's priorities and investment goals."
+    },
+    {
+        "title": "Ethereum 're-staking' protocol EigenLayer launches on testnet - Cointelegraph",
+        "summary": "  EigenLayer, a new protocol, has launched on testnet, allowing Ethereum validators and stakers to \"re-stake\" their assets onto other emerging networks. The mainnet launch is expected in Q3, with testing phases beginning on Ethereum's Goerli testing network. The protocol aims to address validator economic incentives and enable restaking of ETH withdrawn from the Beacon Chain following the Shapella upgrade. Backed by major venture firms, EigenLayer aims to become a decentralized marketplace for node operators and validators to earn fees on additional services. With 17.9 million ETH staked on the Beacon Chain, the protocol could potentially incentivize validators and stakers with additional yields, and allow smaller networks to grow securely."
+    },
+    {
+        "title": "Ethereum projects launch MEV Blocker to protect users from high prices: Finance Redefined - Cointelegraph",
+        "summary": "  Ethereum projects launch MEV Blocker to protect users from high prices:\n\n* Over 27 prominent Ethereum projects have joined forces to launch MEV Blocker, a solution to minimize the amount of value extracted from users through maximal extractable value (MEV).\n* MEV is a transaction tax imposed on DeFi users, which can be inflated by MEV bots hijacking transactions.\n\n73.3% of Q1 rug pulls happened on BNB Chain:\n\n* According to a report from blockchain security firm Immunefi, BNB Chain was the king of rug pulls in the first quarter of 2023, with over 73.3% of such scams in the entire crypto ecosystem happening on the network.\n\nNorth Korea and criminals are using DeFi services for money laundering \u2014 US Treasury:\n\n* A new report from the U.S. Department of the Treasury found that actors from North Korea and other criminals may exploit vulnerabilities in DeFi platforms to facilitate money laundering.\n\nArbitrum poses new governance proposals after"
+    },
+    {
+        "title": "Here's how much was lost to crypto hacks and exploits in Q1 2023 - Cointelegraph",
+        "summary": "  Here's the summary in less than 256 tokens:\n\nHackers stole over $320 million in Q1 2023, down from $1.3 billion and $950 million in 2022's first and fourth quarters, respectively. CertiK attributes the low losses to off-chain events, such as Silvergate Bank's issues and USDC's depegging. BNB Chain had the most incidents (139) followed by Ethereum with the highest losses ($221 million). Euler Finance was hacked through a flash loan exploit, but recovered almost 90% of the funds through negotiations. Other hacks have also seen similar recoveries."
+    },
+    {
+        "title": "zkSync Era's 'elegant' fix for 921 ETH 'stuck forever' in smart contract - Cointelegraph",
+        "summary": "  Matter Labs, the team behind zkSync, has confirmed that 921 Ether (ETH) worth $1.7 million is stuck in one of its new smart contracts, GemstoneIDO. The issue was caused by a faulty function in the contract, which could have been prevented if the contract was tested on a testnet first. Matter Labs has apologized for the mistake and assured the community that they will continue to resolve similar issues relentlessly. The incident has raised concerns about the maturity of zkEVMs and the need for proper testing before mainnet launch."
+    },
+    {
+        "title": "All about Cosmos, its latest plans for IBC, and how Ethereum fits the bill - AMBCrypto News",
+        "summary": "  Cosmos is planning to revive its interoperability efforts, focusing on implementing IBC with solidity to connect Ethereum and other blockchains. This move aims to facilitate a smoother flow of value across different networks. Cosmos believes that onboarding Ethereum before executing a global expansion plan will make the IBC more attractive to potential prospects. The article also discusses ATOM's performance, noting that its demand should increase as more blockchains get connected to the Cosmos hub. However, ATOM's volatility remains low, and sentiment remains uncertain."
+    },
+    {
+        "title": "Ethereum Re-Staking Solution EigenLayer Garners Testnet Milestone - CryptoDaily",
+        "summary": "  EigenLayer, a re-staking solution for Ethereum, has launched its testnet with $50 million in funding from high-profile investors. The protocol aims to enable validators and stakers to re-stake their assets onto emerging networks, promoting growth and security while providing additional yields. EigenLayer's primary goal is to address economic incentive issues faced by validators, with a mainnet release anticipated for Q3. Approximately 17.9 million ETH are currently staked on the Beacon Chain, valued at $33.6 billion."
+    },
+    {
+        "title": "EigenLayer Protocol Allows Restaking of Ethereum Assets on Emerging Networks - Cryptopolitan",
+        "summary": "  EigenLayer, a decentralized marketplace for Ethereum node operators and validators, has launched on testnet, allowing for the \"re-staking\" of ETH assets onto other emerging networks. This aims to incentivize validators and stakers with additional yields, and could encourage more participation in the Ethereum network and other networks. The protocol also plans to enable restaking for ETH withdrawn from the Beacon Chain following the Shapella upgrade. With $50 million in funding from prominent venture firms and endorsement from Ethereum co-founder Joseph Lubin, EigenLayer is set to become a decentralized marketplace for validator services."
+    }
+]

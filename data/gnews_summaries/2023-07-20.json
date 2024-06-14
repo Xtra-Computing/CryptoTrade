@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Ancient Ethereum Whale Comes Alive, Moves $116,000,000 in ETH at Over 616,000% Profit - The Daily Hodl",
+        "summary": "  An ancient Ethereum whale has come alive after eight years, moving its entire ETH stash worth $116.9 million at a profit of 616,029%. The whale received 61,216 ETH in 2015 during Ethereum's initial coin offering (ICO) and held onto it until now. The transfer to a cryptocurrency exchange, Kraken, has sparked attention in the crypto community. This is the second time a dormant whale of coins acquired during Ethereum's early days has moved its holdings, with the previous transfer resulting in a 594,000% profit."
+    },
+    {
+        "title": "Ethereum Consolidating For 6 Months. Good Or Bad? - Investing Haven",
+        "summary": "  Ethereum (ETH) has been consolidating for 6 months in a narrow range between 1550 and 1950, which is unusual in crypto terms. The consolidation is orderly and ETH is gathering energy to create bullish momentum at a later point in time. The 50% retracement level is a powerful resistance, but selling pressure is fading. Both BTC and ETH are consolidating below their 50% retracement level, waiting for their turn to create bullish momentum. ETH may break out and reach 2000 USD this summer or fall, but the downside seems contained. Crypto enthusiasts can check out the segment set up for outperformance whenever bullish momentum hits the crypto sector."
+    },
+    {
+        "title": "Introducing Bitrock - A Revolutionary Ethereum IBFT 2.0 Side Chain with Multichain DEX Swap - Yahoo Finance",
+        "summary": "  Bitrock, a new Ethereum side chain, has launched with near-zero native gas fees and lightning-speed block times. It offers a unique multichain DEX swap allowing direct trading of cryptocurrencies on their native chains without gas fees. Bitrock has a total token supply of 100,000,000 and a 4% tax distribution on both buying and selling transactions, with 3% going towards development and 1% towards liquidity. The platform also offers attractive staking opportunities with an impressive APY. Bitrock has a robust ecosystem of tools and services, including a comprehensive Network Explorer, user-friendly Swap/DEX, Token Builder dApp, and vibrant NFT Marketplace. The team behind Bitrock is highly competent and dedicated to pushing the boundaries of Ethereum L2 solutions. For more information, visit the official website at <https://bit-rock.io/>."
+    },
+    {
+        "title": "Polyhedra Network \u2013 Proving full node of Ethereum in ZK - Cointelegraph",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nPolyhedra Network has developed a proof system called deVirgo to prove Ethereum full nodes, which addresses security issues with the current sync committee approach. deVirgo uses a distributed version of the Virgo protocol and parallelizes the GKR protocol, reducing the proof generation time to less than 10 seconds. The system uses zero-knowledge proofs to enable trustless and efficient interoperability between Ethereum and other blockchain networks. Experimental results show that zkBridge can generate Ethereum full-node proofs and verify block headers on other networks within 12 seconds. Polyhedra Network plans to optimize the implementation and add GPU acceleration in the near future."
+    },
+    {
+        "title": "Ethereum whales move 79k ETH to Gate.io and Coinbase - crypto.news",
+        "summary": "  Four large Ethereum (ETH) whales transferred 78,900 coins to Gate.io and Coinbase over the past 24 hours, worth around $150.3 million. This comes as the ETH price declines slightly, falling by 0.23%. The movements follow a dormant ETH wallet containing $116 million moving to Kraken exchange earlier this week."
+    },
+    {
+        "title": "Here\u2019s an EthCC recap for those who couldn\u2019t make it to Paris this year - TechCrunch",
+        "summary": "  Here's a summary of the article in 256 tokens or less:\n\nEthCC, a major European Ethereum conference, took place in Paris this week. Key speakers included Vitalik Buterin, Sriram Krishnan, and Mirela Spasova. Topics discussed included the potential for web3 to fix social media and consumer applications, the launch of Chainlink's Cross-Chain Interoperability Protocol (CCIP), and the plan to decentralize Coinbase's Base layer-2 blockchain. Aave announced the launch of Lens Protocol V2, an upgrade to create a decentralized social networking ecosystem. Electric Capital, a venture firm focused on crypto, blockchain, fintech, and marketplaces, announced a $1 billion fund for crypto investments. The firm's portfolio includes 75 investments in crypto startups."
+    },
+    {
+        "title": "Celo Seeks to Return to The Ethereum Ecosystem: Price Implications for CELO, ETH, and SPCT - Coin Rivet",
+        "summary": "  Celo, an Ethereum-based layer-2 solution, is planning to return to its roots by becoming an Ethereum-based blockchain again. This move has resulted in a 22% increase in value for Celo. Ethereum, on the other hand, has yet to confidently break the $2000 level and is predicted to reach a maximum value of $2500 by 2024. A new blockchain, VC Spectra, is also built on Ethereum and offers a novel crypto-based asset management and trading platform. VC Spectra's token, SPCT, is predicted to increase in value by 81.81% in the next stage of its presale and could reach $0.08 when it launches, representing a 7.27x gain for those buying at $0.011."
+    },
+    {
+        "title": "Ethereum rivals are 'dead on arrival,' says Cumberland's Van Bourg - Blockworks",
+        "summary": "  Ethereum's competitors are struggling, according to Jonah Van Bourg, global head of trading at Cumberland. Despite a positive sentiment in the crypto market, user counts and wallet addresses have plateaued on alternative layer-1 blockchains. Ethereum-based layer-2 solutions, such as Arbitrum and Optimism, are flourishing, with higher total value locked compared to competing chains. Van Bourg believes that the multichain thesis is dead and that Ethereum's dominance will continue. Avi Feldman, head of digital asset trading at GoldenTree, disagrees, arguing that incentive programs will draw value to competing protocols in the next bull cycle. However, Van Bourg questions the advantage of alternative layer-1 blockchains over Ethereum, suggesting that they lack practical use-cases."
+    },
+    {
+        "title": "Bitcoin Miner Hive Is Using Old Ethereum Rigs and AI to Make Ordinals Art - Yahoo Finance",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nCanadian crypto miner HIVE Digital Technologies is exploring the use of Ordinals, a new protocol that allows for the creation of NFT-like assets on Bitcoin. The company plans to use its fleet of data-center-grade Nvidia GPUs to create generative AI art and then inscribe it on the Bitcoin blockchain. HIVE CEO Aydin Kilic described the project as an exercise in technical prowess and a way to showcase the company's core competencies in AI and Bitcoin mining. The initiative is part of HIVE's overall corporate strategy of maximizing resources and exploring alternatives to Ethereum mining after the network shifted to proof-of-stake."
+    },
+    {
+        "title": "Leading Ethereum Layer 2 Project Starknet Announces Appchains Framework - CoinCodex",
+        "summary": "  Starknet, a leading Ethereum layer 2 scalability solution, has announced the Appchain framework, which enables developers to build custom blockchain protocols for specific decentralized applications (dApps). This follows the recent upgrade to the Starknet protocol, which now has the highest transactions-per-second (TPS) compared to all extant layer-2s in the Ethereum ecosystem. Starknet's Appchain infrastructure has been used privately by popular dApps, and the open-sourcing of the Starknet Stack toolkit will make complex dApp ecosystems more widely accessible to the community. Starknet will also launch a token (STRK) for transaction fees, governance, and incentives for developers. The token is rumored to be launched in September 2023, with token allocations already decided by StarkWare. The Ethereum price prediction is bullish, with a 5% upwards move forecasted over the next 5 days."
+    },
+    {
+        "title": "How Ethereum navigated volatility, regulatory fears, and more in Q2 - AMBCrypto News",
+        "summary": "  Ethereum navigated volatility and regulatory challenges in Q2 2023, with growth in market cap dominance, staking, and validators. Despite SEC actions against exchanges, ETH managed to increase its dominance. Tokenomics and base fee burn also contributed to performance, with real yields for validators rising to 6.1%. Staking saw highest-ever net flows, and the number of validators grew by 8.81%. Traders are feeling bullish on ETH's future, indicated by declining put-to-call ratio."
+    },
+    {
+        "title": "Vitalik Buterin unveils the future of Ethereum wallets - Cointribune EN",
+        "summary": "  Vitalik Buterin unveiled a vision for the future of Ethereum wallets at the Ethereum Conference (ETHCC) in Paris, aiming to make managing Ethereum wallets as easy as sending an email. Ethereum developers have been working on account abstraction since 2015, which would replace external wallets with contract-based smart wallets. This development would enable users to store their private keys in smart contracts, making it easier to retrieve them. The latest version, EIP-4337, would introduce non-depository crypto wallets as programmable smart contracts, offering advanced functionalities such as easy wallet recovery, signature-free transactions, and team wallets. This upgrade could catalyze Web3 adoption and simplify crypto wallets for a better user experience."
+    },
+    {
+        "title": "DeFi liquidity protocol adds ConsenSys-developed zkEVM rollup Linea - Cointelegraph",
+        "summary": "  Symbiosis, a decentralized finance liquidity protocol, has added support for Linea, a zkEVM-based scaling solution developed by ConsenSys, to enhance cross-chain swaps. Linea is a developer-ready zkEVM rollup, allowing developers to reuse existing infrastructure for creating multi-asset solutions. This integration has helped Symbiosis scale its transaction throughput by 300% monthly and increase cross-chain trading volume to over $500 million. With the addition of Linea, the protocol expects cross-chain swaps to reach $1 billion in volume in the coming months. Cointelegraph spoke with Symbiosis co-founder Nick Avramov, who believes that ZK-rollups, like Linea, are the true L2 solution and can potentially resolve the cross-chain/multichain dilemma."
+    },
+    {
+        "title": "Floor App Reveals Ethereum NFT Art Drops Exclusively on iOS and Android - Decrypt",
+        "summary": "  Floor, a mobile app that allows users to track their NFT holdings, is launching a new initiative to sell exclusive NFT artwork exclusively through its iOS and Android apps. The app will debut its first drop on July 26, featuring a new work by artist Vinnie Hager, with additional artists lined up for successive weekly drops. Each NFT will be priced between $19.99 and $49.99 and will be sold directly through the app using typical mobile payment methods. The app will also pay a cut of each sale to Apple and Google, but the companies have been working closely with Floor to ensure compliance with their policies. The initiative is aimed at making Web3 adoption more accessible and fun through mobile platforms, where users are already familiar with discovering and transacting in bite-sized snacks."
+    },
+    {
+        "title": "Neon EVM (NEON): Scaling Ethereum DApps on Solana - Bybit Learn",
+        "summary": "  Sure! Here's a summary of the financial news in less than 256 tokens:\n\nNeon EVM (NEON) is scaling Ethereum DApps on Solana through Bybit Learn. New users can grab up to 5,000 USDT in rewards, including a 20 USDT coupon instantly and more bonuses when they sign up today."
+    },
+    {
+        "title": "Crypto Prices Today, July 20: Bitcoin, Ethereum, Binance Down; Polygon, Doge, Ripple Up - News18",
+        "summary": "  Cryptocurrency prices were mixed on July 20, with Bitcoin, Ethereum, and Binance down, while Polygon, Doge, and Ripple were up. The global crypto market capitalization is at $1.25 trillion, with a 0.3% increase. The crypto greed and fear index has jumped 6 points to enter the greed zone. Russia may start testing central bank digital currencies (CBDCs) from August 1, if a bill is signed into effect. Cryptocurrency prices as of 10 am:\n\n* Bitcoin: INR 25,60,243 (-0.86%)\n* Ethereum: INR 1,61,897 (-2.38%)\n* Polygon: INR 65.35 (+0.06%)\n* Doge: INR 6.06 (+0.17%)\n* Tether: INR 85.18 (-0.78%)\n* Ripple: INR 70.77 (+4.50%)\n* Card"
+    },
+    {
+        "title": "46% of Investors Believe Ether Will Outdo Bitcoin, Survey Finds - ZyCrypto",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nA recent survey found that 46% of investors believe Ethereum (ETH) will outdo Bitcoin (BTC) in the future, while 21% think Dogecoin (DOGE) has the best chance. The survey was conducted by CryptoVantage and included 1,000 American respondents.\n\nAdditionally, a report from Fidelity Digital Assets found that Bitcoin and Ethereum have a solid growth path ahead, with Bitcoin up 85% year-to-date and Ethereum up 62%. The report also noted that there has been a net decrease in the supply of Ether since the \"Merge\" in September 2022, indicating less issuance.\n\nThe Ethereum community is also eagerly anticipating several upcoming developments, including the implementation of EIP4844 and the launch of the base mainnet, which are expected to significantly improve the platform's scalability and user experience. These developments are expected to bring millions of additional users to the ecosystem and enable easier onboard"
+    },
+    {
+        "title": "News Explorer \u2014 Floor to Sell Ethereum NFTs Exclusively via iOS, Android Apps - Decrypt",
+        "summary": "  Floor platform to sell Ethereum NFTs exclusively via iOS, Android apps. First drop in Icons Series One collection features artwork by Vinnie Hager. NFTs will be airdropped to buyer's wallet, no network gas fees required."
+    },
+    {
+        "title": "NEAR Foundation signs up to Ethereum Climate platform - CIO News",
+        "summary": "  NEAR Foundation, a non-profit supporting the development of NEAR Protocol, a climate-neutral blockchain, has joined the Ethereum Climate Platform (ECP) to collaborate on sustainability initiatives. NEAR Protocol is 200,000 times more carbon efficient than Bitcoin due to its use of Proof-of-Stake (PoS) instead of Proof-of-Work (PoW). The foundation has also committed to carbon offsetting and reforestation projects to further reduce its environmental impact. The move demonstrates NEAR Foundation's commitment to sustainability and its intention to serve as a model for the broader tech and business community."
+    },
+    {
+        "title": "Eye-Opening DeFi Statistics & Facts for 2023 - Bankless Times",
+        "summary": "  Here are the key statistics and facts from the article:\n\n1. The number of DeFi users in the world is estimated at 4.8 million in 2022.\n2. Ethereum has the highest staked value in DeFi, with 58% of the total.\n3. DeFi's TVL is estimated at $55.9 billion as of November 6, 2022, down from $154 billion in January.\n4. The growth of the DeFi market is estimated to happen at a CAGR of 42.5% until 2030.\n5. There are about one million daily transactions on the Ethereum network, compared to over a billion via credit cards alone.\n6. The most popular DeFi coin as of November 2022 is stETH (or Lido-Staked Ether).\n7. DEXs are the largest DeFi segment, with a market cap share of 44.5%.\n8. The trading volume on decentralized exchanges has reached $952 billion in the last 12 months.\n9. India ranks first in"
+    },
+    {
+        "title": "\u201cParabolic\u201d Signal Suggests Litecoin & XRP Will Lead, While Bitcoin & Ethereum Lag | Bitcoinist.com - Bitcoinist",
+        "summary": "  According to a \"parabolic\" high timeframe signal, Litecoin and XRP could lead the crypto market recovery, while Bitcoin and Ethereum may lag behind. The Parabolic SAR tool indicates that only LTC and XRP have tagged the signal, suggesting that their downtrends have stopped and reversed. This is unusual, as Bitcoin and Ethereum set new all-time highs in 2021, while LTC and XRP suffered a longer drawdown. The tool can be used to set a trailing stop loss for LTC and XRP, with a stop loss order at the SAR indicator."
+    },
+    {
+        "title": "Crypto Investors Speak: 47% Bet On Ethereum's Triumph Over Bitcoin - TronWeekly",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\n47% of crypto investors believe Ethereum will surpass Bitcoin in popularity and value, according to a survey. Long-term investors show a preference for Ethereum over other cryptocurrencies. Despite Bitcoin's dominant position, Ethereum's popularity among investors is due to various reasons. Bitcoin's price returned 6.9% in the last quarter, while Ethereum followed closely with a 6% increase. Institutional investors view Bitcoin as the most promising growth potential, but Ethereum still holds the largest share in their portfolios. Ethereum faces challenges in narrowing the gap with Bitcoin's dominant position."
+    }
+]

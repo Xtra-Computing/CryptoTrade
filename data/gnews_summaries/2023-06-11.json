@@ -1,0 +1,30 @@
+[
+    {
+        "title": "What Is ERC721-C NFT Explained - Which Markets Support It - Milk Road",
+        "summary": "  ERC721-C is an extension of the ERC721 non-fungible token standard on Ethereum that aims to give NFT creators more control and customization over their NFT collections and how royalties are treated. It is opt-in, and individual NFT holders can decide whether or not to adopt it. The new token standard is currently supported on certain NFT marketplaces, but full enforcement of royalties on-chain is still limited under ERC721. ERC721-C aims to change this by allowing creators to incorporate royalty logic directly into smart contract code, giving them more control over royalty settings. This could reduce the influence of marketplaces over royalties and incentivize creators to remain engaged in their projects."
+    },
+    {
+        "title": "Ethereum and digitoads can rally as analysts predict bitcoin to reach $30,000 in June 2023 - crypto.news",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum and DigiToads may rally in 2023 as analysts predict Bitcoin to reach $30,000 in June. Ethereum has a robust smart contract capability and extensive ecosystem, while DigiToads offers a play-to-earn gaming approach with NFTs and community-focused initiatives. Both projects have potential for long-term investment, but investors should conduct thorough research and assess their financial circumstances before making any decisions."
+    },
+    {
+        "title": "How Ethereum has put the DeFi market at risk - AMBCrypto News",
+        "summary": "  Ethereum's recent price drop has put the DeFi market at risk of liquidation, with over $11 million in assets liquidated in the last 24 hours. The total value locked (TVL) in DeFi has also decreased, with Ethereum's TVL losing 4.36% of its smart contract deposits. The DeFi market is experiencing a wave of uncertainty, with most of the liquidation occurring through the MakerDAO protocol. The TVL of Lido Finance, which is under the Ethereum blockchain, continues to lead the pack with a TVL of $12.65 billion. Other projects, including MakerDAO, Curve Finance, and Aave, trailed behind."
+    },
+    {
+        "title": "What Is MEV? Examples & Risks - Milk Road",
+        "summary": "  Maximum Extractable Value (MEV) refers to the incremental revenue that blockchain validators can earn by including, excluding, or reordering transactions before finalizing them.\n\n* MEV has been around since 2014 but gained popularity after the Ethereum \"Merge\" in September 2022.\n* As of May 2023, ~625K ETH of cumulative MEV has been extracted on Ethereum, worth ~$1.2B at $1,850 ETH price.\n* Approximately 70% of MEV was extracted before the \"Merge,\" while 30% was extracted after.\n* MEV bots monitor the pending transaction queue to identify opportunities to generate MEV revenue, and they are programmed to automatically submit transactions on behalf of their operators to capture MEV rewards.\n* Examples of MEV include sandwich attacks, DEX arbitrage, and liquidation attacks, which can result in a degree of risk involved for users.\n* MEV can also lead to network congestion and increase transaction fees for real users, pos"
+    },
+    {
+        "title": "Bitcoin and Ethereum price remains unfazed by US SEC lawsuits - The Siasat Daily",
+        "summary": "  Bitcoin and Ethereum prices have remained relatively stable despite US SEC lawsuits against top crypto exchanges Binance and Coinbase. The SEC has accused these exchanges of offering securities without proper registration, but the prices of these digital assets have only seen a slight decrease of 2-3% over the past week. Industry experts suggest that the SEC's crackdown on cryptocurrency exchanges may have actually benefited Bitcoin, as investors have priced in the regulatory risks. Ethereum prices have gained over 3% in the past week, while other digital assets like Cardano, Solana, and Polygon have held steady or slightly increased in value. Binance.US has transitioned to an all-crypto exchange and denied the SEC's allegations, while Binance has expressed disappointment in the SEC's decision to file a complaint."
+    },
+    {
+        "title": "Elon Musk scam on YouTube! Hackers made $243,000 in a week via Bitcoin, Ethereum! - HT Tech",
+        "summary": "  Elon Musk's YouTube accounts have been hacked, with cybercriminals using them to scam viewers out of $243,000 in Bitcoin and Ethereum. The scammers create fake videos appearing to be Musk's price predictions or views on cryptocurrencies, but the videos are actually promoting fraudulent giveaways. YouTube has removed some of the reported channels, but the issue persists, with many users falling victim to the scams. According to Whale Alert founder Frank van Weert, scammers are still finding success despite fewer victims than last year."
+    },
+    {
+        "title": "Are Avorak AI and Ethereum The Safest Investments For 2023? - Analytics Insight",
+        "summary": "  Avorak AI and Ethereum are considered safe investments for 2023 due to their advanced technology, growing adoption, and potential for disruption in their respective fields. Avorak AI is a cutting-edge AI platform with proprietary algorithms and tools that are gaining traction in various industries. Ethereum is the second-largest cryptocurrency by market capitalization and has established itself as a leader in smart contracts and decentralized applications. Both investments offer opportunities for growth and innovation, but it's important to carefully evaluate the risks and rewards before investing."
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "title": "What Is Wrapped Ethereum (WETH)? A Beginner's Guide - Unchained - Unchained",
+        "summary": "  Wrapped Ethereum (WETH) is an ERC-20 token on the Ethereum blockchain pegged 1:1 to ETH, allowing ETH holders to use their tokens in Ethereum\u2019s decentralized finance market in accordance with the ERC-20 token standard. WETH works by wrapping ETH in an ERC-20 wrapper, which eliminates the need for custom programming to ensure compatibility with ERC-20 contracts. This allows ETH holders to deploy their holdings in decentralized protocols incompatible with ETH, trade and lend in various DeFi protocols, and earn fees on decentralized exchanges without selling their ETH. However, there are risks associated with WETH, such as the need to trust a third party and the target for hackers. Wrapped Ethereum can also be used on other blockchains, and blockchain bridging services can enhance cross-chain interoperability."
+    },
+    {
+        "id": 2,
+        "title": "How to build a DApp on Ethereum - Cointelegraph",
+        "summary": "  How to build a DApp on Ethereum:\n\n* Choose a blockchain: Ethereum is the most popular choice, but consider transaction fees, scalability, security, interoperability, and decentralization.\n* Research and plan: Understand the DApp's purpose, requirements, and goals.\n* Develop a team: Assemble a team with blockchain development, smart contract, and cryptocurrency expertise.\n* Use Ethereum development tools: Utilize Ethereum's Developer Resources, a builders manual for Ethereum, to create a DApp architecture and test it on a blockchain-based testnet.\n* Design and write smart contracts: Expertly design and write smart contracts for the DApp.\n* Test and debug: Test and debug the DApp on the testnet before deployment.\n* Deploy the DApp: Deploy the DApp on the Ethereum mainnet.\n\nCosts:\n\n* Developers with experience may experience lower build costs.\n* Estimates for hiring a DApp developer or team range from $15,000 to $30,000 and up"
+    },
+    {
+        "id": 5,
+        "title": "Investor Demand for Ether Staking Yields Has Slowed: Coinbase - CoinDesk",
+        "summary": "  Investor demand for Ether staking yields has slowed, according to Coinbase. This is despite the growing interest in staking and the upcoming Consensus 2024 conference, where the latest trends and innovations in the crypto and blockchain space will be discussed. To learn more and register for the event, visit consensus.coindesk.com."
+    },
+    {
+        "id": 6,
+        "title": "To enshrine or not to enshrine? Ethereum's existential debate continues - Blockworks",
+        "summary": "  The article discusses the ongoing debate within the Ethereum community over the concept of \"enshrinement,\" which refers to the idea of baking certain elements into the protocol itself rather than leaving them on the periphery. The debate centers around whether more elements should be incorporated into the protocol or kept on the edges, and how this decision will impact the ecosystem's growth and innovation. Some argue that enshrining certain elements will create a more stable and secure environment, while others believe it could stifle competition and innovation. The article highlights the analogy of comparing Ethereum to a government or operating system, and how the balance between centralized control and decentralized innovation is crucial for the ecosystem's success."
+    },
+    {
+        "id": 7,
+        "title": "Six Important Considerations for the Ethereum Price Going in Q4 2023 - CryptoPotato",
+        "summary": "  Here are the six key factors to consider for the near, medium, and long term for the Ethereum price:\n\n1. Low fees are driving Ether inflation, but they may also attract more users and developers to the platform.\n2. The Ether price looks good on 1-year and 5-year charts, but it's down to a 7-month low and there's no telling when it will reach the bottom.\n3. Staking demand has crashed since June, but institutional demand is growing, and Ethereum is more energy efficient and eco-friendly than Bitcoin.\n4. Regulatory threats are a bearish factor, as traditional investing institutions are loathe to make big moves without being sure they won't endanger their relationship with the SEC.\n5. The supply and demand economics of Ether are bullish, as the Federal Reserve may not be able to avoid a policy of monetary expansion, and Bitcoin's halving cycle is about to reach another quadrennial cut in new supply.\n6. The previously mentioned 5-year low ETH levels on crypto exchanges"
+    },
+    {
+        "id": 15,
+        "title": "Ethereum Price Avoids Collapse But Recovery Could Be Capped - NewsBTC",
+        "summary": "  Ethereum price is recovering from a recent drop, but faces resistance at $1,565 and $1,600. If it cannot break above these levels, it could start another decline towards $1,520 and potentially lower. Technical indicators such as MACD and RSI are losing momentum in the bullish zone, but are still above 50, indicating a possible continued uptrend. Major support is at $1,550, and major resistance is at $1,565 and $1,600."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum-Based Altcoin Surges Over 31% in One Day Amid Massive Crypto Whale Accumulation: Lookonchain - The Daily Hodl",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nAn altcoin from the Ethereum ecosystem, Loom Network (LOOM), surged 31% in one day after a large whale, possibly Korean crypto exchange Upbit, accumulated nearly $6 million worth of coins. The whale now holds 47.5% of LOOM's total supply. Another address associated with the 1inch Investment Fund bought stETH and ETH. LOOM is trading at $0.384, up 140% in the last week."
+    },
+    {
+        "id": 18,
+        "title": "Solana, XRP and One Ethereum Rival Leading Institutional Inflows in 2023: CoinShares Data - The Daily Hodl",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nInstitutional investors are favoring Solana, XRP, and Cardano (ADA) over Ethereum (ETH) in 2023, with $59 million, $15 million, and $6 million in inflows, respectively. Bitcoin (BTC) has seen $260 million in inflows, while Ethereum has lost $111 million. XRP has seen 25 weeks of positive inflows from institutions, highlighting the investment community's support. Other altcoins such as Tezos, Litecoin, and Chainlink saw outflows last week."
+    },
+    {
+        "id": 21,
+        "title": "y00ts\u2019 Polygon-Ethereum Transition Commences Strong - NFT Plazas",
+        "summary": "  y00ts, a blue-chip NFT collection, has initiated its transition from Polygon to Ethereum, with 4,600 holders migrating their assets within the first 7 hours. The project is incentivizing early adopters with gas fee coverage and random NFT distributions. y00ts partnered with Wormhole Crypto's cross-chain NFT standard for a safe and effective transition. However, Ethereum validation can take up to an hour, and there is a 30 migration limit per user. y00ts will operate exclusively on the Ethereum network, and staking is not necessary. The project aims to become the leading cross-chain NFT community and scale up through Bitcoin after fulfilling the Polygon and Ethereum transfer."
+    },
+    {
+        "id": 22,
+        "title": "FTX liquidators stake $150M in Ethereum and Solana tokens during weekend - CryptoSlate",
+        "summary": "  FTX liquidators staked $150M in Ethereum and Solana tokens over the weekend, with $30M in Ethereum and $120M in Solana staked through Figment. This allows FTX to earn rewards of up to 7% on its holdings. The move comes as FTX seeks to liquidate up to $100M worth of digital assets weekly, with the ability to increase the limit temporarily. The move also comes amid the ongoing criminal trial of FTX founder Sam Bankman-Fried, who is accused of mishandling FTX customers' funds."
+    },
+    {
+        "id": 25,
+        "title": "Bitcoin, Ethereum, Dogecoin Spike As False BlackRock ETF Rumor Sparks $104M Shorts Liquidation: Analyst Says ... - Nasdaq",
+        "summary": "  Bitcoin, Ethereum, and Dogecoin surged on Monday evening after a false rumor circulated that the Securities and Exchange Commission (SEC) had approved BlackRock's spot bitcoin ETF application. Despite the false news, the cryptocurrency market experienced significant gains, with Bitcoin rising by 4.21%, Ethereum by 1.97%, and Dogecoin by 0.81%. The false rumor led to the liquidation of over $104 million worth of short trading positions, primarily held by traders betting on lower prices. The global crypto market cap currently stands at $1.06 trillion, reflecting an increase of 0.89% in the past 24 hours."
+    },
+    {
+        "id": 26,
+        "title": "Payments shouldn't be handled on the Ethereum and Bitcoin networks | Opinion - crypto.news",
+        "summary": "  Payments on the Ethereum and Bitcoin networks should be handled with caution due to their limitations in transaction processing, volatility, and user experience. While Ethereum has grown popular in the crypto market, its scalability and accessibility issues need to be addressed for widespread adoption. Bitcoin, on the other hand, faces challenges in terms of its decentralized nature and potential for fraud. The future of payments on these networks depends on their ability to address these challenges while offering advantages such as potential profits and anonymity."
+    },
+    {
+        "id": 27,
+        "title": "Ethereum Staking Yields Drop to 3.5%: Is the Party Over? - Coinpedia Fintech News",
+        "summary": "  Ethereum staking yields have dropped from 5% to 3.5%, signaling a potential slowdown in the decentralized finance (DeFi) sector. The Dencun upgrade in the first half of 2024 could renew interest in Ethereum staking, but the current pause in investor interest marks the first time since the Shanghai upgrade in May. Other network metrics, such as mainnet activity and roll-up transactions, remain steady. The global economy may also be impacting the crypto market, with concerns about rising bond yields and Federal Reserve policies affecting investor sentiment."
+    },
+    {
+        "id": 30,
+        "title": "Top Small-Cap Altcoins That Recorded Massive Gains; Will Bitcoin & Ethereum Price Follow? - Coinpedia Fintech News",
+        "summary": "  Top small-cap altcoins have surged in value, with Band Protocol (BAND), Stratis (STRAX), and WazirX (WRX) increasing by over 35% to 40% in the past 24 hours. These gains have been driven by a bullish trend in the crypto markets, with Bitcoin and Ethereum also showing signs of recovery. The authors of the article believe that these small-cap altcoins may continue to rise, potentially reaching higher targets in the near future. The article provides technical analysis of each of these altcoins, highlighting key resistance and support levels, as well as indicators of future price movements."
+    },
+    {
+        "id": 39,
+        "title": "FTX Estate Stakes $122 Million Worth of Solana, $5 Million in Ethereum - Decrypt",
+        "summary": "  FTX's bankruptcy estate has staked approximately $122 million worth of Solana (SOL) tokens and $5 million in Ethereum (ETH) in a staking validator firm. The transaction was tracked through on-chain data and the crypto wallets are identified as Alameda Research wallets, which are associated with FTX's sister trading firm. The staking process involves locking up tokens for a predetermined period in exchange for rewards in the form of additional coins, which plays a vital role in securing proof-of-stake networks. The FTX estate's request for authorization to sell recovered assets, valued at $3.4 billion, was approved last month, with Mike Novogratz\u2019s Galaxy Digital appointed as the investment manager. FTX founder Sam Bankman-Fried, who is currently on trial on fraud charges, was a notable advocate of Solana through Alameda Research, and the company purchased over 50.5 million SOL from the Solana Foundation in 2020-2021, with a portion of that amount locked until 2028."
+    },
+    {
+        "id": 40,
+        "title": "Major Luxury Car Manufacturer Now Accepts Bitcoin, Ethereum, and USDC for Payments - CryptoPotato",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMajor luxury car manufacturer Ferrari has announced that it will now accept Bitcoin (BTC), Ethereum (ETH), and USD Coin (USDC) for payments. This move comes in response to client requests and aims to expand the company's customer base. Ferrari has partnered with BitPay as the payment processor, and customers will not have to pay more or face any fees for using cryptocurrencies. While the impact on the market during bearish periods is uncertain, this move is seen as positive for cryptocurrency adoption."
+    },
+    {
+        "id": 43,
+        "title": "Veteran Trader Peter Brandt Comments on Ethereum (ETH) Chart Pattern - U.Today",
+        "summary": "  Veteran trader Peter Brandt analyzed an Ethereum (ETH) chart and asked his followers if it formed a rising wedge pattern, which is a bearish reversal signal. The chart showed a narrowing price range with higher highs and higher lows, but it may not be a wedge yet as it needs to touch the upper trendline a third time. ETH experienced a seven-month low at $1,520 and total transaction fees reached their lowest levels in years, according to IntoTheBlock. The firm also noted that Ethereum's supply has been rising for the first time since December 2022, contributing to an inflationary trend. As of writing, ETH had rebounded by 1.89% in the last 24 hours to $1,585."
+    },
+    {
+        "id": 45,
+        "title": "Crypto Price Today: Bitcoin regains $27,000; Ethereum holds above $1,550; Altcoins trade up - Business Today",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nBitcoin and other cryptocurrencies are trading up following a court ruling that cleared the way for a Bitcoin ETF in the US. Bitcoin regained $27,000, while Ethereum held above $1,550. Altcoins also traded up, with Tron and BNB gaining 2% each. The global cryptocurrency market cap surged to $1.06 trillion, with total trading volumes increasing 38%. The positive development of Ferrari accepting cryptocurrency as payment for its cars in the US and Europe has contributed to the positive sentiment. Tech View by Giottus Crypto Platform suggests that Solana (SOL) is in an ascending trend with the asset trading above its 50-day simple moving average. The indicator\u2019s bottom line provides support at $19.7 while the upper limit presents a resistance level at $24.5."
+    },
+    {
+        "id": 52,
+        "title": "Uranium Finance hack address moves $3.1m from BNB to Ethereum - crypto.news",
+        "summary": "  A notorious address linked to the 2021 Uranium Finance hack has moved $3.1 million from Binance Smart Chain (BNB) to Ethereum (ETH) and laundered $1.89 million to Tornado Cash. The address now holds over $15 million in BUSD and Wrapped BNB (WBNB) on the BNB Chain, and 824 ETH worth $1.3 million, $12,980 worth of USDC, and $12,487 worth of USDT on the Ethereum network. The hacker has been moving funds in a similar pattern throughout the year, with previous transactions occurring in July, August, and May. The address first moved funds nearly two years after the Uranium Finance hack, which drained $50 million from the protocol."
+    },
+    {
+        "id": 54,
+        "title": "Cardano Founder Sets the Record Straight About XRP Community's Ethereum Conspiracy - U.Today",
+        "summary": "  Cardano founder Charles Hoskinson addressed XRP community conspiracy theories surrounding Ethereum's influence on the SEC's decision to take action against XRP. Hoskinson emphasized the importance of separating fact from conjecture and stressed that there is no evidence of corruption or undue influence. He also expressed a desire for peace with the XRP community and acknowledged XRP's win against the SEC, while addressing frustration with ongoing associations with Ethereum."
+    },
+    {
+        "id": 55,
+        "title": "Ethereum Classic: Should you be bullish on the altcoin? - AMBCrypto News",
+        "summary": "  Ethereum Classic (ETC) could be a good candidate for a bullish bounce as it retested a long-term support range. Despite struggling to secure strong bullish volumes, derivatives demand is showing growth. However, ETC's spot demand is still low, which could result in bearish short-term price action. The cryptocurrency's potential for a bounce and long-term growth is promising, but it's important to note that the current status quo is still within the realm of speculation."
+    },
+    {
+        "id": 56,
+        "title": "EIP-4337 \u2018Smart Accounts\u2019 Surges Rapidly On Ethereum & L2s - Crypto Times",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEIP-4337 'Smart Accounts' is gaining traction on Ethereum and L2s, with over 1 million accounts created and 2.6 million transactions processed. Transactions have risen over 100% in the past 6 months, with a record-breaking 892k transactions in September. The 'Intents' approach is being used to improve Web3 user experience. Smart Accounts are becoming popular within the crypto community, with dominance expected to grow in the coming years."
+    },
+    {
+        "id": 57,
+        "title": "Ethereum DeFi Exchange Uniswap Adds Fees, Sparks Controversy - Decrypt",
+        "summary": "  Uniswap, a popular decentralized exchange, has announced that it will begin charging a fee for using its web app and wallet interfaces. The fee will be 0.15% for certain tokens, including ETH, USDC, and more. The move has sparked controversy, with some arguing that it is a reasonable way for the protocol to generate revenue, while others claim that it is unfair to token holders and could lead to a misalignment of incentives. The fee is set to go live tomorrow, and it remains to be seen how it will impact the use of the Uniswap protocol."
+    },
+    {
+        "id": 59,
+        "title": "Crypto Price Today: Bitcoin nears $28,000; Ethereum rises above $1,550 - The Economic Times",
+        "summary": "  Bitcoin surged near $28,000, while Ethereum rose above $1,550, driven by the SEC's refusal to appeal a court decision regarding a Bitcoin ETF. Other cryptocurrencies also traded higher, with Solana and Tron up to 3%, and Toncoin, XRP, BNB, Litecoin, and Polkadot surging up to 2%. The global cryptocurrency market cap rose 2.6% to $1.08 trillion in the last 24 hours. Ferrari will now accept crypto as payment for its luxury cars in the US, and BitPay will execute these payments. Bitcoin's dominance is currently 50.3%, according to CoinMarketCap, and its volume in the last 24 hours increased 120.4% to $10.94 billion. Bitcoin has been consolidating in a tight range, reflecting uncertainty and reduced interest in Altcoins. The asset has strong support at $25,000 and resistance at $32,500."
+    },
+    {
+        "id": 62,
+        "title": "Crypto prices today: Bitcoin, Ethereum, altcoin rates - 16 Oct, 2023 - latest rates - SAMAA",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nCrypto prices are up today, with Bitcoin and Ethereum maintaining their positions above $27,000 and $15,000 respectively. Other altcoins like Litecoin, Solana, and MultiversX are also seeing gains. Rocket Pool is the biggest loser today, down 5.45%. The global cryptocurrency market cap has reached $1.06 trillion, up 0.85% in the past 24 hours."
+    },
+    {
+        "id": 64,
+        "title": "\u2018Ripple Is The Internet Of Value\u2019 Ethereum Founder Vitalik Buterin Says In Recovered Video | Bitcoinist.com - Bitcoinist",
+        "summary": "  Vitalik Buterin, founder of Ethereum, has been resurfaced in a 2014 video praising Ripple as the \"internet of value.\" Buterin suggests that Ripple's value proposition is more convincing than Ethereum's, which has been at odds with Ripple over regulatory issues. However, some members of the Ripple community have responded to the video, suggesting that Buterin's endorsement may be a tactic to distract from Ethereum's own regulatory issues. Meanwhile, XRP has been recovering in value."
+    }
+]

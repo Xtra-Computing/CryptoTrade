@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0,
+        "title": "A year after the Merge, institutional ETH adoption 'still forthcoming' - Blockworks",
+        "summary": "  A year after Ethereum's Merge, institutional adoption of staking remains limited due to regulatory uncertainty and macroeconomic factors. Despite growth in the segment, only 20-40% of ETH supply is staked, with most institutions waiting for clarity on regulatory requirements and tax guidance. Staking highlights ether's productivity as an asset, but more education is needed to appreciate its long-term growth potential."
+    },
+    {
+        "id": 1,
+        "title": "A Year After Ethereum Merge, Net Supply Down Nearly 300K Ether - CoinDesk",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nEthereum's net supply has decreased by nearly 300,000 ether since its merge a year ago, according to CoinDesk. While the cryptocurrency is not \"out,\" investors should monitor any positive news flow around the EIP-4844 upgrade. The upgrade has led to an increase in Ethereum's monthly transactions from 28 million to 32 million. However, if the upgrade is seen as minimal, the best days for Ethereum may be behind it."
+    },
+    {
+        "id": 3,
+        "title": "Ethereum Merge anniversary \u2014 99% energy drop but centralization fears linger - Cointelegraph",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nEthereum has seen a significant reduction in energy consumption since its transition to proof of stake (PoS) last year, with its energy use dropping by more than 99.9% from the approximately 21 terawatt hours it used while running under proof of work (PoW). The Merge also made Ethereum deflationary, with the number of new Ether issued to secure the network being outpaced by the amount of ETH removed from supply forever. However, the growth of ETH has been slower than expected, and centralization concerns remain, particularly with the rise of liquid staking providers like Lido. Vitalik Buterin has identified six key problems that need to be addressed to ensure Ethereum remains decentralized in the long term, including reducing costs and hardware requirements for node operators and implementing statelessness to remove reliance on centralized servers."
+    },
+    {
+        "id": 4,
+        "title": "One Year After the Merge: Where Does Ethereum Stand? - Decrypt",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum has been in proof-of-stake (PoS) mode for a year now, and there have been significant changes since the transition. The network's energy consumption has decreased by 99.99%, and the amount of Ethereum staked has nearly doubled to 26.5 million tokens worth $43 billion. However, there are concerns about centralization and censorship due to the growth of liquid staking tokens like Lido. The Shanghai upgrade in April enabled staking withdrawals, and the upcoming Dencun upgrade aims to improve Ethereum's scalability. The SEC has been cracking down on crypto exchanges offering staking services, and there is a turf war between the SEC and CFTC over how to classify Ethereum. The merge has also led to a decrease in Ethereum's overall supply, and developers are working on upgrades like proto-danksharding and account abstraction to improve the network's scalability and usability."
+    },
+    {
+        "id": 6,
+        "title": "Ethereum No Longer Top Dog Among Institutional Investors Amidst Fears of Crash to $1,000 - ZyCrypto",
+        "summary": "  Ethereum's popularity among institutional investors has decreased amid fears of a potential price drop to $1,000. According to a report by CoinShares, Ethereum saw an outflow of $4.8 million in the past week, bringing the year's total to $108 million. This is despite the recent approval of an Ethereum ETF application by Ark Invest. The report also highlights that the current ETH price is below the 50-day moving average, which is considered a bearish signal. Other cryptocurrencies are also experiencing losses, contributing to the overall downward trend in the market."
+    },
+    {
+        "id": 7,
+        "title": "Ethereum Blockchain Launches 'Holesky' Test Network, on First Anniversary of Historic 'Merge' - Yahoo Finance",
+        "summary": "  Ethereum developers have launched a new test network called Holesky to improve testing capacity for the main network. Holesky is twice as big as the main network and is expected to become the biggest testnet for Ethereum. The launch of Holesky coincides with the first anniversary of Ethereum's transition to a proof-of-stake blockchain. The testnet will help address scalability problems on the main network by providing a larger and more rigorous testing environment."
+    },
+    {
+        "id": 10,
+        "title": "Hong Kong lawmaker quiets crypto stability concerns raised by Ethereum co-founder - CryptoSlate",
+        "summary": "  Hong Kong lawmaker Johnny Ng has invited Ethereum co-founder Vitalik Buterin to learn about the region's approach to cryptocurrency projects, after Buterin expressed concerns about the stability of Hong Kong's crypto regulatory environment due to its complex relationship with China. Ng reassured Buterin that Hong Kong's policies are stable and go through a thorough consultation process, and explained that the region practices a \"one country, two systems\" policy that allows it to formulate its own policies and welcome global compliance companies. Hong Kong is actively drawing crypto firms to its jurisdiction and has established frameworks for their compliant operations."
+    },
+    {
+        "id": 12,
+        "title": "Ethereum Surges Ahead Of Bitcoin In Active Addresses, What Does This Mean? - NewsBTC",
+        "summary": "  Ethereum has surpassed Bitcoin in terms of daily active addresses, according to on-chain data tracker Santiment. The number of unique addresses on the Ethereum network reached its second-highest daily figure of all time, with 1,089,893 transactions on the network. This is significant as it suggests that Ethereum is catching up with Bitcoin in terms of activity. However, it's worth noting that the spike in active addresses may be due to the rise in popularity of a decentralized finance social media platform on the Ethereum blockchain, and the impact on the price of Ether (ETH) has been minimal. ETH is still struggling to hold above $1,600, with small gains and losses in the last day and week, respectively."
+    },
+    {
+        "id": 13,
+        "title": "Ethereum Blockchain Launches 'Holesky' Test Network, on First Anniversary of Historic 'Merge' - CoinDesk",
+        "summary": "  Ethereum launches 'Holesky' test network to address scaling issues before they occur on mainnet. Holesky is larger than the main Ethereum chain, allowing developers to test and identify potential scaling issues before they become problems on the main network."
+    },
+    {
+        "id": 16,
+        "title": "Ethereum's Hole\u0161ky testnet launch hits a speed bump - Blockworks",
+        "summary": "  Ethereum's Hole\u0161ky testnet launch delayed due to misconfiguration. Hole\u0161ky designed to address goETH supply issues on Goerli testnet, which limited developers' ability to test their applications. New testnet will have a larger capacity than Goerli, allowing for more realistic testing."
+    },
+    {
+        "id": 17,
+        "title": "This Ethereum Network Update Is Extremely Important - U.Today",
+        "summary": "  The latest Ethereum network update, EIP-7514, is a significant development that aims to slow down the rate of staking and give the community more time to deliberate on the best rewards system. The update controls the growth of new validators, preventing an exponential increase that could strain the network. While the update delays the staking process, it also buys time for the community to explore better incentive models. In essence, EIP-7514 acts as a \"pause\" button, allowing the Ethereum community to catch its breath, reassess, and make more informed decisions about the future."
+    },
+    {
+        "id": 18,
+        "title": "3 key Ether price metrics suggest that ETH is gearing up for volatility - Cointelegraph",
+        "summary": "  Ether's price has been facing headwinds, with a critical test at the $1,530 support level and a subsequent 6% recovery. Despite this resurgence, questions remain about whether Ether can climb back to $1,850. Derivatives and network activity may hold the key to this puzzle.\n\nMacroeconomic factors, such as accelerating inflation and the US government's debt surge, could benefit scarce assets like Ether. However, regulatory uncertainty and high network fees are limiting investor appetite. The Ethereum network has seen a decline in smart contract activity, and top DApps have seen an average 26% decrease in active addresses.\n\nVitalik Buterin acknowledges the need for Ethereum to become more accessible for everyday people to run nodes, but does not anticipate a viable solution within the next decade. Ether futures and options show reduced interest from leveraged longs, with a 2.2% annualized premium for Ether futures and a 25% delta skew of -7%. This suggests that professional traders are leaning"
+    },
+    {
+        "id": 19,
+        "title": "Ethereum launches new testnet 'Hole\u0161ky,' allocates 1.6B ETH for devs - Cointelegraph",
+        "summary": "  Ethereum launched a new testnet called \"Hole\u0161ky\" with an initial supply of 1.6B HETH for developers to test staking, infrastructure, and protocol developments. The network is expected to help alleviate the issue of low supply on the Goerli testnet, which had been used for testing but now has too little ETH to handle needs. Hole\u0161ky could see a lot of use as Ethereum devs have an ambitious roadmap ahead, including implementing features to reduce fees and make running a node less expensive."
+    },
+    {
+        "id": 20,
+        "title": "Second-Largest Stablecoin USDC Launches on Ethereum (ETH) Competitor NEAR Protocol (NEAR) - The Daily Hodl",
+        "summary": "  Second-largest stablecoin USDC now on Ethereum competitor NEAR Protocol. USDC issuer Circle says developers can build fast, user-friendly apps with stablecoin on NEAR blockchain. Top crypto exchange Coinbase and Circle co-created USDC in 2018, now bringing operations in-house. NEAR trading at $1.10, up 1.6% in past 24 hours. Project focused on scalability and stability, allowing developers to build decentralized apps at low cost."
+    },
+    {
+        "id": 21,
+        "title": "Ethereum Surpasses Bitcoin with Over 1 Million Daily Active Addresses - CryptoPotato",
+        "summary": "  Ethereum has surpassed Bitcoin in terms of daily active addresses, with 1.03 million active addresses compared to Bitcoin's 743,800. Ethereum's on-chain activity has also seen a surge, with a new all-time high in daily transactions. Despite recent market instability, Ethereum remains an important player in the DeFi ecosystem and smart contract space, with approximately $20 billion in total value locked. However, Ethereum's price is expected to continue its descent in the upcoming weeks, possibly approaching $1.5k."
+    },
+    {
+        "id": 24,
+        "title": "Ethereum (ETH) Faces Sudden $13 Billion Drain - U.Today",
+        "summary": "  Here is a summary of the financial news in less than 256 tokens:\n\nEthereum (ETH) has experienced a $13 billion drain in capital over the past few days, raising concerns about investor sentiment. However, a bullish chart pattern called a \"hammer candle\" has appeared on the weekly chart, which could signal a market bottom and potential turnaround."
+    },
+    {
+        "id": 28,
+        "title": "Nearly 1 Million Ethereum (ETH) Burned Since Merge Update: Details - U.Today",
+        "summary": "  Nearly 1 million Ethereum (ETH) has been burned since the Merge update, which transitioned the network from proof-of-work (PoW) to proof-of-stake (PoS). This represents a decrease of nearly 300,000 ETH in supply. The PoS mechanism burns a percentage of transaction fees, reducing energy requirements by 99.99%. Additionally, 11.6 million ETH has been staked and 362,000 new validators have been added. Despite these positive developments, ETH's price has only increased slightly by 1.9% yearly to $1,621."
+    },
+    {
+        "id": 29,
+        "title": "Is Ethereum\u2019s on-chain activity closing in on its ATH? - AMBCrypto News",
+        "summary": "  Ethereum's on-chain activity has reached its second-highest level ever, with over 1.1 million active addresses participating in transactions on the network. However, the daily trading volume of ETH fell, indicating that most of the activity occurred outside of exchanges. Despite this increase in on-chain activity, network growth decreased, suggesting that new entrants were not the main drivers of the rise in activity. The price of ETH has remained stable, consolidating around $1,600."
+    },
+    {
+        "id": 30,
+        "title": "Ethereum Merge 1-year anniversary: 4 key insights you need to know - Finbold - Finance in Bold",
+        "summary": "  Sure, here's a summary of the article in 256 tokens or less:\n\nEthereum's Merge update, which occurred one year ago, has led to significant changes in the network's tokenomics and cost structure. The update moved Ethereum from a Proof of Work (PoW) to a Proof of Stake (PoS) system, reducing energy consumption and waste by 99%. The Merge also decreased validators' block rewards, impacting ETH's tokenomics. Data from ultrasound.money shows that 980,541 ETH were burned in the past 365 days, resulting in a 0.25% deflation. Ethereum's price has increased by 10% since the Merge, trading at $1,622. However, the long-term effects of the update are still unknown, and investors are advised to exercise caution when investing in cryptocurrencies."
+    },
+    {
+        "id": 33,
+        "title": "XRP Outshines Bitcoin and Ethereum, Becomes Japan\u2019s Preferred Cryptocurrency - Coinpedia Fintech News",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nXRP has become Japan's preferred cryptocurrency, surpassing Bitcoin and Ethereum. This is due to Ripple's strategic partnerships with Japanese companies, such as SBI Holdings. XRP is also gaining popularity in South Korea, where it often outperforms Bitcoin on major exchanges. A recent study found that 25% of respondents in Japan now regard XRP as their preferred cryptocurrency, with Bitcoin having a slight lead at 26% and Ethereum trailing at 9%. XRP's influence extends beyond Japan, solidifying its position as a global player in the cryptocurrency market."
+    },
+    {
+        "id": 37,
+        "title": "What Are Wrapped Tokens? How They Work and What They\u2019re Used For - Decrypt",
+        "summary": "  Wrapped tokens are cryptocurrencies that are pegged to the value of another cryptocurrency, typically stored on a different blockchain. They allow for the transfer of assets between blockchains, enabling interoperability and the use of assets across different platforms. Examples of wrapped tokens include Wrapped Bitcoin (WBTC) and Wrapped Ethereum (WETH). The process of creating and destroying wrapped tokens is called \"minting\" and \"burning,\" respectively. Wrapped tokens are backed by the underlying asset, which is stored in a digital vault, and their value is maintained through smart contracts. The future of wrapped tokens is expected to play a central role in achieving interoperability between different blockchains."
+    },
+    {
+        "id": 38,
+        "title": "Ethereum Puts the Brakes on Staking with EIP-7514; Here\u2019s Why - Coinpedia Fintech News",
+        "summary": "  Ethereum's latest improvement proposal, EIP-7514, aims to slow down the rate of staking on the network to prevent problems such as increased network strain and diluted staking rewards. The proposal has sparked debate in the crypto community, with some in favor of the change and others against it. The Ethereum community is being given time to research and debate the proposal before a decision is made."
+    },
+    {
+        "id": 39,
+        "title": "Cryptocurrencies Price Prediction: Ethereum, Bitcoin & Binance \u2013 European Wrap 15 September - FXStreet",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum marks its first anniversary of the Ethereum Merge, which reduced energy usage by 99.9%. Bitcoin price remains steady despite US CPI announcement, with potential for a short-term recovery rally. Binance US faces accusations of violating a prior consent order from the SEC. BNB price remains unaffected."
+    },
+    {
+        "id": 40,
+        "title": "How Ethereum\u2019s prices reacted after intriguing record-high spike - AMBCrypto News",
+        "summary": "  Ethereum's transactions and active users surged to record highs, with over 1 million active users and over 1.6 million transactions on the same day. However, the number of active users and transactions has since decreased. Despite this, Ethereum's price is on an uptrend, with a four-day consecutive price increase. The exact cause behind the surge in transactions and active users remains unknown."
+    },
+    {
+        "id": 42,
+        "title": "ABN Amro issues 5M euro digital green bond through Polygon-powered Tokeny - Cointelegraph",
+        "summary": "  ABN Amro, a Dutch bank, has issued a 5 million euro digital green bond through Polygon's layer-2 Ethereum scaling technology, in partnership with Tokeny. The bond was issued as an ERC-3643 token and raised funds for real estate investor Vesteda, which plans to use the funds for green finance projects. This marks the first digital bond issuance for ABN Amro, which plans to support multiple offerings in the future. Other mainstream financial institutions, such as Siemens and the European Investment Bank, have also used blockchain technology to issue digital bond offerings for various use cases."
+    },
+    {
+        "id": 43,
+        "title": "Charting a New Path in DeFi: Everlodge (ELDG) Rises, Eclipsing Ethereum (ETH) and Solana (SOL) - The Economic Times",
+        "summary": "  Everlodge (ELDG) is a new DeFi project that is gaining traction and surpassing established giants like Ethereum (ETH) and Solana (SOL) in its presale phase. Everlodge aims to democratize real estate investments by turning high-end properties into divisible NFTs available on the blockchain, making them accessible to a wider range of investors. The project has seen an impressive 80% price surge in its presale and has gained global attention. Meanwhile, Ethereum and Solana are facing challenges, with Ethereum stuck in a price range between $2,000 and $2,100 and Solana experiencing a 40% slide in the past two months. Despite these challenges, experts remain optimistic about the potential of Everlodge and other emerging DeFi projects."
+    },
+    {
+        "id": 44,
+        "title": "Ethereum Founder Buterin Forecasts Blockchain Merge on Sept. 15 - BNN Bloomberg",
+        "summary": "  Ethereum's Merge software upgrade, which will transition the network from proof-of-work to proof-of-stake, is expected to happen around Sept. 15, according to co-founder Vitalik Buterin. The upgrade will change how Ether tokens are minted and transactions are validated. Following a test stage earlier this week, the proof-of-work version of Ethereum now has a limited number of mining slots, making the official network upgrade more likely to occur soon. Tokens developed by other teams to capitalize on the Merge have surged in value over the past month as the upgrade approaches."
+    },
+    {
+        "id": 46,
+        "title": "Sleepdropping scam costs Ethereum users $11.5 million - Cryptopolitan",
+        "summary": "  Here is a summary of the article in less than 256 tokens:\n\nSophisticated scam called \"sleepdropping\" has cost Ethereum users $11.5 million since December 2022. Scammers disguise fraudulent NFTs as legitimate airdrops, reaching over 500,000 addresses. Website deceives users into engaging in risky financial transactions, leading to financial loss. Scammers replicate genuine NFT token as \"badge\" for a supposed airdrop, extending the web of deceit. Smart contracts used to disseminate tokens appear authentic, making it difficult to identify the scam. Research identifies over 100 unique smart contracts connected to the scam. Scam unfolds in three stages: fraudulent airdrop operations, deceptive websites, and malicious contracts that siphon off users' funds."
+    }
+]

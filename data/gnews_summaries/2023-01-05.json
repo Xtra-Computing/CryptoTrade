@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Ethereum (ETH) Developers Proceed With Shanghai Withdrawals Upgrade - Bloomberg",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum developers are moving forward with the Shanghai withdrawals upgrade, aimed to let users withdraw Ether tokens used for the blockchain network. The upgrade was previously scheduled for March, and while some features are being delayed to prioritize quick implementation, the developers are pushing ahead with the main goal."
+    },
+    {
+        "title": "Crypto Corner: How Ethereum is different from Bitcoin - Yahoo Finance",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum co-founder Charles Hoskinson and other experts discuss the differences between Ethereum and Bitcoin. They explore The Merge, ether, and gas in relation to Ethereum. The Merge refers to the upcoming upgrade that will merge the current Ethereum network with the proof-of-stake (PoS) network. Ether is the native cryptocurrency of Ethereum, while gas is the unit of measurement for the computational power required to execute a transaction on the network. The experts highlight the unique features of Ethereum, such as its ability to execute smart contracts and decentralized applications, which set it apart from Bitcoin."
+    },
+    {
+        "title": "Ethereum Investor Turns $7,000 Into $27,000,000 on New Years Eve Trade: On-Chain Data - The Daily Hodl",
+        "summary": "  An Ethereum investor turned $7,000 received in 2014 into $27 million by swapping 22,340 ETH for 20,544.14 WSTETH on the last day of 2022. The investor participated in an Ethereum initial coin offering (ICO) and received 150,000 ETH at the ETH ICO price of around $0.31. The value of the 22,340 ETH at the time would have been around $6,925, and the 20,544.14 WSTETH traded for $27 million. WSTETH is the wrapped version of Lido Staked Ether (STETH), which allows for easier integrations with DeFi protocols. Ethereum is trading at $1,254 and is up over 2% in the past 24 hours, but is still down over 74% from its all-time high."
+    },
+    {
+        "title": "XRP News: Ethereum Flouted SEC Rules With Sales? Ripple Counsel Replies - CoinGape",
+        "summary": "  The US Securities and Exchange Commission (SEC) is focusing on Ripple's XRP sales despite the FTX collapse, according to reports. The SEC believes that Ripple management flouted authority by continuing to sell XRP after a notice to stop. However, the SEC did not take action against the Ethereum foundation despite one sale. Ripple's General Counsel, Stuart Alderoty, responded by stating that the SEC's unelected bureaucrats have unchecked power and are displaying hubris."
+    },
+    {
+        "title": "Litecoin, Dogecoin See Mining Surge After Prices Rise Post-Merge - Blockworks",
+        "summary": "  Sure, here is a summary of the article in less than 256 tokens:\n\nMining activity is surging on proof-of-work blockchains, including Dogecoin, Litecoin, and Syscoin, following Ethereum's switch to proof-of-stake. The increase in mining activity is due to miners switching to these networks, which can be mined efficiently with high-end GPUs. However, it is unlikely that miners are using repurposed GPUs from Ethereum, as the hash rate for these networks has not increased significantly. Instead, miners are buying or selling GPUs and ASICs to mine these networks. The increased mining activity has led to higher hash rates, which can provide more security for these networks. However, the profitability of mining these networks depends on various factors, including energy and equipment expenses, as well as the price of the cryptocurrency."
+    },
+    {
+        "title": "Ethereum Classic eyes the $20 resistance level after its latest rally - CoinJournal",
+        "summary": "  Ethereum Classic (ETC) is the top performer among the top 50 cryptocurrencies by market cap, up 4% in the last 24 hours and 21% in the last week. The broader crypto market is underperforming, but ETC is outperforming other major cryptocurrencies. The technical indicators on the 4-hour chart are bullish, with the MACD line in positive territory and the RSI at 78. ETC could reach the resistance level of $20 and potentially surge above $23 if the rally continues."
+    },
+    {
+        "title": "Ethereum surpasses Bitcoin in transaction volume for the year 2022 - Nairametrics",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum surpassed Bitcoin in transaction volume in 2022, with 408.5 million Ether transactions compared to Bitcoin's 93.1 million. Despite this, Bitcoin retained its crown in terms of online search interest. The Ethereum network averaged around 1.1 million daily transactions, while Bitcoin's network stood at 255,000. Ether's supply has decreased since October 8, 2022, due to the network's deflationary move. The analyst believes that Ethereum's heftier transaction volumes will continue into the new year, with the potential for a \"flippening\" to occur. However, the distance between Ethereum and Bitcoin's transaction volumes may be more significant than currently shown, as layer 2 transactions are not included in the charts."
+    },
+    {
+        "title": "StarkNet overhauls Cairo programming language to drive developer adoption - Cointelegraph",
+        "summary": "  StarkNet, an Ethereum layer-2 scaling platform, has overhauled its in-house Cairo programming language to make Web3 development more accessible to developers. The upgrades to Cairo 1.0 include improved syntax and language constructs, a holistic type system, intuitive libraries, optimized code, and strong typing. The main addition to Cairo's overhaul is Sierra, an intermediate representation layer that enables reverted transactions to be included in StarkNet blocks, protecting against censorship and denial-of-service attacks. Cairo is now the fourth most popular smart contract language by total value locked and is the base of applications that have processed over 300 million transactions and facilitated $790 million worth of trades settled on Ethereum."
+    },
+    {
+        "title": "With 70% ETH stakers at a loss, long-term investors could have reason to worry - AMBCrypto News",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nMore than 70% of Ethereum stakers are currently at a loss, according to data from Hildobby's Dune Analytics. This is a concern for long-term investors, as the Shanghai upgrade could enable unstaking once deployed. The price of ETH has been relatively flat in the daily timeframe, but the RSI metric indicates a positive trend. If the upward momentum continues, ETH could retake the $2,000 area and turn most of the staked ETH into profit. However, holders have been holding at a loss for the past 365 days, with a loss of 27.57%."
+    },
+    {
+        "title": "MyEtherWallet CEO talks about the future of crypto self-custody - Cointelegraph",
+        "summary": "  MyEtherWallet CEO Kosala Hemachandra discusses the future of non-custodial cryptocurrency wallets on the Hashing It Out podcast. The company, which is one of the oldest non-custodial wallets for the Ethereum blockchain, believes in decentralization and self-custody, making it the only proper way to interact with blockchain technology. Despite growing competition, MyEtherWallet has over 3 million monthly users, mainly from the US and Japan. The wallet is adding support for more blockchain networks and recently launched a multichain browser extension. Hemachandra also mentions that MyEtherWallet has no plans to launch its own token, as there are no use cases for it at the moment. The podcast covers new features for decentralized wallets, the popularity of layer-2 platforms, and a multichain future in the blockchain ecosystem."
+    },
+    {
+        "title": "Ethereum Name Service Skyrocket By 2 Million ENS In 2022 - TronWeekly",
+        "summary": "  Sure, here's a summary of the article in less than 256 tokens:\n\nEthereum Name Service (ENS) saw a successful 2022, with over 80% of total domains created since inception registered last year. In May, ENS recorded 64,594 new addresses, likely influenced by low gas fees on the Ethereum network. As of January 2nd, ENS had 2.82 million names registered and 631,393 owners. ENS token is used for transferring ownership of domain names and payment. Ethereum (ETH) saw a 2.65% increase in the past 24 hours and a 4% increase over the past week, but is down 75% from its all-time high. ENS is trading at $11.73, with a 4% and 7.72% increase in daily and weekly charts, respectively."
+    },
+    {
+        "title": "Lido DAO Price Pumps 42% In A Week Ahead of Much-Awaited Ethereum Shanghai Upgrade - Inside Bitcoins",
+        "summary": "  Lido DAO price surged 42% in a week, with a total cumulative gain of 42% in the last seven days. The decentralized autonomous organization (DAO) token supports staking of multiple assets and is trading at $1.35, with a three-week high of $1.45. Investor interest in Lido is growing, with staking deposits for Ethereum (ETH) growing by 0.21% to 4,637,760 in the same period. Staking despots for Polygon (MATIC) increased by 3.32% to 58,025,885, while deposits in Polkadot (DOT) grew by 1.89% to 2,522,827. The release of Ethereum staked in the Beacon chain will encourage other investors to lock up their assets, with liquid staking platforms making up 40% of all staked Ether. Lido DAO is now at the helm of the decentralized finance (DeFi) sector, displacing"
+    }
+]
