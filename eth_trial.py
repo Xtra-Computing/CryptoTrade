@@ -99,13 +99,6 @@ def eth_run(env, base_prompt, memory, starting_state, args):
 
         cur_step += 1
         time.sleep(1)
-    # total_return = state['roi']
-    # returns = np.array(returns) * 100
-    # return_mean = np.mean(returns)
-    # return_std = np.std(returns)
-    # risk_free_rate = 0  # same as sociodojo
-    # sharpe_ratio = (return_mean - risk_free_rate) / return_std
-    # print(f'FINAL return: {total_return*100:.2f}, sharpe ratio: {sharpe_ratio:.2f}, daily return mean: {return_mean:.2f}, daily return std: {return_std:.2f}')
     is_success = total_return > 0.1 # modify sucess condition
     return env_history, is_success
 
@@ -136,25 +129,6 @@ def run_trial(
                 wf.write(f'\n#####\n\nEnvironment #{z}: Success\n\n#####\n')
             continue
 
-#         base_prompt = f"You are now stepping into the shoes of a seasoned Ether (ETH) trader, embarking on a virtual trading challenge. Your goal is straightforward but challenging: maximize your profits from trading ETH over a one-month simulation period, starting from January 1, 2024, to January 31, 2024. This simulation is designed to test your analytical skills, market intuition, and strategic decision-making. Here’s what you need to know:\
-# 1. **Starting Capital:** You begin with a ${info['starting_cash']} cash reserve. Your mission is to grow this initial investment by wisely trading Ether. Success is measured by the total value of your cash and ETH holdings at the end of the simulation.\
-# 2. **Daily Market Data & News:** Every day, you will receive vital market data including ETH's price movements, market cap, and total volume. Additionally, a curated list of news summaries will provide insights into the crypto market's sentiment and potential ETH price drivers.\
-# 3. **Transaction Fees:** Each buy or sell transaction incurs a fee, calculated as a percentage of the transaction value. This simulates real-world trading conditions where fees can impact your trading strategy and profitability.\
-# **Decision-Making Criteria:**\
-# - **Analyzing Market Data with a Nuanced Approach:**\
-#   - Explore various strategies, including the moving averages MA5 and MA20. A buy signal is indicated when MA5 crosses below MA20 and subsequently begins to rise, suggesting an upward trend in ETH’s price. Conversely, a sell signal is suggested when MA5 crosses above MA20 and starts to decline, indicating a potential price drop. It's crucial to utilize these signals as part of a broader analysis, combining them with other market indicators for a well-rounded decision.\
-#   - Instead of defaulting to common responses, you're encouraged to analyze the market data deeply and consider the full spectrum of investment actions. For instance, subtle market movements might warrant precise adjustments in your position, such as investments or sales representing 15%, 35%, or even 85% of your assets, reflecting a granular approach to trading based on nuanced market interpretations.\
-#   - An upward trend in ETH’s price not only suggests a buying opportunity but calls for a tailored decision on how much to invest. Rather than broad strokes like 50% or 100%, consider the exactitude of your confidence in the trend—might 22%, 47%, or 76% of your cash reserve be more appropriate? Similarly, in a downward trend, decide on the precise portion of your ETH holdings to sell—could 18%, 33%, or 88% better reflect your strategic outlook and risk assessment?\
-# - **Interpreting News:**\
-#   - Positive news could bolster confidence in ETH, suggesting a buy signal. The extent of your investment should reflect the perceived impact of the news.\
-#   - Negative news might raise red flags, hinting at a sell action. The proportion of ETH you decide to sell should align with the news' potential negative impact on ETH’s price.\
-# - **Neutral Signals:** In cases of mixed signals or uncertainty, maintaining your position (hold) or making minor adjustments might be prudent.\
-# **Your Daily Decision:**\
-# Every day, you will decide whether to 'buy', 'sell', or 'hold' based on your analysis. Your decision must be quantified as follows:\
-# - **To Buy:** Specify a positive decimal fraction of your remaining cash to invest in ETH, reflecting your confidence and strategy (e.g., 0.25 for 25%).\
-# - **To Sell:** Indicate a negative decimal fraction of your ETH holdings you wish to sell, capturing your strategic decision (e.g., -0.40 for 40%).\
-# - **To Hold:** A decision to hold requires no action but is an active strategy based on your market analysis.\
-# **Precision in Decision:** Ensure your decision is presented as a two-decimal value within the [-1, 1] range. This precision reflects the nuanced analysis and strategic thought behind your decision."
         final_env_history, is_success = eth_run(env, '', env_config["memory"] if use_memory else [], starting_state, args=args)
 
         # update env config

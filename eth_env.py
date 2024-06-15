@@ -191,14 +191,12 @@ class ETHTradingEnv:
         open_price = today['open']
         next_open_price = next_day['open']  # assume today's close = next day's open
         
-        # if 0 < action <= 1 and self.eth_held > 0:  # 1 sell
         if -1 <= action < 0 and self.eth_held > 0:  # -1 sell
             eth_diff = abs(action) * self.eth_held
             cash_diff = eth_diff * open_price
             self.eth_held -= eth_diff
             self.cash += cash_diff
             self.cash -= GAS_FEE * open_price + cash_diff * EX_RATE
-        # if -1 <= action < 0 and self.cash > 0:  # -1 buy
         if 0 < action <= 1 and self.cash > 0:  # 1 buy
             cash_diff = abs(action) * self.cash
             eth_diff = cash_diff / open_price
@@ -224,23 +222,3 @@ class ETHTradingEnv:
     
     def close(self):
         pass
-
-
-if __name__ == "__main__":
-    # args = Namespace(starting_date='2023-02-01', ending_date='2024-02-01')
-    # args = Namespace(starting_date='2023-02-01', ending_date='2023-03-01')
-    args = Namespace(starting_date='2024-01-01', ending_date='2024-02-01')
-    env = ETHTradingEnv(args)
-    ACTIONS = np.arange(-1, 1.1, 0.2).tolist()
-    # ACTIONS = [1]
-    state, reward, done, info = env.reset()
-    print(f"init state: {state}, info: {info}, step: {env.current_step} \n")
-    while not done:
-        action = random.choice(ACTIONS)
-        state, reward, done, info = env.step(action)
-        print(f"Action: {action}")
-        print_state = {k: v for k, v in state.items() if k != 'news'}
-        # print_state['news'] = [{'id': item['id'], 'title': '.', 'summary': '.'} for item in state['news']]
-        print(f"State: {print_state}, reward: {reward}, done: {done}, info: {info} \n")
-    roi = state['roi']
-    print(f"ROI: {roi*100:.2f}%")
