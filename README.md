@@ -119,3 +119,15 @@ We provide an example output of ETH in a bull market condition using GPT-4 after
 
 ## License
 This dataset is under license CC BY-NC-SA.
+
+## Citation
+If you find this repository useful, please cite our paper:
+
+```
+@article{li2024reflective,
+  title={A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading},
+  author={Li, Yuan and Luo, Bingqiao and Wang, Qian and Chen, Nuo and Liu, Xu and He, Bingsheng},
+  journal={arXiv preprint arXiv:2407.09546},
+  year={2024}
+}
+```
