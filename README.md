@@ -124,10 +124,11 @@ This dataset is under license CC BY-NC-SA.
 If you find this repository useful, please cite our paper:
 
 ```
-@article{li2024reflective,
-  title={A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading},
+@inproceedings{li2024cryptotrade,
+  title={CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading},
   author={Li, Yuan and Luo, Bingqiao and Wang, Qian and Chen, Nuo and Liu, Xu and He, Bingsheng},
-  journal={arXiv preprint arXiv:2407.09546},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={1094--1106},
   year={2024}
 }
 ```
